@@ -5,9 +5,30 @@
 
 ## Identidade
 
-- **Nome interno:** O Observador.
-- Nomes alternativos para uso interno: Simeão, Seu Abel, O Homem do Banco, O Conselheiro, O Guardião.
-- **Na narrativa:** nunca aparece como nome próprio fixo. Cada personagem refere-se a ele de forma diferente (*“aquele senhor do banco”*, *“o homem que me ajudou no hospital”*, *“o velho do ônibus”*, *“o desconhecido de olhar calmo”*).
+- **Nome interno canônico (DEC-026):** **Matusalém**.
+- **Nome funcional nos documentos:** O Observador (segue válido).
+- **Na narrativa:** o nome **Matusalém nunca aparece** na obra publicada da Fase 1, exceto se futuramente o autor decidir usar como pista extremamente rara, ambígua ou simbólica.
+- Cada personagem refere-se a ele de forma diferente: *“o homem do casaco cinza”*, *“o homem do banco”*, *“o desconhecido”*, *“o senhor de olhar calmo”*, *“aquele homem”*, *“o homem que parecia sempre estar ali”*, *“o homem que não parecia ter pressa do tempo”*.
+
+## Identidade interna canônica (DEC-031)
+
+> **Para o autor:** Matusalém é um **homem comum usado por Deus**, que se tornou **guardião indireto do Antigo** e possui **ligação antiga com Elias**.
+>
+> **Para a história:** ele permanece mistério.
+> **Para os personagens:** ele parece resposta.
+
+A narrativa **nunca confirma** isso ao leitor. As 5 hipóteses (homem comum / anjo / narrador / guardião / amigo de Elias) seguem convivendo em superfície.
+
+**Regra de ambiguidade:** nenhuma cena deve provar definitivamente que ele é apenas humano; nenhuma cena deve provar definitivamente que ele é sobrenatural.
+
+**Como deve soar ao escrever:**
+- **Não fala como profeta teatral.**
+- Fala como alguém **simples, calmo e antigo**.
+
+Frases-exemplo:
+> *"Às vezes, a gente chega tarde porque queria entender o caminho. Mas tem resposta que só aparece quando a gente para."*
+>
+> *"Eu não trago ninguém de volta, menina. Só lembro alguns de que ainda podem voltar."*
 
 ## Função na série
 
@@ -26,7 +47,7 @@
 ## Sinais recorrentes
 
 - Olhar calmo.
-- Casaco simples.
+- **Casaco cinza-chumbo gasto (DEC-023).** Pode ser descrito como cinza escuro, cinza de chuva, carvão gasto, tecido escurecido pelo tempo — mas **nunca preto absoluto, marrom vivo ou cor marcante**. *O casaco é sempre o mesmo, mas a percepção da cor pode variar conforme luz, clima, memória e ponto de vista.*
 - Caderno pequeno (anota nomes, frases ou orações).
 - Banco no parque.
 - Frase sobre páginas/histórias.

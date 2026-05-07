@@ -77,12 +77,13 @@ Nenhum personagem é totalmente bom ou totalmente mau. Cada um carrega: ferida, 
 |---|---|
 | Idade | 24 |
 | Função | Protagonista do recomeço silencioso |
+| **Talento (DEC-018)** | **Restauração e encadernação artesanal** — vê com os dedos. Habilidade secundária: escrita íntima em cadernos. Passado: dança/vida noturna como **máscara**, não vocação. |
 | **Ferida central** | Tragédia familiar na infância que arrancou a sensação de ser amada e segura |
 | **Mentira interna** | *“Eu sou o pior capítulo da minha história. Não dá pra voltar.”* |
 | **Desejo externo** | Sair da vida que vive — sem saber como |
-| **Necessidade interna** | Aceitar que ainda merece ser olhada como gente |
+| **Necessidade interna** | Aceitar que ainda merece ser olhada como gente; **retomar o dom abandonado** |
 | **Segredo** | A fase de exploração / prostituição; a culpa pelo que fez consigo |
-| Relação com **O Antigo** | Encontra. Recebe a frase-âncora *“Você não é o pior capítulo da sua história.”* Apelido: *“aquela coisa velha.”* Percepção: peso emocional |
+| Relação com **O Antigo** | Encontra. Recebe a frase-âncora *“Você não é o pior capítulo da sua história.”* Apelido: *“aquela coisa velha.”* Percepção: peso emocional **e detalhes físicos** — dedos percebem os três pontos da capa (DEC-024). |
 | Relação com **Elias** | Primeira sombra (L1) — citação rápida, sem peso |
 | Relação com **Personagem Oculto** | Encontro decisivo no parque. Frase do olhar: *“Ele me olhou como se eu ainda fosse gente.”* |
 | Voz interna canônica | Fragmentada, defensiva, em transformação ao longo do livro |
@@ -113,11 +114,12 @@ Nenhum personagem é totalmente bom ou totalmente mau. Cada um carrega: ferida, 
 |---|---|
 | Idade | 35 |
 | Função | Protagonista da fachada que racha |
+| **Profissão (DEC-019)** | **Advogado empresarial** — contratos, crises de reputação, blindagem jurídica de pessoas influentes |
 | **Ferida central** | Vergonha de uma falha real escondida há anos |
-| **Mentira interna** | *“Se eu aparentar perfeição, ninguém vê que sou vazio.”* |
+| **Mentira interna** | *“A verdade é aquilo que eu consigo sustentar sem ser desmentido.”* / *“Ninguém precisa ser inocente. Só precisa parecer limpo.”* |
 | **Desejo externo** | Manter status, reputação, sucesso |
 | **Necessidade interna** | Ser desmontado para voltar a ser inteiro |
-| **Segredo** | A mentira específica que sustenta sua reputação (a definir — depende da profissão) |
+| **Segredo** | Caso antigo escondido — possivelmente ligado a família influente, empresa, casa noturna, hospital, instituição religiosa, mulher vulnerável ou denúncia que nunca avançou. Pode tocar indiretamente Lara, Helena, Elias ou Nina. |
 | Relação com **O Antigo** | Aparece por engano no escritório (L3). Apelido: *“a peça”*. Percepção: incômodo moral |
 | Relação com **Elias** | Primeiro gesto de bondade (L3) — Elias aparece ajudando alguém em silêncio (contradição) |
 | Relação com **Personagem Oculto** | Na porta da igreja, ao meio-dia: *“Ele me desmontou sem levantar a voz.”* |
@@ -246,21 +248,24 @@ Personagens centrais em L10:
 
 ## 3. Quadro emocional — Recorrentes
 
-### 3.1 Personagem Oculto / O Observador
+### 3.1 Personagem Oculto / O Observador / **Matusalém** (DEC-026, interno)
 
 | Atributo | Conteúdo |
 |---|---|
+| **Nome interno (DEC-026)** | **Matusalém** — nunca aparece na narrativa publicada. Funcional: *"O Observador"*. |
+| **Identidade interna (DEC-031)** | **Homem comum usado por Deus + guardião indireto do Antigo + amigo antigo de Elias.** A obra nunca confirma. |
 | Idade | Indefinida (aparência ambígua) |
 | Função | Mistério espiritual / simbólico |
-| **Ferida central** | Indefinida — talvez perda no passado, talvez nenhuma. **A obra nunca confirma.** |
-| **Mentira interna** | Nenhuma visível — ele atravessa a série sem agenda própria explícita |
+| **Casaco (DEC-023)** | **Cinza-chumbo gasto** — cor pode variar na percepção, mas nunca preto absoluto / marrom vivo |
+| **Ferida central** | Indefinida — a obra nunca confirma. (Para o autor, possível perda antiga ligada à promessa.) |
+| **Mentira interna** | Nenhuma visível |
 | **Desejo externo** | Estar onde precisa estar |
 | **Necessidade interna** | Indefinida — não revelada na Fase 1 |
 | **Segredo** | A própria identidade |
-| Relação com **O Antigo** | *“O que precisava chegar.”* Possível guardião / quem direciona o objeto às pessoas certas |
-| Relação com **Elias** | Provável conhecimento antigo / amizade |
+| Relação com **O Antigo** | *“O que precisava chegar.”* Guardião indireto — não controla os encontros, os reconhece |
+| Relação com **Elias** | Amigo antigo / conhecimento de juventude (interno do autor) |
 | Relação com **Personagem Oculto** | Ele mesmo |
-| Voz canônica | Curta, simples, profunda. *“Nem toda porta fechada é castigo. Às vezes é livramento.”* |
+| Voz canônica | Simples, calma, antiga. *Não fala como profeta teatral.* Exemplos: *"Às vezes, a gente chega tarde porque queria entender o caminho. Mas tem resposta que só aparece quando a gente para."* / *"Eu não trago ninguém de volta, menina. Só lembro alguns de que ainda podem voltar."* |
 | Frase-âncora | *“Ninguém sabia quem ele era. Mas todos sabiam como se sentiram depois que ele partiu.”* |
 | Ficha completa | [personagens/recorrentes/personagem-oculto.md](personagens/recorrentes/personagem-oculto.md) |
 
@@ -574,9 +579,9 @@ Personagem Oculto não tem ferida explicada, não tem mentira interna, não tem 
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Tipo definitivo de vida secreta de Elias | L9 + plantio prévio | aberto |
-| 2 | Profissão de Rafael (define a mentira específica) | L3 | aberto |
-| 3 | Talento principal de Lara (canto / dança / composição) | L1 | aberto |
+| 1 | Tipo definitivo de vida secreta de Elias | L9 + plantio prévio | aberto (DEC-017) |
+| 2 | ~~Profissão de Rafael~~ | ~~L3~~ | **✓ DEC-019 — advogado empresarial** |
+| 3 | ~~Talento principal de Lara~~ | ~~L1~~ | **✓ DEC-018 — restauração e encadernação artesanal** |
 | 4 | Profissão de Clara (psicóloga / assistente social / mentora) | L4 | aberto |
 | 5 | Identidade da Mulher da Foto | L7 e L9 | aberto |
 | 6 | Quem entrega o Antigo a Sofia em L8 | L8 | aberto |

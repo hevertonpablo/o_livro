@@ -171,20 +171,34 @@ A charada **não revela** que o Antigo é uma Bíblia. Revela:
 ### 4.1 Princípio
 A **primeira letra** dos títulos de capítulos de um livro pode formar uma palavra-secreta ligada ao tema do livro ou à charada central.
 
-### 4.2 Acróstico planejado por livro
+### 4.2 Acróstico oficial por livro (DEC-028)
 
-| Livro | Palavra-acróstico (sugestão) | Significado interno |
-|--:|---|---|
-| L1 | **PROMESSA** | Lara recebe pela primeira vez algo que parece ter sido guardado para ela |
-| L2 | **RETORNO** | Miguel volta a si mesmo |
-| L3 | **MASCARA** | Rafael e a fachada |
-| L4 | **CUIDAR** ou **REPOUSO** | Clara aprende a receber |
-| L5 | **PERDOAR** ou **MEMORIA** | Helena e a carta |
-| L6 | **REFRAO** ou **FUGA** | Theo e a música |
-| L7 | **VESTIGIO** ou **OLHAR** | Nina investiga |
-| L8 | **ESCOLHA** ou **SEMENTE** | Sofia para |
-| L9 | **PROMESSA** ou **ELIAS** | Verdade revelada |
-| L10 | **CRUZAM** | Convergência |
+| Livro | Palavra-acróstico | Aplicação | Status |
+|--:|---|---|---|
+| **L1** | **RECOMECO** (8 letras) | Capítulos 1–8 (R-E-C-O-M-E-C-O) | **✓ aprovado** |
+| L2 | **CAMINHO** (7 letras) | Capítulos 1–7 | sugestão |
+| L3 | **MASCARA** (7 letras) | Capítulos 1–7 | sugestão |
+| L4 | **CUIDADO** (7 letras) | Capítulos 1–7 | sugestão |
+| L5 | **PERDAO** (6 letras) | Capítulos 1–6 | sugestão |
+| L6 | **RITMO** (5 letras) | Capítulos 1–5 | sugestão |
+| L7 | **VESTIGIO** (8 letras) | Capítulos 1–8 | sugestão |
+| L8 | **LIMITE** (6 letras) | Capítulos 1–6 | sugestão |
+| L9 | **PROMESSA** (8 letras) | Capítulos 1–8 | sugestão |
+| L10 | **CONVERGENCIA** (12 letras) | Capítulos 1–12 | sugestão |
+
+> **Observação:** RECOMECO usa "C" no lugar do "Ç" para fins de acróstico. Os títulos dos capítulos fazem sentido independentemente da palavra que formam.
+
+#### Exemplo de títulos para L1 (provisórios)
+| Cap | Letra | Título provisório |
+|--:|:-:|---|
+| 1 | R | Rua Sem Volta |
+| 2 | E | Entre Luzes Apagadas |
+| 3 | C | Café Frio na Mesa 316 |
+| 4 | O | O Banco da Esquerda |
+| 5 | M | Marcas que Ninguém Vê |
+| 6 | E | Ela Ainda Voltou |
+| 7 | C | Coisas que Quebram em Silêncio |
+| 8 | O | Onde a Voz Falhou |
 
 ### 4.3 Regra
 - A palavra-acróstico **precisa ser invisível** para quem não procura.

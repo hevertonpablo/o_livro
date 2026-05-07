@@ -7,15 +7,35 @@
 
 - **Idade:** 35 anos.
 - **Sexo:** masculino.
-- **Profissão:** advogado, médico, empresário, pastor ou jornalista (a definir).
+- **Profissão (DEC-019):** **advogado empresarial**, especializado em **contratos, crises de reputação e blindagem jurídica de empresas e pessoas influentes**.
 - **Tema principal:** aparência pública e vazio interior.
 - **Pergunta de suspense do livro:** *Qual mentira sustenta sua reputação?*
 
+## A profissão — núcleo do conflito
+
+Atua em **casos discretos**, **negociações sensíveis** e **problemas que pessoas ricas ou poderosas não querem ver expostos**.
+
+- Publicamente: inteligente, elegante, articulado, admirado, **confiável**.
+- Privadamente: já usou sua inteligência para proteger gente errada, calar vítimas, esconder provas ou manipular narrativas.
+
+> Ele vive no limite entre **verdade e versão** · **culpa e defesa** · **justiça e conveniência** · **ética e sucesso** · **imagem pública e bastidores**.
+
+### Mentira interna canônica
+> *“A verdade é aquilo que eu consigo sustentar sem ser desmentido.”*
+>
+> *“Ninguém precisa ser inocente. Só precisa parecer limpo.”*
+
+### Segredo provável
+Ajudou a esconder ou suavizar caso antigo ligado a uma família importante, empresa, casa noturna, hospital, instituição religiosa, acidente, mulher vulnerável ou denúncia que nunca avançou. Pode tocar **indiretamente** Lara, Helena, Elias ou Nina (decisão pendente — DEC-019.1).
+
 ## História de base
 
-Rafael é bem-sucedido por fora, vazio por dentro. Vive uma vida respeitável que esconde crises familiares, orgulho, solidão ou culpa.
+Rafael é bem-sucedido por fora, vazio por dentro. Vive uma vida respeitável que esconde crises familiares, orgulho, solidão e culpa.
 
-É o contraponto a Lara: ela é julgada publicamente pela vida que viveu; ele é admirado, mesmo escondendo falhas sérias.
+É o **contraponto perfeito a Lara:**
+
+> Lara é julgada porque seus erros são visíveis.
+> Rafael é respeitado porque aprendeu a esconder os dele com palavras bonitas.
 
 ## Conflito interno
 
@@ -29,6 +49,7 @@ A imagem pública virou prisão. Cada elogio reforça a impossibilidade de pedir
 - **Como ele chama:** *“a peça”*.
 - **Como percebe:** incômodo moral.
 - O objeto aparece em seu escritório, deixado por engano. Tenta ignorar, mas uma anotação confronta sua hipocrisia.
+- **Plot-hook do advogado:** o objeto pode chegar acompanhado de **uma carta, documento ou fotografia**. Rafael tenta tratar como prova, ameaça ou chantagem — mas percebe que **toca uma culpa que nenhum processo conseguiu enterrar**.
 
 ## Relação com o Personagem Oculto
 

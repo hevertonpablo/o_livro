@@ -1,45 +1,113 @@
 # Bíblia de Continuidade do Autor
 
 > **Documento técnico do autor.** Não confundir com **O Antigo** (objeto da história).
-> Este arquivo é o **controle operacional** da série. Aqui mora a verdade interna do projeto: quem está onde, quando, quem já viu o quê, quais pistas já foram plantadas e quais ainda não podem ser ditas.
+> **Hub do sistema de Bíblias.** Mantém o controle operacional original (linha do tempo, idade por livro, estado de cada livro, decisões pendentes) **e** referencia as 11 bíblias especializadas que vieram depois.
 
-**Última atualização:** 2026-05-06.
+**Última atualização:** 2026-05-07.
 **Status da série:** Fase 1 em planejamento. Nenhum livro escrito ainda.
 
-**Documentos-fonte:**
-- `docs/prd-direcao-literaria.md` — direção oficial.
-- `docs/prd-literario.md` — consolidação anterior.
-- `docs/escopo.md` — brainstorm de origem.
-- `books/personagens/` — fichas individuais.
+---
+
+## Sistema de Bíblias — mapa completo
+
+O projeto opera com **um sistema** de 12 bíblias técnicas. Cada uma tem domínio próprio. Em caso de conflito, **a bíblia especializada prevalece** sobre este documento.
+
+### 12.1 Bíblias estruturais (continuidade)
+| Bíblia | Domínio |
+|---|---|
+| **Esta Bíblia (`biblia-continuidade.md`)** | Hub + linha do tempo + idade por livro + estado dos livros + decisões pendentes |
+| [`biblia-continuidade-personagens.md`](biblia-continuidade-personagens.md) | Quadro emocional dos personagens (cinco peças canônicas) |
+| [`biblia-continuidade-relacoes.md`](biblia-continuidade-relacoes.md) | Quem conhece quem, mentiras, dívidas, pirâmide do conhecimento |
+| [`biblia-continuidade-cenarios.md`](biblia-continuidade-cenarios.md) | Lugares-personagem (parque, cafeteria, hospital etc.) |
+| [`biblia-continuidade-clima.md`](biblia-continuidade-clima.md) | Estações e estados climáticos por cena |
+| [`biblia-continuidade-lugares.md`](biblia-continuidade-lugares.md) | Tipos de lugar (sem nomes — universalidade controlada) |
+| [`biblia-continuidade-objetos.md`](biblia-continuidade-objetos.md) | Todos os objetos por tier |
+| [`biblia-continuidade-horarios.md`](biblia-continuidade-horarios.md) | Períodos do dia e horários canônicos |
+
+### 12.2 Bíblias-mistério (eixos centrais)
+| Bíblia | Domínio |
+|---|---|
+| [`biblia-do-antigo.md`](biblia-do-antigo.md) | Mistério do objeto-mestre |
+| [`biblia-do-personagem-oculto.md`](biblia-do-personagem-oculto.md) | Mistério espiritual / simbólico |
+| [`biblia-de-elias.md`](biblia-de-elias.md) | Mistério humano |
+
+### 12.3 Bíblia do jogo do leitor
+| Bíblia | Domínio |
+|---|---|
+| [`biblia-pistas-codigos-charadas.md`](biblia-pistas-codigos-charadas.md) | 316, charada central, acrósticos, red herrings |
+
+### 12.3.1 Bíblia editorial e visual
+| Bíblia | Domínio |
+|---|---|
+| [`biblia-editorial-visual.md`](biblia-editorial-visual.md) | Tamanho dos livros, capítulos, partes, diagramação, símbolos, ilustrações |
+
+### 12.4 Pastas de fichas individuais
+- [`personagens/`](personagens/) — 46 fichas (protagonistas, recorrentes, apoio, sementes).
+- [`cenarios/`](cenarios/) — 13 fichas de lugares-personagem.
+- [`clima/`](clima/) — 4 estações + 6 estados climáticos.
+- [`lugares/`](lugares/) — 10 tipos de lugar.
+- [`objetos/`](objetos/) — fichas por tier (simbólicos, circulantes, cenário, pessoais, transitórios).
+- [`horarios/`](horarios/) — 7 períodos + horários canônicos.
+
+### 12.5 Documentos-fonte (PRDs)
+- [`docs/prd-direcao-literaria.md`](../docs/prd-direcao-literaria.md) — direção oficial.
+- [`docs/prd-literario.md`](../docs/prd-literario.md) — consolidação anterior.
+- [`docs/escopo.md`](../docs/escopo.md) — brainstorm de origem.
+
+---
+
+## Hierarquia de fontes em caso de conflito
+
+> **Regra absoluta:** ao identificar divergência entre este documento e uma bíblia especializada, **a bíblia especializada vence**.
+
+| Domínio | Fonte autoritativa |
+|---|---|
+| Linha do tempo, idade por livro, estado dos livros, decisões pendentes | **Esta Bíblia** |
+| Quadro emocional / cinco peças dos personagens | `biblia-continuidade-personagens.md` |
+| Relações, mentiras, descobertas | `biblia-continuidade-relacoes.md` |
+| Cenários e mini-elencos por lugar | `biblia-continuidade-cenarios.md` |
+| Clima por cena | `biblia-continuidade-clima.md` |
+| Tipo de lugar (universalidade) | `biblia-continuidade-lugares.md` |
+| Objetos | `biblia-continuidade-objetos.md` |
+| Horários | `biblia-continuidade-horarios.md` |
+| Antigo (forma, trajetória, charada) | `biblia-do-antigo.md` |
+| Personagem Oculto (falas, sinais, aparições) | `biblia-do-personagem-oculto.md` |
+| Elias (versões, pistas, gestos, verdade) | `biblia-de-elias.md` |
+| Sistema de pistas e códigos | `biblia-pistas-codigos-charadas.md` |
+| Tamanho dos livros / diagramação / identidade visual | `biblia-editorial-visual.md` |
 
 ---
 
 ## Como usar este documento
 
-1. **Atualizar a cada capítulo escrito.** Cada cena nova pode mudar idade, presença, pista ou versão de Elias.
-2. **Nunca apagar — riscar.** Se algo mudar, manter o histórico para auditoria interna (`~~texto antigo~~`).
-3. **Status canônico.** Marcar cada item como `[planejado]`, `[plantado]`, `[reinterpretado]` ou `[bloqueado]`.
-4. **Conflitos têm prioridade.** Se uma cena nova contradiz este documento, **investigar primeiro**: ou o documento está desatualizado, ou a cena precisa mudar.
-5. **Regra de ouro:** se está aqui, é a verdade interna. Se não está, ainda não existe.
+1. **Use este como hub.** Comece aqui ao iniciar uma sessão de escrita — daqui se navega para a bíblia certa.
+2. **Atualizar a cada capítulo escrito.** Linha do tempo, idade, estado dos livros e decisões pendentes ficam aqui.
+3. **Nunca apagar — riscar.** Se algo mudar, manter o histórico para auditoria interna (`~~texto antigo~~`).
+4. **Status canônico.** Marcar cada item como `[planejado]`, `[plantado]`, `[reinterpretado]` ou `[bloqueado]`.
+5. **Conflitos têm prioridade.** Se uma cena nova contradiz este documento, **investigar primeiro**: ou o documento está desatualizado, ou a cena precisa mudar.
+6. **Hierarquia de fontes.** Ao identificar divergência entre este documento e uma bíblia especializada, **a bíblia especializada vence** (ver tabela acima).
+7. **Regra de ouro:** se está aqui ou em qualquer bíblia do sistema, é a verdade interna. Se não está, ainda não existe.
 
 ---
 
 ## Sumário
 
-1. [Linha do tempo geral](#1-linha-do-tempo-geral)
-2. [Idade dos personagens por livro](#2-idade-dos-personagens-por-livro)
-3. [Presença dos personagens por livro](#3-presença-dos-personagens-por-livro)
-4. [Matriz de cruzamentos entre capítulos](#4-matriz-de-cruzamentos-entre-capítulos)
-5. [Trajetória do Antigo](#5-trajetória-do-antigo)
-6. [Pistas plantadas](#6-pistas-plantadas)
-7. [Pistas pendentes (ainda não podem ser reveladas)](#7-pistas-pendentes-ainda-não-podem-ser-reveladas)
-8. [Catálogo de falas do Personagem Oculto](#8-catálogo-de-falas-do-personagem-oculto)
-9. [Aparições e sinais do Personagem Oculto](#9-aparições-e-sinais-do-personagem-oculto)
-10. [Versões contraditórias sobre Elias](#10-versões-contraditórias-sobre-elias)
-11. [Personagens-semente para Fase 2](#11-personagens-semente-para-fase-2)
-12. [Charada central — controle por livro](#12-charada-central--controle-por-livro)
-13. [Estado de cada livro](#13-estado-de-cada-livro)
-14. [Decisões pendentes / bloqueios](#14-decisões-pendentes--bloqueios)
+> **Legenda:** ★ seção autoritativa neste documento · ↗ seção espelhada (fonte autoritativa em bíblia especializada).
+
+1. [Linha do tempo geral](#1-linha-do-tempo-geral) ★
+2. [Idade dos personagens por livro](#2-idade-dos-personagens-por-livro) ★
+3. [Presença dos personagens por livro](#3-presença-dos-personagens-por-livro) ↗ `biblia-continuidade-personagens.md`
+4. [Matriz de cruzamentos entre capítulos](#4-matriz-de-cruzamentos-entre-capítulos) ↗ `biblia-continuidade-relacoes.md`
+5. [Trajetória do Antigo](#5-trajetória-do-antigo) ↗ `biblia-do-antigo.md`
+6. [Pistas plantadas](#6-pistas-plantadas) ↗ `biblia-pistas-codigos-charadas.md`
+7. [Pistas pendentes (ainda não podem ser reveladas)](#7-pistas-pendentes-ainda-não-podem-ser-reveladas) ↗ múltiplas
+8. [Catálogo de falas do Personagem Oculto](#8-catálogo-de-falas-do-personagem-oculto) ↗ `biblia-do-personagem-oculto.md`
+9. [Aparições e sinais do Personagem Oculto](#9-aparições-e-sinais-do-personagem-oculto) ↗ `biblia-do-personagem-oculto.md`
+10. [Versões contraditórias sobre Elias](#10-versões-contraditórias-sobre-elias) ↗ `biblia-de-elias.md`
+11. [Personagens-semente para Fase 2](#11-personagens-semente-para-fase-2) ↗ `biblia-continuidade-personagens.md`
+12. [Charada central — controle por livro](#12-charada-central--controle-por-livro) ↗ `biblia-do-antigo.md` + `biblia-pistas-codigos-charadas.md`
+13. [Estado de cada livro](#13-estado-de-cada-livro) ★
+14. [Decisões pendentes / bloqueios](#14-decisões-pendentes--bloqueios) ★ (consolidado neste documento + bíblias especializadas têm decisões próprias)
 
 ---
 
@@ -90,6 +158,8 @@
 
 ## 3. Presença dos personagens por livro
 
+> **Fonte autoritativa:** [`biblia-continuidade-personagens.md` §7](biblia-continuidade-personagens.md#7-matriz-de-aparições-por-livro). Em caso de divergência, a bíblia especializada vence.
+
 > **Códigos de presença:**
 > `P` = Protagonista do livro
 > `R` = Recorrente importante (com cenas)
@@ -138,6 +208,8 @@
 
 ## 4. Matriz de cruzamentos entre capítulos
 
+> **Fonte autoritativa:** [`biblia-continuidade-relacoes.md` §1](biblia-continuidade-relacoes.md#1-matriz-central--quem-conhece-quem) (matriz de conhecimento) e [§12](biblia-continuidade-relacoes.md#12-cruzamentos-canônicos-por-livro) (cruzamentos por livro). Em caso de divergência, a bíblia especializada vence.
+
 > Toda vez que um capítulo se conecta com outro livro, registrar aqui.
 >
 > **Tipos:** `Direto` (mesma cena), `Indireto` (consequência sem encontro), `Objeto` (Antigo migra), `Lugar` (mesmo lugar, livros diferentes), `Evento` (mesmo acontecimento, ângulos diferentes).
@@ -171,6 +243,8 @@ Cenas compartilhadas **não podem contradizer fatos concretos** (data, local, fa
 ---
 
 ## 5. Trajetória do Antigo
+
+> **Fonte autoritativa:** [`biblia-do-antigo.md`](biblia-do-antigo.md) — documento dedicado ao mistério central. Especificamente: §5 (trajetória completa), §6 (fragmentos por livro), §7 (quem tocou). Ver também [`biblia-continuidade-objetos.md` §4.1](biblia-continuidade-objetos.md#41-o-antigo) e [`objetos/simbolicos/o-antigo.md`](objetos/simbolicos/o-antigo.md). Em caso de divergência, **`biblia-do-antigo.md` vence**.
 
 > Quem tocou, quando, em que forma o objeto apareceu, qual fragmento foi revelado.
 >
@@ -206,6 +280,8 @@ Cenas compartilhadas **não podem contradizer fatos concretos** (data, local, fa
 ---
 
 ## 6. Pistas plantadas
+
+> **Fonte autoritativa:** [`biblia-pistas-codigos-charadas.md`](biblia-pistas-codigos-charadas.md) — documento dedicado ao jogo do leitor. Especificamente: §2 (316), §3 (charada central), §4 (acrósticos), §5 (últimas palavras), §6 (frases com variação), §7 (letras iniciais). Em caso de divergência, **a bíblia especializada vence**.
 
 > Toda pista escondida que já foi (ou será) plantada.
 >
@@ -249,6 +325,8 @@ Cenas compartilhadas **não podem contradizer fatos concretos** (data, local, fa
 
 ## 7. Pistas pendentes (ainda não podem ser reveladas)
 
+> **Fonte autoritativa:** [`biblia-pistas-codigos-charadas.md` §15](biblia-pistas-codigos-charadas.md#15-regras-absolutas) (regras absolutas de não-revelação) e [`biblia-do-antigo.md` §14](biblia-do-antigo.md#14-o-que-não-pode-ser-revelado) e [`biblia-do-personagem-oculto.md` §15](biblia-do-personagem-oculto.md#15-o-que-nunca-deve-ser-confirmado). Em caso de divergência, a bíblia especializada vence.
+
 > Pistas e fatos que **já estão decididos internamente**, mas **não podem aparecer** ainda.
 >
 > Cada linha precisa indicar o livro a partir do qual a pista pode entrar — antes disso, é proibida.
@@ -272,6 +350,8 @@ Se uma cena nova revela algo desta tabela **antes** do livro permitido, **a cena
 ---
 
 ## 8. Catálogo de falas do Personagem Oculto
+
+> **Fonte autoritativa:** [`biblia-do-personagem-oculto.md` §7](biblia-do-personagem-oculto.md#7-falas-canônicas) — documento dedicado. Em caso de divergência, **`biblia-do-personagem-oculto.md` vence**.
 
 > Toda frase que pertence ao Personagem Oculto. Importante para manter **voz consistente** entre livros.
 
@@ -311,6 +391,8 @@ Se uma cena nova revela algo desta tabela **antes** do livro permitido, **a cena
 ---
 
 ## 9. Aparições e sinais do Personagem Oculto
+
+> **Fonte autoritativa:** [`biblia-do-personagem-oculto.md`](biblia-do-personagem-oculto.md) — documento dedicado. Especificamente: §4 (sinais recorrentes), §5 (aparições por livro — matriz consolidada), §19 (testemunhas indiretas). Em caso de divergência, **`biblia-do-personagem-oculto.md` vence**.
 
 ### 9.1 Tabela mestre de aparições
 | Livro | Lugar | Como é descrito | Sinal recorrente usado | Quem o vê | Observação |
@@ -356,6 +438,8 @@ Se uma cena nova revela algo desta tabela **antes** do livro permitido, **a cena
 
 ## 10. Versões contraditórias sobre Elias
 
+> **Fonte autoritativa:** [`biblia-de-elias.md`](biblia-de-elias.md) — documento dedicado ao mistério humano. Especificamente: §5 (versões contraditórias — catálogo completo), §6 (quem fala de Elias), §10 (acusações justas vs incompletas). Em caso de divergência, **`biblia-de-elias.md` vence**.
+
 > Toda versão sobre Elias dita por algum personagem. Importante para garantir contradição planejada e revelação justa no Livro 9.
 >
 > **Tons:** `acusador` / `defensor` / `ambíguo` / `admirador` / `indiferente`.
@@ -388,6 +472,8 @@ Se uma cena nova revela algo desta tabela **antes** do livro permitido, **a cena
 
 ## 11. Personagens-semente para Fase 2
 
+> **Fonte autoritativa:** [`biblia-continuidade-personagens.md` §6](biblia-continuidade-personagens.md#6-personagens-semente). Em caso de divergência, a bíblia especializada vence.
+
 > Quem fica com porta aberta. Cada um traz **uma pergunta** que o leitor leva para a Fase 2.
 
 | Personagem | Função na Fase 1 | Pergunta que abre | Pode aparecer em |
@@ -415,6 +501,8 @@ Se uma cena nova revela algo desta tabela **antes** do livro permitido, **a cena
 
 ## 12. Charada central — controle por livro
 
+> **Fonte autoritativa:** [`biblia-do-antigo.md` §11](biblia-do-antigo.md#11-a-charada-central--controle-das-10-linhas) e [`biblia-pistas-codigos-charadas.md` §3](biblia-pistas-codigos-charadas.md#3-a-charada-central--10-linhas). Em caso de divergência, ambas vencem (são consistentes entre si).
+
 > Frase poética em 10 linhas. **Uma linha por livro**, plantada de forma sutil, jamais como bloco fechado.
 
 | Livro | Linha | Vetor de plantio sugerido | Status |
@@ -441,19 +529,21 @@ Quando lidas em sequência (do L1 ao L10), as 10 linhas formam uma confissão po
 ## 13. Estado de cada livro
 
 > **Status:** `planejamento` / `outline` / `rascunho` / `revisão` / `pronto`.
+>
+> **Metas de tamanho:** definidas em [`biblia-editorial-visual.md` §2](biblia-editorial-visual.md#2-tabela-oficial-de-cada-livro).
 
-| Livro | Protagonista | Status | % completo | Próximo marco |
-|---|---|---|--:|---|
-| L1 | Lara | planejamento | 0% | Outline detalhado dos capítulos |
-| L2 | Miguel | planejamento | 0% | — |
-| L3 | Rafael | planejamento | 0% | — |
-| L4 | Clara | planejamento | 0% | — |
-| L5 | Helena | planejamento | 0% | — |
-| L6 | Theo | planejamento | 0% | — |
-| L7 | Nina | planejamento | 0% | — |
-| L8 | Sofia | planejamento | 0% | — |
-| L9 | Elias | planejamento | 0% | Decidir tipo de vida secreta antes de avançar |
-| L10 | Convergência | planejamento | 0% | Depende de L9 |
+| Livro | Protagonista | Capítulos (alvo) | Páginas (alvo) | Status | % completo | Próximo marco |
+|---|---|--:|---|---|--:|---|
+| L1 | Lara | 24 | 240–280 | planejamento | 0% | Outline detalhado dos capítulos |
+| L2 | Miguel | 22 | 220–260 | planejamento | 0% | — |
+| L3 | Rafael | 24 | 240–280 | planejamento | 0% | — |
+| L4 | Clara | 22 | 220–250 | planejamento | 0% | — |
+| L5 | Helena | 24 | 240–280 | planejamento | 0% | — |
+| L6 | Theo | 22 | 220–260 | planejamento | 0% | — |
+| L7 | Nina | 28 | 280–320 | planejamento | 0% | — |
+| L8 | Sofia | 22 | 220–260 | planejamento | 0% | — |
+| L9 | Elias | 30 | 300–350 | planejamento | 0% | Decidir tipo de vida secreta antes de avançar |
+| L10 | Convergência | 32–36 | 320–400 | planejamento | 0% | Depende de L9 |
 
 ---
 
@@ -481,12 +571,37 @@ Bloqueios marcados como `aberto` devem ser resolvidos **antes** de iniciar o ras
 
 ---
 
-## Apêndice — Atalhos para fichas individuais
+## Apêndice — Atalhos para todas as bíblias e pastas
 
-- **Protagonistas:** [`books/personagens/protagonistas/`](personagens/protagonistas/)
-- **Recorrentes:** [`books/personagens/recorrentes/`](personagens/recorrentes/)
-- **Apoio:** [`books/personagens/apoio/`](personagens/apoio/)
-- **Sementes:** [`books/personagens/sementes/`](personagens/sementes/)
+### Bíblias
+- [`biblia-continuidade-personagens.md`](biblia-continuidade-personagens.md) — quadro emocional dos personagens
+- [`biblia-continuidade-relacoes.md`](biblia-continuidade-relacoes.md) — quem conhece quem
+- [`biblia-continuidade-cenarios.md`](biblia-continuidade-cenarios.md) — lugares-personagem
+- [`biblia-continuidade-clima.md`](biblia-continuidade-clima.md) — estações e estados climáticos
+- [`biblia-continuidade-lugares.md`](biblia-continuidade-lugares.md) — tipos de lugar
+- [`biblia-continuidade-objetos.md`](biblia-continuidade-objetos.md) — todos os objetos
+- [`biblia-continuidade-horarios.md`](biblia-continuidade-horarios.md) — períodos do dia
+- [`biblia-do-antigo.md`](biblia-do-antigo.md) — mistério do objeto-mestre
+- [`biblia-do-personagem-oculto.md`](biblia-do-personagem-oculto.md) — mistério espiritual
+- [`biblia-de-elias.md`](biblia-de-elias.md) — mistério humano
+- [`biblia-pistas-codigos-charadas.md`](biblia-pistas-codigos-charadas.md) — jogo do leitor
+- [`biblia-editorial-visual.md`](biblia-editorial-visual.md) — tamanho, capítulos, diagramação, símbolos
+
+### Pastas de fichas
+- **Protagonistas:** [`personagens/protagonistas/`](personagens/protagonistas/)
+- **Recorrentes:** [`personagens/recorrentes/`](personagens/recorrentes/)
+- **Apoio:** [`personagens/apoio/`](personagens/apoio/)
+- **Sementes:** [`personagens/sementes/`](personagens/sementes/)
+- **Cenários:** [`cenarios/`](cenarios/)
+- **Clima:** [`clima/`](clima/)
+- **Lugares:** [`lugares/`](lugares/)
+- **Objetos:** [`objetos/`](objetos/)
+- **Horários:** [`horarios/`](horarios/)
+
+### Documentos-fonte (PRDs)
+- [`docs/prd-direcao-literaria.md`](../docs/prd-direcao-literaria.md)
+- [`docs/prd-literario.md`](../docs/prd-literario.md)
+- [`docs/escopo.md`](../docs/escopo.md)
 
 ## Apêndice — Termos oficiais (referência rápida)
 

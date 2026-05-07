@@ -80,19 +80,24 @@ Cada personagem o percebe **um pouco diferente** (idade, presença, voz). Mas ce
 
 ## 1. Identidade canônica
 
-### 1.1 Nome interno
-**O Observador.** Nome de uso interno do autor — **nunca aparece** como nome próprio na narrativa.
+### 1.1 Nome interno (DEC-026 — aprovado)
+**Matusalém.** Nome canônico interno do autor.
+- **Funcional nos documentos:** "O Observador" (segue válido).
+- **Na narrativa publicada da Fase 1:** o nome **Matusalém nunca aparece**, exceto se futuramente o autor decidir usar como pista extremamente rara, ambígua ou simbólica.
 
-### 1.2 Nomes alternativos para uso interno
-- Simeão (peso bíblico — espera, promessa)
-- Seu Abel (humano, simples)
-- O Homem do Banco
-- O Conselheiro
-- O Guardião
-- Enoque (bíblico, misterioso)
-- Natanael (espiritual)
+### 1.2 Justificativa da escolha
+Matusalém é o nome bíblico do homem que viveu mais tempo. Ressoa simbolicamente com a presença atemporal do personagem, sem que a obra precise confirmar nada sobrenatural.
 
-> **Decisão pendente:** o autor pode adotar um nome interno fixo para coerência de voz. Sugestão forte: **Simeão** ou **Seu Abel**.
+### 1.3 Identidade interna canônica do autor (DEC-031 — aprovado)
+> **Combinação aprovada:** **Homem comum usado por Deus** + **Guardião indireto do Antigo** + **Amigo antigo de Elias**.
+>
+> Para o autor, Matusalém é humano. Para a história, ele permanece mistério. Para os personagens, ele parece resposta.
+
+A narrativa **nunca confirma**. As 5 hipóteses (homem comum / anjo / narrador / guardião / amigo de Elias) seguem convivendo em superfície.
+
+**Hipóteses descartadas como base autoral** (mas ainda permitidas como hipóteses do leitor):
+- **Anjo disfarçado** — risco de tornar a escrita sobrenatural demais.
+- **Narrador oculto da série** — risco literário desnecessário.
 
 ### 1.3 Como aparece na narrativa
 **Sem nome próprio.** Cada personagem refere-se a ele de forma diferente:
@@ -111,7 +116,7 @@ Cada personagem o percebe **um pouco diferente** (idade, presença, voz). Mas ce
 | Postura | Tranquila, sem urgência |
 | Olhar | **Calmo** — não julga, parece conhecer a dor |
 | Voz | Baixa, simples, sem pressa |
-| Casaco | Simples, tom terra (cor a definir) |
+| Casaco | **Cinza-chumbo gasto** (DEC-023). Variável: cinza escuro / cinza de chuva / carvão gasto / tecido escurecido. **Nunca** preto absoluto, marrom vivo ou cor marcante. |
 | Caderno | Pequeno, com lápis sempre |
 | Detalhes pessoais (relógio, anel, óculos) | **Nenhum.** Sem marcas de identidade |
 
@@ -693,9 +698,9 @@ Frase pequena. Gesto pequeno. Peso pelo acúmulo.
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Nome interno fixo (Simeão? Seu Abel? outro?) | coerência de voz | aberto |
-| 2 | Cor canônica do casaco | toda a série | aberto |
-| 3 | Letra do caderno = letra das margens do Antigo? | mistério final | aberto |
+| 1 | ~~Nome interno fixo~~ | ~~coerência de voz~~ | **✓ DEC-026 — Matusalém** |
+| 2 | ~~Cor canônica do casaco~~ | ~~toda a série~~ | **✓ DEC-023 — cinza-chumbo gasto** |
+| 3 | Letra do caderno = letra das margens do Antigo? | mistério final | aberto (DEC-021) |
 | 4 | Aparece como criança / jovem em algum flashback? | L9 | aberto |
 | 5 | Imagem do casaco no banco vazio: L1, L7, L10 ou outro padrão? | continuidade | aberto |
 | 6 | Quem entrega o Antigo a Sofia (L8) — é ele? | L8 | aberto |
@@ -706,7 +711,7 @@ Frase pequena. Gesto pequeno. Peso pelo acúmulo.
 | 11 | Frases para alocar (§7.2): em qual livro, dito por ele? | a alocar | aberto |
 | 12 | A pétala / vento / cheiro residual em L10 — qual sinal predomina? | L10 | aberto |
 
-> **Regra de fechamento:** decisões 1, 2 e 3 são **críticas** — afetam todos os livros. Resolver antes do L1 entrar em rascunho.
+> **Regra de fechamento:** decisões 1 e 2 já resolvidas. A decisão 3 (letra A=B=C) segue como bloqueador grande para o L5+.
 
 ---
 

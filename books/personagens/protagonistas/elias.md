@@ -45,6 +45,18 @@ A escolha definitiva é decisão editorial a fixar antes da redação do Livro 9
 4. **Espiritual** — intercessão, jornada profunda com Deus.
 5. **Identidade** — não é quem todos pensam (parente oculto, herdeiro, sobrevivente, autor de cartas anônimas, guardião do Antigo).
 
+## Tipo de vida secreta de Elias
+
+Elias viveu uma vida secreta de sacrifício, culpa e missão silenciosa.
+
+Publicamente, foi lembrado por muitos como um homem ausente, frio, covarde ou responsável por feridas antigas.
+
+Secretamente, dedicou anos a reparar um erro do passado, ajudando pessoas em silêncio, conduzindo fragmentos do Antigo, deixando cartas, protegendo nomes, escondendo verdades e tentando cumprir uma promessa que poucos conheciam.
+
+Sua vida secreta não o torna inocente de tudo. Elias errou, omitiu, fugiu e feriu pessoas. Porém, também carregou sozinho um peso que outros nunca compreenderam.
+
+O Livro 9 revela que Elias não era o homem que todos julgavam, mas também não era o homem que ele mesmo tentou parecer. Ele era alguém tentando transformar culpa em cuidado, ausência em proteção e silêncio em promessa.
+
 ## Relação com o Antigo
 
 - **Como ele chama:** *“aquilo que eu não consegui destruir”*.

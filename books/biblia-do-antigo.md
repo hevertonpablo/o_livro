@@ -95,9 +95,30 @@ Sem amuleto, sem milagre automático, sem "abrir e ser salvo".
 | Margens | Anotações manuscritas em diferentes letras |
 | Marcas físicas | Capa gasta nas pontas; lombada com vinco; possível mancha |
 | Cheiro | Papel antigo |
-| Marca distintiva | Símbolo ou letra apagada na capa (a definir) |
+| Marca distintiva (DEC-024) | **Três pontos quase apagados, formando um triângulo imperfeito.** Podem parecer pequenas depressões, marcas de tinta antiga, furos, queimaduras ou pontos escurecidos. **Nunca descrita como símbolo religioso explícito.** |
 
-### 1.3 Frases-base canônicas
+### 1.3 A marca dos três pontos (DEC-024)
+
+**Três pontos quase apagados, formando um triângulo imperfeito** na capa do Antigo.
+
+A marca está tão desgastada que **alguns personagens não percebem**. Outros veem apenas três pequenas depressões, marcas de tinta antiga, furos, queimaduras ou pontos escurecidos no material.
+
+**Múltiplas leituras possíveis** (todas convivem sem confirmação):
+| Possível leitura | O que sugere |
+|---|---|
+| Três promessas | Liga ao mistério do 316 |
+| Três pessoas originais | Elias, Samuel e outra pessoa |
+| Três caminhos | Cada vida escolhendo uma direção |
+| Três tempos | Passado, presente, futuro |
+| Três marcas de desgaste | Pode parecer apenas dano antigo |
+| **Três pontos de uma costura** | **Liga à restauração/encadernação de Lara (DEC-018)** |
+| Três vidas cruzadas | Eco visual do tema da série |
+
+**Regra narrativa:** a marca **nunca deve ser explicada diretamente** nos primeiros livros. Aparece como detalhe visual recorrente, percebido de formas diferentes por personagens diferentes.
+
+**Conexão com Lara:** graças ao talento de restauração e encadernação artesanal (DEC-018), Lara pode ser a **primeira a contar os pontos** com os dedos. Pode notar a profundidade desigual. Pode reconhecer que **são pontos de costura antigos**, não dano natural.
+
+### 1.4 Frases-base canônicas
 - *Ninguém sabia ao certo de onde ele vinha. Mas todos que o abriam encontravam algo que parecia já estar esperando por eles.*
 - *Ele não mudava destinos. Apenas colocava cada pessoa diante da escolha que vinha evitando.*
 - *O objeto não era apenas aquilo que passava de mão em mão. Era aquilo que permanecia depois que cada pessoa o deixava ir.*
@@ -581,8 +602,8 @@ Mesmo que o leitor decifre que é uma Bíblia, o **sentido** é maior — e o li
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Cor canônica da capa do Antigo | toda a série | aberto |
-| 2 | Símbolo / letra apagada na capa | L1 plantio | aberto |
+| 1 | Cor canônica da capa do Antigo | toda a série | aberto (preto envelhecido / marrom muito escuro / bordô gasto) |
+| 2 | ~~Símbolo / letra apagada na capa~~ | ~~L1 plantio~~ | **✓ DEC-024 — três pontos / triângulo imperfeito** |
 | 3 | Letras manuscritas: A = B = C? | mistério final | aberto |
 | 4 | Tipo de vínculo de Elias com o objeto (posse / guardião / destruição / promessa) | L9 | aberto |
 | 5 | Forma exata da promessa antiga | L5, L9 | aberto |
