@@ -1,7 +1,7 @@
 Esse escppo é uma conversa entre o chat GPT e eu pra elaborar o livro
 
 referencia do gpt
-https://chatgpt.com/g/g-p-69fb57e4fe108191beeb9135ec8274c8-livro/c/69fb5951-6ba0-83e9-92f6-698deb5bb61c
+- https://chatgpt.com/g/g-p-69fb57e4fe108191beeb9135ec8274c8-livro/c/69fb5951-6ba0-83e9-92f6-698deb5bb61c
 
 
 
@@ -11,7 +11,7 @@ Tenho uma ideia de escrever um livro e gostaria que você me ajudasse a desenvol
 GPT
 Entendi sim. A sua ideia é construir um “universo narrativo” em que cada pessoa tem sua própria vida como se fosse um livro separado, mas algumas histórias se cruzam em momentos importantes, criando uma trama maior. Vou organizar isso como uma base inicial de projeto literário para a gente evoluir.
 
-Pensou por 4s
+
 
 Entendi perfeitamente — e a ideia é muito boa.
 
