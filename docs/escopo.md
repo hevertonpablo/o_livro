@@ -3,7 +3,8 @@ Esse escppo é uma conversa entre o chat GPT e eu pra elaborar o livro
 referencia do gpt
 - https://chatgpt.com/g/g-p-69fb57e4fe108191beeb9135ec8274c8-livro/c/69fb5951-6ba0-83e9-92f6-698deb5bb61c
 
-
+58a93931-7bc7-485f-86fe-451497b0cd5e
+claude --resume 58a93931-7bc7-485f-86fe-451497b0cd5e
 
 Heverton
 Tenho uma ideia de escrever um livro e gostaria que você me ajudasse a desenvolver esse livro. Minha visão para o livro. Ele deve ser uma história de pessoas ao redor do mundo como se fosse mesmo o que vivemos no mundo. porém existiram vários livros que contam histórias de um personagem, qual seria a ideia central, por mais que exista vários livros em determinada parte da história alguns desses livros se encontram como se fgosse no dia dia de uma pessoa mesmo que cada um tem sua vida (livro) porém em certos momentos pessoas se cruzam, pessoas se conhecem e começam a comparetilhar uma hostória. Entendeu?
