@@ -372,6 +372,7 @@ Datas plantadas conectam silenciosamente personagens do passado e do presente.
 | Frase de Dona Cida | *“Tem coisa antiga que só abre na mão certa.”* | L1 | L10 |
 | Inscrição na árvore antiga | Possível nome de Elias | L1 | L9 |
 | Foto antiga com Antigo intacto | Existência em outra época | L7 | L9 |
+| **Mulher recorrente em fotos antigas (DEC-037)** | **Mesma figura atravessando décadas** — autora interna da letra A=B=C (DEC-021) e da promessa antiga (DEC-022). Internamente = Primeira Guardiã. **Nunca confirmada na Fase 1.** | L1 (relance), L5 (foto familiar), **L7 (cena-chave)**, L9 (Elias reconhece), L10 (eco) | **NUNCA na Fase 1** — possível livro próprio na Fase 2 |
 
 ### 9.2 Falsas pistas planejadas (red herrings honestos)
 
@@ -379,7 +380,7 @@ Datas plantadas conectam silenciosamente personagens do passado e do presente.
 
 | Falsa pista | Aparenta sugerir | Explicação real | Plantada em | Resolvida em |
 |---|---|---|---|---|
-| Pessoa misteriosa em foto vista por Nina | Que é Elias jovem | É na verdade outra figura (a definir — talvez Samuel jovem ou autor anterior das margens) | L7 | L9 |
+| Pessoa misteriosa em foto vista por Nina | Que é Elias jovem | **Não é Elias.** É a Mulher da Foto = rastro visual da Primeira Guardiã (DEC-037). Elias **reconhece** o rosto em L9, mas não revela quem é — preserva o mistério. | L7 | L9 (parcial — Elias reconhece sem nomear) |
 | Mensagem em celular sem nome | Que é Elias retornando | É Patrícia ou outro contato comum | L7 | L7 |
 | Cliente do canto da cafeteria | Que é o Personagem Oculto | É um leitor habitual qualquer (mas semente Fase 2) | L1 | nunca na Fase 1 |
 | Olhar de Lourdes para Helena | Que ela está prestes a contar tudo | Ela contará só fragmentos | L5 | L5 |
@@ -645,7 +646,7 @@ Mesma técnica em formas diferentes entre livros.
 | 6 | Quantos red herrings principais (3? 4?) | toda a Fase 1 | aberto |
 | 7 | Carta antiga tem data? Qual? | L5, L9 | aberto (vide DEC-021 também pendente — A=B=C ou não) |
 | 8 | ~~Símbolo na capa do Antigo: triângulo, três pontos, letra apagada, outro?~~ | L1+ | **✓ resolvido — DEC-024** (três pontos discretos, vide [`biblia-do-antigo.md` §1.3](biblia-do-antigo.md#13-a-marca-dos-três-pontos)) |
-| 9 | Foto antiga investigada por Nina: quem aparece junto do objeto? | L7 | aberto |
+| 9 | ~~Foto antiga investigada por Nina: quem aparece junto do objeto?~~ | L7 | **✓ DEC-037** — é a Mulher da Foto / Primeira Guardiã. Não confirmar na Fase 1. |
 | 10 | A obra terá site / suplemento extra para a comunidade decodificar? | pós-publicação | aberto |
 | 11 | Identidade do "outro" na inscrição da árvore antiga (red herring) | L1, L9 | aberto |
 | 12 | ~~Forma canônica do 316 no L1?~~ | L1 | **✓ resolvido — DEC-029** (mesa 3 + cadeira 16; 3h16; banco 16, vide §2.1.1) |

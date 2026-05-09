@@ -130,6 +130,16 @@ Toda mentira fica registrada — quem mentiu, para quem, por quê, quando é des
 | Pastor Augusto × Conselheira Neide | igreja |
 | Marta × Samuel | passado de Elias |
 | Jonas × Lourdes | possíveis vizinhos antigos |
+| **Bia × Clara** | colegas de profissão (psicologia clínica / saúde sexual) |
+| **Bia × Ana Paula** | possível conhecimento profissional cruzado |
+| **Bia × Nina** | fonte especialista recorrente em pautas |
+| **Bia × Sofia** | encontro via projeto social, palestra ou consulta isolada (L8) |
+| **Mulher da Foto = Primeira Guardiã (DEC-037)** | mesma pessoa interna; rastros independentes (caligrafia + imagem). Nunca confirmado na Fase 1. |
+| Primeira Guardiã × Elias | confiou-lhe a promessa antiga (responsabilidade concreta — DEC-022) |
+| Primeira Guardiã × Matusalém | confiou-lhe a promessa antiga (presença silenciosa — DEC-022); ensinou-lhe a escrever (DEC-021) |
+| Mulher da Foto × Nina | investigada em fotografias antigas em L7 (cena-chave) |
+| Mulher da Foto × Elias | reconhecida pelo rosto em L9 — *"Eu já vi essa mulher."* — sem revelar identidade |
+| Mulher da Foto × Matusalém | possível reconhecimento mudo em L10 |
 
 ---
 
@@ -479,11 +489,11 @@ Sem registro, descobertas escapam e geram inconsistência.
 | L1 | Lara × Miguel; Lara × Oculto; Lara × Dona Cida; Lara × Beto; Lara × Jéssica | Cruzamentos `I` da §1.1 | Primeira sombra de Elias |
 | L2 | Miguel × Oculto (ônibus); Miguel × Seu Arnaldo (memória); Miguel × Davi; Miguel × Laís | Cruzamentos `I` | Primeira acusação |
 | L3 | Rafael × Oculto (igreja); Rafael × Patrícia; Rafael × André; Rafael × Tomás; Rafael × Antigo | — | Primeiro gesto de bondade |
-| L4 | Clara × Oculto (hospital); Clara × Dona Marlene; Clara × Ana Paula; Clara × Caio | — | Primeira pista do Antigo |
+| L4 | Clara × Oculto (hospital); Clara × Dona Marlene; Clara × Ana Paula; Clara × Caio; **Clara × Bia** | — | Primeira pista do Antigo |
 | L5 | Helena × Lourdes; Helena × Mariana; Helena × Antigo (carta) | — | Primeira dúvida forte |
 | L6 | Theo × Biel; Theo × Nanda; Theo × Ícaro; Theo × Antigo (refrão) | — | Consequência do passado |
-| L7 | Nina × Noemi; Nina × Júlio; Nina × Léo; Nina × Dona Cida; Nina × várias pontes | Cruzamentos `I` reinterpretados | Nome vira mistério central |
-| L8 | Sofia × Bruna; Sofia × Vitor; Sofia × Prof. Elaine; Sofia × Lara; Sofia × Antigo | — | Última preparação |
+| L7 | Nina × Noemi; Nina × Júlio; Nina × Léo; Nina × Dona Cida; **Nina × Bia**; Nina × várias pontes | Cruzamentos `I` reinterpretados | Nome vira mistério central |
+| L8 | Sofia × Bruna; Sofia × Vitor; Sofia × Prof. Elaine; Sofia × Lara; **Sofia × Bia**; Sofia × Antigo | — | Última preparação |
 | L9 | Elias × Marta; Elias × Jonas; Elias × Samuel; Elias × Antigo | — | **Verdade revelada** |
 | L10 | Convergência: vários protagonistas no banco do Oculto | Reinterpretação geral | Reinterpretação geral |
 

@@ -16,6 +16,34 @@
 
 ## [Unreleased]
 
+### Decidido
+- **DEC-037:** **Mulher da Foto = rastro visual da Primeira Guardiã** (unificação canônica interna). As duas fichas — `personagens/apoio/mulher-da-foto.md` e `personagens/sementes/primeira-guardia.md` — referem-se à mesma pessoa. **A Fase 1 nunca confirma.** Hipóteses do leitor (viajante do tempo, semelhança genética, lenda, figura mítica) seguem convivendo. Possível livro próprio na Fase 2.
+
+### Adicionado
+- [`books/personagens/apoio/bia.md`](books/personagens/apoio/bia.md) — nova personagem de apoio cruzado: **Beatriz "Bia"**, psicóloga clínica / terapeuta sexual (38–42 anos). Apoio em três núcleos: Clara (L4), Nina (L7), Sofia (L8). Trajetória interna: criação religiosa repressora rompida.
+
+### Alterado
+- [`DECISIONS.md`](DECISIONS.md) — adicionada DEC-037.
+- [`books/personagens/apoio/mulher-da-foto.md`](books/personagens/apoio/mulher-da-foto.md) — reescrita com camadas externa/interna, plantio canônico por livro, sinais visuais recorrentes, hipóteses do leitor, regra absoluta de revelação.
+- [`books/personagens/sementes/primeira-guardia.md`](books/personagens/sementes/primeira-guardia.md) — adicionada função 5 (rastro visual em fotografias) e seção "Como aparece" agora dividida em dois rastros: letra (DEC-021) + imagem (DEC-037).
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) §7.2 — entrada da Mulher da Foto unificada com Primeira Guardiã; §14 e §20 atualizados.
+- [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) §9.1 nova entrada de pista verdadeira; §9.2 red herring "Pessoa misteriosa em foto = Elias jovem" reformulado; §16 atualizado.
+- [`books/biblia-de-elias.md`](books/biblia-de-elias.md) §20 — pendência da Mulher da Foto resolvida com DEC-037.
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) §16.6 nova — A Mulher da Foto.
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md) §4.3 (entrada da Mulher da Foto) e seção camada interna canônica (§12).
+- [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md) §1.2 — novos vínculos (Mulher da Foto × Nina/Elias/Matusalém; Primeira Guardiã × Elias/Matusalém).
+- [`books/objetos/circulantes/foto-antiga.md`](books/objetos/circulantes/foto-antiga.md) §2 (descrição visual canônica), §6 (conexões), §9 (decisões resolvidas).
+- [`books/personagens/protagonistas/nina.md`](books/personagens/protagonistas/nina.md) — entrada da Mulher da Foto atualizada.
+
+### Adicionado (continuação — Bia)
+- [`books/personagens/apoio/bia.md`](books/personagens/apoio/bia.md) (item criado anteriormente nesta sessão).
+
+### Alterado (continuação — Bia)
+- `books/biblia-continuidade-personagens.md` §4.3 + §5 (Bia em personagens-ponte).
+- `books/biblia-continuidade-relacoes.md` §1.2 + §12.
+- `books/personagens/protagonistas/clara.md`, `nina.md`, `sofia.md` — Bia adicionada ao núcleo de apoio.
+- `books/personagens/apoio/README.md` — Bia em Clara + tabela de personagens-ponte.
+
 ### Pendente
 - Criar `livros/livro-01-lara/` com OUTLINE, ARCOS, MAPA-PISTAS, MAPA-ILUSTRACOES, STATUS, changelog.
 - Criar `livros/livro-01-lara/` com OUTLINE, ARCOS, MAPA-PISTAS, MAPA-ILUSTRACOES, STATUS.

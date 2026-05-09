@@ -358,7 +358,8 @@ Detalhamento completo nas fichas individuais. Resumo de função:
 | Nanda | Theo | Oportunidade que também explora |
 | Ícaro | Theo | Quem o admira sem entender o preço |
 | Léo | Nina | Contraditor saudável |
-| A Mulher da Foto | Nina | Mistério visual |
+| A Mulher da Foto | Nina | Mistério visual. **Canon interno (DEC-037):** rastro visual da Primeira Guardiã (vide §6 e [`personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md)). Fase 1 nunca confirma. |
+| **Bia (Beatriz)** | **Clara, Nina, Sofia (apoio cruzado)** | **Psicóloga clínica / terapeuta sexual. Espelho da Clara (autocuidado), fonte da Nina (escuta especialista), modelo adulta para Sofia (agência sexual saudável vs. predadores). Trajetória de criação religiosa repressora rompida.** |
 | Bruna | Sofia | Espelho mais frágil |
 | Vitor | Sofia | Manipulador |
 | Marta | Elias | Defensora íntima |
@@ -378,6 +379,7 @@ Detalhamento completo nas fichas individuais. Resumo de função:
 | Professora Elaine | Sofia, Clara, Helena | Mais cansada conforme livros avançam |
 | Jardineiro Paulo | Parque, Elias, Personagem Oculto | Mesmo. Não muda |
 | Patrícia | Rafael, Nina | Mais disposta a falar com Nina (L7) que era em L3 |
+| **Bia (Beatriz)** | **Clara (L4), Nina (L7), Sofia (L8)** | **Mesma profissional segura em todos os livros. Em L4 é colega; em L7 é fonte; em L8 é modelo adulta. Voz não muda — só o lado que aparece.** |
 | Mel (gata) | Lara, Sofia, Personagem Oculto | Não muda — ela é símbolo |
 
 ### 5.1 Regra dos personagens-ponte
@@ -597,14 +599,23 @@ Personagem Oculto não tem ferida explicada, não tem mentira interna, não tem 
 > **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas antes do livro afetado entrar em rascunho. **Exceção:** a identidade do Personagem Oculto **permanece em aberto sempre** — esse é o canon.
 > **Resolvidas em 2026-05-09:** DEC-017, DEC-020.
 
-### Camada interna canônica (DEC-021 + DEC-022) — não publicar
+### Camada interna canônica (DEC-021 + DEC-022 + DEC-037) — não publicar
 
-A série carrega uma figura interna canônica chamada **Primeira Guardiã** ([`personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md)) — anterior a Elias e a Matusalém.
+A série carrega uma figura interna canônica chamada **Primeira Guardiã** ([`personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md)) — anterior a Elias e a Matusalém. Sua **face pública e ambígua** na obra é a [`A Mulher da Foto`](personagens/apoio/mulher-da-foto.md).
 
 - É a **autora original da letra** que aparece nas margens do Antigo, na carta antiga e no caderno do Personagem Oculto (DEC-021).
 - É a **guardiã original da promessa antiga** (DEC-022) que confiou a promessa de formas diferentes a Elias (responsabilidade concreta) e a Matusalém (presença silenciosa).
+- É **a mulher recorrente nas fotografias antigas** (DEC-037) que Nina investiga em L7. Mesmo rosto, mesma postura, em décadas diferentes.
 
-**A Fase 1 NUNCA confirma** sua existência. **NUNCA nomeia, mostra rosto, voz ou vida.** Ela é **ausência fértil** — pode ser desenvolvida em Fase 2.
+**A Fase 1 NUNCA confirma** que a Mulher da Foto é a Primeira Guardiã. **NUNCA nomeia, mostra rosto vivo, voz ou vida.** Ela é **ausência fértil** — pode ser desenvolvida em Fase 2.
+
+**Os dois rastros independentes:**
+| Rastro | Onde aparece | Quem investiga |
+|---|---|---|
+| Caligrafia (DEC-021) | Margens do Antigo, carta antiga, caderno do Oculto | Lara (sente), Nina (compara), Elias (reconhece em L9), Matusalém (em L10) |
+| Imagem / Mulher da Foto (DEC-037) | Fotografias antigas | Nina (cena-chave em L7), Elias (reconhece em L9), Matusalém (em L10) |
+
+O **leitor investigador** que cruza os dois rastros chega muito perto da resposta. A obra **não dá** a resposta na Fase 1.
 
 ---
 

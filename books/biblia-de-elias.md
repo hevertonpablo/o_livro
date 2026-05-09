@@ -675,7 +675,7 @@ Cada livro contém pelo menos uma cena que muda de sentido após L9.
 | 6 | Quem foi a pessoa que Elias mais machucou ao partir? | L2, L9 | aberto |
 | 7 | Vínculo Elias × Personagem Oculto: amigo? intercessor? | L9, L10 | parcial — **DEC-031** (amigo antigo de Matusalém + ambos herdaram a promessa via Primeira Guardiã) |
 | 8 | Forma de revelação em L9 (autobiográfica / dialógica / escrita / mista) | L9 | aberto (recomendação interna: misto) |
-| 9 | Identidade da Mulher da Foto e relação com Elias | L7, L9 | aberto |
+| 9 | ~~Identidade da Mulher da Foto e relação com Elias~~ | L7, L9 | **✓ DEC-037** — Mulher da Foto = Primeira Guardiã (interno). Em L9, Elias **reconhece** o rosto sem revelar quem é. *"Eu já vi essa mulher."* |
 | 10 | Inscrição na árvore antiga: nome de Elias? data? símbolo? | L1, L9 | aberto |
 | 11 | ~~Letra das margens do Antigo = letra de Elias?~~ | L5, L9 | **✓ resolvido — DEC-021** (NÃO é de Elias; é da Primeira Guardiã, anterior a ele e a Matusalém; mesma letra em três fontes com escala temporal) |
 | 12 | Voz acusatória final (L8) — quem? | L8 | aberto |

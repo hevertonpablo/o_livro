@@ -2,7 +2,7 @@
 
 > **Tier — Semente.**
 > Entidade interna canônica do autor. **Nunca confirmada na Fase 1.**
-> Fonte das DEC-021 (caligrafia A=B=C) e DEC-022 (promessa antiga).
+> Fonte das DEC-021 (caligrafia A=B=C), DEC-022 (promessa antiga) e **DEC-037 (rastro visual = [Mulher da Foto](../apoio/mulher-da-foto.md))**.
 
 ## Aviso de uso
 
@@ -11,6 +11,7 @@ Este arquivo é **apenas para o autor e agents**. **Nada aqui pode ser declarado
 A Primeira Guardiã é o **rastro de legado** que sustenta:
 - a **mesma caligrafia** nas margens do Antigo, na carta antiga e no caderno do Personagem Oculto (DEC-021);
 - a **promessa antiga** que Elias e Matusalém herdaram (DEC-022);
+- o **rastro visual** que Nina identifica em fotografias antigas como **A Mulher da Foto** (DEC-037);
 - a sensação de que **o Antigo é maior que qualquer personagem**.
 
 Sua função interna é **manter o Antigo maior que Elias e maior que Matusalém** — ambos são elos, não a origem.
@@ -41,15 +42,34 @@ Sua função interna é **manter o Antigo maior que Elias e maior que Matusalém
    > *"Que o que estiver perdido ainda encontre quem o chame;*
    > *e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
 
+5. **Rastro visual em fotografias (DEC-037).** Sua imagem aparece em fotografias antigas que **Nina** investiga em L7. A obra publicada **nunca confirma** que essas fotos são da mesma pessoa, mas o leitor investigador junta o padrão (postura, olhar, peça-eco visual). Detalhe canônico: ver [`books/personagens/apoio/mulher-da-foto.md`](../apoio/mulher-da-foto.md).
+   > Ela aparece **como A Mulher da Foto** — face pública e ambígua do que ela é internamente.
+
 ## Como aparece (em rastros, nunca em cena)
 
-| Livro | Rastro | Quem nota |
+> A Primeira Guardiã deixa **dois rastros independentes** que se cruzam: a **letra** (DEC-021) e a **imagem** (DEC-037). A obra nunca diz que vêm da mesma pessoa. O leitor investigador cruza.
+
+### Rastro 1 — Letra (DEC-021)
+
+| Livro | Manifestação | Quem nota |
 |--:|---|---|
 | L1 | Anotação manuscrita no Antigo (não atribuída) — letra antiga e firme | Lara, com olhar de restauradora (DEC-018), pode sentir a *idade* do traço sem identificar autor |
 | L5 | Carta antiga encontrada por Helena, na mesma letra | Helena percebe a letra, sem dar muita importância |
 | L7 | Foto ampliada de uma anotação do Antigo comparada à carta — Nina percebe semelhanças | Nina (com olhar investigativo) |
 | L9 | Elias **reconhece** a letra mas **não revela** o autor | Elias |
 | L10 | Matusalém olha para o caderno e passa o dedo sobre uma frase como se lembrasse de quem ensinou a escrever daquele jeito | Matusalém |
+
+### Rastro 2 — Imagem / Mulher da Foto (DEC-037)
+
+| Livro | Manifestação | Quem nota |
+|--:|---|---|
+| L1 | Possível rosto **só de relance** num retrato antigo (cafeteria, biblioteca ou casa de Lara) | Ninguém comenta — recompensa de releitura |
+| L5 | Foto antiga de família de Helena onde aparece uma mulher desconhecida | Helena percebe sem dar importância |
+| L7 | **Cena-chave** — Nina identifica que a mesma mulher aparece em fotos de épocas diferentes | Nina; Léo confirma o padrão |
+| L9 | Elias reconhece o rosto na foto — possível frase: *"Eu já vi essa mulher."* | Elias |
+| L10 | Imagem dela retorna como eco visual; Matusalém parece reconhecer | Matusalém — sem dizer |
+
+**Rastro cruzado pelo investigador:** o leitor que junta os dois rastros (letra + imagem) chega muito perto da resposta. **A obra não dá a resposta.** Ver [`books/personagens/apoio/mulher-da-foto.md`](../apoio/mulher-da-foto.md) para detalhes da face pública dela.
 
 ## Regra absoluta de revelação
 

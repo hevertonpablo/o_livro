@@ -259,12 +259,12 @@ Cada livro revela **uma camada** que **não contradiz** as anteriores. Nada é r
 
 | Pessoa | Quando | Estado | Função |
 |---|---|---|---|
-| Mulher da Foto (provável) | Décadas antes | Inteiro | Foto antiga preserva |
+| **Mulher da Foto = Primeira Guardiã (DEC-037)** | Décadas/gerações antes | Inteiro; **autora das margens** (DEC-021) | Foto antiga preserva o rastro visual; letra preserva o rastro caligráfico |
 | Samuel (possível) | Antes da Fase 1 | Inteiro | Sabe da circulação |
 | Dona Cida (possível, semente Fase 2) | Jovem | A confirmar | Cartas antigas atrás do balcão |
 | Dona Marlene | Antes de L4 | Inteiro | Entrega a Clara |
-| Personagem Oculto | (canônico) | Possivelmente sempre próximo | Provável guardião |
-| Elias (juventude) | Há décadas | Inteiro | Promessa, anotações nas margens |
+| Personagem Oculto | (canônico) | Possivelmente sempre próximo | Co-herdeiro silencioso da promessa (DEC-022) |
+| Elias (juventude) | Há décadas | Inteiro | **Herdou** a promessa (DEC-022); **não escreveu** as margens — apenas reconhece a letra (DEC-021) |
 
 ### 7.3 Regra do toque
 Sempre que alguém toca o objeto:
@@ -450,9 +450,9 @@ O leitor casual não precisa decodificar. As linhas funcionam como **frases boni
 | Conteúdo integral do caderno do Oculto | Promessa narrativa não cumprida na Fase 1 |
 | Conteúdo da mala de Noemi | Promessa para Fase 2 |
 | Cópia escrita das 10 linhas da charada juntas | Nunca aparecem em bloco — só dispersas |
-| Confirmação direta de A = B = C (letras manuscritas) | Decisão a manter ambígua até o fim |
+| Confirmação direta de A = B = C (letras manuscritas) | DEC-021 — sugerir, **nunca confirmar** na Fase 1 |
 | Identidade de quem entregou o Antigo a Sofia (L8) | Pode ficar em aberto |
-| Identidade da Mulher da Foto (a confirmar) | Possível semente Fase 2 |
+| Identidade da Mulher da Foto / Primeira Guardiã | **DEC-037** — internamente são a mesma pessoa; **a Fase 1 nunca confirma essa unificação**. Possível livro próprio na Fase 2. |
 
 ### 14.1 Exceção controlada
 Em **L9**, alguns mistérios fecham (vida secreta de Elias, promessa antiga). Mas **nem o L9 nem o L10** podem nomear o Antigo.
@@ -642,7 +642,7 @@ Mesmo que o leitor decifre que é uma Bíblia, o **sentido** é maior — e o li
 | 5 | ~~Forma exata da promessa antiga~~ | L5, L9 | **✓ DEC-022 — promessa coletiva herdada via Primeira Guardiã (vide §17.2)** |
 | 6 | Quem entrega o Antigo a Sofia em L8 | L8 | aberto |
 | 7 | Conteúdo integral da carta antiga | L5, L9 | aberto (mas a frase canônica da promessa **está fixada** — vide §17.2.1) |
-| 8 | Identidade da Mulher da Foto (segura o Antigo na foto?) | L7 | aberto |
+| 8 | ~~Identidade da Mulher da Foto~~ | L7 | **✓ DEC-037** — internamente é a Primeira Guardiã (anterior a Elias e Matusalém). **A Fase 1 NUNCA confirma**. Possível livro próprio na Fase 2. |
 | 9 | Apelido de Helena para o Antigo | L5 | aberto |
 | 10 | Apelido de Theo para o Antigo | L6 | aberto |
 | 11 | Frase canônica que detém Sofia em L8 | L8 | aberto |

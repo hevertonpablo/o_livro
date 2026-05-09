@@ -53,7 +53,7 @@ No Livro 7, **o nome Elias vira mistério central**. Várias linhas convergem pa
 ## Encontros importantes
 
 - **Noemi** ([semente](../sementes/noemi.md)) — aparição única em uma estação, hospital ou cafeteria. Nina não consegue continuar a conversa; Noemi diz: *“Um dia eu conto minha história.”*
-- **A Mulher da Foto** — desconhecida que aparece em várias imagens antigas; talvez ligação com Elias, com o parque ou com o Antigo.
+- **A Mulher da Foto (DEC-037)** — desconhecida que aparece em várias imagens antigas. **Canon interno (não revelado na Fase 1):** é o rastro visual da Primeira Guardiã (anterior a Elias e a Matusalém — DEC-021/DEC-022). Em L9, **Elias reconhece o rosto** sem revelar identidade. Possível livro próprio na Fase 2.
 
 ## Lugar recorrente
 
@@ -63,7 +63,8 @@ No Livro 7, **o nome Elias vira mistério central**. Várias linhas convergem pa
 
 - [Júlio](../apoio/julio.md) — editor; pressão por matérias polêmicas; conflito ético.
 - [Léo](../apoio/leo.md) — fotógrafo parceiro/cético; debate descobertas.
-- [A Mulher da Foto](../apoio/mulher-da-foto.md) — desconhecida em imagens antigas.
+- [A Mulher da Foto](../apoio/mulher-da-foto.md) — desconhecida em imagens antigas (canon: ligada à Primeira Guardiã).
+- [Bia (Beatriz)](../apoio/bia.md) — psicóloga clínica / terapeuta sexual; **fonte especialista** que Nina recorre para pautas de saúde feminina, comportamento e abuso. Possível segunda escuta na investigação do Antigo.
 
 ## Frases-âncora
 

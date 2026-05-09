@@ -52,6 +52,7 @@
 | DEC-034 | Bíblia de Transporte criada | **aprovado** ✓ |
 | DEC-035 | Existe metrô na cidade? | **aprovado** ✓ (não — ratifica o canon das bíblias) |
 | DEC-036 | Estação canônica = trem ou rodoviária? | **aprovado** ✓ (rodoviária — ratifica o canon das bíblias) |
+| DEC-037 | Mulher da Foto = rastro visual da Primeira Guardiã | **aprovado** ✓ (unificação canônica interna; nunca confirmada na Fase 1) |
 
 ---
 
@@ -556,6 +557,53 @@ Razões canônicas:
 **Cena canônica afetada:** L7 — **Nina × Noemi às 3h16 da manhã na rodoviária** (clima de madrugada, alto-falante, plataforma).
 
 **Pergunta extra (frequência):** A estação aparece **com peso central no L7**, com possíveis ecos leves em L9 (chegada/partida de Elias no passado, a definir) e atravessamentos rápidos em outros livros.
+
+**Status:** `aprovado`.
+
+### DEC-037 — Mulher da Foto = rastro visual da Primeira Guardiã ✓ **(aprovado em 2026-05-09)**
+**Conteúdo:** A **Mulher da Foto** — figura recorrente que Nina identifica em fotografias antigas de épocas e lugares diferentes — é, **internamente para o autor**, o **rastro visual** da **Primeira Guardiã** (DEC-021/DEC-022).
+
+**Implicação canônica:** as duas fichas — [`books/personagens/apoio/mulher-da-foto.md`](books/personagens/apoio/mulher-da-foto.md) e [`books/personagens/sementes/primeira-guardia.md`](books/personagens/sementes/primeira-guardia.md) — referem-se à **mesma pessoa**.
+
+**Regra absoluta de revelação (Fase 1):**
+
+A Fase 1 **NÃO confirma** essa unificação. O leitor pode interpretar a Mulher da Foto como:
+
+| Hipótese do leitor | Status na obra |
+|---|---|
+| Viajante do tempo | sugerido, **não confirmado** |
+| Mesma pessoa fotografada em décadas diferentes (mistério inexplicado) | sugerido, **não confirmado** |
+| Família com forte semelhança genética entre gerações | sugerido, **não confirmado** |
+| Lenda urbana / efeito de coincidência fotográfica | sugerido, **não confirmado** |
+| Figura mítica ligada ao Antigo | sugerido, **não confirmado** |
+
+A obra **mantém todas as hipóteses convivendo** — assim como faz com a identidade do Personagem Oculto (DEC-004). **A Fase 1 NUNCA fecha** quem ela é.
+
+**Plantio canônico (Fase 1):**
+
+| Livro | Manifestação |
+|--:|---|
+| L1 | Possível rosto **só de relance** num retrato antigo da cafeteria, biblioteca ou casa de Lara — leitor casual não nota |
+| L5 | Helena pode ter foto antiga de família onde aparece uma mulher desconhecida, mesmo casaco, mesma postura — não comentada |
+| L7 | **Cena-chave** — Nina percebe que a **mesma mulher** aparece em fotografias de décadas, lugares e épocas distintas. Ela investiga, mas **não fecha**. |
+| L9 | Elias **reconhece** o rosto na foto — talvez admita uma frase: *"Eu já vi essa mulher."* — mas não revela mais. |
+| L10 | A imagem dela retorna como eco visual; Matusalém pode olhar uma foto antiga e parecer reconhecer — sem dizer. |
+
+**Conexão com a letra (DEC-021):** a Mulher da Foto **não é apenas vista** em fotos. Ela é também **a autora** da letra que aparece nas margens do Antigo, na carta antiga e no caderno do Personagem Oculto. Para o leitor investigador, **a foto + a letra** podem ser cruzadas como evidência de uma mesma pessoa atravessando tempos.
+
+**Por que essa unificação funciona:**
+
+| Sem unificação | Com unificação (DEC-037) |
+|---|---|
+| Duas figuras misteriosas paralelas (Mulher da Foto + Primeira Guardiã) sobrecarregam o leitor | Uma única figura com dois rastros (visual + caligráfico) — mais elegante |
+| Mulher da Foto vira ponta solta sem peso narrativo | Mulher da Foto vira **face** da Primeira Guardiã — peso máximo |
+| L7 (Nina) e L9 (Elias) precisam introduzir mistérios separados | L7 e L9 contribuem para **um único mistério em camadas** |
+| Fase 2 herda múltiplos enigmas dispersos | Fase 2 herda **uma figura central** com livro próprio possível |
+
+**Reservado para Fase 2:**
+- Possível livro próprio da Mulher da Foto / Primeira Guardiã.
+- Possível confirmação (ou não) de viagem no tempo.
+- Origem da promessa antiga, vida da Primeira Guardiã, identidade plena.
 
 **Status:** `aprovado`.
 

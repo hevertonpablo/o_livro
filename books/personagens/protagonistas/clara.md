@@ -78,6 +78,7 @@ No Livro 4, **primeira pista do Antigo ligada a Elias**. Clara recebe o objeto e
 - [Ana Paula](../apoio/ana-paula.md) — colega; percebe quando Clara está sobrecarregada.
 - [Dona Marlene](../apoio/dona-marlene.md) — mulher atendida; inverte papéis ao ensinar Clara.
 - [Caio](../apoio/caio.md) — irmão problemático; dor pessoal de Clara.
+- [Bia (Beatriz)](../apoio/bia.md) — colega de profissão (terapeuta sexual); **espelho destravante** — modela autocuidado e permissão de prazer que Clara nega a si mesma.
 
 ## Frases-âncora
 

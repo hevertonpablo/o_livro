@@ -565,7 +565,18 @@ A letra das **anotações no caderno pequeno** do Personagem Oculto **tem a mesm
 
 **Cena canônica em L10:** Matusalém olha para o caderno e **passa o dedo sobre uma frase** como se lembrasse de quem ensinou a escrever daquele jeito. Sem dizer. Sem explicar.
 
-Conferência cruzada com [`biblia-do-antigo.md` §16](biblia-do-antigo.md#16-relação-com-o-personagem-oculto) e [`biblia-de-elias.md` §13.5](biblia-de-elias.md#135-a-promessa-antiga-dec-022--canon).
+### 16.6 A Mulher da Foto (DEC-037) ✓ **canon**
+
+A figura recorrente que Nina identifica em fotografias antigas (L7) — chamada na obra de **A Mulher da Foto** — é, internamente, a **Primeira Guardiã**: a mesma pessoa que ensinou Matusalém a escrever, a autora das margens, a mulher que confiou a promessa.
+
+**Implicações para o Personagem Oculto:**
+- Matusalém **reconhece** o rosto na foto. Isso não é confirmado pela obra, mas a cena em L10 (descrita acima — *passa o dedo sobre uma frase*) pode ter um eco visual: Matusalém olha uma fotografia antiga e seu olhar muda. Sem dizer.
+- Em fotos muito antigas (décadas atrás), o casaco cinza-chumbo de Matusalém (DEC-023) pode aparecer **no fundo** ao lado da Mulher da Foto — pista visual cruzada para o leitor.
+- **A relação entre eles na juventude** (interna, jamais confirmada): foram parte do mesmo grupo / mesma comunidade que originou a promessa (DEC-022). Ela era mais velha; ele aprendeu com ela.
+
+**Regra absoluta:** a obra **nunca confirma** que a Mulher da Foto = Primeira Guardiã, nem que Matusalém a conheceu. Ele pode reconhecer; ele não revela.
+
+Conferência cruzada com [`books/personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md), [`books/personagens/apoio/mulher-da-foto.md`](personagens/apoio/mulher-da-foto.md), [`biblia-do-antigo.md` §16](biblia-do-antigo.md#16-relação-com-o-personagem-oculto) e [`biblia-de-elias.md` §13.5](biblia-de-elias.md#135-a-promessa-antiga-dec-022--canon).
 
 ### 16.4 Regra
 A relação **insinua**, **nunca explica**. Em L10, fecha-se simbolicamente — não literalmente.

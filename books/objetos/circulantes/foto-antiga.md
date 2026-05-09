@@ -14,10 +14,10 @@ Fotografia antiga que **prova** a circulação do Antigo em décadas anteriores.
 | Tipo | Fotografia em preto e branco, ou em sépia |
 | Tamanho | Pequena — formato antigo (a definir) |
 | Estado | Bordas amareladas, vinco no canto |
-| Conteúdo visual | Pessoa segurando o Antigo (rosto a definir — possivelmente Elias jovem ou Mulher da Foto) |
+| Conteúdo visual | **Mulher da Foto segurando o Antigo (DEC-037).** Internamente é a Primeira Guardiã (DEC-021/DEC-022). **Não confirmar autoria/identidade na Fase 1.** |
 | Lugar visível | Possível cenário reconhecível pelo leitor — banco do parque, igreja antiga, cidade do interior |
-| Letra atrás | Possível dedicatória manuscrita ou data a lápis |
-| Outros elementos | Possível segunda pessoa em segundo plano (Personagem Oculto?) |
+| Letra atrás | Possível dedicatória manuscrita **na mesma letra** das margens do Antigo / carta antiga (DEC-021) — pista cruzada para o leitor investigador. |
+| Outros elementos | Possível segunda pessoa em segundo plano — pode ser o Personagem Oculto, em fase mais jovem, com casaco cinza-chumbo (DEC-023) |
 
 ## 3. Outras fotos na investigação
 
@@ -48,11 +48,12 @@ Nina lida com **um conjunto** de fotos antigas em L7. Esta ficha controla a prin
 - **[Foto da loja](../cenario/foto-da-loja.md):** outra possível duplicidade — a mesma foto em locais diferentes.
 - **[A Mulher da Foto](../../personagens/apoio/mulher-da-foto.md):** identidade visual ligada.
 
-## 6. Conexões com Antigo, Oculto, Elias
+## 6. Conexões com Antigo, Oculto, Elias, Primeira Guardiã
 
 - **Antigo:** **prova material** de sua existência em outra época.
-- **Oculto:** pode aparecer **no fundo** de uma das fotos — descoberta de Nina (sinal: mesmo casaco, mesma postura).
-- **Elias:** o rosto na foto principal é provavelmente Elias jovem.
+- **Oculto:** pode aparecer **no fundo** de uma das fotos — descoberta de Nina (sinal: mesmo casaco cinza-chumbo, mesma postura).
+- **Elias:** **NÃO é o rosto principal** (essa hipótese era red herring). Elias pode aparecer em foto secundária, em outra cena. Em L9, Elias **reconhece** a Mulher da Foto sem revelar quem é.
+- **[Primeira Guardiã (interna)](../../personagens/sementes/primeira-guardia.md) / [Mulher da Foto](../../personagens/apoio/mulher-da-foto.md) (DEC-037):** **é o rosto principal**. Internamente são a mesma pessoa. **A Fase 1 NUNCA confirma essa unificação.**
 
 ## 7. Pistas plantadas
 
@@ -73,8 +74,8 @@ Nina lida com **um conjunto** de fotos antigas em L7. Esta ficha controla a prin
 
 ## 9. Decisões pendentes
 
-- Identidade da pessoa retratada.
+- ~~Identidade da pessoa retratada.~~ — **✓ DEC-037:** Mulher da Foto = Primeira Guardiã (interno). **Não revelar na Fase 1.**
 - Lugar retratado.
-- Se há ou não Personagem Oculto no fundo.
-- Letra atrás (dedicatória, data, número).
+- Se há ou não Personagem Oculto no fundo (sugerido — sinal: casaco cinza-chumbo).
+- Letra atrás (dedicatória, data, número) — **DEC-021** (mesma letra, fase mais antiga).
 - Há cópias da mesma foto em lugares diferentes? (Decisão importante.)

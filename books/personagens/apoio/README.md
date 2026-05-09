@@ -34,6 +34,7 @@ Personagens **sem livro próprio na Fase 1**, criados para gerar diálogo, contr
 ### Clara
 - [Dona Marlene](dona-marlene.md) — mulher atendida
 - [Caio](caio.md) — irmão problemático
+- [Bia](bia.md) — colega de profissão (terapeuta sexual); espelho destravante. **Apoio cruzado:** também aparece em L7 (Nina) e L8 (Sofia).
 
 ### Helena
 - [Mariana](mariana.md) — filha distante
@@ -70,4 +71,5 @@ Personagens **sem livro próprio na Fase 1**, criados para gerar diálogo, contr
 | Professora Elaine | Sofia, Clara, Helena |
 | Jardineiro Paulo | Parque, Elias, Personagem Oculto |
 | Patrícia | Rafael, Nina |
+| **Bia (Beatriz)** | **Clara, Nina, Sofia** |
 | Mel, a gata | Lara, Sofia, Personagem Oculto |

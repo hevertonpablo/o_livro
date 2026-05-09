@@ -18,6 +18,100 @@
 
 ---
 
+## Sessão 2026-05-09 — Unificação Mulher da Foto = Primeira Guardiã (DEC-037)
+
+### Objetivo
+Implementar a unificação canônica entre a personagem de apoio "A Mulher da Foto" (figura recorrente em fotografias antigas que Nina investiga) e a entidade interna "Primeira Guardiã" (autora da letra das três fontes manuscritas e guardiã original da promessa antiga, criada na sessão anterior via DEC-021/DEC-022).
+
+### Princípio
+Em vez de manter duas figuras misteriosas paralelas (que sobrecarregam o leitor e diluem o mistério), unifica como **uma única figura com dois rastros independentes**:
+- **Rastro 1 — caligrafia** (DEC-021): margens do Antigo, carta antiga, caderno do Oculto.
+- **Rastro 2 — imagem** (DEC-037 nova): fotografias antigas que Nina investiga em L7.
+
+A Fase 1 **NUNCA confirma** a unificação. O leitor investigador que cruza os dois rastros chega muito perto da resposta. A obra não dá a resposta.
+
+### Decisão criada
+- **DEC-037** — Mulher da Foto = rastro visual da Primeira Guardiã. Aprovada.
+
+### Arquivos alterados
+- [`DECISIONS.md`](DECISIONS.md) — DEC-037 adicionada.
+- [`books/personagens/apoio/mulher-da-foto.md`](books/personagens/apoio/mulher-da-foto.md) — reescrita completa.
+- [`books/personagens/sementes/primeira-guardia.md`](books/personagens/sementes/primeira-guardia.md) — função 5 (rastro visual), tabela de rastros desdobrada em letra + imagem.
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) §7.2, §14, §20.
+- [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) §9.1, §9.2, §16.
+- [`books/biblia-de-elias.md`](books/biblia-de-elias.md) §20.
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) §16.6 nova.
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md) §4.3 + §12.
+- [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md) §1.2.
+- [`books/objetos/circulantes/foto-antiga.md`](books/objetos/circulantes/foto-antiga.md) §2, §6, §9.
+- [`books/personagens/protagonistas/nina.md`](books/personagens/protagonistas/nina.md) — entrada da Mulher da Foto.
+
+### Plantio canônico em fotografias por livro
+
+| Livro | Manifestação |
+|--:|---|
+| L1 | Possível rosto **só de relance** num retrato antigo (cafeteria, biblioteca, casa de Lara) — recompensa de releitura |
+| L5 | Foto antiga de família de Helena onde aparece uma mulher desconhecida — Helena percebe sem dar importância |
+| L7 | **Cena-chave** — Nina identifica que a mesma mulher aparece em fotos de épocas diferentes |
+| L9 | Elias **reconhece** o rosto: *"Eu já vi essa mulher."* — sem revelar |
+| L10 | Imagem retorna como eco visual; Matusalém parece reconhecer — sem dizer |
+
+### Sinais visuais recorrentes (para o leitor investigador)
+- Postura: mãos cruzadas em frente, levemente para o lado direito.
+- Olhar: direto à câmera, calmo, sem sorriso.
+- Casaco/peça-eco: possível elo com o casaco cinza-chumbo do Personagem Oculto (DEC-023).
+- Pequeno objeto na mão (em algumas fotos): caderno, envelope ou objeto pequeno enrolado em pano.
+
+### Vantagens estruturais (registradas em DEC-037)
+- Mulher da Foto deixa de ser ponta solta e vira **face** da Primeira Guardiã.
+- L7 e L9 contribuem para **um único mistério em camadas** ao invés de mistérios paralelos.
+- Fase 2 herda **uma figura central** com livro próprio possível — não enigmas dispersos.
+
+---
+
+## Sessão 2026-05-09 — Nova personagem de apoio cruzado (Bia)
+
+### Objetivo
+Discussão criativa com o autor sobre adicionar uma nova personagem de apoio com perfil sex-positive. Decisão final: criar **Beatriz "Bia"** — psicóloga clínica / terapeuta sexual — como apoio cruzado entre Clara, Nina e Sofia.
+
+### Discussão prévia (resumo)
+Autor levantou três possibilidades:
+1. Expandir a Laís com trama amorosa + sex shop ativa.
+2. Confirmar A Mulher da Foto como viajante do tempo.
+3. Criar nova personagem feminina sex-positive.
+
+Posição arquitetônica adotada:
+- **Laís:** mantida como está (sem expandir). Risco real de a versão expandida desvalorizar o arco da Lara por contraste tonal.
+- **Mulher da Foto:** unificada com a Primeira Guardiã (DEC-021/DEC-022). Mantém ambiguidade na Fase 1; viagem no tempo poderia ser explorada na Fase 2 sem trair contrato de gênero.
+- **Nova personagem:** aprovada como Bia — apoio cruzado com função estrutural definida em três núcleos.
+
+### Critérios aplicados na construção de Bia
+- **Função antes do traço:** ela é psicóloga primeiro, sex-positive depois.
+- **Profundidade real:** ferida da criação religiosa repressora rompida — atravessada com consciência, não rejeitada com amargura.
+- **Não-vulgaridade:** sex shop não é marca. Casos sim, produtos não. Voz adulta-profissional, não jovem-cool.
+- **Não-anticristã:** ela atravessou a repressão; não está em guerra com fé. Tem respeito pela trajetória da família.
+- **Não competir com Lara:** evita aparecer em cena com Lara (decisão pendente). Se aparecer, sem comparar trauma com liberdade.
+
+### Arquivos criados
+- [`books/personagens/apoio/bia.md`](books/personagens/apoio/bia.md)
+
+### Arquivos alterados
+- `books/biblia-continuidade-personagens.md` §4.3, §5 (Bia em personagens-ponte).
+- `books/biblia-continuidade-relacoes.md` §1.2, §12.
+- `books/personagens/protagonistas/clara.md` — núcleo de apoio.
+- `books/personagens/protagonistas/nina.md` — núcleo de apoio.
+- `books/personagens/protagonistas/sofia.md` — núcleo de apoio.
+- `books/personagens/apoio/README.md` — Clara + personagens-ponte.
+- `CHANGELOG.md` — entrada na seção `[Unreleased]`.
+
+### Decisões pendentes sobre Bia
+- Bia aparece em cena com Lara? Se sim, em qual livro?
+- Possível par afetivo profundo dela em algum livro?
+- Origem familiar específica (cidade, denominação, função familiar).
+- Bia conheceu Elias ou alguém da geração dele? (possível semente Fase 2)
+
+---
+
 ## Sessão 2026-05-09 — Rodada 2: Processamento das 6 decisões finais
 
 ### Objetivo

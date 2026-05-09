@@ -111,6 +111,9 @@ A documentação técnica está **completa**. O autor tem em mãos: PRD literár
 - **DEC-035:** Metrô na cidade — **NÃO** (proibido na Fase 1).
 - **DEC-036:** Estação canônica — **rodoviária**.
 
+### Aprovadas em 2026-05-09 (extra — unificação)
+- **DEC-037:** **Mulher da Foto = rastro visual da Primeira Guardiã** (unificação canônica interna; Fase 1 nunca confirma).
+
 ---
 
 ## Decisões pendentes
@@ -141,10 +144,10 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 | Métrica | Valor |
 |---|--:|
 | Bíblias criadas | 14 |
-| Fichas individuais (personagens, cenários, clima, lugares, objetos, horários) | ~101 (com Primeira Guardiã) |
+| Fichas individuais (personagens, cenários, clima, lugares, objetos, horários) | ~102 (com Primeira Guardiã + Bia) |
 | Documentos de direção (PRDs) | 3 |
 | Arquivos operacionais (raiz) | 11 (com V2) |
-| **Decisões aprovadas (DEC-XXX)** | **36 / 36** ✓ |
+| **Decisões aprovadas (DEC-XXX)** | **37 / 37** ✓ |
 | Decisões ainda em aberto | 0 (numeradas) |
 | **Total de arquivos canônicos** | **~129** |
 | Capítulos escritos | 0 |

@@ -44,6 +44,7 @@ No Livro 8, **última preparação antes da revelação de Elias**. Pistas se ac
 - [Bruna](../apoio/bruna.md) — amiga influenciável; risco do grupo.
 - [Vitor](../apoio/vitor.md) — rapaz manipulador, mais velho.
 - [Professora Elaine](../apoio/professora-elaine.md) — adulta atenta, tenta se aproximar.
+- [Bia (Beatriz)](../apoio/bia.md) — psicóloga / terapeuta sexual; **modelo concreto de mulher adulta com agência sexual saudável**, em contraste explícito com os manipuladores. Sofia a vê (palestra, projeto social, ou consulta isolada) e algo destrava: existe outro jeito de ser mulher e ter prazer e ter voz, sem ser objeto.
 
 ## Frases-âncora
 
