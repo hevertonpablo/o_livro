@@ -16,6 +16,18 @@
 
 ## [Unreleased]
 
+### Adicionado
+- [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md) — **agente de Escrita criado**. Manual operacional completo do agente irmão que redige os capítulos. Aplicado o mesmo princípio de purificação do agente de planejamento: documento é processo puro, não conteúdo. 19 seções cobrindo identidade, escopo, princípio fundamental ("você lê, não inventa"), arquivos a ler antes de cada capítulo, ordem de autoridade, regras de processo invioláveis, pré-checagem obrigatória, princípios de prosa genéricos, modelo de arquivo de capítulo, processo de escrita passo a passo, pós-escrita obrigatória (atualização de CAPITULOS, STATUS, CHANGELOG, MAPA-PISTAS, MAPA-ILUSTRACOES), tratamento de temas sensíveis (genérico — específicos vivem em RULES.md), saída por tipo de tarefa, formato de resposta, pendências, proibições de alucinação canônica e princípio final.
+
+### Alterado
+- [`AGENT-ESCRITA-LIVROS.md`](AGENT-ESCRITA-LIVROS.md) §18.8 — atualizado para referenciar o arquivo do agente de escrita (`AGENT-ESCRITA-CAPITULOS.md`) agora existente.
+- [`AGENT-ESCRITA-LIVROS.md`](AGENT-ESCRITA-LIVROS.md) — **refatoração completa em três fases (consolidado)**:
+  - **Fase 1:** caminhos de arquivos corrigidos (`books/` em vez de `biblias/`/`livros/`/`personagens/`); estrutura Markdown corrigida.
+  - **Fase 2:** identidade reformulada como **agente de PLANEJAMENTO/ARQUITETURA**; novo §9 Sistema de imagens; novo arquivo `MAPA-ILUSTRACOES.md`; novo apêndice de especificação do Agente de Escrita.
+  - **Fase 3 (esta atualização):** **purificação de processo.** Removidos do agente todos os **detalhes específicos de conteúdo** que pertencem aos arquivos do projeto (DECs específicas, frases canônicas escritas direto, glossário de personagens/entidades, exemplos de cenas com nomes próprios, prompt preenchido para cena específica). O agente agora é **manual de processo puro**: sabe COMO criar cada documento, em que ORDEM, com que MODELO; o conteúdo canônico vem dos arquivos lidos a cada tarefa (DECISIONS.md, RULES.md, bíblias, fichas). Mudanças no agente afetam apenas processo — mudanças no canon afetam apenas os arquivos do projeto. Substituição da tabela de DECs específicas por instrução de leitura de DECISIONS.md; remoção do glossário canônico (movido implicitamente para as bíblias); generalização do sistema de imagens (§9) e da especificação do Agente de Escrita (§18).
+
+- [`books/livro-01-lara/OUTLINE.md`](books/livro-01-lara/OUTLINE.md) — criado em nível macro completo (24 capítulos, 4 partes, acróstico RECOMECO em cap 1-8, todas as pistas obrigatórias mapeadas, 10 pendências registradas).
+
 ### Decidido
 - **DEC-037:** **Mulher da Foto = rastro visual da Primeira Guardiã** (unificação canônica interna). As duas fichas — `personagens/apoio/mulher-da-foto.md` e `personagens/sementes/primeira-guardia.md` — referem-se à mesma pessoa. **A Fase 1 nunca confirma.** Hipóteses do leitor (viajante do tempo, semelhança genética, lenda, figura mítica) seguem convivendo. Possível livro próprio na Fase 2.
 

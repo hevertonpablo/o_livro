@@ -47,7 +47,7 @@
 ### Estrutura do Livro 1
 - [ ] Criar pasta `livros/livro-01-lara/`.
 - [ ] Criar `livros/livro-01-lara/STATUS.md`.
-- [ ] Criar `livros/livro-01-lara/OUTLINE.md` (24 capítulos, 4 partes).
+- [x] Criar `livros/livro-01-lara/OUTLINE.md` (24 capítulos, 4 partes) ✓ 2026-05-09 (Nível 1 — macro completa).
 - [ ] Criar `livros/livro-01-lara/ARCOS.md` (arco emocional de Lara: estado inicial × ponto de virada × estado final).
 - [ ] Criar `livros/livro-01-lara/MAPA-PISTAS.md` (pistas plantadas no L1: linha 1 da charada, 316, anotações no Antigo, primeira sombra de Elias, primeira aparição do Oculto).
 - [ ] Criar `livros/livro-01-lara/MAPA-ILUSTRACOES.md` (símbolos por parte, ilustrações de abertura).
