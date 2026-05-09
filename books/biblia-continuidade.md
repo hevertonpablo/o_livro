@@ -117,6 +117,20 @@ O projeto opera com **um sistema** de 12 bíblias técnicas. Cada uma tem domín
 
 **Convenção:** o **ano-base** da Fase 1 (Livro 1) é referenciado como **Y0**. Anos anteriores são `Y-N`, posteriores `Y+N`. Quando um ano absoluto for fixado, atualizar todas as linhas.
 
+### 1.0 Janela cronológica oficial (DEC-032) ✓ **aprovado**
+
+A Fase 1 adota um **modelo misto**: presente em janela curta de **1 a 2 anos** + **flashbacks profundos** por personagem. **A Fase 1 não avança em linha reta livro por livro.** Cada livro pode cobrir períodos sobrepostos, retornos ao passado e cenas simultâneas com outros volumes.
+
+| Camada | Período | Onde aparece |
+|---|---|---|
+| Presente principal | **Y0 até Y+1 ou Y+2** | Cenas do "agora" de Lara, Miguel, Rafael, Clara, Helena, Theo, Nina, Sofia |
+| Flashbacks recentes | Y-1 até Y-5 | Memórias de cada protagonista |
+| Flashbacks de formação | infância/adolescência | Origem de feridas e talentos |
+| Passado de Elias | Y-20, Y-30 ou mais | Livro 5, 7, 9 |
+| Origem do Antigo / promessa | passado mais profundo | Pistas em vários livros, revelada parcialmente em L9 e L10 |
+
+**Status:** `aprovado` em 2026-05-07.
+
 | Ano | Evento | Personagens envolvidos | Livro onde aparece |
 |---|---|---|---|
 | Y-? | Nascimento de Elias | Elias | Citado nos livros 5, 7, 9 |
@@ -131,7 +145,9 @@ O projeto opera com **um sistema** de 12 bíblias técnicas. Cada uma tem domín
 | Y? | Eventos do Livro 2 | Miguel | Livro 2 |
 | ... | ... | ... | ... |
 
-> **A definir:** se a Fase 1 acontece em sequência cronológica (Y0 → Y10) ou em janela curta com saltos pelo passado de cada protagonista. **Recomendação inicial:** janela contemporânea de 1–2 anos para Lara, Miguel, Rafael, Clara, Helena, Theo, Nina, Sofia; com flashbacks profundos por personagem.
+> ~~**A definir:** se a Fase 1 acontece em sequência cronológica (Y0 → Y10) ou em janela curta...~~
+>
+> **✓ Resolvido — DEC-032 (vide §1.0):** modelo **misto** — janela contemporânea de **1–2 anos** + flashbacks profundos por personagem. Sem progressão linear livro a livro.
 
 ---
 
@@ -550,24 +566,44 @@ Quando lidas em sequência (do L1 ao L10), as 10 linhas formam uma confissão po
 ## 14. Decisões pendentes / bloqueios
 
 > Decisões que **precisam ser fechadas** para destravar etapas seguintes.
+> Para o registro completo (status, contexto, racional), ver [`../DECISIONS.md`](../DECISIONS.md). Esta tabela é **espelho operacional** — em caso de divergência, `DECISIONS.md` vence.
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Forma definitiva do propósito maior (espiritual + redenção + legado — manter combinação?) | L1, L9, L10 | aberto |
-| 2 | Tipo definitivo de vida secreta de Elias (sacrifício / culpa / missão / espiritual / identidade) | L9 e plantio prévio | aberto |
+| 1 | Propósito maior — núcleo espiritual + camadas familiar/missão | L1, L9, L10 | **✓ DEC-031, DEC-033** (núcleo + duas camadas secundárias) |
+| 2 | Tipo definitivo de vida secreta de Elias | L9 e plantio prévio | aberto — **DEC-017** |
 | 3 | Identidade da Mulher da Foto (e relação com Elias) | L7 e L9 | aberto |
 | 4 | Quem entrega o Antigo a Sofia em L8 | L8 | aberto |
-| 5 | Profissão de Rafael (advogado / médico / empresário / pastor / jornalista) | L3 | aberto |
-| 6 | Talento principal de Lara (dança / canto / composição) | L1 | aberto |
-| 7 | Profissão de Clara (psicóloga / assistente social / professora / mentora) | L4 | aberto |
-| 8 | Cidade-base da Fase 1 | L1 e seguintes | aberto |
-| 9 | Janela cronológica da Fase 1 (sequencial vs. simultânea) | L1–L10 | aberto |
+| 5 | Profissão de Rafael | L3 | **✓ DEC-019** (advogado empresarial) |
+| 6 | Talento principal de Lara | L1 | **✓ DEC-018** (restauração e encadernação artesanal) |
+| 7 | Profissão de Clara | L4 | aberto — **DEC-020** |
+| 8 | Cidade-base da Fase 1 | L1 e seguintes | **✓ DEC-025** (cidade não nomeada — universalidade controlada; ver [`biblia-continuidade-transporte.md`](biblia-continuidade-transporte.md)) |
+| 9 | Janela cronológica da Fase 1 | L1–L10 | **✓ DEC-032** (janela mista — ver §1.0) |
 | 10 | Título oficial da série | publicação | aberto |
-| 11 | Forma exata do número-âncora 316 em cada livro | L1–L10 | aberto |
-| 12 | Identidade preferencial do Personagem Oculto (interno) — mesmo nunca confirmando na obra | linha de voz e cenas | aberto |
+| 11 | Forma exata do número-âncora 316 em cada livro | L1–L10 | parcial — **L1 ✓ DEC-029**; demais livros ainda abertos |
+| 12 | Identidade preferencial do Personagem Oculto (interno) | linha de voz e cenas | **✓ DEC-026 + DEC-031** (Matusalém — homem comum + guardião + ligação com Elias) |
+| 13 | Casaco do Personagem Oculto — cor canônica | toda a série | **✓ DEC-023** (cinza-chumbo gasto) |
+| 14 | Marca canônica do Antigo | L1+ | **✓ DEC-024** (três pontos discretos — vide [`biblia-do-antigo.md` §1.3](biblia-do-antigo.md#13-a-marca-dos-três-pontos)) |
+| 15 | Frase-âncora canônica de variação | toda a série | **✓ DEC-027** ([`biblia-pistas-codigos-charadas.md` §6.2.1](biblia-pistas-codigos-charadas.md#621-frase-do-ainda-pode-ser-chamado--canônica-dec-027--aprovado)) |
+| 16 | Acrósticos por livro | títulos de capítulos | **✓ DEC-028** ([`biblia-pistas-codigos-charadas.md` §4.2](biblia-pistas-codigos-charadas.md#42-acróstico-oficial-por-livro-dec-028)) |
+| 17 | Cena Lara × Miguel — horário exato | L1, L2 | **✓ DEC-030** (18h, garoa fina) |
+| 18 | Existência de metrô na cidade | toda a série | aberto — **DEC-035** (recomendação: não) |
+| 19 | Estação canônica = trem ou rodoviária? | L7 e cenas de estação | aberto — **DEC-036** (recomendação: rodoviária) |
 
 ### 14.1 Regra de fechamento
 Bloqueios marcados como `aberto` devem ser resolvidos **antes** de iniciar o rascunho do livro afetado. Resolver de forma improvisada pendurada no rascunho **gera retrabalho**.
+
+### 14.2 Hierarquia de fontes para decisões
+
+> Em caso de divergência sobre qualquer decisão, esta é a ordem de autoridade:
+
+1. **`../DECISIONS.md`** — registro canônico (ADR), única fonte de verdade.
+2. **Bíblia especializada do tema** (ex.: `biblia-do-antigo.md` para o Antigo).
+3. **Este hub** (`biblia-continuidade.md`) — espelho operacional.
+4. **Fichas individuais** (personagens/objetos/etc.).
+5. **PRDs em `docs/`** — material de fundação histórica.
+
+Quando atualizar uma decisão: começar por `DECISIONS.md`, depois propagar para a bíblia especializada, depois para o hub, depois para fichas individuais.
 
 ---
 

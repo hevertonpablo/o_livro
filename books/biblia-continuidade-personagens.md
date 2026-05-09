@@ -132,15 +132,16 @@ Nenhum personagem é totalmente bom ou totalmente mau. Cada um carrega: ferida, 
 | Atributo | Conteúdo |
 |---|---|
 | Idade | 31 |
+| **Profissão (DEC-020) ✓ canon** | **Psicóloga clínica — modelo híbrido** (consultório próprio + vínculo eventual com hospital + projeto social com adolescentes em vulnerabilidade) |
 | Função | Protagonista do cuidado que cobra preço |
 | **Ferida central** | Não conseguiu salvar alguém da própria família (provavelmente Caio, o irmão) |
-| **Mentira interna** | *“Se eu cuidar de muitos, justifico não ter cuidado dele. Eu não preciso de cuidado.”* |
-| **Desejo externo** | Continuar atendendo, sustentar projeto/clínica |
-| **Necessidade interna** | Receber cuidado; parar de se punir |
+| **Mentira interna** | *“Enquanto eu estiver cuidando dos outros, não preciso olhar para minha própria dor.”* |
+| **Desejo externo** | Continuar atendendo, sustentar consultório/projeto |
+| **Necessidade interna** | Permitir-se ser cuidada **sem sentir que fracassou** |
 | **Segredo** | Por que evita falar de Caio |
-| Relação com **O Antigo** | Recebe de paciente (L4). Apelido: *“o objeto de Elias”*. Percepção: cuidado |
+| Relação com **O Antigo** | Recebe **de paciente, familiar de paciente ou adolescente do projeto social** (L4). Apelido: *“o objeto de Elias”*. Percepção: cuidado |
 | Relação com **Elias** | Primeira pista do Antigo ligada a ele (L4) |
-| Relação com **Personagem Oculto** | Corredor do hospital: *“Ele percebeu que eu também precisava ser cuidada.”* |
+| Relação com **Personagem Oculto** | Corredor do hospital às 3h: *"Quem cuida de todo mundo também precisa deixar alguém cuidar."* — *"Ele percebeu que eu também precisava ser cuidada."* |
 | Voz interna canônica | Profissional, organizada, fissura em momentos íntimos |
 | Frase-âncora pessoal | *“Ela curava o que conseguia, mas a única ferida que fingia não ter era a dela.”* |
 | Ficha completa | [personagens/protagonistas/clara.md](personagens/protagonistas/clara.md) |
@@ -223,16 +224,17 @@ Nenhum personagem é totalmente bom ou totalmente mau. Cada um carrega: ferida, 
 |---|---|
 | Idade | 50–65 (ou falecido com presença forte por memórias e cartas) |
 | Função | Mistério humano da série |
-| **Ferida central** | A verdade que o levou a se afastar (tipo de vida secreta a definir: sacrifício / culpa / missão / espiritual / identidade) |
-| **Mentira interna** | *“É melhor que pensem o pior de mim.”* |
+| **Ferida central (DEC-017) ✓ canon** | **Sacrifício + Culpa + Missão + Espiritual** — quatro camadas com hierarquia. Detalhamento na ficha. |
+| **Mentira interna** | *"É melhor que pensem o pior de mim."* |
 | **Desejo externo** | Cumprir a promessa antiga / proteger alguém / reparar em silêncio |
 | **Necessidade interna** | Ser encontrado, ainda que tarde |
-| **Segredo** | A vida secreta inteira — revelada em L9 |
-| Relação com **O Antigo** | Possivelmente seu. Possivelmente escreveu nas margens. Apelido: *“aquilo que eu não consegui destruir”*. Percepção: promessa |
+| **Segredo** | A vida secreta inteira — revelada parcialmente em L9 |
+| Relação com **O Antigo (DEC-017 + DEC-022)** | **Elo importante, NÃO é o dono.** Apelido: *"aquilo que eu não consegui destruir"*. Percepção: promessa. **NÃO escreveu as margens** — a letra é da Primeira Guardiã (DEC-021). |
+| Relação com **Promessa antiga (DEC-022)** | **Herdou da Primeira Guardiã** como **responsabilidade concreta**; falhou parcialmente em cumpri-la (origem da culpa) |
 | Relação com **Elias** | Ele mesmo |
-| Relação com **Personagem Oculto** | Provável amizade antiga; possível conhecimento da promessa; talvez o Oculto saiba quem Elias realmente foi |
+| Relação com **Personagem Oculto (DEC-031)** | **Amigo antigo**; co-herdeiro da promessa via Primeira Guardiã (Matusalém recebeu como "presença silenciosa") |
 | Voz interna canônica | Lenta, ferida, lúcida; em flashback, mais nova e mais clara |
-| Frase-âncora pessoal | *“Todos pensavam conhecer sua história. Mas cada pessoa conhecia apenas uma página.”* |
+| Frases-âncora canônicas (DEC-017) | *"Nem toda ausência é abandono."* / *"Elias não queria ser lembrado como bom. Queria apenas impedir que sua falha continuasse ferindo outras vidas."* |
 | Ficha completa | [personagens/protagonistas/elias.md](personagens/protagonistas/elias.md) |
 
 ### 2.10 Convergência — Livro 10
@@ -579,10 +581,10 @@ Personagem Oculto não tem ferida explicada, não tem mentira interna, não tem 
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Tipo definitivo de vida secreta de Elias | L9 + plantio prévio | aberto (DEC-017) |
+| 1 | ~~Tipo definitivo de vida secreta de Elias~~ | L9 + plantio prévio | **✓ DEC-017 — Sacrifício + Culpa + Missão + Espiritual** |
 | 2 | ~~Profissão de Rafael~~ | ~~L3~~ | **✓ DEC-019 — advogado empresarial** |
 | 3 | ~~Talento principal de Lara~~ | ~~L1~~ | **✓ DEC-018 — restauração e encadernação artesanal** |
-| 4 | Profissão de Clara (psicóloga / assistente social / mentora) | L4 | aberto |
+| 4 | ~~Profissão de Clara~~ | ~~L4~~ | **✓ DEC-020 — psicóloga clínica modelo híbrido (consultório + hospital + projeto social)** |
 | 5 | Identidade da Mulher da Foto | L7 e L9 | aberto |
 | 6 | Quem entrega o Antigo a Sofia em L8 | L8 | aberto |
 | 7 | Forma exata da ferida emocional de Nina (família?) | L7 | aberto |
@@ -593,6 +595,16 @@ Personagem Oculto não tem ferida explicada, não tem mentira interna, não tem 
 | 12 | Ferida de Davi — qual evento o desviou de Miguel? | L2 e Fase 2 | aberto |
 
 > **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas antes do livro afetado entrar em rascunho. **Exceção:** a identidade do Personagem Oculto **permanece em aberto sempre** — esse é o canon.
+> **Resolvidas em 2026-05-09:** DEC-017, DEC-020.
+
+### Camada interna canônica (DEC-021 + DEC-022) — não publicar
+
+A série carrega uma figura interna canônica chamada **Primeira Guardiã** ([`personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md)) — anterior a Elias e a Matusalém.
+
+- É a **autora original da letra** que aparece nas margens do Antigo, na carta antiga e no caderno do Personagem Oculto (DEC-021).
+- É a **guardiã original da promessa antiga** (DEC-022) que confiou a promessa de formas diferentes a Elias (responsabilidade concreta) e a Matusalém (presença silenciosa).
+
+**A Fase 1 NUNCA confirma** sua existência. **NUNCA nomeia, mostra rosto, voz ou vida.** Ela é **ausência fértil** — pode ser desenvolvida em Fase 2.
 
 ---
 

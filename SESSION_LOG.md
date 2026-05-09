@@ -18,6 +18,148 @@
 
 ---
 
+## Sessão 2026-05-09 — Rodada 2: Processamento das 6 decisões finais
+
+### Objetivo
+Processar [`DECISOES-PARA-RESPONDER-V2.md`](DECISOES-PARA-RESPONDER-V2.md) com as 6 decisões críticas que ficaram fora da rodada 1 (DEC-017, DEC-020, DEC-021, DEC-022, DEC-035, DEC-036). Propagar resultados sem mudar nada que já foi planejado nas bíblias existentes.
+
+### Restrições aplicadas
+- **Não revisar contextos/decisões já fixados** em arquivos anteriores.
+- **Toda informação de personagem deve ficar em** `books/personagens/protagonistas/[nome].md` ou subpastas equivalentes.
+- DEC-035 e DEC-036: o autor pediu para **consultar as bíblias existentes** e ratificar — não mudar conteúdo, apenas o status.
+
+### Arquivos lidos
+- [`DECISOES-PARA-RESPONDER-V2.md`](DECISOES-PARA-RESPONDER-V2.md)
+- [`DECISIONS.md`](DECISIONS.md)
+- [`books/personagens/protagonistas/elias.md`](books/personagens/protagonistas/elias.md)
+- [`books/personagens/protagonistas/clara.md`](books/personagens/protagonistas/clara.md)
+- [`books/biblia-de-elias.md`](books/biblia-de-elias.md)
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md)
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md)
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md)
+- [`books/biblia-continuidade-transporte.md`](books/biblia-continuidade-transporte.md)
+- [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md)
+- [`books/biblia-continuidade-lugares.md`](books/biblia-continuidade-lugares.md)
+- [`books/objetos/circulantes/carta-antiga.md`](books/objetos/circulantes/carta-antiga.md)
+- [`books/objetos/simbolicos/caderno-do-oculto.md`](books/objetos/simbolicos/caderno-do-oculto.md)
+- [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md)
+
+### Arquivos criados
+- [`books/personagens/sementes/primeira-guardia.md`](books/personagens/sementes/primeira-guardia.md) — ficha da Primeira Guardiã (entidade canônica interna, anterior a Elias e a Matusalém; **nunca confirmada na Fase 1**).
+
+### Arquivos alterados
+- `DECISIONS.md` — 6 DECs aprovadas; agora todas as 36 DECs estão `aprovadas`.
+- `books/personagens/protagonistas/elias.md` — DEC-017 + DEC-021 + DEC-022.
+- `books/personagens/protagonistas/clara.md` — DEC-020.
+- `books/biblia-de-elias.md` §12 + §13.5 + §20.
+- `books/biblia-do-personagem-oculto.md` §16.5 + §17 + §22.
+- `books/biblia-do-antigo.md` §17 + §20.
+- `books/biblia-continuidade-personagens.md` — entradas Clara (§2.4) e Elias (§2.9) + §12.
+- `books/biblia-continuidade-transporte.md` §15 (DEC-035 + DEC-036 ratificadas).
+- `books/biblia-continuidade-cenarios.md` §9.
+- `books/biblia-continuidade-lugares.md` §12.
+- `books/objetos/circulantes/carta-antiga.md` — DEC-021 + DEC-022.
+- `books/objetos/simbolicos/caderno-do-oculto.md` — DEC-021.
+- `books/objetos/simbolicos/o-antigo.md` — atributo Margens.
+- `CHANGELOG.md`, `TASKS.md`, `PROJECT_STATUS.md` atualizados.
+- `DECISOES-PARA-RESPONDER-V2.md` marcado como `processado`.
+
+### Decisões aprovadas
+DEC-017, DEC-020, DEC-021, DEC-022, DEC-035, DEC-036.
+
+### Nova entidade canônica criada
+**Primeira Guardiã** — figura interna anterior a Elias e a Matusalém. **Nunca confirmada, nomeada ou mostrada na Fase 1.** É a **autora original** da letra que aparece em três fontes (margens do Antigo, carta antiga, caderno do Oculto — DEC-021) e a **guardiã original da promessa antiga** (DEC-022) que confiou de formas diferentes a Elias (responsabilidade concreta) e a Matusalém (presença silenciosa).
+
+### Frase canônica nova
+**Promessa antiga (DEC-022):**
+> *"Que o que estiver perdido ainda encontre quem o chame;*
+> *e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
+
+Conecta-se canonicamente com a frase-âncora (DEC-027): *"O que está ___ ainda pode ser chamado."* — frase-âncora é eco da promessa.
+
+### Pendências remanescentes
+**Nenhuma DEC numerada está em aberto.** Todas as 36 DECs estão aprovadas.
+
+Decisões secundárias menores continuam abertas nas bíblias específicas (forma de revelação em L9, idade de Elias no presente, conteúdo integral da carta antiga, etc.) — ver `TASKS.md`.
+
+### Observação metodológica
+- A propagação seguiu a hierarquia: `DECISIONS.md` → bíblia especializada → hub → ficha individual.
+- DEC-035 e DEC-036 foram **ratificadas** sem modificar o conteúdo já existente nas bíblias — apenas o status de `pendente` para `aprovado`.
+- Toda informação de protagonista foi colocada em `books/personagens/protagonistas/[nome].md` conforme orientação do autor.
+- A Primeira Guardiã foi colocada em `books/personagens/sementes/` (não em `recorrentes/`) por nunca aparecer em cena na Fase 1.
+
+---
+
+## Sessão 2026-05-09 — Rodada 1: Processamento das 13 decisões respondidas
+
+### Objetivo
+Ler [`DECISOES-PARA-RESPONDER.md`](DECISOES-PARA-RESPONDER.md) com as respostas do autor para 13 decisões críticas, registrar tudo como ADRs em [`DECISIONS.md`](DECISIONS.md), e propagar as consequências para todas as bíblias e fichas afetadas.
+
+### Arquivos lidos
+- [`DECISOES-PARA-RESPONDER.md`](DECISOES-PARA-RESPONDER.md)
+- [`DECISIONS.md`](DECISIONS.md)
+- [`books/biblia-continuidade.md`](books/biblia-continuidade.md)
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md)
+- [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md)
+- [`books/biblia-continuidade-lugares.md`](books/biblia-continuidade-lugares.md)
+- [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md)
+- [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md)
+- [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md)
+- [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md)
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md)
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md)
+- [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md)
+- [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md)
+- [`books/personagens/protagonistas/rafael.md`](books/personagens/protagonistas/rafael.md)
+- [`books/personagens/recorrentes/personagem-oculto.md`](books/personagens/recorrentes/personagem-oculto.md)
+- [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md)
+- [`books/objetos/simbolicos/casaco-do-oculto.md`](books/objetos/simbolicos/casaco-do-oculto.md)
+- [`books/objetos/simbolicos/caderno-do-oculto.md`](books/objetos/simbolicos/caderno-do-oculto.md)
+
+### Arquivos criados
+- [`books/biblia-continuidade-transporte.md`](books/biblia-continuidade-transporte.md) — Bíblia de Transporte (DEC-034) — define a "cidade da série" através de transporte canônico (ônibus 316, app genérico, táxi, bike, moto, estação) já que DEC-025 proíbe nome de cidade real.
+
+### Arquivos alterados
+- [`DECISIONS.md`](DECISIONS.md) — 13 decisões aprovadas (DEC-018 a DEC-034 nas posições aplicáveis); DEC-035 e DEC-036 marcadas como pendentes com recomendação interna.
+- [`books/biblia-continuidade.md`](books/biblia-continuidade.md) — §1.0 (DEC-032 janela cronológica) e §14 (tabela de bloqueios + §14.2 hierarquia).
+- [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) — §2.1.1 (DEC-029), §3.1 (cross-ref aos três pontos), §4.2 (DEC-028 acróstico oficial + L1 RECOMECO), §6.2.1 (DEC-027 frase oficial), §16 (status pendentes).
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) — §1.3 marca dos três pontos (DEC-024).
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) — Matusalém (DEC-026) + identidade interna (DEC-031) + casaco cinza-chumbo (DEC-023).
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md) — Lara/Rafael/Oculto.
+- [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md) — DEC-030 (cena Lara × Miguel 18h, garoa fina).
+- [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md) §9 — DEC-019, DEC-025, DEC-035, DEC-036.
+- [`books/biblia-continuidade-lugares.md`](books/biblia-continuidade-lugares.md) §12 — DEC-025, DEC-035, DEC-036.
+- [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md) §11 — DEC-025, DEC-030.
+- [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md) §11 — DEC-018, DEC-023, DEC-024, DEC-029.
+- [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md) — §7.5 acrósticos canônicos por livro (DEC-028) + §23 status.
+- [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md) — DEC-018, DEC-024.
+- [`books/personagens/protagonistas/rafael.md`](books/personagens/protagonistas/rafael.md) — DEC-019.
+- [`books/personagens/recorrentes/personagem-oculto.md`](books/personagens/recorrentes/personagem-oculto.md) — DEC-023, DEC-026, DEC-031.
+- [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md) — DEC-024.
+- [`books/objetos/simbolicos/casaco-do-oculto.md`](books/objetos/simbolicos/casaco-do-oculto.md) — DEC-023.
+- [`books/objetos/simbolicos/caderno-do-oculto.md`](books/objetos/simbolicos/caderno-do-oculto.md) — DEC-021 marcada com recomendação interna.
+- [`CHANGELOG.md`](CHANGELOG.md) — entrada `2026-05-09` com todas as decisões processadas.
+- [`DECISOES-PARA-RESPONDER.md`](DECISOES-PARA-RESPONDER.md) — marcado como `processado em 2026-05-09`.
+- [`TASKS.md`](TASKS.md) — atualizado.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — atualizado.
+
+### Decisões aprovadas
+DEC-018, DEC-019, DEC-023, DEC-024, DEC-025, DEC-026, DEC-027, DEC-028, DEC-029, DEC-030, DEC-031, DEC-032, DEC-033, DEC-034 (13 decisões diretas + DEC-034 derivada da resposta sobre cidade não nomeada).
+
+### Pendências remanescentes (NÃO estavam neste questionário — precisam de novo ciclo)
+Estas decisões existem no `DECISIONS.md` desde sessões anteriores e **não foram incluídas em `DECISOES-PARA-RESPONDER.md`**. Continuarão pendentes até serem perguntadas em uma rodada futura:
+- **DEC-017** — tipo de vida secreta de Elias (afeta L9 e plantio prévio em todos os livros).
+- **DEC-020** — profissão de Clara (afeta L4).
+- **DEC-021** — A=B=C? (caderno do Oculto = carta antiga = margens do Antigo) — recomendação interna: sim.
+- **DEC-022** — forma exata da promessa antiga.
+- **DEC-035** — existência de metrô na cidade (recomendação: não).
+- **DEC-036** — estação canônica = trem ou rodoviária? (recomendação: rodoviária).
+
+### Observação metodológica
+A propagação seguiu a hierarquia: `DECISIONS.md` → bíblia especializada → hub → ficha individual. Cada bíblia recebeu a decisão aplicada **na seção de canon** + a marca de resolvido na seção de pendências. Frases proibidas (apartamento 316, página 316, placa 3.16 no L1; preto absoluto e marrom vivo no casaco; nome real de cidade) foram explicitamente registradas como **proibições canônicas** para impedir reintrodução acidental durante a escrita.
+
+---
+
 ## Sessão 2026-05-07 — Estrutura operacional para agents
 
 ### Objetivo

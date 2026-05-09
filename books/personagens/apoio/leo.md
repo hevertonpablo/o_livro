@@ -13,6 +13,8 @@
 
 Funciona como **contraditor saudável**: não acredita em conexões espirituais, exige evidência. Empurra a investigação para o rigor.
 
+Sente uma leve atração por Nina
+
 ## Conexões
 
 - **Nina** — parceria profissional + atrito intelectual.

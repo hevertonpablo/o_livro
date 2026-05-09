@@ -8,26 +8,41 @@
 > - `[~]` — em progresso
 > - `[?]` — bloqueado por decisão pendente
 
-**Última atualização:** 2026-05-07.
+**Última atualização:** 2026-05-09 (após rodada 2 de decisões — **todas as 36 DECs aprovadas**).
 
 ---
 
 ## 🔴 Prioridade ALTA — Bloqueia o início do Livro 1
 
 ### Decisões críticas para iniciar L1
-- [ ] [DEC-018] **Definir talento principal de Lara** (canto / dança / composição).
-- [ ] [DEC-023] **Definir cor canônica do casaco do Personagem Oculto**.
-- [ ] [DEC-024] **Definir símbolo / marca da capa do Antigo**.
-- [ ] [DEC-025] **Definir cidade-base interna do autor** (mesmo sem nomear na obra).
+- [x] [DEC-018] **Talento principal de Lara — restauração e encadernação artesanal** ✓ 2026-05-09.
+- [x] [DEC-023] **Cor canônica do casaco do Personagem Oculto — cinza-chumbo gasto** ✓ 2026-05-09.
+- [x] [DEC-024] **Marca canônica do Antigo — três pontos discretos** ✓ 2026-05-09.
+- [x] [DEC-025] **Cidade-base não nomeada (universalidade controlada)** ✓ 2026-05-09.
 
-### Decisões críticas para o L3 e L4
-- [ ] [DEC-019] **Definir profissão de Rafael** (advogado / médico / empresário / pastor / jornalista).
-- [ ] [DEC-020] **Definir profissão de Clara** (psicóloga / assistente social / mentora).
+### Decisões críticas para o L3 e L4 — todas resolvidas
+- [x] [DEC-019] **Profissão de Rafael — advogado empresarial** ✓ 2026-05-09.
+- [x] [DEC-020] **Profissão de Clara — psicóloga clínica modelo híbrido** (consultório + hospital + projeto social) ✓ 2026-05-09.
 
-### Decisão crítica para o L5 e seguintes
-- [ ] [DEC-017] **Definir tipo dominante de vida secreta de Elias** (sacrifício / culpa / missão / espiritual / identidade — ou combinação). **Recomendação interna: Sacrifício + Missão + Espiritual.**
-- [ ] [DEC-021] **Decidir se as três letras manuscritas são iguais** (margens / carta / caderno do Oculto).
-- [ ] [DEC-022] **Definir forma exata da promessa antiga**.
+### Decisão crítica para o L5 e seguintes — todas resolvidas em 2026-05-09
+- [x] [DEC-017] **Tipo dominante de vida secreta de Elias** ✓ Sacrifício + Culpa + Missão + Espiritual.
+- [x] [DEC-021] **Letras manuscritas A = B = C** ✓ com escala temporal; autora interna = Primeira Guardiã.
+- [x] [DEC-022] **Forma exata da promessa antiga** ✓ promessa coletiva herdada via Primeira Guardiã + frase canônica.
+
+### Decisões aprovadas em 2026-05-09 (já propagadas)
+- [x] [DEC-026] Nome interno do Personagem Oculto = **Matusalém** (jamais publicado).
+- [x] [DEC-027] Frase-âncora canônica = *"O que está ___ ainda pode ser chamado."*
+- [x] [DEC-028] Acróstico de L1 = **RECOMECO** (capítulos 1–8). Demais livros com sugestões.
+- [x] [DEC-029] Forma do 316 em L1 = mesa 3 + cadeira 16 / 3h16 / banco 16.
+- [x] [DEC-030] Cena Lara × Miguel = **18h, garoa fina**.
+- [x] [DEC-031] Identidade interna do Oculto = homem comum + guardião + amigo de Elias.
+- [x] [DEC-032] Janela cronológica = **mista** (presente Y0–Y+2 + flashbacks).
+- [x] [DEC-033] Camadas secundárias do propósito maior = **familiar + missão**.
+- [x] [DEC-034] Bíblia de Transporte criada.
+
+### Decisões secundárias resolvidas em 2026-05-09
+- [x] [DEC-035] **Existência de metrô na cidade — NÃO** (proibido na Fase 1) ✓.
+- [x] [DEC-036] **Estação canônica = rodoviária** ✓.
 
 ### Estrutura do Livro 1
 - [ ] Criar pasta `livros/livro-01-lara/`.
@@ -62,14 +77,15 @@
 ## 🟡 Prioridade MÉDIA — Decisões pendentes secundárias
 
 ### Sobre o sistema de pistas
-- [ ] Definir acróstico do Livro 1 (palavra a formar nos títulos de capítulos).
-- [ ] Definir frase-âncora de variação definitiva (*"O que está ___ ainda pode ser chamado"* ou alternativa).
-- [ ] Definir distribuição final do 316 livro a livro.
+- [x] Definir acróstico do Livro 1 ✓ DEC-028 (RECOMECO).
+- [x] Definir frase-âncora de variação definitiva ✓ DEC-027.
+- [ ] Definir distribuição final do 316 nos livros L2–L10 (L1 já travado em DEC-029).
+- [ ] Definir palavras-acróstico de L2–L10 (atualmente como sugestões em §4.2 da Bíblia de Pistas).
 
 ### Sobre cenários
 - [ ] Decidir se hospital de L4 = hospital de L7.
 - [ ] Decidir biblioteca pública × livraria privada × híbrido.
-- [ ] Decidir trem × metrô × rodoviária para a estação.
+- [ ] Decidir trem × metrô × rodoviária para a estação — **DEC-035 / DEC-036** (recomendação: rodoviária, sem metrô).
 - [ ] Definir nome interno (não publicado) da igreja pequena.
 
 ### Sobre identidades visuais
@@ -79,7 +95,7 @@
 - [ ] Decidir formato físico (14×21 ou outro).
 
 ### Sobre Personagem Oculto
-- [ ] Decidir nome interno fixo (Simeão / Seu Abel / outro).
+- [x] Decidir nome interno fixo ✓ DEC-026 (**Matusalém**).
 - [ ] Decidir se aparece como mais novo em flashback de L9.
 - [ ] Decidir se a memória sem rosto de Helena é confirmada como ele.
 
@@ -135,6 +151,12 @@
 - [x] Criar Bíblia Editorial e Visual — 2026-05-07.
 - [x] Atualizar Bíblia de Continuidade como hub — 2026-05-07.
 - [x] Criar estrutura operacional para agents (raiz) — 2026-05-07.
+- [x] Criar `DECISOES-PARA-RESPONDER.md` (questionário de 13 decisões críticas) — 2026-05-08.
+- [x] Processar 13 decisões respondidas pelo autor e propagar em todas as bíblias afetadas — 2026-05-09 (rodada 1).
+- [x] Criar Bíblia de Transporte (DEC-034) — 2026-05-09.
+- [x] Criar `DECISOES-PARA-RESPONDER-V2.md` (questionário das 6 decisões finais) — 2026-05-09.
+- [x] Processar 6 decisões finais (rodada 2) e propagar — 2026-05-09.
+- [x] Criar ficha da Primeira Guardiã (DEC-021/DEC-022) — 2026-05-09.
 
 ---
 

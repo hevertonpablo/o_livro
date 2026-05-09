@@ -11,6 +11,19 @@
 - **Tema principal:** verdade, imagem e bastidores.
 - **Pergunta de suspense do livro:** *Por que o mesmo homem aparece em fotos diferentes?*
 
+
+## História base
+
+Nina é uma fotógrafa/jornalista de 29 anos que aprendeu a enxergar o mundo pelas imagens. Seu talento está em perceber detalhes que os outros ignoram: uma sombra no fundo de uma foto, uma marca repetida em objetos diferentes, um rosto que aparece onde não deveria estar. Para ela, toda imagem guarda uma verdade — mesmo quando ninguém quer vê-la.
+
+No Livro 7, Nina começa a investigar conexões aparentemente impossíveis entre o Antigo, Elias, o Personagem Oculto e histórias de pessoas que não se conhecem. Ela chama o Antigo de “artefato” e se aproxima do mistério pela via visual e material: fotografias, arquivos, marcas, registros antigos, relatos contraditórios e fragmentos esquecidos.
+
+Mas sua busca pela verdade também é uma fuga. Nina transforma a dor dos outros em investigação para evitar olhar para a própria história. Sua mentira interna é acreditar que revelar a verdade dos outros basta, mesmo que ela continue escondida de si mesma.
+
+O ponto de virada acontece quando ela percebe que o mesmo homem aparece em imagens de épocas, lugares e situações diferentes. A descoberta do Personagem Oculto nas fotografias, somada ao encontro com Noemi, faz Nina entender que o mistério é maior do que uma matéria, maior do que Elias e maior do que o próprio Antigo.
+
+Ao final do livro, Nina ainda não tem todas as respostas, mas deixa de ser apenas observadora. Ela começa a entender que investigar a verdade exige também encarar a própria dor — e que nem toda história pode ser tratada como conteúdo.
+
 ## Função na série
 
 Nina é o **olhar investigador** da série. Trabalha com imagem, mas começa a perceber que as pessoas mostram apenas partes de suas histórias.

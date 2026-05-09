@@ -2,17 +2,23 @@
 
 > Estado atual do projeto. Atualizado a cada marco significativo.
 
-**Última atualização:** 2026-05-07.
+**Última atualização:** 2026-05-09 (rodada 2 — todas as 36 DECs aprovadas).
 
 ---
 
 ## Estado atual
 
-> **Fase:** Planejamento avançado — quase pronto para iniciar a escrita.
+> **Fase:** Planejamento concluído — **pronto para iniciar a escrita do Livro 1**.
 
-A documentação técnica está **substancialmente completa**. O autor tem em mãos: PRD literário oficial, sistema de 13 bíblias técnicas, fichas individuais para personagens, cenários, lugares, clima, horários, objetos e a estrutura operacional para agents (este e arquivos correlatos).
+A documentação técnica está **completa**. O autor tem em mãos: PRD literário oficial, sistema de **14 bíblias técnicas**, fichas individuais para personagens, cenários, lugares, clima, horários, objetos, transporte, e estrutura operacional para agents.
 
-O foco imediato é **destravar decisões pendentes críticas** e iniciar o **Outline do Livro 1 — Lara**.
+**Marcos de 2026-05-09:**
+1. **Rodada 1** — 13 decisões aprovadas (DEC-018, DEC-019, DEC-023, DEC-024, DEC-025, DEC-026, DEC-027, DEC-028, DEC-029, DEC-030, DEC-031, DEC-032, DEC-033 + DEC-034 derivada). L1 destravado.
+2. **Rodada 2** — 6 decisões aprovadas (DEC-017, DEC-020, DEC-021, DEC-022, DEC-035, DEC-036). **Todas as 36 DECs estão aprovadas.**
+3. **Nova entidade canônica** — Primeira Guardiã (anterior a Elias e a Matusalém; nunca confirmada na Fase 1).
+4. **Nova frase canônica** — promessa antiga (DEC-022): *"Que o que estiver perdido ainda encontre quem o chame; e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
+
+**Foco agora:** criar a pasta `livros/livro-01-lara/` e iniciar o Outline detalhado dos 24 capítulos.
 
 ---
 
@@ -25,7 +31,7 @@ O foco imediato é **destravar decisões pendentes críticas** e iniciar o **Out
 
 ### Sistema de Bíblias (em `books/`)
 
-**13 bíblias técnicas:**
+**14 bíblias técnicas:**
 1. [`books/biblia-continuidade.md`](books/biblia-continuidade.md) — **HUB do sistema**.
 2. [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md) — quadro emocional.
 3. [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md) — quem conhece quem, mentiras, descobertas.
@@ -34,11 +40,12 @@ O foco imediato é **destravar decisões pendentes críticas** e iniciar o **Out
 6. [`books/biblia-continuidade-lugares.md`](books/biblia-continuidade-lugares.md) — tipos de lugar.
 7. [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md) — objetos por tier.
 8. [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md) — períodos do dia.
-9. [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) — mistério do objeto-mestre.
-10. [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) — mistério espiritual.
-11. [`books/biblia-de-elias.md`](books/biblia-de-elias.md) — mistério humano.
-12. [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) — jogo do leitor.
-13. [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md) — tamanho, capítulos, diagramação.
+9. [`books/biblia-continuidade-transporte.md`](books/biblia-continuidade-transporte.md) — **(novo, DEC-034)** mobilidade urbana e definição da "cidade da série".
+10. [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) — mistério do objeto-mestre.
+11. [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) — mistério espiritual.
+12. [`books/biblia-de-elias.md`](books/biblia-de-elias.md) — mistério humano.
+13. [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) — jogo do leitor.
+14. [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md) — tamanho, capítulos, diagramação.
 
 **Pastas de fichas individuais:**
 - [`books/personagens/`](books/personagens/) — 46 fichas (9 protagonistas + 3 recorrentes + 28 apoio + 1 semente + READMEs).
@@ -65,57 +72,67 @@ O foco imediato é **destravar decisões pendentes críticas** e iniciar o **Out
 
 > Detalhamento completo em [`DECISIONS.md`](DECISIONS.md).
 
-- **DEC-001:** Fase 1 terá **10 livros**.
-- **DEC-002:** Ordem oficial: Lara, Miguel, Rafael, Clara, Helena, Theo, Nina, Sofia, **Elias (L9)**, Convergência.
+### Aprovadas em sessões anteriores
+- **DEC-001:** Fase 1 com **10 livros**.
+- **DEC-002:** Ordem oficial dos protagonistas (Lara → Convergência).
 - **DEC-003:** O Antigo **nunca será nomeado** diretamente.
 - **DEC-004:** Personagem Oculto **nunca terá identidade confirmada**.
-- **DEC-005:** Elias gera **conflito, dúvida e julgamento**; Personagem Oculto gera **paz, respeito e gratidão**.
-- **DEC-006:** Charada central em **10 linhas**, uma por livro.
-- **DEC-007:** Número-âncora: **316**.
-- **DEC-008:** Tamanho médio dos livros: **240 páginas / 24 capítulos**.
-- **DEC-009:** Cidade-base **sem nome** (universalidade controlada).
-- **DEC-010:** **Sem marcas reais** (tecnologia, marcas, lugares).
-- **DEC-011:** Eixo do propósito maior: **espiritual + redenção + legado**.
-- **DEC-012:** Estrutura operacional para agents implementada (raiz com AGENTS, RULES, etc.).
+- **DEC-005:** Elias gera **conflito**; Oculto gera **paz**.
+- **DEC-006 / DEC-007:** Charada central em 10 linhas; Livro 9 dedicado a Elias.
+- **DEC-008:** Número-âncora: **316**.
+- **DEC-009:** Tamanho médio: **240 páginas / 24 capítulos**.
+- **DEC-010 / DEC-011:** Universalidade controlada — sem cidade nomeada, sem marcas reais.
+- **DEC-012:** Eixo do propósito maior: **espiritual + redenção + legado**.
+- **DEC-013 / DEC-014:** 4 partes por livro; função obrigatória por capítulo.
+- **DEC-015:** Sistema de bíblias com hierarquia.
+- **DEC-016:** Estrutura operacional para agents implementada (raiz).
+
+### Aprovadas em 2026-05-09 (rodada 1)
+- **DEC-018:** Talento de Lara — **restauração e encadernação artesanal**.
+- **DEC-019:** Profissão de Rafael — **advogado empresarial**.
+- **DEC-023:** Casaco do Oculto — **cinza-chumbo gasto**.
+- **DEC-024:** Marca canônica do Antigo — **três pontos discretos**.
+- **DEC-025:** Cidade-base **não nomeada** (confirmação canônica).
+- **DEC-026:** Nome interno do Oculto — **Matusalém**.
+- **DEC-027:** Frase-âncora — *"O que está ___ ainda pode ser chamado."*
+- **DEC-028:** Acrósticos por livro — L1 = **RECOMECO**.
+- **DEC-029:** 316 em L1 — mesa 3 + cadeira 16 / 3h16 / banco 16.
+- **DEC-030:** Cena Lara × Miguel — **18h, garoa fina**.
+- **DEC-031:** Identidade interna do Oculto — homem comum + guardião + amigo de Elias.
+- **DEC-032:** Janela cronológica — **mista**.
+- **DEC-033:** Camadas secundárias do propósito — familiar + missão.
+- **DEC-034:** Bíblia de Transporte criada.
+
+### Aprovadas em 2026-05-09 (rodada 2)
+- **DEC-017:** Vida secreta de Elias — **Sacrifício + Culpa + Missão + Espiritual** (4 camadas com hierarquia).
+- **DEC-020:** Profissão de Clara — **psicóloga clínica modelo híbrido** (consultório + hospital + projeto social).
+- **DEC-021:** Letras manuscritas — **A = B = C com escala temporal**; autora interna = **Primeira Guardiã**.
+- **DEC-022:** Promessa antiga — **promessa coletiva herdada via Primeira Guardiã**; frase canônica fixada.
+- **DEC-035:** Metrô na cidade — **NÃO** (proibido na Fase 1).
+- **DEC-036:** Estação canônica — **rodoviária**.
 
 ---
 
-## Decisões críticas pendentes
+## Decisões pendentes
 
-> Bloqueiam o início do rascunho do Livro 1 ou de livros específicos.
+> **Todas as 36 DECs registradas estão `aprovadas`.** Não há decisões críticas em aberto.
 
-### Críticas para iniciar o L1
-- [ ] **Talento principal de Lara** (canto / dança / composição).
-- [ ] **Profissão de Clara** (psicóloga / assistente social / mentora).
-- [ ] **Profissão de Rafael** (advogado / médico / empresário / pastor / jornalista).
-- [ ] **Cidade-base** definida internamente (mesmo sem nomear).
-- [ ] **Símbolo na capa do Antigo** (cor, forma, marca distintiva).
-- [ ] **Cor canônica do casaco do Personagem Oculto**.
-
-### Críticas para Bíblia de Pistas
-- [ ] **Acróstico do Livro 1** (palavra a formar).
-- [ ] **Frase-âncora de variação** definitiva.
-
-### Críticas para o L4 em diante
-- [ ] **Tipo de vida secreta de Elias** (sacrifício / culpa / missão / espiritual / identidade).
-- [ ] **Forma exata da promessa antiga**.
-- [ ] **Letra A = B = C?** (margens / carta / caderno do Oculto).
-
-> Lista completa em [`TASKS.md`](TASKS.md) e em cada bíblia (seção "Decisões pendentes").
+Decisões secundárias menores continuam abertas em bíblias específicas (forma de revelação em L9, idade de Elias no presente, conteúdo integral da carta antiga, etc.) — ver [`TASKS.md`](TASKS.md) e cada bíblia (seção "Decisões pendentes").
 
 ---
 
 ## Foco atual
 
-**Preparar a estrutura para iniciar o Livro 1 — Lara.**
+**Iniciar a fase de Outline do Livro 1 — Lara.**
 
 ### Próximos marcos
-1. **Resolver decisões críticas para o L1** (talento de Lara, profissões, cidade, capa do Antigo, casaco do Oculto).
+1. ~~Resolver decisões críticas para L1~~ ✓ **completo em 2026-05-09**.
 2. **Criar `livros/livro-01-lara/`** com os arquivos operacionais (OUTLINE, ARCOS, MAPA-PISTAS, MAPA-ILUSTRACOES, STATUS, changelog).
-3. **Escrever Outline detalhado** dos 24 capítulos do Livro 1 (4 partes × 6 capítulos).
-4. **Definir arco emocional** de Lara em estado inicial × ponto de virada × estado final.
-5. **Mapear pistas plantadas** no Livro 1 (linha 1 da charada, 316, anotações no Antigo, primeira sombra de Elias, primeira aparição do Oculto).
-6. **Escrever o primeiro capítulo** seguindo todas as bíblias.
+3. **Escrever Outline detalhado** dos 24 capítulos do L1 (4 partes × 6 capítulos), com palavras-acróstico **RECOMECO** nos capítulos 1–8.
+4. **Definir arco emocional** de Lara em estado inicial × ponto de virada × estado final, ancorado em DEC-018 (talento de restauração) e DEC-024 (Lara sente os três pontos do Antigo).
+5. **Mapear pistas plantadas** no L1: linha 1 da charada (*"Não nasci em capa."*), 316 nas formas DEC-029 (mesa 3 + cadeira 16 / 3h16 / banco 16), anotações no Antigo, primeira sombra de Elias, primeira aparição do Oculto, frase-âncora *"O que está perdido ainda pode ser chamado."* (DEC-027).
+6. **Decidir DEC-020** (profissão de Clara) antes do L4. Recomendação: psicóloga ou assistente social.
+7. **Escrever o primeiro capítulo** seguindo todas as bíblias.
 
 ---
 
@@ -123,11 +140,13 @@ O foco imediato é **destravar decisões pendentes críticas** e iniciar o **Out
 
 | Métrica | Valor |
 |---|--:|
-| Bíblias criadas | 13 |
-| Fichas individuais (personagens, cenários, clima, lugares, objetos, horários) | ~100 |
+| Bíblias criadas | 14 |
+| Fichas individuais (personagens, cenários, clima, lugares, objetos, horários) | ~101 (com Primeira Guardiã) |
 | Documentos de direção (PRDs) | 3 |
-| Arquivos operacionais (raiz) | 9 |
-| **Total de arquivos canônicos** | **~125** |
+| Arquivos operacionais (raiz) | 11 (com V2) |
+| **Decisões aprovadas (DEC-XXX)** | **36 / 36** ✓ |
+| Decisões ainda em aberto | 0 (numeradas) |
+| **Total de arquivos canônicos** | **~129** |
 | Capítulos escritos | 0 |
 | Livros em rascunho | 0 |
 
@@ -147,5 +166,5 @@ O foco imediato é **destravar decisões pendentes críticas** e iniciar o **Out
 
 ## Última sessão de trabalho
 
-**Data:** 2026-05-07.
-**Atividade:** Criação da estrutura operacional para agents (raiz do repositório). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.
+**Data:** 2026-05-09.
+**Atividade:** **Rodada 2** — processamento das 6 decisões finais (DEC-017, DEC-020, DEC-021, DEC-022, DEC-035, DEC-036) respondidas em [`DECISOES-PARA-RESPONDER-V2.md`](DECISOES-PARA-RESPONDER-V2.md). Criação da ficha da **Primeira Guardiã** (entidade canônica interna). Fixação da **frase canônica da promessa antiga** (DEC-022). Todas as 36 DECs estão agora aprovadas. Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.

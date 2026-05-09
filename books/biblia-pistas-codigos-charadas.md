@@ -91,6 +91,23 @@ Pistas funcionam pelo **acúmulo silencioso**. Uma pista isolada pode passar des
 ### 2.1 Identidade
 Número-âncora oficial da série. Aparece em **muitas formas**, **sem ser explicado**, em **3–4 livros principais** e em **todos os outros como detalhe leve**.
 
+### 2.1.1 Aparições oficiais no Livro 1 (DEC-029) ✓ **aprovado**
+**Forma canônica do 316 em L1:**
+
+1. **Mesa 3 + cadeira 16** na cafeteria — clara, primeira pista visual.
+2. **3h16** em relógio/celular/despertador de Lara — emocional, liga o número à dor.
+3. **Banco 16** no parque — quase invisível, opcional, recompensa de releitura.
+
+**Quantidade:** 2 aparições claras + 1 quase invisível.
+
+**Proibições no L1:**
+- **Não usar** apartamento 316.
+- **Não usar** página 316.
+- **Não usar** placa "3.16" no L1 — fica óbvio demais.
+- **Nunca explicar** o número dentro do livro.
+
+> Demais formas (apartamento, ônibus, quarto, telefone etc.) ficam reservadas para livros posteriores conforme a tabela 2.2.
+
 ### 2.2 Catálogo de aparições
 
 | Forma | Onde | Livro | Status |
@@ -133,7 +150,7 @@ A obra não confirma. Possibilidades para o leitor:
 ### 3.1 Identidade
 Frase poética em 10 linhas, **uma por livro**, plantada de forma sutil. Quando lidas em sequência (do L1 ao L10), formam **uma confissão poética do próprio Antigo**.
 
-Conferência cruzada com [`biblia-do-antigo.md` §11](biblia-do-antigo.md#11-a-charada-central--controle-das-10-linhas).
+Conferência cruzada com [`biblia-do-antigo.md` §11](biblia-do-antigo.md#11-a-charada-central--controle-das-10-linhas) e com a **marca dos três pontos** (DEC-024) em [`biblia-do-antigo.md` §1.3](biblia-do-antigo.md#13-a-marca-dos-três-pontos).
 
 ### 3.2 Tabela mestre
 
@@ -240,7 +257,9 @@ Uma frase aparece em **vários livros**, mas com **uma palavra trocada**. As pal
 
 ### 6.2 Frases-âncora planejadas
 
-#### 6.2.1 Frase do *“ainda pode ser chamado”*
+#### 6.2.1 Frase do *“ainda pode ser chamado”* — **canônica (DEC-027) ✓ aprovado**
+
+**Status:** Frase-âncora **oficial** da série. Padrão fixo: *"O que está ___ ainda pode ser chamado."* — apenas uma palavra varia entre livros.
 | Livro | Variação | Palavra-pista |
 |--:|---|---|
 | L1 | *“O que está **perdido** ainda pode ser chamado.”* | perdido |
@@ -618,19 +637,21 @@ Mesma técnica em formas diferentes entre livros.
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | 316 — significado interno (autor sabe; obra não revela) | toda a série | aberto |
-| 2 | Acróstico em todos os livros ou só em alguns? | títulos de capítulos | aberto |
+| 1 | 316 — significado interno (autor sabe; obra não revela) | toda a série | aberto (decisão grande, ver §2.4) |
+| 2 | ~~Acróstico em todos os livros ou só em alguns?~~ | títulos de capítulos | **✓ resolvido — DEC-028** (todos os livros, palavras na §4.2) |
 | 3 | Padrão dos capítulos selecionados (números primos, múltiplos, pares?) | técnica das últimas palavras | aberto |
-| 4 | Frase-âncora de variação: *“ainda pode ser chamado”* ou outra? | toda a série | aberto |
+| 4 | ~~Frase-âncora de variação: *“ainda pode ser chamado”* ou outra?~~ | toda a série | **✓ resolvido — DEC-027** (frase oficial, §6.2.1) |
 | 5 | Letras iniciais de personagens-semente: usar ou abandonar? | Fase 2 | aberto |
 | 6 | Quantos red herrings principais (3? 4?) | toda a Fase 1 | aberto |
-| 7 | Carta antiga tem data? Qual? | L5, L9 | aberto |
-| 8 | Símbolo na capa do Antigo: triângulo, três pontos, letra apagada, outro? | L1+ | aberto |
+| 7 | Carta antiga tem data? Qual? | L5, L9 | aberto (vide DEC-021 também pendente — A=B=C ou não) |
+| 8 | ~~Símbolo na capa do Antigo: triângulo, três pontos, letra apagada, outro?~~ | L1+ | **✓ resolvido — DEC-024** (três pontos discretos, vide [`biblia-do-antigo.md` §1.3](biblia-do-antigo.md#13-a-marca-dos-três-pontos)) |
 | 9 | Foto antiga investigada por Nina: quem aparece junto do objeto? | L7 | aberto |
 | 10 | A obra terá site / suplemento extra para a comunidade decodificar? | pós-publicação | aberto |
 | 11 | Identidade do "outro" na inscrição da árvore antiga (red herring) | L1, L9 | aberto |
+| 12 | ~~Forma canônica do 316 no L1?~~ | L1 | **✓ resolvido — DEC-029** (mesa 3 + cadeira 16; 3h16; banco 16, vide §2.1.1) |
 
-> **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas **antes** do livro afetado entrar em rascunho. Especialmente #1, #4 e #8 — afetam todos os livros.
+> **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas **antes** do livro afetado entrar em rascunho.
+> **Resolvidas em 2026-05-07:** DEC-024, DEC-027, DEC-028, DEC-029.
 
 ---
 

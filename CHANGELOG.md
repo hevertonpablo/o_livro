@@ -17,9 +17,97 @@
 ## [Unreleased]
 
 ### Pendente
-- Resolver decisões críticas para iniciar L1: DEC-017, DEC-018, DEC-019, DEC-020, DEC-023, DEC-024, DEC-025.
+- Criar `livros/livro-01-lara/` com OUTLINE, ARCOS, MAPA-PISTAS, MAPA-ILUSTRACOES, STATUS, changelog.
 - Criar `livros/livro-01-lara/` com OUTLINE, ARCOS, MAPA-PISTAS, MAPA-ILUSTRACOES, STATUS.
 - Definir `skills/` e `prompts/` (estrutura sugerida pelo PRD agentic).
+
+---
+
+## 2026-05-09 — Rodada 2 de decisões processada
+
+### Decidido — 6 decisões aprovadas (V2)
+
+Decisões aprovadas pelo autor em [`DECISOES-PARA-RESPONDER-V2.md`](DECISOES-PARA-RESPONDER-V2.md) e propagadas:
+
+- **DEC-017:** Tipo dominante de vida secreta de Elias — **Sacrifício + Culpa + Missão + Espiritual** (4 camadas com hierarquia). Subcamada possível: Identidade (não dominante). Antigo = elo importante, **não a origem**.
+- **DEC-020:** Profissão de Clara — **psicóloga clínica com modelo híbrido** (consultório próprio + vínculo eventual com hospital + projeto social com adolescentes em vulnerabilidade).
+- **DEC-021:** Três letras manuscritas — **A = B = C com escala temporal**. Mesma origem caligráfica em fases diferentes da vida. Autora interna canônica = **Primeira Guardiã** (figura anterior a Elias e a Matusalém). Não confirmar na Fase 1.
+- **DEC-022:** Promessa antiga — **promessa coletiva herdada por Elias e Matusalém através da Primeira Guardiã**. Frase canônica: *"Que o que estiver perdido ainda encontre quem o chame; e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."* Revelação parcial em L9 + camadas em L10 + sobras para Fase 2.
+- **DEC-035:** Cidade da série — **NÃO há metrô** (proibido na Fase 1). Ratifica recomendação canônica das bíblias de transporte e lugares.
+- **DEC-036:** Estação canônica — **rodoviária**. Ratifica recomendação canônica. Cena âncora: Nina × Noemi às 3h16 da manhã.
+
+### Adicionado
+- [`books/personagens/sementes/primeira-guardia.md`](books/personagens/sementes/primeira-guardia.md) — ficha da **Primeira Guardiã** (entidade interna canônica anterior a Elias e a Matusalém; nunca confirmada na Fase 1; origem da letra das três fontes manuscritas e da promessa antiga).
+- [`books/biblia-de-elias.md`](books/biblia-de-elias.md) §13.5 — A promessa antiga (DEC-022) com plantio dos fragmentos por livro.
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) §17 — Relação com a promessa antiga (DEC-022) + §17.2.1 frase canônica + §17.5 letra das margens (DEC-021).
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) §16.5 — A letra do caderno (DEC-021).
+
+### Alterado
+- [`DECISIONS.md`](DECISIONS.md) — DEC-017, DEC-020, DEC-021, DEC-022, DEC-035, DEC-036 movidas de `pendente` para `aprovado`. Todas as DECs registradas estão agora aprovadas.
+- [`books/personagens/protagonistas/elias.md`](books/personagens/protagonistas/elias.md) — DEC-017 (vida secreta com 4 camadas) + DEC-021 (reconhecimento da letra sem ser autor).
+- [`books/personagens/protagonistas/clara.md`](books/personagens/protagonistas/clara.md) — DEC-020 (psicóloga clínica + 3 cenários narrativos canônicos).
+- [`books/biblia-de-elias.md`](books/biblia-de-elias.md) §12 — DEC-017 fixada como canon; §20 status atualizado.
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) §16, §17, §22 — DEC-021, DEC-022, DEC-031.
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) §20 — DEC-021, DEC-022 marcadas resolvidas.
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md) — Clara (DEC-020), Elias (DEC-017, DEC-022), §12 status, nova seção sobre Primeira Guardiã.
+- [`books/biblia-continuidade-transporte.md`](books/biblia-continuidade-transporte.md) §15 — DEC-035, DEC-036 marcadas resolvidas.
+- [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md) §9 — DEC-035/036 resolvidas.
+- [`books/biblia-continuidade-lugares.md`](books/biblia-continuidade-lugares.md) §12 — DEC-035/036 resolvidas.
+- [`books/objetos/circulantes/carta-antiga.md`](books/objetos/circulantes/carta-antiga.md) — DEC-021 (letra) + DEC-022 (frase canônica) + esclarecimento de autoria.
+- [`books/objetos/simbolicos/caderno-do-oculto.md`](books/objetos/simbolicos/caderno-do-oculto.md) — DEC-021 + cena canônica em L10.
+- [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md) — atributo Margens com autora canônica.
+- [`DECISOES-PARA-RESPONDER-V2.md`](DECISOES-PARA-RESPONDER-V2.md) — marcado como `processado em 2026-05-09`.
+
+### Estado das decisões após esta rodada
+- **Aprovadas:** DEC-001 a DEC-036 (todas as 36 decisões registradas).
+- **Pendentes:** nenhuma DEC numerada está em aberto. (Decisões secundárias dentro de cada bíblia continuam pendentes — ver TASKS.md.)
+
+---
+
+## 2026-05-09 — Rodada 1 de decisões processada
+
+### Decidido — 13 decisões processadas
+
+Decisões aprovadas pelo autor em [`DECISOES-PARA-RESPONDER.md`](DECISOES-PARA-RESPONDER.md) e propagadas para todas as bíblias afetadas:
+
+- **DEC-018:** Talento canônico de Lara — **restauração e encadernação artesanal** (*"vê com os dedos"*).
+- **DEC-019:** Profissão canônica de Rafael — **advogado empresarial** (mentira interna: *"a verdade é aquilo que eu consigo sustentar sem ser desmentido"*).
+- **DEC-023:** Casaco do Personagem Oculto — **cinza-chumbo gasto** (variações de percepção permitidas; nunca preto absoluto, marrom vivo ou cor marcante).
+- **DEC-024:** Marca canônica do Antigo — **três pontos discretos** em triângulo no canto inferior direito da capa; Lara os sente com os dedos antes de ver.
+- **DEC-025:** Cidade-base — **não nomeada** (universalidade controlada confirmada). Tipologia urbana fica registrada em [`books/biblia-continuidade-transporte.md`](books/biblia-continuidade-transporte.md).
+- **DEC-026:** Nome interno do Personagem Oculto — **Matusalém** (jamais aparece na obra publicada).
+- **DEC-027:** Frase-âncora canônica de variação — *"O que está ___ ainda pode ser chamado."* — confirmada com palavra-pista por livro.
+- **DEC-028:** Acrósticos por livro — **L1 = RECOMECO** (capítulos 1–8), demais livros com sugestões internas.
+- **DEC-029:** Forma do número 316 em L1 — **mesa 3 + cadeira 16**, **3h16**, **banco 16**. Apartamento, página e placa proibidos no L1.
+- **DEC-030:** Cena Lara × Miguel no parque — **18h**, garoa fina, possível sino de angelus ao longe.
+- **DEC-031:** Identidade interna do Oculto — **homem comum usado por Deus + guardião indireto do Antigo + ligação antiga com Elias**. Obra nunca confirma; ambiguidade permanece.
+- **DEC-032:** Janela cronológica da Fase 1 — **mista** (presente curto Y0–Y+2 + flashbacks profundos por personagem; sem progressão linear livro a livro).
+- **DEC-033:** Camadas secundárias do propósito maior — **familiar + missão**, sustentando o núcleo espiritual de DEC-012.
+- **DEC-034:** Nova bíblia criada — [`books/biblia-continuidade-transporte.md`](books/biblia-continuidade-transporte.md) — define a "cidade da série" (ônibus 316, app de mobilidade genérico, táxi, bike, moto, estação) já que DEC-025 proíbe nome real.
+
+### Adicionado
+- [`books/biblia-continuidade-transporte.md`](books/biblia-continuidade-transporte.md) — Bíblia de Transporte com 15 seções.
+- [`books/biblia-continuidade.md`](books/biblia-continuidade.md) §1.0 — janela cronológica oficial (DEC-032) e §14.2 hierarquia de fontes.
+- [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) §2.1.1 — formas oficiais do 316 em L1; §4.2 — tabela de acrósticos com exemplo L1.
+- [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) §1.3 — marca dos três pontos com tabela de leituras múltiplas.
+- [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md) — identidade interna canônica (Matusalém + guardião + amigo de Elias).
+- [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md) §7.5 — acrósticos canônicos por livro (DEC-028).
+
+### Alterado
+- [`DECISIONS.md`](DECISIONS.md) — 13 decisões movidas de `pendente` para `aprovado`. DEC-035 e DEC-036 mantêm-se como pendentes com recomendação interna.
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md) — Lara (DEC-018), Rafael (DEC-019), Personagem Oculto (DEC-023, DEC-026, DEC-031).
+- [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md) — cena Lara × Miguel com 18h e garoa fina (DEC-030); §10 atualizada.
+- [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md) §9 — DEC-019, DEC-025, DEC-035, DEC-036.
+- [`books/biblia-continuidade-lugares.md`](books/biblia-continuidade-lugares.md) §12 — DEC-025, DEC-035, DEC-036.
+- [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md) §11 — DEC-025, DEC-030.
+- [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md) §11 — DEC-018, DEC-023, DEC-024, DEC-029.
+- [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md) — talento (DEC-018) e percepção dos três pontos (DEC-024).
+- [`books/personagens/protagonistas/rafael.md`](books/personagens/protagonistas/rafael.md) — profissão (DEC-019) + mentira interna.
+- [`books/personagens/recorrentes/personagem-oculto.md`](books/personagens/recorrentes/personagem-oculto.md) — Matusalém + casaco cinza-chumbo + identidade interna.
+- [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md) — três pontos (DEC-024).
+- [`books/objetos/simbolicos/casaco-do-oculto.md`](books/objetos/simbolicos/casaco-do-oculto.md) — cinza-chumbo (DEC-023).
+- [`books/objetos/simbolicos/caderno-do-oculto.md`](books/objetos/simbolicos/caderno-do-oculto.md) — esclarecimento DEC-021 ainda pendente.
+- [`DECISOES-PARA-RESPONDER.md`](DECISOES-PARA-RESPONDER.md) — marcado como `processado em 2026-05-09`.
 
 ---
 

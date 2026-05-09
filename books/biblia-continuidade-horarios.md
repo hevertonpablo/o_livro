@@ -77,7 +77,7 @@ Cada livro respeita uma **cronologia interna** que avança coerentemente. Saltos
 
 | Livro | Cena | Período / hora | Cenário | Status |
 |---|---|---|---|---|
-| L1 | Encontro Lara × Miguel | Cair da tarde | Parque | [planejado] |
+| L1 | Encontro Lara × Miguel | **18h (cair da tarde)** ✓ DEC-030 | Parque (com garoa fina) | [canon] |
 | L1 | Lara abre o Antigo | Madrugada | Apartamento de Lara | [planejado] |
 | L1 | Lara coloca pratinho para Mel | Manhã cedo | Apartamento de Lara | [planejado] |
 | L1 | Lara em corrida com Beto | Madrugada / noite alta | Transporte | [planejado] |
@@ -108,7 +108,7 @@ Cada livro respeita uma **cronologia interna** que avança coerentemente. Saltos
 
 | Cena | Livros | Horário travado |
 |---|---|---|
-| Encontro Lara × Miguel no parque | L1.cap3 / L2.cap? | **Cair da tarde** (~17h–18h) |
+| Encontro Lara × Miguel no parque | L1.cap3 / L2.cap? | **18h — cair da tarde, sob garoa fina** ✓ DEC-030 |
 | Aparição do Oculto no banco | L1, L7, L10 | L1 cair da tarde / L7 amanhecer (em foto antiga) / L10 amanhecer |
 | Faxineira × último banco da igreja | L3, L5 | L3 meio-dia / L5 fim de tarde |
 | Mesma mesa da cafeteria (Mesa 316) | L1, L2, L7 | L1 madrugada / L2 manhã / L7 tarde |
@@ -155,7 +155,7 @@ Horário-âncora ligado ao **número 316**. Aparece como:
 
 ### 5.2 Golden hour (cair da tarde)
 Período entre 17h e 19h em outono, com luz cor-de-âmbar. **Estado canônico** para:
-- Encontro Lara × Miguel (L1).
+- **Encontro Lara × Miguel (L1) — 18h ✓ DEC-030** (sob garoa fina; sino do angelus pode tocar ao longe; mesmas marcas no L2 sob POV de Miguel).
 - Helena com a carta antiga (L5).
 - Flashback de Elias jovem (L9 — clima da promessa).
 
@@ -279,15 +279,17 @@ Personagens não fazem em 30 minutos o que precisaria de 2 horas. **Trânsito re
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Forma exata do 3h16 em cada livro | toda a série | aberto |
+| 1 | Forma exata do 3h16 em cada livro | toda a série | aberto (L1 já resolvido em DEC-029 via Bíblia de Pistas §2.1.1) |
 | 2 | Horário canônico do flashback de Elias (L9) — cair da tarde fixado, mas hora exata? | L9 | aberto |
 | 3 | Convergência final é alvorada plena ou primeira luz? | L10 | aberto |
-| 4 | Cena Lara × Miguel: 17h, 18h ou 18h30? | L1, L2 | aberto |
+| 4 | ~~Cena Lara × Miguel: 17h, 18h ou 18h30?~~ | L1, L2 | **✓ resolvido — DEC-030** (18h, garoa fina) |
 | 5 | Sino da igreja toca em todos os livros? | continuidade sonora | aberto |
 | 6 | Elias usa relógio? Se sim, qual? | L9 e contexto | aberto |
 | 7 | A grande cidade tem fuso (apenas detalhe interno do autor)? | linha do tempo | aberto |
+| 8 | Janela cronológica da Fase 1 | toda a série | **✓ resolvido — DEC-032** (janela curta de 1–2 anos + flashbacks; ver hub §1) |
 
 > **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas **antes** do livro afetado entrar em rascunho.
+> **Resolvidas em 2026-05-07:** DEC-030, DEC-032.
 
 ---
 

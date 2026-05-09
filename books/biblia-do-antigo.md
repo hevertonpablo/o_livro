@@ -511,30 +511,63 @@ A frase pode ser dita por quem encontrou um — e aplicar-se ao outro.
 
 ---
 
-## 17. Relação com a promessa antiga
+## 17. Relação com a promessa antiga (DEC-022) ✓ **canon**
 
 ### 17.1 O que é a promessa antiga
-**A força no passado** que une os personagens da série. Algo aconteceu antes do tempo da Fase 1 — uma decisão, uma oração, uma promessa, uma palavra dada.
+**A força no passado** que une os personagens da série. Algo aconteceu antes do tempo da Fase 1 — uma **oração coletiva** feita por um pequeno grupo (possivelmente igreja pequena, casa de acolhimento, livraria antiga).
 
 A promessa antiga é o **eixo invisível** do propósito maior.
 
-### 17.2 Possíveis formas (decisão pendente)
-1. **Promessa de Elias** a alguém (mãe, esposa, filho, amigo, comunidade).
-2. **Oração antiga** feita por alguém da geração anterior (provável autora das primeiras anotações).
-3. **Promessa de família** — ligada a Helena, Mariana, Lourdes.
-4. **Compromisso de proteção** — Elias prometeu proteger alguém.
+### 17.2 Forma canônica (DEC-022)
 
-### 17.3 Onde a promessa aparece
-| Livro | Como reaparece |
+**Promessa coletiva herdada por Elias e Matusalém através da Primeira Guardiã.**
+
+| Camada | Conteúdo |
 |---|---|
-| L1 | Sensação inexplicável de Lara no parque |
-| L5 | **Carta antiga revela parte da promessa** |
-| L7 | Nina cruza pistas; promessa começa a tomar forma |
-| L9 | **Promessa narrada por Elias** |
-| L10 | Cumprimento simbólico no propósito maior |
+| **Origem** | Oração coletiva no passado profundo (grupo/comunidade simples) |
+| **Guardiã original** | A **Primeira Guardiã** — figura interna anterior a Elias e ao Personagem Oculto. Ver [`personagens/sementes/primeira-guardia.md`](../personagens/sementes/primeira-guardia.md) |
+| **Como Elias herdou** | Como **responsabilidade concreta** — falhou parcialmente em cumpri-la (origem da DEC-017) |
+| **Como Matusalém herdou** | Como **presença silenciosa** — reconhece quando uma vida ainda pode ser chamada |
+| **Onde estão os fragmentos** | Margens do Antigo, carta antiga (L5), caderno do Personagem Oculto — **mesma letra**, fases diferentes (DEC-021) |
 
-### 17.4 Regra
-**A promessa só é compreendida em L9.** Antes disso, é sensação, fragmento, eco.
+**Princípio canônico:** **A promessa não pertence a Elias. Não pertence a Matusalém. Já existia antes deles. O Antigo carrega fragmentos dela, mas não a possui.**
+
+### 17.2.1 Frase canônica da promessa antiga (DEC-022)
+
+> *"Que o que estiver perdido ainda encontre quem o chame;*
+> *e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
+
+A frase **conversa diretamente** com a frase-âncora canônica (DEC-027): *"O que está ___ ainda pode ser chamado."* — a frase-âncora é **eco da promessa**.
+
+### 17.3 Onde a promessa aparece (em fragmentos)
+
+| Livro | Fragmento revelado |
+|--:|---|
+| L1 — Lara | *"…ainda encontre quem o chame."* (sensação inexplicável no parque) |
+| L5 — Helena | *"Que o que estiver perdido…"* (na carta antiga) |
+| L7 — Nina | Nina percebe que os fragmentos pertencem à mesma frase |
+| L9 — Elias | Elias revela parte da origem da promessa, **mas não tudo** |
+| L10 — Convergência | Cumprimento simbólico no propósito maior — leitor entende que a frase é a **raiz do movimento do Antigo** |
+
+### 17.4 Regra de revelação canônica
+
+**Revelada parcialmente em L9 + camadas em L10 + pequenas sobras para Fase 2.**
+
+**Em L9, Elias NÃO revela:**
+- A origem absoluta do Antigo.
+- Tudo sobre Matusalém.
+- A história completa da Primeira Guardiã.
+- Por que o Antigo parece chegar às pessoas certas.
+
+**Antes do L9, a promessa é sensação, fragmento, eco.**
+
+### 17.5 A letra das margens (DEC-021)
+
+As anotações nas margens do Antigo **NÃO são de Elias** nem do Personagem Oculto. Pertencem à **Primeira Guardiã** — fase mais antiga e firme da mesma caligrafia que aparece também na carta antiga (L5) e no caderno do Personagem Oculto.
+
+**A Fase 1 não confirma** essa autoria. A obra apenas **sugere** que existe uma origem comum às três fontes manuscritas.
+
+Conferência cruzada com [`biblia-do-personagem-oculto.md` §16.5](biblia-do-personagem-oculto.md#165-a-letra-do-caderno-dec-021--canon) e [`biblia-de-elias.md` §13.5](biblia-de-elias.md#135-a-promessa-antiga-dec-022--canon).
 
 ---
 
@@ -604,21 +637,21 @@ Mesmo que o leitor decifre que é uma Bíblia, o **sentido** é maior — e o li
 |--:|---|---|---|
 | 1 | Cor canônica da capa do Antigo | toda a série | aberto (preto envelhecido / marrom muito escuro / bordô gasto) |
 | 2 | ~~Símbolo / letra apagada na capa~~ | ~~L1 plantio~~ | **✓ DEC-024 — três pontos / triângulo imperfeito** |
-| 3 | Letras manuscritas: A = B = C? | mistério final | aberto |
-| 4 | Tipo de vínculo de Elias com o objeto (posse / guardião / destruição / promessa) | L9 | aberto |
-| 5 | Forma exata da promessa antiga | L5, L9 | aberto |
+| 3 | ~~Letras manuscritas: A = B = C?~~ | mistério final | **✓ DEC-021 — A = B = C com escala temporal; autora interna = Primeira Guardiã (vide §17.5)** |
+| 4 | Tipo de vínculo de Elias com o objeto (posse / guardião / destruição / promessa) | L9 | parcial — **DEC-017 + DEC-022** (Elias é elo importante, não dono; herdou a promessa via Primeira Guardiã) |
+| 5 | ~~Forma exata da promessa antiga~~ | L5, L9 | **✓ DEC-022 — promessa coletiva herdada via Primeira Guardiã (vide §17.2)** |
 | 6 | Quem entrega o Antigo a Sofia em L8 | L8 | aberto |
-| 7 | Conteúdo integral da carta antiga | L5, L9 | aberto |
+| 7 | Conteúdo integral da carta antiga | L5, L9 | aberto (mas a frase canônica da promessa **está fixada** — vide §17.2.1) |
 | 8 | Identidade da Mulher da Foto (segura o Antigo na foto?) | L7 | aberto |
 | 9 | Apelido de Helena para o Antigo | L5 | aberto |
 | 10 | Apelido de Theo para o Antigo | L6 | aberto |
 | 11 | Frase canônica que detém Sofia em L8 | L8 | aberto |
-| 12 | Ligação entre Personagem Oculto e Antigo: guardião explícito ou não? | L10 | aberto |
+| 12 | Ligação entre Personagem Oculto e Antigo: guardião explícito ou não? | L10 | parcial — **DEC-031 + DEC-022** (Matusalém é co-herdeiro silencioso da promessa; reconhece quando o Antigo precisa chegar) |
 | 13 | A foto antiga de L7 é a mesma foto da loja? Mesma do mural? | continuidade | aberto |
 | 14 | Forma do Antigo em L9: livro inteiro, capa sem miolo, ou ambos em flashbacks? | L9 | aberto |
 
 ### 20.1 Regra de fechamento
-Decisões críticas (#3, #4, #5) precisam ser fechadas **antes** de começar L5 — porque a carta antiga é a primeira peça que **força** a coerência.
+**Resolvidas em 2026-05-09:** DEC-021, DEC-022 (decisões críticas que destravavam o L5).
 
 ---
 

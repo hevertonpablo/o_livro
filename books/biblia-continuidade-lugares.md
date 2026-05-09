@@ -356,17 +356,20 @@ A obra **pode** evocar elementos reconhecíveis (favela, calçadão à beira-mar
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | A grande cidade da Fase 1 é uma só, ou várias? | toda a estrutura | aberto |
-| 2 | A origem de Elias: cidade do interior ou vilarejo? | L9 | aberto |
-| 3 | Onde fica a igreja pequena: bairro antigo ou bairro do parque? | igreja pequena | aberto |
-| 4 | Bairro de Lara = bairro do parque ou cotidiano comum? | apartamento de Lara | aberto |
-| 5 | Bairro de Miguel: periferia, cotidiano ou bairro central? | núcleo de Miguel | aberto |
+| 1 | ~~A grande cidade da Fase 1 é uma só, ou várias?~~ | toda a estrutura | **✓ resolvido — DEC-025** (cidade única, **não nomeada** — universalidade controlada; tipologia em [`biblia-continuidade-transporte.md`](biblia-continuidade-transporte.md)) |
+| 2 | A origem de Elias: cidade do interior ou vilarejo? | L9 | aberto (sem nome) |
+| 3 | Onde fica a igreja pequena: bairro antigo ou bairro do parque? | igreja pequena | aberto (apenas tipologia) |
+| 4 | Bairro de Lara = bairro do parque ou cotidiano comum? | apartamento de Lara | aberto (sem nome) |
+| 5 | Bairro de Miguel: periferia, cotidiano ou bairro central? | núcleo de Miguel | aberto (sem nome) |
 | 6 | Localização do hospital (atravessável por todos) | hospital | aberto |
 | 7 | A cidade pequena aparece só em flashback (L9) ou também no presente? | L9 | aberto |
 | 8 | Existe vista do mar / litoral / serra? (define paisagem-canon) | descrições gerais | aberto |
-| 9 | Tem metrô na grande cidade? | transporte | aberto |
+| 9 | ~~Tem metrô na grande cidade?~~ | transporte | **✓ resolvido em 2026-05-09 — DEC-035 (NÃO; proibido na Fase 1)** |
+| 10 | ~~Estação canônica = trem ou rodoviária?~~ | L7 | **✓ resolvido em 2026-05-09 — DEC-036 (rodoviária)** |
 
-> **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas **antes** de iniciar o rascunho do livro afetado. Especialmente a #1 — define toda a paleta urbana.
+> **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas **antes** de iniciar o rascunho do livro afetado.
+> **Resolvidas em 2026-05-07:** DEC-025.
+> **Lembrete (DEC-025):** **nenhum nome real** de cidade, bairro, estado ou país pode aparecer na obra. Sempre tipologia (*o bairro antigo*, *a periferia*, *o centro*).
 
 ---
 

@@ -14,11 +14,11 @@ Carta manuscrita escondida entre as folhas do Antigo. **Conteúdo conhecido apen
 | Papel | Envelhecido, ligeiramente amarelado, dobras gastas |
 | Formato | Folha dobrada em quatro (a definir) |
 | Tamanho | Folha média, manuscrita |
-| Letra | Manuscrita, regular — **possivelmente a mesma letra das margens do Antigo** |
+| **Letra (DEC-021) ✓ canon** | Manuscrita, **mesma origem caligráfica** das margens do Antigo e do caderno do Personagem Oculto — **fase emocional, pressionada, urgência** (intermediária entre as três). **A autora interna é a Primeira Guardiã**, anterior a Elias e ao Personagem Oculto. Ver [`../../personagens/sementes/primeira-guardia.md`](../../personagens/sementes/primeira-guardia.md). |
 | Tinta | Caneta tinteiro, cor azul-escura ou preta |
 | Marcas físicas | Vincos profundos, possível mancha de água, borda manchada |
 | Saudação | Início preserva a saudação parcialmente legível |
-| Assinatura | Inicial ou primeiro nome a definir (provavelmente *“E.”* ou similar — pista) |
+| Assinatura | Inicial ou primeiro nome a definir (decisão aberta — **NÃO é "E." de Elias**, pois DEC-021 desloca a autoria para a Primeira Guardiã) |
 | Data | Pode estar parcialmente apagada |
 
 ## 3. Conteúdo
@@ -52,8 +52,19 @@ Carta manuscrita escondida entre as folhas do Antigo. **Conteúdo conhecido apen
 ## 6. Conexões com Antigo, Oculto, Elias
 
 - **Antigo:** a carta é a **peça interna** mais importante do objeto.
-- **Oculto:** a letra da carta pode coincidir com a do caderno do Oculto (decisão pendente).
-- **Elias:** a carta provavelmente foi **escrita por** ou **destinada a** Elias. É possivelmente o **eixo da promessa antiga**.
+- **Oculto:** a letra da carta **coincide canonicamente** com a do caderno do Personagem Oculto (DEC-021 — mesma origem com escala temporal).
+- **Elias:** a carta foi **destinada a Elias** (ou a alguém de quem ele tomou posse posteriormente) por parte da **Primeira Guardiã** que confiou a ele a promessa antiga (DEC-022). **Elias NÃO é o autor da carta** — ele é o **destinatário/herdeiro**.
+
+## 6.1 Frase canônica da promessa antiga (DEC-022)
+
+A carta carrega o **trecho central** da frase canônica da promessa antiga:
+
+> *"Que o que estiver perdido ainda encontre quem o chame;*
+> *e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
+
+**Plantio:** em L5, Helena pode ler **um fragmento** legível: *"Que o que estiver perdido…"*. Em L7, Nina percebe que esse fragmento **conecta-se** com outro fragmento plantado em L1 (*"…ainda encontre quem o chame."*). Em L9, a frase é compreendida como a **promessa antiga**.
+
+A frase **conversa diretamente** com a frase-âncora canônica (DEC-027): *"O que está ___ ainda pode ser chamado."*
 
 ## 7. Pistas plantadas
 
@@ -61,9 +72,9 @@ Carta manuscrita escondida entre as folhas do Antigo. **Conteúdo conhecido apen
 |---|---|---|
 | Saudação | Parcialmente legível | L5 |
 | Inicial / primeiro nome | Pista parcial | L5 |
-| Linha solta | *“…enquanto a luz ainda não tiver passado por completo, lembre que…”* (a definir) | L5 |
+| Fragmento da frase canônica da promessa | *"Que o que estiver perdido…"* | L5 |
 | Data parcialmente apagada | Pista temporal | L5 |
-| Letra reconhecível | Conexão com margens do Antigo | L5/L7 |
+| Letra reconhecível | Conexão com margens do Antigo + caderno do Oculto (DEC-021) | L5/L7 |
 
 ## 8. Cuidados narrativos
 
@@ -75,7 +86,8 @@ Carta manuscrita escondida entre as folhas do Antigo. **Conteúdo conhecido apen
 ## 9. Decisões pendentes
 
 - Texto integral da carta.
-- Quem escreveu, a quem foi destinada.
-- Inicial / nome.
+- ~~Quem escreveu~~ — **✓ DEC-021/DEC-022:** autora interna = **Primeira Guardiã** (anterior a Elias e ao Oculto). Não confirmar na Fase 1.
+- A quem foi destinada — provavelmente a Elias (responsabilidade concreta da promessa). Aberto para detalhar em L9.
+- Inicial / nome — aberto, mas **não pode ser "E." de Elias** (DEC-021).
 - Data.
-- A letra é igual à das margens do Antigo? (Decisão grande — define se Elias escreveu nas margens.)
+- ~~A letra é igual à das margens do Antigo?~~ — **✓ DEC-021:** sim, **A = B = C com escala temporal** (mesma autora em fases diferentes).

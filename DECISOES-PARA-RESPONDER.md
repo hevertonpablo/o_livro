@@ -9,7 +9,18 @@
 - Se quiser que eu sugira (depois de avaliar prós/contras), escreva `[QUERO QUE VOCÊ SUGIRA]` no campo.
 - Se quiser pular por agora, deixe `[PULAR POR ORA]`.
 
-**Status:** preenchimento em aberto.
+**Status:** ✅ **PROCESSADO em 2026-05-09.**
+
+Todas as 11 perguntas deste documento foram respondidas pelo autor e propagadas. Decisões aprovadas (14 DECs, pois algumas perguntas geraram mais de uma): **DEC-012 (confirmada), DEC-018, DEC-019, DEC-023, DEC-024, DEC-025, DEC-026, DEC-027, DEC-028, DEC-029, DEC-030, DEC-031, DEC-032, DEC-033, DEC-034**.
+
+Consulte:
+- [`DECISIONS.md`](DECISIONS.md) — registro canônico (ADR).
+- [`CHANGELOG.md`](CHANGELOG.md) entrada `2026-05-09`.
+- [`SESSION_LOG.md`](SESSION_LOG.md) — log da sessão de processamento.
+
+**Decisões que continuam em aberto no `DECISIONS.md` mas que NÃO estavam neste documento** (precisarão de novo questionário em sessão futura): DEC-017, DEC-020, DEC-021, DEC-022, DEC-035, DEC-036.
+
+> Conteúdo abaixo mantido como **histórico** das perguntas feitas e das respostas que o autor deu.
 
 ---
 

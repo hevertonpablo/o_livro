@@ -12,7 +12,7 @@ Casaco simples que o Oculto **sempre veste**. Funciona como **assinatura visual*
 | Atributo | Estado canônico |
 |---|---|
 | Tipo | Casaco médio — entre paletó e jaqueta de tecido |
-| Cor | Tom terra (a definir entre marrom escuro, cinza de chumbo ou verde-musgo) |
+| **Cor canônica (DEC-023) ✓ aprovado** | **Cinza-chumbo gasto.** Pode ser percebido como cinza escuro, cinza de chuva, carvão gasto, tecido escurecido pelo tempo — **nunca preto absoluto, marrom vivo ou cor marcante.** *O casaco é sempre o mesmo, mas a percepção da cor pode variar conforme luz, clima, memória e ponto de vista.* |
 | Material | Tecido — não couro, não nylon |
 | Estado | Bem cuidado, mas com sinais de uso longo |
 | Bolsos | Dois externos + bolso interno onde mora o **caderno pequeno** |
@@ -24,9 +24,11 @@ Casaco simples que o Oculto **sempre veste**. Funciona como **assinatura visual*
 
 Quando aparece em um livro, é referido como:
 - *“o casaco simples”*
-- *“o casaco de tom terra”*
+- *“o casaco cinza-chumbo”*
 - *“o casaco de tecido”*
 - *“aquele casaco antigo”*
+- *“o casaco cor de chuva”* (variação evocativa)
+- *“o casaco escuro pelo tempo”* (variação evocativa)
 
 **Nunca como “casaco caro” ou “casaco da moda”.** O valor da peça é a sua **invisibilidade social** — passa por qualquer ambiente sem ser notado.
 
@@ -66,13 +68,14 @@ Quando aparece em um livro, é referido como:
 
 ## 8. Cuidados narrativos
 
-- **Cor canônica precisa ser fixada antes do Livro 1.** Sugestão: **tom terra escuro** — neutro o suficiente para passar despercebido em qualquer ambiente, distinto o suficiente para ser reconhecido.
+- **Cor canônica fixada (DEC-023):** cinza-chumbo gasto.
 - O casaco **nunca muda** entre livros. Isso é parte da pista visual de L7 (Nina percebe a mesma figura em fotos de décadas diferentes).
 - **Não descrever em detalhes excessivos.** A força do casaco é justamente sua simplicidade.
 - **Imagem-canon:** *“o casaco simples no banco vazio”* — usar com parcimônia (máximo 3 livros: L1, L7, L10).
+- **Variação de percepção é canônica:** sob garoa pode parecer mais escuro, sob luz da tarde pode parecer carvão; sob memória pode parecer só "escuro". A *forma* é constante; a *cor exata* tem leve variação na voz dos personagens — o casaco continua sendo o mesmo.
 
 ## 9. Decisões pendentes
 
-- Cor exata.
+- ~~Cor exata.~~ **✓ resolvido — DEC-023** (cinza-chumbo gasto).
 - O casaco tem alguma marca pequena (mancha, costura, botão diferente)?
 - Em L9, o casaco aparece igual ou mais novo? (Decisão grande sobre a natureza do Oculto.)

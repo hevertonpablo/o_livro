@@ -268,6 +268,35 @@ A série tem **livros cruzados, horários e lugares recorrentes**. O bloco de id
 ### 7.4 Cuidado
 **Sem ostentação.** Não usar tipografia chamativa. O bloco é **discreto** — uma pausa visual antes do texto.
 
+### 7.5 Títulos de capítulo e acrósticos canônicos (DEC-028) ✓ **aprovado**
+
+> **Cada livro carrega uma palavra-acróstico oficial** formada pelas **primeiras letras** dos títulos de capítulos selecionados.
+> Fonte autoritativa: [`biblia-pistas-codigos-charadas.md` §4.2](biblia-pistas-codigos-charadas.md#42-acróstico-oficial-por-livro-dec-028).
+
+| Livro | Palavra-acróstico | Capítulos cobertos | Status |
+|--:|---|---|---|
+| **L1** | **RECOMECO** (8 letras) | Capítulos 1–8 | **✓ aprovado** |
+| L2 | **CAMINHO** (7 letras) | Capítulos 1–7 | sugestão |
+| L3 | **MASCARA** (7 letras) | Capítulos 1–7 | sugestão |
+| L4 | **CUIDADO** (7 letras) | Capítulos 1–7 | sugestão |
+| L5 | **PERDAO** (6 letras) | Capítulos 1–6 | sugestão |
+| L6 | **RITMO** (5 letras) | Capítulos 1–5 | sugestão |
+| L7 | **VESTIGIO** (8 letras) | Capítulos 1–8 | sugestão |
+| L8 | **LIMITE** (6 letras) | Capítulos 1–6 | sugestão |
+| L9 | **PROMESSA** (8 letras) | Capítulos 1–8 | sugestão |
+| L10 | **CONVERGENCIA** (12 letras) | Capítulos 1–12 | sugestão |
+
+**Regras editoriais:**
+
+1. **Título precisa fazer sentido isolado** — não pode ficar artificial só para servir o acróstico.
+2. **Apenas a primeira letra conta.** Demais letras do título são livres.
+3. **RECOMECO usa C no lugar do Ç** (acróstico = letras simples). Os títulos podem ostentar a grafia natural ("Recomeço") quando aparecem na obra.
+4. O acróstico **não é declarado** em nenhum lugar da obra publicada. É descoberta de releitura para o leitor investigador.
+5. **Cuidado com o diagramador:** o sumário não deve destacar a primeira letra de cada título. Tipografia uniforme.
+6. **Variar a estratégia entre livros:** alguns livros podem cobrir só uma parte dos capítulos (ex.: L1 cobre só 1–8 dos 24); outros podem ter palavras menores. **Não usar acróstico além dos primeiros N capítulos** — depois disso, títulos voltam a ser livres.
+
+**Status:** `aprovado` em 2026-05-07 — palavras de L2–L10 são sugestões internas e podem ser revistas no fechamento de cada livro.
+
 ---
 
 ## 8. Abertura de partes
@@ -799,8 +828,10 @@ Conforme §20 — sem sobrecarga visual.
 | 12 | L10 — recurso visual coletivo no fim? | L10 | aberto |
 | 13 | E-book: como adaptar boxes e fragmentos? | edição digital | aberto |
 | 14 | Audiobook: como tratar fragmentos visuais? | edição em áudio | aberto |
+| 15 | ~~Acrósticos por livro (titulação de capítulos)~~ | títulos de capítulos | **✓ resolvido — DEC-028** (vide §7.5) |
 
 > **Regra de fechamento:** decisões 1, 2, 3, 6 são **críticas** — afetam todos os livros e devem ser resolvidas antes do L1 entrar em rascunho final / arte.
+> **Resolvidas em 2026-05-07:** DEC-028.
 
 ---
 

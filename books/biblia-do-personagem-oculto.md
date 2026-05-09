@@ -535,16 +535,37 @@ Antes de escrever uma cena com revelação, conferir esta lista. Se está aqui, 
 
 Define a função: ele **não é dono**, é **direcionador**.
 
-### 16.2 Possibilidades canônicas
+### 16.2 Possibilidades canônicas (DEC-031 + DEC-021 + DEC-022)
 - **Guardião** — sabe quando o objeto precisa chegar a alguém.
-- **Co-autor das margens** — possível autor de algumas anotações (Letra C = Letra A?).
-- **Amigo de Elias** — sabe da promessa.
+- **Herdeiro indireto da promessa antiga (DEC-022)** — recebeu a promessa **como presença silenciosa** da Primeira Guardiã, em paralelo a Elias. Ver [`personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md).
+- **Não é o autor das margens (DEC-021)** — a letra das margens é da **Primeira Guardiã**, não dele. Mas o **caderno** dele tem a mesma origem caligráfica (anos depois). Ver §16.5.
+- **Amigo de Elias** — sabe da promessa, conheceu Elias antigamente.
 - **Combinação dessas.**
 
 ### 16.3 Imagens-canon que ligam ambos
 - **Casaco simples no banco vazio**, com o Antigo ao lado (raríssimo — máximo 1 cena, possivelmente L10).
-- **Caderno do Oculto** com **mesma letra** das margens? (decisão grande pendente).
+- **Caderno do Oculto** com a **mesma letra** das margens — confirmado canônico em DEC-021 (mesma origem com escala temporal — caderno é a fase mais recente).
 - **Personagem Oculto presente em foto antiga junto com o Antigo** (L7).
+
+### 16.4 ~~Regra~~
+
+Removido o aviso anterior sobre "decisão pendente" — DEC-021 e DEC-022 estão **resolvidas**.
+
+### 16.5 A letra do caderno (DEC-021) ✓ **canon**
+
+A letra das **anotações no caderno pequeno** do Personagem Oculto **tem a mesma origem caligráfica** das anotações nas margens do Antigo e da carta antiga (L5). Mas em **fase mais recente da vida**:
+
+| Fonte | Fase percebida |
+|---|---|
+| Margens do Antigo | Mais antiga, firme, ritualística |
+| Carta antiga (L5) | Emocional, pressionada, urgência |
+| **Caderno do Oculto** | **Trêmula, reduzida, econômica, marcada pela idade** |
+
+**Origem interna:** Primeira Guardiã (anterior a Elias e ao Oculto). **NÃO confirmar na Fase 1.**
+
+**Cena canônica em L10:** Matusalém olha para o caderno e **passa o dedo sobre uma frase** como se lembrasse de quem ensinou a escrever daquele jeito. Sem dizer. Sem explicar.
+
+Conferência cruzada com [`biblia-do-antigo.md` §16](biblia-do-antigo.md#16-relação-com-o-personagem-oculto) e [`biblia-de-elias.md` §13.5](biblia-de-elias.md#135-a-promessa-antiga-dec-022--canon).
 
 ### 16.4 Regra
 A relação **insinua**, **nunca explica**. Em L10, fecha-se simbolicamente — não literalmente.
@@ -555,19 +576,20 @@ Conferência cruzada com [`biblia-do-antigo.md` §16](biblia-do-antigo.md#16-rel
 
 ## 17. Relação com Elias
 
-### 17.1 Vínculo possível
-- Provável **amigo antigo** ou **conhecido de juventude**.
-- Pode saber a verdade sobre Elias antes de qualquer outro personagem.
-- Pode estar ligado à **promessa antiga** — testemunha, garante, intercessor.
+### 17.1 Vínculo canônico (DEC-031 + DEC-022)
+- **Amigo antigo** de Elias (canônico — DEC-031).
+- Sabe a verdade sobre Elias antes de qualquer outro personagem.
+- **Co-herdeiro da promessa antiga** (DEC-022) — Elias recebeu como **responsabilidade concreta**; o Oculto recebeu como **presença silenciosa**. Ambos a herdaram da **Primeira Guardiã** (vide [`personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md)).
 - Em flashback (L9), pode aparecer **mais novo** — abrindo pergunta sobre o tempo.
 
-### 17.2 Decisão grande
-| Hipótese | Implicação |
-|---|---|
-| Oculto = Elias jovem | **Proibido** — eles são personagens distintos |
-| Oculto = amigo de Elias | Provável e canônico |
-| Oculto = intercessor / mensageiro | Aberto — leitor decide |
-| Oculto = autor das margens (junto com Elias) | Possível |
+### 17.2 Decisão grande — resolvida
+| Hipótese | Implicação | Status |
+|---|---|---|
+| Oculto = Elias jovem | **Proibido** — eles são personagens distintos | **proibido** |
+| Oculto = amigo de Elias | Canônico | ✓ DEC-031 |
+| Oculto = intercessor / mensageiro | Aberto — leitor decide | aberto |
+| Oculto = autor das margens (junto com Elias) | **Falso** — a letra das margens é da Primeira Guardiã, anterior aos dois | ✓ DEC-021 (descartada) |
+| Oculto = herdeiro da promessa antiga via Primeira Guardiã | Canônico | ✓ DEC-022 |
 
 ### 17.3 Em L9
 A revelação de Elias **pode incluir** referência ao Oculto — sem confirmá-lo. Elias pode dizer:
@@ -700,7 +722,7 @@ Frase pequena. Gesto pequeno. Peso pelo acúmulo.
 |--:|---|---|---|
 | 1 | ~~Nome interno fixo~~ | ~~coerência de voz~~ | **✓ DEC-026 — Matusalém** |
 | 2 | ~~Cor canônica do casaco~~ | ~~toda a série~~ | **✓ DEC-023 — cinza-chumbo gasto** |
-| 3 | Letra do caderno = letra das margens do Antigo? | mistério final | aberto (DEC-021) |
+| 3 | ~~Letra do caderno = letra das margens do Antigo?~~ | mistério final | **✓ resolvido — DEC-021** (mesma origem caligráfica em escala temporal; autora interna = Primeira Guardiã, anterior a Elias e ao Oculto) |
 | 4 | Aparece como criança / jovem em algum flashback? | L9 | aberto |
 | 5 | Imagem do casaco no banco vazio: L1, L7, L10 ou outro padrão? | continuidade | aberto |
 | 6 | Quem entrega o Antigo a Sofia (L8) — é ele? | L8 | aberto |
@@ -710,8 +732,9 @@ Frase pequena. Gesto pequeno. Peso pelo acúmulo.
 | 10 | Detalhe do caderno (cor, marca, conteúdo visível) | aparições futuras | aberto |
 | 11 | Frases para alocar (§7.2): em qual livro, dito por ele? | a alocar | aberto |
 | 12 | A pétala / vento / cheiro residual em L10 — qual sinal predomina? | L10 | aberto |
+| 13 | ~~Vínculo Oculto × Elias~~ | linha do mistério | **✓ resolvido — DEC-031 + DEC-022** (amigo antigo + co-herdeiros da promessa via Primeira Guardiã) |
 
-> **Regra de fechamento:** decisões 1 e 2 já resolvidas. A decisão 3 (letra A=B=C) segue como bloqueador grande para o L5+.
+> **Resolvidas em 2026-05-09:** DEC-021, DEC-022 (parcial), DEC-031.
 
 ---
 

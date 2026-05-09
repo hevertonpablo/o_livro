@@ -25,7 +25,11 @@ Caderno pequeno que o Oculto carrega. Sinal recorrente — sua presença frequen
 O Oculto **anota nomes, frases ou orações**. O conteúdo **nunca é mostrado em primeiro plano** ao leitor:
 - Personagens podem **vislumbrar** alguma palavra de relance.
 - Nunca o caderno é entregue para alguém ler.
-- Anotações são em letra manuscrita simples, **possivelmente a mesma letra das margens do Antigo**.
+- Anotações são em letra manuscrita simples — **mesma origem caligráfica** das margens do Antigo e da carta antiga (DEC-021), em **fase mais recente** (trêmula, reduzida, econômica). A autora original (interna) é a **Primeira Guardiã**, não o próprio Oculto — ele continua a escrita de quem o ensinou, sem revelar quem foi.
+
+### 3.1 Cena canônica em L10 (DEC-021)
+
+Em L10, Matusalém olha para o caderno e **passa o dedo sobre uma frase** como se lembrasse de quem ensinou a escrever daquele jeito. **Sem dizer. Sem explicar.**
 
 ## 4. Aparições por livro
 
@@ -72,6 +76,6 @@ O Oculto **anota nomes, frases ou orações**. O conteúdo **nunca é mostrado e
 ## 9. Decisões pendentes
 
 - Cor exata da capa.
-- Letra do caderno = letra das margens do Antigo? (decisão grande)
+- ~~Letra do caderno = letra das margens do Antigo = letra da carta antiga?~~ — **✓ resolvido — DEC-021:** **sim, A = B = C com escala temporal**. As três fontes têm a **mesma origem caligráfica**, em fases diferentes. **A autora interna é a Primeira Guardiã**, anterior a Elias e ao Personagem Oculto. Ver [`../../personagens/sementes/primeira-guardia.md`](../../personagens/sementes/primeira-guardia.md). O caderno do Oculto carrega a **fase mais recente** da letra: trêmula, reduzida, econômica, marcada pela idade.
 - Existem rabiscos ou apenas palavras?
 - O lápis tem alguma marca distintiva?

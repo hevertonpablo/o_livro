@@ -259,14 +259,16 @@ A **promessa antiga** ligada a Elias e ao parque acontece em um clima específic
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Cidade-base da Fase 1 | toda a paleta climática | aberto |
+| 1 | ~~Cidade-base da Fase 1~~ | toda a paleta climática | **✓ resolvido — DEC-025** (cidade não nomeada — paleta climática deve evocar cidade grande do Sudeste sem identificação) |
 | 2 | Clima exato da promessa antiga (L9) | L9 e ecos em L1, L5, L7 | aberto |
 | 3 | Estação do flashback de Elias jovem (L9) | L9 | aberto |
 | 4 | Clima da cena de convergência final (L10) | L10 | aberto |
 | 5 | Clima da entrega do Antigo a Sofia (L8) | L8 | aberto |
 | 6 | Padrão dos sinais recorrentes — quantos por livro | todos | aberto |
+| 7 | Clima da cena Lara × Miguel (L1, 18h) | L1, L2 | **✓ resolvido — DEC-030** (garoa fina, golden hour quase apagado, sino do angelus possível ao longe) |
 
 > **Regra de fechamento:** cada livro só entra em rascunho quando o clima das cenas-chave estiver registrado.
+> **Resolvidas em 2026-05-07:** DEC-025, DEC-030.
 
 ---
 

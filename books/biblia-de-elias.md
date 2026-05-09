@@ -362,9 +362,9 @@ A vida secreta de Elias **explica** sem **justificar tudo**. **Algumas dores ele
 
 ## 12. Tipos possíveis de vida secreta — decisão a fixar
 
-> **Decisão grande pendente.** Antes de L9, o autor precisa fixar **um tipo dominante** (pode haver combinação).
+> **✓ Resolvido — DEC-017 (aprovado em 2026-05-09).** Combinação canônica fixada com 4 camadas e hierarquia. Detalhamento em [`books/personagens/protagonistas/elias.md`](personagens/protagonistas/elias.md#tipo-dominante-de-vida-secreta-dec-017--canon).
 
-### 12.1 As cinco opções
+### 12.1 As cinco opções (referência)
 
 | # | Tipo | Conteúdo | Tom geral |
 |--:|---|---|---|
@@ -374,16 +374,33 @@ A vida secreta de Elias **explica** sem **justificar tudo**. **Algumas dores ele
 | 4 | **Espiritual** | Intercessão profunda; jornada com Deus | Místico-sem-ostentação |
 | 5 | **Identidade** | Não é quem todos pensam (parente oculto, herdeiro, sobrevivente, autor de cartas anônimas, guardião do Antigo) | Mistério familiar |
 
-### 12.2 Recomendação interna
-**Combinação de Sacrifício + Missão + Espiritual** parece servir melhor à série:
-- **Sacrifício** explica o afastamento.
-- **Missão** explica os gestos de bondade.
-- **Espiritual** explica a profundidade silenciosa.
+### 12.2 Decisão canônica (DEC-017) ✓ **aprovado**
 
-A Identidade pode ser **camada secundária** — Elias pode também ser **algo mais** (parente de alguém-chave?), mas isso depende da arquitetura final.
+**Combinação oficial:** **Sacrifício + Culpa + Missão + Espiritual** — quatro camadas com hierarquia.
 
-### 12.3 Regra
-A escolha **define o que se planta antes**. Mudar o tipo após o L4 quebra a coerência. **Decisão deve ser fechada antes do L4 entrar em rascunho.**
+| Ordem | Camada | Função |
+|--:|---|---|
+| 1 | **Sacrifício** | Camada pública percebida como abandono |
+| 2 | **Culpa** | Ferida íntima nunca superada (erro real) |
+| 3 | **Missão** | Movimento secreto de reparação e cuidado |
+| 4 | **Espiritual** | Sentido invisível; peso, reverência e temor — nunca misticismo teatral |
+
+**Subcamada (não dominante):** Identidade — pode aparecer como ramificação **sem virar centro**.
+
+**Pergunta extra resolvida:** Elias está **ligado ao Antigo, mas não o explica**. Elias é elo importante, **não é a origem absoluta**.
+
+### 12.3 Regra central — humano antes de simbólico
+
+> **As pessoas estavam erradas sobre parte da história dele, mas não estavam erradas sobre toda a dor que ele causou.**
+
+Elias é **humano antes de simbólico**. Não é santo, profeta nem herói secreto. Também não é vilão injustiçado. **Sem culpa, fica nobre demais.** Com culpa, fica humano. Essa contradição é o motor do L9.
+
+### 12.4 Frases-base canônicas
+
+- *"Nem toda ausência é abandono. Algumas são tentativas mal explicadas de proteção."* (Sacrifício)
+- *"Elias não queria ser lembrado como bom. Queria apenas impedir que sua falha continuasse ferindo outras vidas."* (Culpa)
+- *"Ele não salvava histórias. Apenas colocava algumas pessoas perto da chance de recomeçar."* (Missão)
+- *"Depois de certo dia, Elias deixou de acreditar em coincidências. Mas nunca teve coragem de chamar aquilo de milagre."* (Espiritual)
 
 ---
 
@@ -396,12 +413,53 @@ A escolha **define o que se planta antes**. Mudar o tipo após o L4 quebra a coe
 | Camada | Conteúdo |
 |---|---|
 | **Quem ele era na juventude** | Pessoa comum, com vínculos, com talento (música? mentoria?), com fé ou busca |
-| **Que promessa fez** | A definir — possivelmente proteger alguém, cumprir um voto, levar o Antigo a quem precisar |
-| **Por que se afastou** | Razão concreta — dor, escolha de proteção, decisão de não comprometer outros |
-| **O que fez no afastamento** | Vida secreta — gestos, missão, intercessão |
+| **Que promessa fez (DEC-022)** | **Não é uma promessa que ele criou** — Elias **herdou** a promessa antiga (vide §13.5). |
+| **Por que se afastou** | Razão concreta — dor, escolha de proteção, decisão de não comprometer outros + **culpa real** por falha parcial em cumprir a promessa herdada |
+| **O que fez no afastamento** | Vida secreta — gestos, missão, intercessão (Sacrifício + Culpa + Missão + Espiritual, DEC-017) |
 | **O que custou** | Pessoas feridas pelo silêncio (Jonas, talvez outro) |
-| **O que persistiu** | Promessa cumprida, Antigo circulando, vidas tocadas |
+| **O que persistiu** | Fragmentos da promessa cumpridos em rede, Antigo circulando, vidas tocadas |
 | **Por que aparece agora** | Tempo se cumpriu / ele se prepara para algo final |
+
+### 13.5 A promessa antiga (DEC-022) ✓ **canon**
+
+Elias **não é o autor da promessa**. A promessa antiga **antecede Elias**.
+
+| Origem | Detalhe |
+|---|---|
+| **Quem fez a promessa originalmente** | Um pequeno grupo / oração coletiva no passado profundo (igreja pequena, casa de acolhimento, livraria antiga — interno, sem definição final) |
+| **Quem guardou** | A **Primeira Guardiã** — figura interna anterior a Elias e Matusalém. Ver [`personagens/sementes/primeira-guardia.md`](personagens/sementes/primeira-guardia.md) |
+| **Como Elias recebeu** | **Como responsabilidade concreta** — antes de partir, a Primeira Guardiã confiou a promessa a ele |
+| **Como Elias falhou** | Falhou parcialmente em cumpri-la — origem da culpa que estrutura a DEC-017 |
+| **Como Matusalém recebeu (paralelo)** | **Como presença silenciosa** — reconhece quando uma vida ainda pode ser chamada |
+| **Onde estão os fragmentos** | Anotações nas margens do Antigo, carta antiga (L5), caderno do Personagem Oculto — **mesma letra**, fases diferentes (DEC-021) |
+
+#### Frase canônica da promessa antiga
+
+> *"Que o que estiver perdido ainda encontre quem o chame;*
+> *e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
+
+**Conexão com a frase-âncora (DEC-027):** a frase-âncora *"O que está ___ ainda pode ser chamado."* é **eco da promessa**.
+
+#### Plantio dos fragmentos
+
+| Livro | Fragmento revelado |
+|--:|---|
+| L1 — Lara | *"…ainda encontre quem o chame."* |
+| L5 — Helena | *"Que o que estiver perdido…"* (na carta antiga) |
+| L7 — Nina | Nina percebe que os fragmentos pertencem à mesma frase |
+| L9 — Elias | Elias revela parte da origem da promessa, **mas não tudo** |
+| L10 — Convergência | O leitor entende que a frase é a **raiz do movimento do Antigo** |
+
+#### Nível de revelação em L9
+
+**Revelada parcialmente** — Elias revela **a parte dele** (como herdou, como falhou, como tentou reparar). **Não revela:**
+- A origem absoluta do Antigo.
+- Tudo sobre Matusalém.
+- A história completa da Primeira Guardiã.
+- Por que o Antigo parece chegar às pessoas certas.
+
+**L10** revela o efeito da promessa em **rede de vidas**.
+**Fase 2** pode revelar mais sobre a Primeira Guardiã.
 
 ### 13.2 Forma de revelação em L9
 - Pode ser **autobiográfico** (Elias narra em primeira pessoa).
@@ -609,23 +667,24 @@ Cada livro contém pelo menos uma cena que muda de sentido após L9.
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Tipo dominante de vida secreta (Sacrifício / Culpa / Missão / Espiritual / Identidade) | L4–L9 | aberto |
-| 2 | Forma exata da promessa antiga | L5, L9 | aberto |
+| 1 | ~~Tipo dominante de vida secreta~~ | L4–L9 | **✓ resolvido — DEC-017** (Sacrifício + Culpa + Missão + Espiritual; vide §12.2) |
+| 2 | ~~Forma exata da promessa antiga~~ | L5, L9 | **✓ resolvido — DEC-022** (promessa coletiva herdada via Primeira Guardiã; vide §13.5) |
 | 3 | Idade de Elias no tempo principal — vivo (50–65) ou falecido com presença? | L9 | aberto |
 | 4 | Ofício de Elias (música? mentoria? combinação?) | toda menção anterior | aberto |
-| 5 | Conteúdo integral da carta antiga | L5, L9 | aberto |
+| 5 | Conteúdo integral da carta antiga | L5, L9 | aberto (mas a frase canônica da promessa **está fixada** — vide §13.5) |
 | 6 | Quem foi a pessoa que Elias mais machucou ao partir? | L2, L9 | aberto |
-| 7 | Vínculo Elias × Personagem Oculto: amigo? intercessor? | L9, L10 | aberto |
-| 8 | Forma de revelação em L9 (autobiográfica / dialógica / escrita / mista) | L9 | aberto |
+| 7 | Vínculo Elias × Personagem Oculto: amigo? intercessor? | L9, L10 | parcial — **DEC-031** (amigo antigo de Matusalém + ambos herdaram a promessa via Primeira Guardiã) |
+| 8 | Forma de revelação em L9 (autobiográfica / dialógica / escrita / mista) | L9 | aberto (recomendação interna: misto) |
 | 9 | Identidade da Mulher da Foto e relação com Elias | L7, L9 | aberto |
 | 10 | Inscrição na árvore antiga: nome de Elias? data? símbolo? | L1, L9 | aberto |
-| 11 | Letra das margens do Antigo = letra de Elias? | L5, L9 | aberto |
+| 11 | ~~Letra das margens do Antigo = letra de Elias?~~ | L5, L9 | **✓ resolvido — DEC-021** (NÃO é de Elias; é da Primeira Guardiã, anterior a ele e a Matusalém; mesma letra em três fontes com escala temporal) |
 | 12 | Voz acusatória final (L8) — quem? | L8 | aberto |
 | 13 | Elias retornou em pessoa antes de morrer / antes da Fase 1? | L9 | aberto |
 | 14 | Ele aparece em pessoa em L10 ou apenas em memória? | L10 | aberto |
 | 15 | Onde está o Antigo no momento atual de L9? | L9 | aberto |
 
-> **Regra de fechamento:** decisões 1, 2 e 11 são **críticas** — afetam todos os livros. Resolver antes do L4 entrar em rascunho.
+> **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas antes do livro afetado entrar em rascunho.
+> **Resolvidas em 2026-05-09:** DEC-017, DEC-021, DEC-022 (parcial #7).
 
 ---
 

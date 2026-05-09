@@ -269,18 +269,19 @@ Cada lugar pode carregar pistas (números, nomes, frases gravadas, marcas no ch�
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | Cidade-base da Fase 1 (Rio / SP / outra) | todos os cenários | aberto |
-| 2 | Bairro do parque | parque, cafeteria, apartamento de Lara | aberto |
+| 1 | ~~Cidade-base da Fase 1~~ | todos os cenários | **✓ resolvido — DEC-025** (cidade não nomeada — universalidade controlada; ver [`biblia-continuidade-transporte.md`](biblia-continuidade-transporte.md)) |
+| 2 | Bairro do parque | parque, cafeteria, apartamento de Lara | aberto (apenas tipologia, sem nome) |
 | 3 | Hospital de L4 = hospital de L7? | hospital | aberto |
 | 4 | Biblioteca ou livraria? | biblioteca | aberto |
 | 5 | Estúdio único ou múltiplos? | estúdio de música | aberto |
-| 6 | Estação: trem, metrô ou rodoviária? | estação | aberto |
-| 7 | Igreja: nome e denominação | igreja pequena | aberto |
-| 8 | Profissão de Rafael (define o escritório) | escritório de Rafael | aberto |
-| 9 | Casa de Helena: bairro / arquitetura | casa antiga de Helena | aberto |
-| 10 | Loja de instrumentos: nome e bairro | loja de instrumentos | aberto |
+| 6 | ~~Estação: trem, metrô ou rodoviária?~~ | estação | **✓ resolvido em 2026-05-09 — DEC-035 (sem metrô) + DEC-036 (rodoviária canônica)** |
+| 7 | Igreja: nome e denominação | igreja pequena | aberto (cuidado com universalidade — sem denominação específica) |
+| 8 | ~~Profissão de Rafael~~ (define o escritório) | escritório de Rafael | **✓ resolvido — DEC-019** (advogado empresarial — escritório jurídico corporativo) |
+| 9 | Casa de Helena: bairro / arquitetura | casa antiga de Helena | aberto (sem nome de bairro) |
+| 10 | Loja de instrumentos: nome e bairro | loja de instrumentos | aberto (sem nome de bairro) |
 
 > **Regra de fechamento:** decisões marcadas como `aberto` devem ser resolvidas **antes** de iniciar o rascunho do livro afetado.
+> **Resolvidas em 2026-05-07:** DEC-019, DEC-025.
 
 ---
 

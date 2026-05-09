@@ -370,15 +370,16 @@ Nunca aplicativo, nunca carro próprio.
 
 | # | Decisão | Bloqueia | Status |
 |--:|---|---|---|
-| 1 | **DEC-035** — Existe metrô na cidade? | toda menção de metrô | aberto (recomendação: não) |
-| 2 | **DEC-036** — Estação é trem ou rodoviária? | L7 (Nina × Noemi) | aberto (recomendação: rodoviária) |
+| 1 | ~~**DEC-035** — Existe metrô na cidade?~~ | toda menção de metrô | **✓ aprovado em 2026-05-09 — NÃO há metrô** (proibido na Fase 1) |
+| 2 | ~~**DEC-036** — Estação é trem ou rodoviária?~~ | L7 (Nina × Noemi) | **✓ aprovado em 2026-05-09 — RODOVIÁRIA canônica** |
 | 3 | Theo tem moto? | L6 e secundários | aberto |
 | 4 | Trajeto exato do ônibus 316 (parque → centro → outro bairro?) | continuidade | aberto |
 | 5 | Quantas linhas de ônibus aparecem (apenas 316 ou outras?) | descrição urbana | aberto |
 | 6 | Aplicativo executivo de Rafael é diferente do de Beto? | L3 | aberto |
 | 7 | Existe transporte por água na cidade (barco, balsa)? | universalidade | aberto (recomendação: não) |
 
-> **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas **antes** do livro afetado entrar em rascunho. Especialmente DEC-035 e DEC-036 — afetam descrições urbanas em todos os livros.
+> **Regra de fechamento:** decisões em `aberto` precisam ser resolvidas **antes** do livro afetado entrar em rascunho.
+> **Resolvidas em 2026-05-09:** DEC-035, DEC-036.
 
 ---
 

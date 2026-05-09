@@ -20,10 +20,32 @@ Termos permitidos: *o velho livro, o volume marcado, aquele livro, o livro de ca
 | Espessura | Média — não fino demais, não pesado demais |
 | Páginas | **Finas, quase transparentes**; com desgaste de muitas mãos |
 | Cor das páginas | Amareladas, com manchas pontuais |
-| Margens | Anotações manuscritas em diferentes letras |
+| Margens (DEC-021) ✓ canon | Anotações manuscritas — **autora interna = Primeira Guardiã** (figura anterior a Elias e ao Personagem Oculto). Mesma origem caligráfica da carta antiga e do caderno do Oculto, **em fase mais antiga, firme, ritualística** (DEC-021). **Não confirmar autoria na Fase 1.** Ver [`../../personagens/sementes/primeira-guardia.md`](../../personagens/sementes/primeira-guardia.md). |
 | Marcas físicas | Capa gasta nas pontas, lombada com vinco, possível mancha |
 | Cheiro | Papel antigo |
-| Marca distintiva (a definir) | Símbolo ou letra apagada na capa |
+| **Marca distintiva canônica (DEC-024) ✓ aprovado** | **Três pontos discretos** na capa — pequenos, em alto-relevo gasto. Posição tradicional: triângulo discreto no canto inferior direito. Podem ser percebidos como cicatriz de uso, marca acidental ou marca intencional. |
+
+### 2.1 A marca dos três pontos (DEC-024)
+
+Três pontos pequenos, dispostos em **triângulo discreto** na capa. Não são logotipo nem ornamento — parecem **acidente do tempo**, mas reaparecem em **outros objetos da série** (margens da carta antiga, página marcada do Antigo, possível detalhe do caderno do Oculto, possível inscrição na árvore antiga).
+
+**Múltiplas leituras possíveis (todas válidas para o leitor):**
+
+| Leitura | Quem pensaria assim |
+|---|---|
+| Três pontos = trindade espiritual | Leitor com formação religiosa |
+| Três pontos = continuidade ("…") | Leitor literário |
+| Três pontos = três pessoas (Elias + Oculto + ?) | Leitor investigador |
+| Três pontos = três livros / três cartas / três objetos | Leitor detetive |
+| Três pontos = só desgaste do tempo | Leitor casual |
+
+**Como Lara o percebe (DEC-018 — restauração e encadernação):**
+Lara, restauradora, **sente os três pontos com a polpa dos dedos** antes de ver. *"Vê com os dedos."* Eles aparecem como pequena imperfeição no couro — quase invisíveis ao olhar casual, mas reconhecíveis ao toque treinado.
+
+**Cuidados:**
+- A marca **nunca é descrita como "trindade"**, "três pessoas" ou interpretação fechada.
+- Em cada livro, **um personagem diferente nota a marca** (e cada um a interpreta de forma própria).
+- **Nunca em destaque tipográfico** ("• • •" centralizado) — sempre integrada à descrição do objeto.
 
 ## 3. Estado e ambiguidade da forma
 
@@ -96,7 +118,7 @@ Detalhamento em [`biblia-continuidade.md` §6](../../biblia-continuidade.md#6-pi
 - **Anotação-âncora** L1: *“Você não é o pior capítulo da sua história.”*
 - **Frase à mão** L1: *“Quando a culpa gritar mais alto, lembre-se de quem ainda chama pelo seu nome.”*
 - **Marcador / fita** (a definir).
-- **Símbolo / letra apagada na capa** (a definir).
+- **Símbolo canônico da capa: três pontos discretos (DEC-024)** — vide §2.1.
 
 ## 9. Cuidados narrativos
 

@@ -11,6 +11,18 @@
 - **Tema principal:** vida secreta, sacrifício, culpa, missão e legado.
 - **Pergunta de suspense do livro:** *Qual é a verdade sobre sua vida secreta?*
 
+## História-base
+
+Elias é o grande mistério humano da Fase 1. Antes do Livro 9, ele aparece apenas por fragmentos: lembranças, acusações, cartas, fotografias, gestos de bondade e versões contraditórias. Para alguns, foi um homem ausente e covarde. Para outros, foi alguém que ajudou em silêncio quando ninguém mais viu.
+
+A verdade revelada no Livro 9 é que Elias viveu uma vida secreta marcada por sacrifício, culpa, missão e peso espiritual. Ele se afastou para proteger pessoas e cumprir uma promessa antiga, mas esse afastamento também nasceu de erros reais que cometeu. A revelação não o transforma em herói inocente: Elias é explicado, não absolvido.
+
+Sua ligação com o Antigo é profunda, mas não definitiva. Ele não é a origem do objeto, nem seu dono final. Elias foi um elo importante: tentou escondê-lo, conduzi-lo, talvez até destruí-lo, porque via nele uma promessa que não conseguia carregar sem dor. Por isso o chama de “aquilo que eu não consegui destruir”.
+
+Ao longo da vida, Elias tentou transformar culpa em cuidado, ausência em proteção e silêncio em promessa. Seu livro revela por que tantos o julgaram, por que alguns ainda o defenderam em segredo e por que sua história só poderia ser entendida depois que o leitor já tivesse visto os efeitos dela na vida dos outros.
+
+No final do Livro 9, Elias não surge como santo nem como vilão. Ele é encontrado tarde, por meio da verdade suficiente para reparar parte do dano, mas sem fechar todo o mistério do Antigo, de Matusalém e da promessa antiga.
+
 ## Função na série
 
 Elias é o grande personagem-mistério humano. Aparece primeiro pelos olhos dos outros — alguns o julgam, outros o defendem, alguns têm mágoa, outros foram ajudados por ele.
@@ -35,33 +47,53 @@ Elias **não pode** ganhar livro próprio cedo. Antes, deve aparecer em fragment
 | 8 | Última preparação — pistas se acumulam |
 | **9** | **O Livro de Elias** — a verdade |
 
-## Tipos possíveis de vida secreta
+## Tipo dominante de vida secreta (DEC-017) ✓ **canon**
 
-A escolha definitiva é decisão editorial a fixar antes da redação do Livro 9.
+**Combinação oficial:** **Sacrifício + Culpa + Missão + Espiritual** — quatro camadas com hierarquia.
 
-1. **Sacrifício** — afastou-se para proteger alguém ou cumprir uma promessa.
-2. **Culpa** — repara em silêncio um erro grave do passado.
-3. **Missão** — ajuda muitas vidas sem buscar reconhecimento.
-4. **Espiritual** — intercessão, jornada profunda com Deus.
-5. **Identidade** — não é quem todos pensam (parente oculto, herdeiro, sobrevivente, autor de cartas anônimas, guardião do Antigo).
+| Ordem | Camada | Função | Frase-base |
+|--:|---|---|---|
+| 1 | **Sacrifício** | Camada pública percebida como abandono. Elias se afastou para proteger pessoas e cumprir uma promessa. | *"Nem toda ausência é abandono. Algumas são tentativas mal explicadas de proteção."* |
+| 2 | **Culpa** | Ferida íntima que Elias nunca superou. Erro real (omissão, palavra dura, decisão covarde, promessa quebrada). | *"Elias não queria ser lembrado como bom. Queria apenas impedir que sua falha continuasse ferindo outras vidas."* |
+| 3 | **Missão** | Movimento secreto de reparação e cuidado. Conduz o Antigo, intervém nas margens, nunca aparece como salvador. | *"Ele não salvava histórias. Apenas colocava algumas pessoas perto da chance de recomeçar."* |
+| 4 | **Espiritual** | Sentido invisível que conecta Elias ao Antigo, ao Personagem Oculto e à promessa antiga. Peso, reverência e temor — nunca misticismo teatral. | *"Depois de certo dia, Elias deixou de acreditar em coincidências. Mas nunca teve coragem de chamar aquilo de milagre."* |
 
-## Tipo de vida secreta de Elias
+**Subcamada possível (não dominante):** Identidade — pode aparecer como ramificação (uma verdade familiar descoberta tardiamente), **sem virar o centro** do livro.
 
-Elias viveu uma vida secreta de sacrifício, culpa e missão silenciosa.
+### Regra central — humano antes de simbólico
 
-Publicamente, foi lembrado por muitos como um homem ausente, frio, covarde ou responsável por feridas antigas.
+Elias é **humano antes de simbólico**. **Não pode** ser pintado como santo, profeta ou herói secreto. **Também não pode** ser revelado como vilão injustiçado.
 
-Secretamente, dedicou anos a reparar um erro do passado, ajudando pessoas em silêncio, conduzindo fragmentos do Antigo, deixando cartas, protegendo nomes, escondendo verdades e tentando cumprir uma promessa que poucos conheciam.
+> **As pessoas estavam erradas sobre parte da história dele, mas não estavam erradas sobre toda a dor que ele causou.**
 
-Sua vida secreta não o torna inocente de tudo. Elias errou, omitiu, fugiu e feriu pessoas. Porém, também carregou sozinho um peso que outros nunca compreenderam.
+Essa contradição é o motor do L9. Sem culpa, Elias fica nobre demais. Com culpa, ele fica humano.
 
-O Livro 9 revela que Elias não era o homem que todos julgavam, mas também não era o homem que ele mesmo tentou parecer. Ele era alguém tentando transformar culpa em cuidado, ausência em proteção e silêncio em promessa.
+### Resumo canônico
 
-## Relação com o Antigo
+Elias viveu uma vida secreta de **sacrifício, culpa, missão e peso espiritual**.
+
+Ele se afastou para proteger pessoas e cumprir uma promessa, mas seu afastamento também nasceu de **culpa real** por erros que cometeu no passado. Durante anos, tentou reparar em silêncio aquilo que não conseguia confessar em público.
+
+No L9, o leitor deve perceber que Elias **não era o vilão que muitos imaginavam**, nem **o herói que alguns queriam defender**. Era um homem tentando transformar **culpa em cuidado**, **ausência em proteção** e **silêncio em promessa**.
+
+## Relação com o Antigo (DEC-017 + DEC-021) ✓ **canon**
 
 - **Como ele chama:** *“aquilo que eu não consegui destruir”*.
 - **Como percebe:** promessa.
-- Possivelmente pertenceu a ele. Pode ter escrito as anotações nas margens. Pode tê-lo entregue anonimamente. Pode estar tentando cumprir uma promessa ligada a ele. Pode ter escondido uma carta dentro dele.
+- **Regra canônica (DEC-017):** Elias está **ligado ao Antigo, mas não o explica**. Ele é **um elo importante, não a origem absoluta** nem o dono final. **O Antigo permanece maior que ele.**
+
+**O que Elias pode revelar (no L9):**
+- Como o Antigo chegou até ele.
+- Por que ele tentou escondê-lo (ou fragmentá-lo, ou conduzi-lo).
+- Qual promessa ele associou ao Antigo.
+- Quais pessoas foram impactadas por ele.
+
+**O que Elias NÃO pode revelar (proibições canônicas):**
+- Uma explicação total do Antigo.
+- Uma origem fechada.
+- Uma definição direta ("o Antigo é isto").
+
+**Letra das margens (DEC-021):** Elias **reconhece** a letra das margens, da carta antiga e do caderno do Personagem Oculto, mas não é o autor original. A letra pertence a alguém **anterior a Elias e a Matusalém** (vide ficha [`primeira-guardia.md`](../sementes/primeira-guardia.md)). No L9, Elias **pode admitir reconhecimento**, mas **não revelará tudo**.
 
 ## Relação com o Personagem Oculto
 
