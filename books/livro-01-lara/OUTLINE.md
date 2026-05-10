@@ -31,6 +31,8 @@
 | DEC-013 | 4 partes × 6 capítulos | Estrutura abaixo |
 | DEC-014 | Função obrigatória por capítulo | Cada cap recebe **pelo menos 1** das 5 funções |
 | DEC-018 | Talento de Lara — restauração e encadernação artesanal; *"vê com os dedos"* | Talento adormecido no início; reativado no clímax |
+| DEC-038 | Frase canônica de Miguel para Lara | Cap 13 — cena-pivô do livro (cena travada com L2) |
+| DEC-039 | Inscrição na árvore antiga | Cap 4 — "E" + traço apagado (red herring, eco em L9) |
 | DEC-021 | Letra A=B=C com escala temporal (Primeira Guardiã) | Lara sente a letra das margens do Antigo — sem identificar autor |
 | DEC-022 | Promessa antiga — fragmento canônico | L1 carrega o fragmento *"…ainda encontre quem o chame."* |
 | DEC-024 | Marca dos três pontos no Antigo | Lara sente os três pontos com os dedos antes de ver |
@@ -363,18 +365,22 @@ Lara não termina o livro curada. Termina apenas tendo voltado a olhar pra o que
 
 ## 9. Pendências do L1 — decisões a fechar antes do rascunho final
 
-| # | Decisão | Bloqueia |
+> **Todas as pendências críticas foram resolvidas em 2026-05-09** via [`PENDENCIAS-PARA-RESPONDER.md`](PENDENCIAS-PARA-RESPONDER.md).
+
+| # | Decisão | Resolução |
 |--:|---|---|
-| 1 | Quem entrega o Antigo a Lara no Cap 7? Cliente anônimo / Dona Cida / Beto / outro? | Cap 7 |
-| 2 | Profissão atual de Lara — só corridas com Beto? Subempregos? Que define o cotidiano dela? | Cap 1, 2, 5 |
-| 3 | Detalhamento da inscrição na árvore antiga (Cap 4) — letra, número, símbolo? | Cap 4, eco em L9 |
-| 4 | A "tragédia familiar de Lara" citada nas bíblias é referenciada em L1 ou só sugerida? | Cap 5, 22 |
-| 5 | Frase exata que Miguel diz a Lara (Cap 13) — precisa ser fixada antes do L2 escrever a contracena | Cap 13, L2 |
-| 6 | Segunda fala do Oculto (Cap 17) — quais palavras? | Cap 17 |
-| 7 | Ressignificação visual final do Cap 24 (folha caída? pétala? casaco dobrado?) | Cap 24 |
-| 8 | Capítulos 9–24 já têm títulos provisórios? (Acróstico só ocupa 1–8) | Diagramação editorial |
-| 9 | Onde plantar o relance da Mulher da Foto (Cap 3 retrato? outro momento)? | DEC-037 |
-| 10 | A epígrafe do livro (DEC pendente em §8.1 da Bíblia de Pistas) — frase + atribuição | Abertura do livro |
+| 1 | ~~Quem entrega o Antigo a Lara no Cap 7?~~ | **✓** Cliente anônimo de fala curta. Frase: *"Acho que isso te procurou."* |
+| 2 | ~~Profissão atual de Lara~~ | **✓** Restauração informal para 1–2 antiquários + corridas noturnas com Beto 3 vezes por semana. |
+| 3 | ~~Detalhamento da inscrição na árvore antiga (Cap 4)~~ | **✓ DEC-039:** "E" + traço apagado |
+| 4 | ~~Tragédia familiar de Lara — referenciada ou só sugerida?~~ | **✓** Apenas sugerida. Flashback Cap 5 = mãos de criança tentando consertar algo + vidro quebrado. |
+| 5 | ~~Frase exata de Miguel para Lara (Cap 13) — cena travada com L2~~ | **✓ DEC-038:** *"Tem dia que a gente não está perdido. Só ainda não teve coragem de voltar."* (começa olhando para o lado, termina olhando para ela) |
+| 6 | ~~Segunda fala do Oculto (Cap 17)~~ | **✓** *"O que você tem nas mãos não é o livro. É a ideia de que o livro pode ser cuidado. Cuide assim de você também."* (caderno aberto, parado, sem anotar) |
+| 7 | ~~Ressignificação visual final do Cap 24~~ | **✓** Folha caída sobre o lugar onde ele costumava sentar. |
+| 8 | Capítulos 9–24 já têm títulos provisórios? | em aberto — não-bloqueador (apenas diagramação editorial) |
+| 9 | Onde plantar o relance da Mulher da Foto | em aberto — não-bloqueador (recomendação: Cap 3 retrato na cafeteria) |
+| 10 | ~~Epígrafe do livro~~ | **✓** *"Algumas histórias começam pela parte que parecia o fim."* — sem atribuição, em letra manuscrita imitando a Primeira Guardiã (DEC-021) |
+
+**Status do livro:** **destravado para escrita.** Todas as pendências críticas resolvidas. Capítulos prontos para o Agente de Escrita: 1–24.
 
 ---
 

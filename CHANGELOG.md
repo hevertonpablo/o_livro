@@ -16,7 +16,47 @@
 
 ## [Unreleased]
 
-### Adicionado
+### Decidido — pendências do L1 processadas (8 de 8)
+- **DEC-038** ✓ aprovado — Frase canônica de Miguel para Lara no Cap 13 (cena travada L1/L2): *"Tem dia que a gente não está perdido. Só ainda não teve coragem de voltar."* Marcadores fixos: começa olhando para o lado, termina olhando para Lara; tom baixo; camada dupla. Variação permitida apenas em pontuação leve. Eco direto com a frase-âncora canônica DEC-027 (palavra "perdido").
+- **DEC-039** ✓ aprovado — Inscrição na árvore antiga do parque (Cap 4 do L1, eco em L9): **"E" + traço apagado**. Aparência antiga, irregular, confundida com desgaste natural. **Proibido escrever "ELIAS" inteira em qualquer livro da Fase 1.**
+
+### Aplicado no L1
+- 8 de 8 pendências resolvidas. **Todos os capítulos do L1 destravados (1–24, sem bloqueios).**
+- Decisões locais do livro registradas em `MAPA-PISTAS.md` / `OUTLINE.md` / `ARCOS.md` / `CAPITULOS.md` / placeholders dos Caps 1, 2, 4, 5, 7, 13, 17, 22, 24.
+- Frase canônica do Personagem Oculto para Lara no Cap 17 (segunda fala) fixada localmente em `MAPA-PISTAS.md` §4.2.
+- Cliente anônimo entrega o Antigo no Cap 7 com frase exata *"Acho que isso te procurou."*
+- Tragédia familiar de Lara: sugerida apenas, com flashback canônico no Cap 5 (mãos de criança + vidro quebrado).
+- Folha caída sobre o banco do Personagem Oculto fechando o Cap 24.
+- Epígrafe do livro fixada: *"Algumas histórias começam pela parte que parecia o fim."* — sem atribuição, em letra manuscrita imitando a Primeira Guardiã (DEC-021).
+- `PENDENCIAS-PARA-RESPONDER.md` marcado como `processado em 2026-05-09`.
+- Detalhes em [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md).
+
+### Adicionado — arquitetura completa do Livro 1
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — estado inicial do livro (planejamento em consolidação).
+- [`books/livro-01-lara/ARCOS.md`](books/livro-01-lara/ARCOS.md) — arco emocional macro de Lara em 12 estágios + 7 arcos secundários + conexões entre arcos.
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — controle operacional completo: Antigo, 316, Elias, Personagem Oculto, promessa antiga, letra das três fontes, Mulher da Foto, charada central, frase-âncora, acróstico RECOMECO, red herrings, releitura, 14 decisões pendentes.
+- [`books/livro-01-lara/MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md) — sistema visual com 17 ilustrações planejadas (1 capa + 4 aberturas + 8 símbolos + 4 cenas marcantes), justificativa por capítulo, template de prompt, regras absolutas.
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — tabela operacional dos 24 capítulos com status, função, POV, cenário, horário/clima, imagem associada e observações.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — changelog local inicializado.
+- 24 placeholders em [`books/livro-01-lara/capitulos/`](books/livro-01-lara/capitulos/) — `capitulo-01.md` a `capitulo-24.md` com cabeçalho de comentário (função, cenário, horário, pistas obrigatórias, bloqueios) prontos para o Agente de Escrita preencher.
+
+### Não modificado nesta sessão
+- [`books/livro-01-lara/OUTLINE.md`](books/livro-01-lara/OUTLINE.md) — já estava completo em nível macro (sessão anterior).
+
+### Adicionado — questionário de pendências do L1
+- [`books/livro-01-lara/PENDENCIAS-PARA-RESPONDER.md`](books/livro-01-lara/PENDENCIAS-PARA-RESPONDER.md) — 8 pendências consolidadas (3 críticas, 3 importantes, 2 secundárias), com recomendação interna por item, opções A-E, campos RESPOSTA e Observação livre. Pendência 1 (frase de Miguel no Cap 13) registrada como **DEC-038 candidata** (cena travada — afeta L1 e L2).
+
+### Alterado — convenção do Agente de Planejamento
+- [`AGENT-ESCRITA-LIVROS.md`](AGENT-ESCRITA-LIVROS.md) — nova convenção registrada em §3 (escopo) + §5.5 (arquivos do livro) + §10.1 (sequência de criação) + §12 (saída por tarefa) + **§14 inteiramente reformulado** com 4 subseções:
+  - §14.1: pendência pontual em arquivo (uso interno).
+  - §14.2: **questionário consolidado em `PENDENCIAS-PARA-RESPONDER.md` no path do livro** (convenção principal). Não usar a raiz para pendências de livro.
+  - §14.3: regras para distinguir pendência local vs. DEC global.
+  - §14.4: processo de propagação após resposta do usuário.
+
+### Pendências do L1 em aberto
+10 pendências registradas em `MAPA-PISTAS.md` §14 + `OUTLINE.md` §9. Bloqueadores diretos: frase exata de Miguel no Cap 13 (cena travada com L2), segunda fala do Oculto no Cap 17, quem entrega o Antigo no Cap 7, inscrição na árvore antiga no Cap 4, epígrafe do livro, referência à tragédia familiar de Lara, detalhe visual do Cap 24. **Capítulos bloqueados:** 4, 7, 13, 17, 24.
+
+### Adicionado anteriormente
 - [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md) — **agente de Escrita criado**. Manual operacional completo do agente irmão que redige os capítulos. Aplicado o mesmo princípio de purificação do agente de planejamento: documento é processo puro, não conteúdo. 19 seções cobrindo identidade, escopo, princípio fundamental ("você lê, não inventa"), arquivos a ler antes de cada capítulo, ordem de autoridade, regras de processo invioláveis, pré-checagem obrigatória, princípios de prosa genéricos, modelo de arquivo de capítulo, processo de escrita passo a passo, pós-escrita obrigatória (atualização de CAPITULOS, STATUS, CHANGELOG, MAPA-PISTAS, MAPA-ILUSTRACOES), tratamento de temas sensíveis (genérico — específicos vivem em RULES.md), saída por tipo de tarefa, formato de resposta, pendências, proibições de alucinação canônica e princípio final.
 
 ### Alterado

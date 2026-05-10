@@ -69,6 +69,118 @@ A Fase 1 **NUNCA confirma** a unificação. O leitor investigador que cruza os d
 
 ---
 
+## Sessão 2026-05-09 — Arquitetura completa do Livro 1 (Lara)
+
+### Objetivo
+Aplicar o processo do Agente de Planejamento (`AGENT-ESCRITA-LIVROS.md` §10.1) para revisar e completar a arquitetura do Livro 1 (Lara), criando os arquivos que ainda estavam vazios e preparando placeholders para o Agente de Escrita.
+
+### Estado pré-sessão
+- `OUTLINE.md` ✓ completo (~427 linhas, sessão anterior)
+- `ARCOS.md`, `MAPA-PISTAS.md`, `CAPITULOS.md`, `STATUS.md`, `CHANGELOG.md` — vazios
+- `MAPA-ILUSTRACOES.md` — não existia
+- Pasta `capitulos/` — apenas 2 placeholders vazios
+
+### Arquivos lidos
+- `AGENT-ESCRITA-LIVROS.md` (manual de processo)
+- `DECISIONS.md` (DECs aprovadas)
+- `RULES.md`, `CONTEXT_BRIEF.md`, `PROJECT_STATUS.md`
+- `books/livro-01-lara/OUTLINE.md` (ponto de partida)
+- `books/personagens/protagonistas/lara.md` (ficha)
+- `books/biblia-pistas-codigos-charadas.md` (catálogo de pistas, charada, frase-âncora, acróstico)
+
+### Arquivos criados
+- `books/livro-01-lara/STATUS.md` — estado inicial.
+- `books/livro-01-lara/ARCOS.md` — 12 estágios do arco de Lara + 7 arcos secundários.
+- `books/livro-01-lara/MAPA-PISTAS.md` — 9 categorias de pistas + red herrings + releitura.
+- `books/livro-01-lara/MAPA-ILUSTRACOES.md` — 17 ilustrações planejadas.
+- `books/livro-01-lara/CAPITULOS.md` — tabela operacional dos 24 capítulos.
+- `books/livro-01-lara/CHANGELOG.md` — changelog local inicializado.
+- 24 placeholders em `books/livro-01-lara/capitulos/` — capitulo-01.md a capitulo-24.md.
+
+### DECs invocadas
+DEC-001, DEC-002, DEC-003, DEC-004, DEC-006, DEC-008, DEC-009, DEC-010, DEC-011, DEC-013, DEC-014, DEC-015, DEC-018, DEC-021, DEC-022, DEC-023, DEC-024, DEC-025, DEC-026, DEC-027, DEC-028, DEC-029, DEC-030, DEC-031, DEC-032, DEC-037.
+
+### Pendências em aberto (bloqueadores da escrita)
+10 pendências registradas. Capítulos bloqueados: 4, 7, 13, 17, 24. A mais crítica é a **frase exata de Miguel no Cap 13** (cena travada DEC-030 — afeta também o L2).
+
+### Princípio aplicado
+Os arquivos criados **referenciam** as DECs e bíblias com links — não copiam conteúdo canônico. Quando uma DEC mudar, o link continua válido. A arquitetura é **espelho operacional** do canon, não duplicata.
+
+### Próxima ação recomendada
+Resolver as 10 pendências com o usuário (questionário). Após isso, invocar `AGENT-ESCRITA-CAPITULOS.md` para começar pelo Capítulo 1.
+
+---
+
+## Sessão 2026-05-09 — Processamento das pendências do L1 (8 de 8)
+
+### Objetivo
+Processar as respostas do autor em [`books/livro-01-lara/PENDENCIAS-PARA-RESPONDER.md`](books/livro-01-lara/PENDENCIAS-PARA-RESPONDER.md) e propagar para todos os arquivos do livro + criar DECs novas para canon global.
+
+### DECs aprovadas
+- **DEC-038** — Frase canônica de Miguel para Lara no encontro do parque (Cap 13 do L1; cena travada com L2). *"Tem dia que a gente não está perdido. Só ainda não teve coragem de voltar."* Inclui direção de olhar, tom, camada dupla.
+- **DEC-039** — Inscrição na árvore antiga ("E" + traço apagado). Eco em L9. Proibido escrever "ELIAS" inteira em qualquer livro da Fase 1.
+
+### Decisões locais do livro (não viram DEC global)
+- Segunda fala do Personagem Oculto a Lara no Cap 17.
+- Cliente anônimo entrega o Antigo no Cap 7 + frase exata.
+- Folha caída sobre o banco do Oculto no Cap 24.
+- Tragédia familiar de Lara: sugerida apenas; flashback Cap 5 = mãos de criança + vidro quebrado.
+- Profissão atual de Lara: restauração informal + corridas com Beto 3x/semana.
+- Epígrafe do livro: frase de margem do Antigo, sem atribuição, em letra manuscrita.
+
+### Arquivos atualizados
+- `DECISIONS.md` — adicionadas DEC-038 e DEC-039.
+- `books/livro-01-lara/PENDENCIAS-PARA-RESPONDER.md` — marcado como `processado em 2026-05-09`.
+- `books/livro-01-lara/OUTLINE.md` §1.1 + §9.
+- `books/livro-01-lara/ARCOS.md` §1.2 + §1.9 + §2.1.
+- `books/livro-01-lara/MAPA-PISTAS.md` §1, §3.1, §4.2, §11, §13.1, §14.
+- `books/livro-01-lara/CAPITULOS.md` — bloqueios eliminados.
+- `books/livro-01-lara/STATUS.md` — estado atualizado para "concluído".
+- `books/livro-01-lara/CHANGELOG.md` — entrada de processamento.
+- Placeholders dos Caps 1, 2, 4, 5, 7, 13, 17, 22, 24.
+
+### Resultado
+**L1 totalmente destravado.** 24 capítulos prontos para escrita. **DECs aprovadas: 39 / 39 ✓.** Próximo passo: invocar `AGENT-ESCRITA-CAPITULOS.md` para o Cap 1 do L1.
+
+### Observação metodológica
+Esta foi a **primeira aplicação completa do ciclo §14.4** do `AGENT-ESCRITA-LIVROS.md` (questionário consolidado por livro → resposta → propagação → DECs novas). A convenção funciona: pendências locais ficam no path do livro; pendências que afetam mais de um livro viram DEC global. Histórico de respostas mantido no `PENDENCIAS-PARA-RESPONDER.md` para auditoria.
+
+---
+
+## Sessão 2026-05-09 — Convenção de pendências por livro + questionário do L1
+
+### Objetivo
+Estabelecer a convenção de que **questionários de pendências de cada livro vivem dentro do path do livro** (não na raiz do projeto). Aplicar a convenção criando o questionário do Livro 1.
+
+### Mudanças no Agente de Planejamento
+- `AGENT-ESCRITA-LIVROS.md` §3 — adicionado `PENDENCIAS-PARA-RESPONDER.md` ao escopo de arquivos do livro.
+- `AGENT-ESCRITA-LIVROS.md` §5.5 — `PENDENCIAS-PARA-RESPONDER.md` (se existir) entra na lista de arquivos a ler do livro atual.
+- `AGENT-ESCRITA-LIVROS.md` §10.1 — sequência de criação ampliada: passos 15-16 agora incluem identificação de bloqueios e criação consolidada do questionário no path do livro.
+- `AGENT-ESCRITA-LIVROS.md` §12 — saída por tarefa atualizada com a nova convenção.
+- `AGENT-ESCRITA-LIVROS.md` §14 — **completamente reformulado** com 4 subseções: pendência pontual (§14.1), questionário consolidado por livro (§14.2 — convenção principal), DEC global vs. local (§14.3), processo de propagação após resposta (§14.4).
+
+### Aplicação no L1
+- Criado `books/livro-01-lara/PENDENCIAS-PARA-RESPONDER.md` com **8 pendências**:
+  - 🔴 3 críticas: frase de Miguel no Cap 13 (DEC-038 candidata), segunda fala do Oculto no Cap 17, quem entrega o Antigo no Cap 7.
+  - 🟡 3 importantes: inscrição na árvore antiga (Cap 4), detalhe visual final (Cap 24), tragédia familiar de Lara.
+  - 🟢 2 secundárias: profissão atual de Lara, epígrafe do livro.
+- Cada pendência tem recomendação interna do agente, opções A-E, perguntas extras, e campos RESPOSTA/Observação livre.
+
+### Arquivos atualizados
+- `books/livro-01-lara/STATUS.md` — bloqueios apontando para o novo questionário.
+- `books/livro-01-lara/CHANGELOG.md` — entrada nova com a adição.
+- `CHANGELOG.md` (raiz) — entrada nova.
+
+### Princípio canônico fixado
+> Pendências **da série inteira** ficam em `DECISIONS.md` da raiz.
+> Pendências **de cada livro** ficam em `books/livro-XX-protagonista/PENDENCIAS-PARA-RESPONDER.md`.
+> A raiz do projeto **não recebe** novos questionários — `DECOSOES-PARA-RESPONDER.md` (V1 e V2) são históricos já processados.
+
+### Próxima ação recomendada
+Aguardar respostas em `books/livro-01-lara/PENDENCIAS-PARA-RESPONDER.md`. Após processadas, invocar `AGENT-ESCRITA-CAPITULOS.md` para o Capítulo 1.
+
+---
+
 ## Sessão 2026-05-09 — Nova personagem de apoio cruzado (Bia)
 
 ### Objetivo

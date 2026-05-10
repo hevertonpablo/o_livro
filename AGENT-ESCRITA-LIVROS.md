@@ -47,15 +47,17 @@ Para cada livro da série, você cria e mantém os arquivos em `books/livro-XX-n
 
 ```
 books/livro-XX-nome-do-protagonista/
-  OUTLINE.md              ← mapa estrutural capítulo a capítulo
-  ARCOS.md                ← arcos emocionais e narrativos
-  MAPA-PISTAS.md          ← controle de pistas, códigos, charadas
-  MAPA-ILUSTRACOES.md     ← sistema visual do livro
-  CAPITULOS.md            ← tabela operacional dos capítulos
-  STATUS.md               ← estado atual do livro
-  CHANGELOG.md            ← registro local de alterações
-  capitulos/              ← pasta criada VAZIA (placeholders)
-                            (preenchida exclusivamente pelo Agente de Escrita)
+  OUTLINE.md                       ← mapa estrutural capítulo a capítulo
+  ARCOS.md                         ← arcos emocionais e narrativos
+  MAPA-PISTAS.md                   ← controle de pistas, códigos, charadas
+  MAPA-ILUSTRACOES.md              ← sistema visual do livro
+  CAPITULOS.md                     ← tabela operacional dos capítulos
+  STATUS.md                        ← estado atual do livro
+  CHANGELOG.md                     ← registro local de alterações
+  PENDENCIAS-PARA-RESPONDER.md     ← bloqueios que precisam de decisão humana
+                                     (criado SOMENTE quando há pendências; vide §15.2)
+  capitulos/                       ← pasta criada VAZIA (placeholders)
+                                     (preenchida exclusivamente pelo Agente de Escrita)
 ```
 
 | Arquivo | Função | Quem cria/preenche |
@@ -67,6 +69,7 @@ books/livro-XX-nome-do-protagonista/
 | `CAPITULOS.md` | Tabela operacional (título, status, função, POV) | **Você** (cria); ambos atualizam |
 | `STATUS.md` | Estado atual do livro | **Você** (atualiza ao longo do tempo) |
 | `CHANGELOG.md` | Registro local | **Você** (cria); ambos atualizam |
+| `PENDENCIAS-PARA-RESPONDER.md` | Questionário de bloqueios do livro para decisão humana | **Você** (cria sempre que houver bloqueios); usuário responde; você processa |
 | `capitulos/capitulo-XX.md` | Texto literário do capítulo | **Agente de Escrita** (você só cria placeholders) |
 
 ---
@@ -157,6 +160,7 @@ books/livro-XX-protagonista/
   MAPA-ILUSTRACOES.md
   CAPITULOS.md
   CHANGELOG.md
+  PENDENCIAS-PARA-RESPONDER.md     (se existir — bloqueios em aberto)
 ```
 
 ### 5.6 Princípio geral de leitura
@@ -632,7 +636,7 @@ Avoid:
 4. **Ler ficha do protagonista** + recorrentes + apoio relevantes (§5.4).
 5. **Ler fichas de objetos / cenários / lugares / horários / clima / transporte** que aparecerão.
 6. **Conferir DECISIONS.md** — listar todas as DECs `aprovadas` que afetam o livro.
-7. **Identificar DECs `pendentes`** que bloqueiam o livro — propor questionário se necessário.
+7. **Identificar DECs `pendentes`** que bloqueiam o livro.
 8. **Criar `STATUS.md`** com estado inicial.
 9. **Criar `ARCOS.md`** — define a transformação interna do protagonista.
 10. **Criar `MAPA-PISTAS.md`** — define todas as pistas obrigatórias do livro.
@@ -640,9 +644,11 @@ Avoid:
 12. **Criar `MAPA-ILUSTRACOES.md`** — sistema visual ligado ao OUTLINE.
 13. **Criar `CAPITULOS.md`** — tabela operacional alinhada ao OUTLINE.
 14. **Criar pasta `capitulos/`** com placeholders vazios (vide §8.8) — um por capítulo planejado.
-15. **Registrar tudo em `CHANGELOG.md`** do livro **e** no `CHANGELOG.md` da raiz.
-16. **Atualizar `SESSION_LOG.md`** da raiz com a sessão.
-17. **Avisar o usuário** que a arquitetura está pronta e que o próximo passo é invocar o **Agente de Escrita**.
+15. **Identificar todos os bloqueios** que precisam de decisão humana — pendências espalhadas em OUTLINE/MAPA-PISTAS/CAPITULOS/etc.
+16. **Se houver 2+ bloqueios:** criar `PENDENCIAS-PARA-RESPONDER.md` no path do livro (§14.2) consolidando tudo em um único questionário.
+17. **Registrar tudo em `CHANGELOG.md`** do livro **e** no `CHANGELOG.md` da raiz.
+18. **Atualizar `SESSION_LOG.md`** da raiz com a sessão.
+19. **Avisar o usuário** que a arquitetura está pronta + que **há pendências para responder** (se houver) + que o próximo passo é invocar o **Agente de Escrita** (após pendências resolvidas).
 
 ### 10.2 Regra crítica
 
@@ -684,7 +690,9 @@ Se algum item estiver em aberto, **registre como `## Pendência para decisão hu
 | Criar `CAPITULOS.md` | Tabela operacional dos capítulos (§8.5). |
 | Criar `STATUS.md` | Estado atual do livro (§8.6). |
 | Criar `CHANGELOG.md` | Registrar mudanças **reais**, não inventar histórico falso. |
-| Criar arquitetura completa do livro | Sequência §10.1 — todos os arquivos de planejamento na ordem certa. |
+| Criar `PENDENCIAS-PARA-RESPONDER.md` | Questionário consolidado de pendências do livro **dentro do path do livro**, conforme §14.2. |
+| Criar arquitetura completa do livro | Sequência §10.1 — todos os arquivos de planejamento na ordem certa, **incluindo `PENDENCIAS-PARA-RESPONDER.md` se houver bloqueios**. |
+| Processar respostas das pendências | Aplicar conforme §14.4 — propagar para arquivos do livro + DECs globais se aplicável. |
 | **"Escreva capítulo X"** | **Recusar.** Orientar o usuário a invocar o Agente de Escrita (§19). |
 
 Se estiver criando o conteúdo de um arquivo, **entregue o conteúdo completo em Markdown.**
@@ -722,7 +730,11 @@ Ao executar uma tarefa, responda sempre com:
 
 ## 14. Pendências para decisão humana
 
-Quando precisar de uma decisão que não está canonicamente fechada, **NÃO invente.** Crie uma seção:
+Quando precisar de uma decisão que não está canonicamente fechada, **NÃO invente.** Você tem dois mecanismos, dependendo do escopo da pendência:
+
+### 14.1 Pendência pontual em arquivo (uso interno do agente)
+
+Para registro rápido **dentro de um documento específico** que você está produzindo (ex.: `OUTLINE.md`, `MAPA-PISTAS.md`), use a seção:
 
 ```markdown
 ## Pendência para decisão humana
@@ -744,12 +756,137 @@ Que cena / capítulo / arquivo bloqueia.
 ### Impacto narrativo
 O que muda na obra dependendo da escolha.
 
-### Proposta de DEC
+### Proposta de DEC (se aplicável — vide §14.3)
 DEC-XXX (próximo número disponível) — [título da decisão]
 Status: pendente
 ```
 
-> **Onde registrar:** no documento que você está editando + adicionar entrada em `DECISIONS.md` na seção `## Decisões pendentes` com o ID DEC novo.
+### 14.2 Questionário consolidado de pendências do livro (CONVENÇÃO PRINCIPAL)
+
+> **Toda vez que você identificar bloqueios que precisam de resposta humana, crie ou atualize um arquivo de questionário consolidado dentro do path do livro afetado.**
+
+**Localização canônica:**
+
+```
+books/livro-XX-protagonista/PENDENCIAS-PARA-RESPONDER.md
+```
+
+> **Não use a raiz do projeto** para questionários de pendências de livro. Os arquivos `DECISOES-PARA-RESPONDER.md` e `DECISOES-PARA-RESPONDER-V2.md` da raiz são **históricos** de questionários de canon global da série, **já processados**, e **não devem ser repetidos** — qualquer questionário novo é por livro, dentro do path do livro.
+
+**Quando criar:**
+
+- Sempre que o agente identificar **2 ou mais pendências** que dependem de decisão humana para destravar capítulos do livro.
+- Sempre que uma pendência única for crítica o suficiente para bloquear escrita imediata.
+- Sempre que o usuário pedir explicitamente "monte um questionário das pendências".
+- Quando o `PENDENCIAS-PARA-RESPONDER.md` do livro **já existe e foi parcialmente respondido**, atualizá-lo (não criar V2) — a versão é o estado vivo.
+
+**Quando NÃO criar arquivo separado:**
+
+- Se houver apenas **uma pendência menor** que pode ser resolvida em conversa direta — registrar apenas em `## Pendência para decisão humana` no documento afetado (§14.1).
+
+**Estrutura obrigatória do `PENDENCIAS-PARA-RESPONDER.md`:**
+
+```markdown
+# Pendências para responder — Livro XX: Nome
+
+> Documento de trabalho local do livro. Bloqueios identificados pelo Agente de Planejamento que precisam de decisão humana antes da escrita.
+> Quando responder (mesmo parcialmente), avise — o agente propaga para os arquivos do livro e, se virar DEC global, registra também em DECISIONS.md da raiz.
+
+**Status:** preenchimento em aberto | parcialmente processado | processado em AAAA-MM-DD
+
+**Como responder:**
+- Campo `RESPOSTA:` para a escolha.
+- Campo Observação livre para justificar.
+- `[QUERO QUE VOCÊ SUGIRA]` para receber recomendação argumentada.
+- `[PULAR POR ORA]` para adiar.
+
+---
+
+## Resumo das pendências
+
+| # | Tema | Bloqueia | Vira DEC global? | Criticidade |
+|--:|---|---|---|---|
+
+---
+
+# 🔴 PARTE 1 — Pendências críticas (bloqueiam capítulos)
+
+## Pendência 1: [tema]
+
+**Contexto:**
+[explicação curta]
+
+**Opções:**
+- [ ] A: ...
+- [ ] B: ...
+- [ ] [QUERO QUE VOCÊ SUGIRA]
+
+**Recomendação interna:** [opção + razão de 1-2 frases]
+
+**Pergunta extra (opcional):** [...]
+
+**RESPOSTA:**
+
+
+**Observação livre:**
+
+
+---
+
+# 🟡 PARTE 2 — Pendências importantes
+[mesma estrutura]
+
+# 🟢 PARTE 3 — Pendências secundárias
+[mesma estrutura]
+
+---
+
+# Espaço para anotações livres
+
+```
+
+
+
+
+```
+
+---
+
+## Quando terminar (mesmo que parcial)
+
+Avise o agente. Ele vai propagar conforme §14.4 deste manual.
+```
+
+### 14.3 Quando uma pendência vira DEC global
+
+Uma pendência se transforma em **DEC global** (registrada em `DECISIONS.md` da raiz) quando:
+
+- **Afeta mais de um livro** da série (ex.: cena travada entre L1 e L2).
+- **Define um símbolo, frase, regra ou identidade** que vai aparecer em livros futuros.
+- **Cria uma proibição ou regra absoluta** sobre como tratar entidade canônica.
+
+Pendência **não vira** DEC global quando:
+
+- É detalhe de cena que afeta **apenas o livro atual** (ex.: cor exata de um móvel mencionado uma vez).
+- É escolha estilística de capítulo específico.
+- É preenchimento de detalhe que não cria precedente para outros livros.
+
+> Em dúvida, **proponha como DEC** e registre como `pendente`. O usuário decide se aprova ou se trata como detalhe local do livro.
+
+### 14.4 Após o usuário responder
+
+Quando o usuário sinalizar que respondeu (ex.: *"Já respondi as pendências do L1. Pode ler."*), o agente:
+
+1. Lê o `PENDENCIAS-PARA-RESPONDER.md` do livro inteiro.
+2. Para **cada pendência respondida**:
+   - Aplica a decisão nos arquivos do livro (`OUTLINE`, `ARCOS`, `MAPA-PISTAS`, `MAPA-ILUSTRACOES`, `CAPITULOS`, placeholders dos capítulos afetados).
+   - Se for **DEC global** (§14.3): registra entrada em `DECISIONS.md` da raiz, atualiza bíblias específicas se necessário.
+   - Atualiza `CHANGELOG.md` do livro com o item resolvido.
+3. Para **pendências NÃO respondidas**: mantém em aberto no documento, atualiza criticidade se mudou, **não apaga** o conteúdo.
+4. Marca o documento como `processado em AAAA-MM-DD` (mantendo o conteúdo histórico do questionário).
+5. Atualiza `STATUS.md` do livro com novo estado e nova lista de `Bloqueios atuais`.
+6. Atualiza `CHANGELOG.md` da raiz e `SESSION_LOG.md` da raiz.
+7. Reporta ao usuário no formato §13 (saída esperada do agente).
 
 ---
 

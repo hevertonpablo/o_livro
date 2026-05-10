@@ -53,6 +53,8 @@
 | DEC-035 | Existe metrô na cidade? | **aprovado** ✓ (não — ratifica o canon das bíblias) |
 | DEC-036 | Estação canônica = trem ou rodoviária? | **aprovado** ✓ (rodoviária — ratifica o canon das bíblias) |
 | DEC-037 | Mulher da Foto = rastro visual da Primeira Guardiã | **aprovado** ✓ (unificação canônica interna; nunca confirmada na Fase 1) |
+| DEC-038 | Frase canônica de Miguel para Lara no encontro do parque | **aprovado** ✓ (cena travada L1/L2) |
+| DEC-039 | Inscrição na árvore antiga do parque | **aprovado** ✓ ("E" + traço apagado; eco em L9) |
 
 ---
 
@@ -604,6 +606,62 @@ A obra **mantém todas as hipóteses convivendo** — assim como faz com a ident
 - Possível livro próprio da Mulher da Foto / Primeira Guardiã.
 - Possível confirmação (ou não) de viagem no tempo.
 - Origem da promessa antiga, vida da Primeira Guardiã, identidade plena.
+
+**Status:** `aprovado`.
+
+### DEC-038 — Frase canônica de Miguel para Lara no encontro do parque ✓ **(aprovado em 2026-05-09)**
+**Conteúdo:** Na cena travada Lara × Miguel no parque (DEC-030 — 18h, garoa fina), Miguel diz a Lara:
+
+> *"Tem dia que a gente não está perdido. Só ainda não teve coragem de voltar."*
+
+**Marcadores canônicos:**
+
+| Marcador | Especificação |
+|---|---|
+| Quem fala | Miguel |
+| Para quem | Lara |
+| Cenário | Parque |
+| Horário | 18h em ponto (DEC-030) |
+| Clima | Garoa fina (DEC-030) |
+| Tom | Baixo, sem parecer conselho ou sermão |
+| Direção do olhar | **Começa olhando para o lado** (parque), **termina olhando para Lara** |
+| Camada dupla | Funciona para Lara, **mas também revela algo que Miguel precisava ouvir sobre si mesmo** |
+
+**Eco com a frase-âncora canônica (DEC-027):** a frase contém ressonância direta com *"O que está perdido ainda pode ser chamado."* — ambas tematizam **estar perdido** vs. **voltar/ser chamado**. Lara não percebe a conexão na cena (Cap 13). A frase-âncora aparece no Cap 16 quando a memória da fala de Miguel ainda ecoa.
+
+**Cena travada — implicações:**
+- **No Livro 1 (POV Lara, Cap 13):** Lara recebe a frase como reconhecimento sem julgamento. Não responde inteira. Algo se planta.
+- **No Livro 2 (POV Miguel, capítulo equivalente):** Miguel descobre que a frase **saiu pra ela mas era pra ele**. Camada de auto-revelação.
+- **Variação permitida:** apenas **pontuação leve** (vírgulas, ponto final). **Conteúdo é fixo.**
+
+**Bloqueia:** Cap 13 do L1 + capítulo correspondente do L2 (a definir no OUTLINE do L2).
+
+**Status:** `aprovado`.
+
+### DEC-039 — Inscrição na árvore antiga do parque ✓ **(aprovado em 2026-05-09)**
+**Conteúdo:** A inscrição quase apagada na árvore antiga do parque (vista por Lara no Cap 4 do L1) é:
+
+> **"E" seguido de um traço apagado.**
+
+**Características visuais:**
+- Letra única visível: **E** (maiúscula).
+- O traço pode parecer continuação de uma palavra OU ser apenas desgaste natural da casca.
+- **Aparência antiga, irregular, parcialmente confundida com o desgaste natural da árvore** — não foi feita ontem; faz parte da memória do parque.
+
+**Função canônica como red herring:**
+- **No L1:** o leitor pode extrapolar para "ELIAS" (já que Beto cita um homem que sumiu no Cap 1). A obra **não confirma**.
+- **Em L9:** a verdade da inscrição é parcialmente revelada — pode ser inicial de Elias, pode ser de outra pessoa, pode ser apenas marca antiga. **A revelação preserva ambiguidade.**
+
+**Eco com outras pistas:**
+- **Cap 1 (sombra de Elias falada por Beto)** + **Cap 4 (inscrição "E")** = leitor casual pensa "ELIAS" sem prova.
+- **Em L9:** a revelação parcial pode ou não confirmar a leitura — fica em aberto.
+
+**Bloqueia:** Cap 4 do L1 + cena de revisita à árvore em L9.
+
+**Proibições:**
+- **Não escrever a palavra "ELIAS" inteira** na inscrição em nenhum livro da Fase 1.
+- **Não confirmar** que a letra é de Elias antes do L9.
+- **Não confirmar** que a letra **não é** de Elias antes do L9.
 
 **Status:** `aprovado`.
 
