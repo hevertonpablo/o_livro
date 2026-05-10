@@ -1,5 +1,5 @@
 # Capítulos — Livro 1: Lara
-
+claude --resume 0994d74f-43b1-40cb-a7c2-194fca9615d0
 > Tabela operacional dos 24 capítulos. Alinhada ao OUTLINE.md (§6) e ao MAPA-ILUSTRACOES.md (§3).
 > Status atualizado pelo Agente de Escrita conforme cada capítulo for sendo redigido.
 
@@ -11,7 +11,7 @@
 
 | Cap | Acrós. | Título provisório | Status | Função (DEC-014) | POV | Cenário | Horário/Clima | Imagem | Observações |
 |--:|:-:|---|---|---|---|---|---|:-:|---|
-| 1 | **R** | Rua Sem Volta | planejado | revelar personagem | Lara | Transporte (carro Beto) + ruas | madrugada, chuva fina | P01 | Primeira sombra de Elias (citação Beto) |
+| 1 | **R** | Rua Sem Volta | rascunho | revelar personagem + plantar pista | Lara | Transporte (carro Beto) + ruas + apto | madrugada, chuva fina | P01 | Primeira sombra de Elias (citação Beto, frase canônica preservada); cotidiano canônico (3x/sem + restauração informal); Mel no fechamento. ~2.100 palavras |
 | 2 | **E** | Entre Luzes Apagadas | planejado | revelar personagem (interno) + plantar pista | Lara | Apartamento de Lara | manhã cedo, luz pós-chuva | S01 | Mel + 1ª insinuação do talento (DEC-018) |
 | 3 | **C** | Café Frio na Mesa 316 | planejado | plantar pista + cruzamento | Lara | Cafeteria | meio da tarde, luz baixa | S02 | **Mesa 3 + cadeira 16** (DEC-029) + frase Dona Cida + relance Mulher da Foto (DEC-037) |
 | 4 | **O** | O Banco da Esquerda | planejado | plantar pista + cruzamento | Lara | Parque | cair da tarde, garoa fina | M01 | **Banco 16** (DEC-029) + 1ª aparição Oculto à distância (DEC-023) + inscrição árvore antiga (red herring) |

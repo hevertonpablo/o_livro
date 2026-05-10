@@ -2,13 +2,13 @@
 
 ## Estado atual
 
-**Planejamento — concluído. Pronto para a escrita.**
+**Em escrita. Capítulo 1 — *Rua Sem Volta* — rascunho concluído.**
 
-Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09 (vide [`PENDENCIAS-PARA-RESPONDER.md`](PENDENCIAS-PARA-RESPONDER.md) — processado). Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 1–24, sem bloqueios.**
+Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09 (vide [`PENDENCIAS-PARA-RESPONDER.md`](PENDENCIAS-PARA-RESPONDER.md) — processado). Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 2–24, sem bloqueios.**
 
 ## Última atualização
 
-2026-05-09
+2026-05-09 — Cap 1 escrito pelo Agente de Escrita.
 
 ## Progresso
 
@@ -20,19 +20,21 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **0 de 24** — escrita ainda não iniciada
+- **Capítulos escritos:** **1 de 24** — Cap 1 (*Rua Sem Volta*) em rascunho (~2.100 palavras)
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Iniciar a escrita do Capítulo 1 com o Agente de Escrita.**
+**Escrever o Capítulo 2 — *Entre Luzes Apagadas* — após confirmação humana do Cap 1.**
 
-Todas as pendências críticas foram resolvidas. Cena travada Lara × Miguel (Cap 13) está fechada via DEC-038. Inscrição da árvore (Cap 4) fechada via DEC-039.
+O rascunho do Cap 1 foi entregue: ~2.100 palavras, dentro da faixa de capítulo de transição (2.000–2.500), com a sombra de Elias plantada via Beto na forma canônica do MAPA-PISTAS §3. Frase-gancho final do OUTLINE preservada literalmente.
 
 ## Próximas ações
 
 - [x] ~~Responder PENDENCIAS-PARA-RESPONDER.md~~ ✓ 2026-05-09 (8 de 8 pendências processadas)
-- [ ] **Invocar `AGENT-ESCRITA-CAPITULOS.md` para o Capítulo 1** — *Rua Sem Volta*.
+- [x] ~~Cap 1 — *Rua Sem Volta*~~ ✓ rascunho 2026-05-09
+- [ ] Revisão humana do Cap 1.
+- [ ] **Cap 2 — *Entre Luzes Apagadas*** (após confirmação): plantar 1ª insinuação do talento (DEC-018) sem ainda virar flashback explícito (que é Cap 5).
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 
