@@ -4,6 +4,68 @@
 
 ---
 
+## 2026-05-11 (oitava atualização) — Pós-escrita do capítulo 6 (Parte 1 fechada)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 6 — *Ela Ainda Voltou* — escrito em rascunho. ~2.740 palavras (um pouco acima da faixa típica por conta dos três cenários — apto → bar → volta a pé — e da função dupla do capítulo). POV de Lara, noite com chuva fina. Função (DEC-014): **aumentar conflito (externo — Jéssica) + revelar personagem (Jéssica como espelho perigoso)**. Acróstico RECOMECO honrado (letra **E**). Frase-gancho final do OUTLINE preservada literalmente: *"Não tinha sido um não. Mas tinha sido um 'ainda não'."* **Parte 1 (*O Cotidiano da Sombra*) fechada em rascunho.**
+
+### Personagens em cena
+- **Lara** (POV) — alguns dias depois do Cap 5. Em estado de fissura interna nova ("a palavra ainda era pequena. Cabia em um caderno escuro encapado a mão. Cabia em uma cicatriz fina no polegar esquerdo. Cabia num gesto pequeno feito sem testemunha.").
+- **Jéssica** — 25 anos. Reaparece após semanas, batendo na porta. Dimensional: divertida, intensa, debochada — mas com o vazio aparecendo em flashes ("Eu odeio quando você some"). Convida ainda não cobra (modo SUAVE canônico).
+- **Mel** — abertura e fechamento, sem antropomorfização. Sai do quarto quando Jéssica entra; volta quando Lara volta a casa.
+- **Marquinho** e **Pri** — figurantes mínimos, nomes próprios curtos para dar a Jéssica um círculo plausível (semente Fase 2).
+- **Sujeito de barba meio aparada** no bar — abordagem mínima, Lara dispensa em silêncio (TON-001 cumprido).
+
+### Mudança emocional (DEC-014 — aumento de conflito + revelar Jéssica)
+Função dupla cumprida:
+1. **Aumentar conflito (externo):** primeira tensão real do livro. Lara sente o efeito do truque de Jéssica ("o segundo em que o convite parava de ser convite e passava a ser remédio"), cede a metade, mas reduz o tempo da queda — 33 minutos no bar, volta a pé pela chuva. ARCOS §1.7 cumprido literalmente do OUTLINE ("vai com ela até o bar, mas sai cedo, antes do que Jéssica queria").
+2. **Revelar personagem (Jéssica como espelho perigoso):** primeira interação prolongada de Lara com outra pessoa no livro. Jéssica plantada como dimensional — "Era espelho. E o espelho mostrava o que mostrava: alguém parecido com ela mesma, em outra rota, com a mesma ferida não tocada." Sem caricatura (TON-003).
+Frase-gancho final marca a consciência da diferença: Lara sabe que a próxima vez será mais difícil.
+
+### Pistas plantadas (todas dentro do canon)
+- **Estabelecimento de Jéssica como força gravitacional do passado** (ARCOS §1.7 + §2.6) — modo SUAVE canônico. Plantios para Cap 15 (Jéssica forte) e Cap 18 (clímax da pressão): "Não some, hein. Não some de novo. Eu odeio quando você some." — frase que pode ser cobrada literalmente no Cap 15.
+- **Vida noturna sem glamourização** (RULES TON-001/002): bar descrito por cheiro, luz e música. Sem nomear bebida ("algum líquido escuro com gelo grande"). Sem nomear lugar (DEC-011). Fascínio inicial aparece, preço aparece junto.
+- **"Dom de outra mão"** — fórmula nova plantada: Lara tinha um dom (restauração, DEC-018), aprendeu outro (vida noturna como máscara, ficha de Lara). Esta noite, o segundo dom **não veio**. Plantio sem decodificação.
+- **Ecos canon dos Caps 1–5 sem decodificação:**
+  - Caderno escuro encapado a mão (Cap 2 + Cap 5).
+  - Cicatriz fina no polegar esquerdo (Cap 2 + Cap 3 + Cap 5).
+  - Gestos pequenos (alinhar sapatos, lavar pratinho, amarrar um nó — Caps 1, 2, 3, 5).
+  - Som do vidro quebrado do flashback do Cap 5: *"na noite anterior à anterior, ela tinha ouvido vidro quebrar em algum lugar dentro de si que não tinha nome."*
+  - Trinco interno (Cap 2): *"Destravou o trinco por dentro."*
+  - Porteiro substituto (Cap 2): *"havia coisas que continuavam acontecendo do mesmo jeito."*
+  - Sapatos alinhados (Cap 1, 2): Jéssica derruba um, Lara pede pra ela botar no lugar — microcombate canônico.
+- **Livreto antigo de costura** (novo objeto canônico, prateleira de cima da estante): capa dura cinzenta, sem autor — pode reaparecer se útil.
+
+### Continuidade afetada
+- **Cap 5 ↔ Cap 6:** estado pós-flashback respeitado. Vidro do Cap 5 ecoa por baixo do diálogo (sem ser dito).
+- **Bíblia de cenários:** "bar do andar de baixo / sobrado antigo / escada estreita / luz amarela baixa / balcão com relógio redondo antigo" — descrito sem nome próprio. Pode ser referenciado em futuros capítulos como "o bar de sempre".
+- **Bíblia de personagens (Jéssica):** dimensionalidade reforçada — não é vilã, também está perdida. Marquinho + Pri registrados como círculo dela.
+- **Acróstico RECOMECO:** letra **E** ("Ela Ainda Voltou") preservada. **Acróstico RECOMEC concluído na Parte 1.**
+- **Cap 7 — *Coisas que Quebram em Silêncio*** (CATALISADOR) herda: Lara em estado de adiamento intencional; a "palavra pequena" que cabe começa a ganhar peso. Próximo capítulo: cafeteria, Mesa 3/cadeira 16, cliente anônimo entrega o Antigo.
+- **Cap 15 — *Volta de Onde Não Saí***: frase canônica plantada aqui ("Não some, hein. Eu odeio quando você some.") pode ressoar literalmente.
+- **Cap 18 — *O Que a Pressão Pede***: a fórmula "Não tinha sido um não. Mas tinha sido um *ainda não*." deve ecoar como o limite da fórmula — quando o "ainda não" não cabe mais.
+
+### Pendências
+Nenhuma crítica.
+- Sugestão menor (não bloqueia escrita): registrar "bar do andar de baixo" como cenário canônico secundário do L1 em `cenarios/` (sem nome próprio). Pode ser feito na próxima passagem do Agente de Planejamento.
+- "Dom de outra mão" como fórmula plantada — pode ressoar em capítulos futuros sem ser repetida literalmente.
+
+### Marco do livro
+**Parte 1 — *O Cotidiano da Sombra* — concluída em rascunho.** Total: 6 capítulos, ~14.110 palavras (cerca de 22% do alvo de ~65.000 palavras do livro). Acróstico RECOMECO honra os 6 primeiros: **R**ua Sem Volta · **E**ntre Luzes Apagadas · **C**afé Frio na Mesa 316 · **O** Banco da Esquerda · **M**arcas que Ninguém Vê · **E**la Ainda Voltou.
+
+### Arquivos atualizados
+- [`capitulos/capitulo-06.md`](capitulos/capitulo-06.md) — placeholder substituído + blocos PRÉ-CHECAGEM e PÓS-ESCRITA.
+- [`CAPITULOS.md`](CAPITULOS.md) — linha do Cap 6: `planejado` → `rascunho`; observações expandidas.
+- [`STATUS.md`](STATUS.md) — Caps 1–6 rascunhos concluídos; progresso 6/24; foco no Cap 7; Parte 1 marcada como completa.
+- [`CHANGELOG.md`](CHANGELOG.md) — esta entrada.
+
+### Próximo passo
+Aguardar revisão humana do Cap 6 e da Parte 1 inteira. Em seguida, abrir a **Parte 2 (*O Que Chega Sem Pedir Licença*)** com **Capítulo 7 — *Coisas que Quebram em Silêncio*** (letra **C** do segundo bloco do acróstico RECOMECO). **CATALISADOR DO LIVRO** — o Antigo entra em cena. Cafeteria, fim de tarde, luz cinza. Cliente anônimo de fala curta entrega o pacote: *"Acho que isso te procurou."* (canon §6 das pendências). Dona Cida não comenta. Lara coloca na bolsa, não abre ainda.
+
+---
+
 ## 2026-05-11 (sétima atualização) — Pós-escrita do capítulo 5
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
