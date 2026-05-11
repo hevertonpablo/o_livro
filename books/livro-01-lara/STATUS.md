@@ -2,13 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1 a 6 — Parte 1 (*O Cotidiano da Sombra*) — rascunhos concluídos.**
+**Em escrita. Capítulos 1 a 7 — Parte 1 completa + Cap 7 abre a Parte 2.** Capítulo-pivô do livro (catalisador — Antigo entra) cumprido.
 
-Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 7–24, sem bloqueios.**
+Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 8–24, sem bloqueios.**
 
 ## Última atualização
 
-2026-05-11 — Cap 6 escrito pelo Agente de Escrita. **Parte 1 completa em rascunho.**
+2026-05-11 — Cap 7 escrito pelo Agente de Escrita. **Catalisador cumprido (ARCOS §1.8).**
 
 ## Progresso
 
@@ -20,25 +20,20 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **6 de 24 — Parte 1 (*O Cotidiano da Sombra*) completa** — Caps 1 a 6 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350 e ~2.740 palavras respectivamente). Total Parte 1: ~14.110 palavras.
+- **Capítulos escritos:** **7 de 24** — Caps 1 a 7 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740 e ~2.770 palavras respectivamente). Total: ~16.880 palavras (~26% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 7 — *Coisas que Quebram em Silêncio* — após confirmação humana dos Caps 1 a 6.**
+**Escrever o Capítulo 8 — *Onde a Voz Falhou* — após confirmação humana dos Caps 1 a 7.**
 
-Cap 6 entregue: ~2.740 palavras (um pouco acima da faixa por conta dos três cenários e da função dupla). Jéssica reaparece após semanas (modo suave canônico, ainda não cobrança). Lara cede a metade — vai até o bar, fica 33 minutos, sai antes do desejado e volta a pé pela chuva. Plantios canônicos: dimensionalidade de Jéssica (TON-003), bar sem nome (DEC-011), figurantes Marquinho + Pri (semente Fase 2). Ecos sutis aos Caps 1–5 (caderno escuro, cicatriz, vidro do flashback, trinco, porteiro). Frase-gancho final do OUTLINE preservada literalmente. **Parte 1 fechada.**
+Cap 7 entregue: ~2.770 palavras. **CATALISADOR DO LIVRO CUMPRIDO** (ARCOS §1.8). O Antigo entrou na vida de Lara — entregador anônimo de fala curta (canon §3 das pendências), frase canônica preservada ("Acho que isso te procurou."), Dona Cida em silêncio canônico ativo (sabe mais do que diz). Lara não abriu o livro; não viu os três pontos (preservados para Cap 8). Nó do pacote = nó canônico do Cap 2 — eco direto. Acróstico C (segundo bloco do RECOMECO) cumprido. Frase-gancho final do OUTLINE preservada literalmente.
 
 ## Próximas ações
 
-- [x] ~~Cap 1 — *Rua Sem Volta*~~ ✓ rascunho 2026-05-09 (revisado 2026-05-11)
-- [x] ~~Cap 2 — *Entre Luzes Apagadas*~~ ✓ rascunho 2026-05-11 (revisado 2026-05-11)
-- [x] ~~Cap 3 — *Café Frio na Mesa 316*~~ ✓ rascunho 2026-05-11 (revisado 2026-05-11)
-- [x] ~~Cap 4 — *O Banco da Esquerda*~~ ✓ rascunho 2026-05-11
-- [x] ~~Cap 5 — *Marcas que Ninguém Vê*~~ ✓ rascunho 2026-05-11 (revisado 2026-05-11)
-- [x] ~~Cap 6 — *Ela Ainda Voltou*~~ ✓ rascunho 2026-05-11
-- [ ] Revisão humana dos Caps 1 a 6 (Parte 1 completa).
-- [ ] **Cap 7 — *Coisas que Quebram em Silêncio*** (após confirmação): abre a **Parte 2 (*O Que Chega Sem Pedir Licença*)**. **CATALISADOR DO LIVRO** — o Antigo entra na vida de Lara. Cafeteria, fim de tarde, luz cinza. Cliente anônimo de fala curta entrega o pacote: *"Acho que isso te procurou."* (canon §6 das pendências). Dona Cida não comenta. Lara coloca na bolsa, não abre ainda.
+- [x] ~~Caps 1–7~~ ✓ rascunhos 2026-05-09 / 2026-05-11
+- [ ] Revisão humana dos Caps 1 a 7.
+- [ ] **Cap 8 — *Onde a Voz Falhou*** (após confirmação): apartamento de Lara, madrugada (**3h16** — DEC-029 segunda forma do 316 + DEC-024 três pontos da capa do Antigo + DEC-021 letra das margens). Lara passa o polegar pela capa, sente os três pontos, abre o Antigo pela primeira vez, vê páginas finas com anotações em letra antiga nas margens. Vê com os dedos antes da cabeça (DEC-018 explícita como ferramenta narrativa).
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 

@@ -4,6 +4,64 @@
 
 ---
 
+## 2026-05-11 (nona atualização) — Pós-escrita do capítulo 7 (CATALISADOR CUMPRIDO)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 7 — *Coisas que Quebram em Silêncio* — escrito em rascunho. ~2.770 palavras (justificado por ser o capítulo-pivô do livro). POV de Lara, fim de tarde na cafeteria com luz cinza. Função (DEC-014): **empurrar transformação (catalisador) + plantar pista (Antigo entra em cena)**. Acróstico RECOMECO honrado (letra **C** — segundo bloco). Frase-gancho final do OUTLINE preservada literalmente: *"O peso do livro na bolsa parecia maior do que o livro."*
+
+**ARCOS §1.8 (catalisador) cumprido:** o Antigo entra na vida de Lara como semente, não como abalo — peso novo na bolsa, levado pra casa.
+
+### Personagens em cena
+- **Lara** (POV) — alguns dias depois do Cap 6. Na mesa 3 / cadeira 16 canônica. Café preto sem leite. Caderno cinza aberto sem escrever.
+- **Dona Cida** — em silêncio canônico ativo. Quando o homem entra, limpa um lugar do balcão que já estava limpo; não levanta os olhos quando ele se aproxima; responde a pergunta direta de Lara com pergunta de volta ("Que homem, menina?... Entrou um homem?"). Recusa canônica sem mentir abertamente.
+- **Entregador anônimo de fala curta (canon §3 das pendências)** — homem, ombros largos, casaco escuro de tom indecidível entre preto/marrom/cinza muito carregado (ambiguidade canônica deliberada — eco/red herring com o casaco cinza-chumbo do Oculto DEC-023), cabelo grisalho curto, mão grande e áspera, voz baixa e áspera. **Lara não vê o rosto** — ângulo descrito como impossibilidade técnica.
+- **Cliente do canto canônico** (cafeteria.md §4) — mencionado de leve no início, "que lia sem virar página pela última meia hora". Preservado como semente Fase 2.
+- **Mel** — fechamento, no apartamento. Sem antropomorfização.
+
+### Mudança emocional (DEC-014 — catalisador + plantar pista)
+**Catalisador cumprido conforme ARCOS §1.8 literal:** a entrada do Antigo NÃO é dramática. É um peso novo na bolsa, levado pra casa numa tarde qualquer. Lara não decodifica nada — apenas registra: peso na mochila, atenção na nuca, distribuição nos ombros, memória nas mãos. A vergonha-armadura permanece intacta. O que muda é micrométrico: ela aceita carregar algo que veio sem pedir — sem abrir, sem perguntar, sem rejeitar. ARCOS §1.5 (necessidade interna) tocada pela memória das mãos no contato com o couro: *"Os dedos dela sabiam essa firmeza."*
+
+### Pistas plantadas (todas dentro do canon)
+- **Antigo entra (DEC-003 — não nomeado):** livro pequeno, capa escura entre marrom muito antigo e bordô apagado; tecido encadernado em algo que tinha sido couro; pontas puídas; lombada com vinco profundo no terço de cima (fixado canon para Cap 10). **Três pontos da capa NÃO descritos** (preservados para Cap 8). **Livro não aberto, margens não lidas** (preservadas para Cap 8+). Termos canônicos permitidos usados; termos proibidos (Bíblia, Escritura, Palavra etc.) NÃO usados.
+- **Entregador anônimo (canon §3 das pendências):** identidade aberta como semente Fase 2. **Ambiguidade canônica deliberada** com o casaco cinza-chumbo do Oculto — canon mantém em aberto (não confirma nem nega que seja o Oculto). JOG ambíguo.
+- **Frase canônica do entregador:** *"Acho que isso te procurou."* — literal.
+- **Frase de despedida canônica de Dona Cida:** *"Vai com cuidado, menina."* — eco do Cap 3.
+- **Pacote em pano com nó canônico do Cap 2:** "exatamente o mesmo tipo de nó que ela tinha feito alguns dias antes no barbante que prendia a capa do caderno do antiquário". Eco direto plantado.
+- **Mesa 3 / cadeira 16 (DEC-029)** reforçada como mesa-de-sempre.
+- **Sinetinha aguda** (canon cafeteria.md §9) preservada — quatro toques.
+- **Eco direto do Cap 5:** *"Os dedos lembravam que livros antigos tinham coisas. A cabeça tinha esquecido o que. As mãos pareciam não."* — eco direto de *"A cabeça tinha esquecido o verbo. As mãos não."*
+- **Eco direto do Cap 6:** "a palavra pequena" do final do Cap 6 (caderno + cicatriz + gesto) agora ganha um quarto elemento — peso na bolsa.
+
+### Continuidade afetada
+- **Cap 2 ↔ Cap 7:** nó do barbante reconhecido instantaneamente quando Lara desfaz o nó do pacote.
+- **Cap 3 ↔ Cap 7:** mesa 3 / cadeira 16, cliente do canto, sinetinha aguda, "vai com cuidado, menina" — todos reaparecem com peso novo.
+- **Cap 5 ↔ Cap 7:** vocabulário do ofício preservado; eco direto "cabeça tinha esquecido, as mãos não".
+- **Cap 6 ↔ Cap 7:** estado de fissura interna acumulada cumprido.
+- **Bíblia do Antigo §5 (trajetória):** Cap 7 do L1 registrado canonicamente.
+- **Acróstico RECOMECO:** letra **C** ("Coisas que Quebram em Silêncio") preservada — segundo bloco aberto.
+
+### Pendências
+Nenhuma crítica.
+- **Ambiguidade do entregador** mantida deliberadamente. Se o autor decidir em algum momento que o entregador é (ou não é) o Oculto, registrar então. Por enquanto, canon do L1 = entregador anônimo, identidade aberta.
+- **Vinco profundo no terço de cima da lombada** agora fixado como canon do Antigo — Cap 10 (gesto técnico de Lara) deve referir-se ao mesmo vinco.
+- Sugestão menor (não bloqueia escrita): atualizar `bíblia-do-antigo §5 (trajetória)` com a entrada Cap 7 do L1. Pode ser feito na próxima passagem do Agente de Planejamento.
+
+### Marco do livro
+**Catalisador do L1 cumprido (ARCOS §1.8).** Lara agora carrega o Antigo. A circulação do objeto começou (bíblia-do-antigo §5). Parte 2 (*O Que Chega Sem Pedir Licença*) aberta. Próximas paradas: três pontos da capa (Cap 8) → leitura das margens (Cap 8+) → reativação ativa do talento (Cap 10) → frase-âncora completa (Cap 16) → clímax interno (Cap 21).
+
+### Arquivos atualizados
+- [`capitulos/capitulo-07.md`](capitulos/capitulo-07.md) — placeholder substituído + blocos PRÉ-CHECAGEM e PÓS-ESCRITA.
+- [`CAPITULOS.md`](CAPITULOS.md) — linha do Cap 7: `planejado` → `rascunho`; observações expandidas.
+- [`STATUS.md`](STATUS.md) — Caps 1–7 rascunhos concluídos; progresso 7/24; foco no Cap 8; catalisador marcado.
+- [`CHANGELOG.md`](CHANGELOG.md) — esta entrada.
+
+### Próximo passo
+Aguardar revisão humana do Cap 7. Em seguida, escrever **Capítulo 8 — *Onde a Voz Falhou*** (letra **O** do segundo bloco do acróstico RECOMECO — completa a palavra): apartamento de Lara, madrugada (**3h16** — DEC-029 segunda forma do 316). **Lara passa o polegar pela capa do Antigo e sente os três pontos discretos** (DEC-024). Abre o Antigo pela primeira vez. Vê as anotações em letra antiga nas margens (DEC-021 — letra da Primeira Guardiã). Vê com os dedos antes da cabeça (DEC-018 explícita como ferramenta narrativa).
+
+---
+
 ## 2026-05-11 (oitava atualização) — Pós-escrita do capítulo 6 (Parte 1 fechada)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
