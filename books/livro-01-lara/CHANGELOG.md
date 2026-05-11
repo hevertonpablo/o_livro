@@ -4,6 +4,79 @@
 
 ---
 
+## 2026-05-11 (décima atualização) — Pós-escrita do capítulo 8 (4 DECs concentradas)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 8 — *Onde a Voz Falhou* — escrito em rascunho. ~2.985 palavras (acima da faixa típica, justificado pela concentração de 4 DECs canônicas + cumprimento de transformação interna). POV de Lara, madrugada com chuva. Função (DEC-014): **plantar pista (concentração canônica) + empurrar transformação interna**. Acróstico RECOMECO honrado (letra **O** — completa o segundo bloco "CO" da Parte 2). Frase-gancho final do OUTLINE preservada literalmente: *"Era a primeira coisa que ela tinha lido em meses. E não tinha falhado."*
+
+### Personagens em cena
+- **Lara** (POV) — algumas horas depois do Cap 7. Não dorme. Vai até a sala, acende a luminária baixa do canto, traz o Antigo da mochila para a mesinha do sofá.
+- **Mel** — no braço do sofá, presença educada e silenciosa. Sem antropomorfização. Os gatos têm um senso muito específico para o que está acontecendo numa sala em silêncio — Mel não interrompe.
+
+### Mudança emocional (DEC-014 — empurrar transformação interna)
+Lara não age, não decide, não muda externamente — mas algo nela é nomeado sem palavras explícitas: *"Era a ordem natural com que ela acessava as coisas: primeiro a forma, depois o conteúdo. Tinha sido sempre assim. Tinha apenas demorado a se lembrar."* A vergonha-armadura recebe segunda fissura (a primeira foi no Cap 5, memória; esta é presente, gesto). ARCOS §1.5 (necessidade interna) é tocada de modo mais concreto. *"Não tinha falhado"* — formulação inédita no L1.
+
+### Pistas plantadas (4 DECs concentradas)
+
+**DEC-024 — três pontos da capa do Antigo:**
+- Lara passa o polegar pela capa, sente os três pontos quase apagados (alto-relevo gasto), formando triângulo imperfeito.
+- Conta um por um. Profundidade desigual (primeiro mais raso, segundo meio-termo, terceiro mais perceptível).
+- Reconhece como pontos de costura antigos, **não dano natural** — canon §1.3 literal.
+- Pensa em acender a luz do teto e desiste — "Os três pontos eram pontos pra dedo, não pra olho."
+- **Não descrito como símbolo religioso explícito.** As sete leituras canônicas (§1.3) permanecem abertas.
+
+**DEC-018 confirmada como ferramenta narrativa — Lara vê com os dedos:**
+- Cumprida em três níveis: os pontos ("Não viu primeiro — sentiu"); a história física do livro ("tinha sido remendado... Ela não conseguia ver tudo isso. Ela sentia que era assim"); a leitura ("Tinha lido a margem com os dedos primeiro, depois com os olhos").
+- Lara nomeia (para si mesma, sem palavras): "primeiro a forma, depois o conteúdo. Tinha sido sempre assim. Tinha apenas demorado a se lembrar."
+
+**DEC-021 — letra das margens, Fase A (antiga, firme, ritualística):**
+- Três adjetivos canônicos usados literalmente como adjetivos isolados que vieram à percepção de Lara.
+- Frase canônica do MAPA-PISTAS §6.1 *"como mão que escreveu muito"* usada literalmente.
+- Letra percebida como **objeto** (peso, idade, desgaste), não como pessoa — canon §6.2 cumprido.
+- NÃO comparada com outras letras (canon §6.2).
+- Autoria não identificada. Pessoa anônima, antiga, que escreveu muito.
+
+**DEC-029 — 3h16:**
+- Segunda forma do 316 no L1.
+- Dígitos vermelhos pequenos do relógio digital na mesinha do sofá.
+- Sem destaque, sem decodificação. *"Era um horário como outro qualquer."*
+- MIS-004 cumprido — 316 nunca explicado.
+
+### Plantios sutis adicionais (sem violar canon)
+- **Palavra "chamado / chama de"** plantada como prenúncio da frase-âncora do Cap 16 (DEC-027 — *"O que está perdido ainda pode ser chamado."*) — sem entregá-la. Lara vê a palavra com tinta meio fugida, não consegue distinguir bem. Eco para releitura.
+- **Descrição visual canônica da letra:** "tinta preta com tom azulado... desbotado para um marrom levíssimo... cabeças de 'a' mais fechadas, 'g' com perna inferior em curva fechada, 'd' com haste alta levemente inclinada para trás" — canon visual para futuras cruzamentos em L7 (Nina) com a carta antiga (L5) e o caderno do Oculto.
+
+### Continuidade afetada
+- **Cap 7 ↔ Cap 8:** vinco profundo no terço de cima da lombada referenciado (canon Cap 7). Embrulho de pano com nó refeito de leve.
+- **Cap 5 ↔ Cap 8:** "soube com a parte do corpo dela que sabia" — eco direto de "cabeça tinha esquecido o verbo. As mãos não."
+- **Cap 2 ↔ Cap 8:** vocabulário do ofício preservado; fórmula "dedos lembram antes da cabeça" reforçada.
+- **Acróstico RECOMECO:** letra **O** ("Onde a Voz Falhou") preservada — segundo bloco "CO" fechado.
+- **Bíblia do Antigo §1.3:** canon cumprido — três pontos sentidos com profundidade desigual, pontos de costura antigos.
+- **Bíblia do Antigo §6 (fragmentos revelados):** primeira leitura visível das margens registrada no L1 Cap 8 — palavras isoladas detectadas ("ninguém", "chamado / chama de"). Sem frase inteira.
+
+### Pendências
+Nenhuma crítica.
+- Para o Cap 9: deve cumprir o canon DEC-006 (linha 1 da charada — *"Não nasci em capa."*) com clareza visual. A palavra "chamado" deste capítulo **NÃO é da charada**; é eco sutil da frase-âncora do Cap 16. Preservar a distinção.
+- Para o Cap 10: gesto técnico de restauradora deve usar o vinco profundo da lombada já fixado nos Caps 7 e 8 — sem repetir a percepção de hoje.
+- Para Caps 14 e 16: a letra das margens deve ser DESCRITA com os mesmos três adjetivos canônicos (antiga, firme, ritualística). Consistência absoluta.
+- Para L7 (Nina): canon visual da letra plantado neste capítulo serve de base para releitura cruzada.
+
+### Marco do livro
+**Concentração canônica do meio-livro cumprida.** Os três marcadores físicos do Antigo (DEC-024) + a letra das margens (DEC-021 Fase A) + 3h16 (DEC-029) + DEC-018 como ferramenta narrativa — tudo plantado num único capítulo intimista. Lara agora "lê" o objeto sem decifrar. Próximas paradas: linha 1 da charada (Cap 9), reativação ativa (Cap 10), cena-pivô L1/L2 (Cap 13), frase-âncora completa (Cap 16).
+
+### Arquivos atualizados
+- [`capitulos/capitulo-08.md`](capitulos/capitulo-08.md) — placeholder substituído + blocos PRÉ-CHECAGEM e PÓS-ESCRITA.
+- [`CAPITULOS.md`](CAPITULOS.md) — linha do Cap 8: `planejado` → `rascunho`; observações expandidas.
+- [`STATUS.md`](STATUS.md) — Caps 1–8 rascunhos concluídos; progresso 8/24; foco no Cap 9.
+- [`CHANGELOG.md`](CHANGELOG.md) — esta entrada.
+
+### Próximo passo
+Aguardar revisão humana do Cap 8. Em seguida, escrever **Capítulo 9 — *A Palavra que Sobrou***: apartamento → cafeteria, manhã limpa após chuva, luz amarelada. **Linha 1 da charada central** (DEC-006 — *"Não nasci em capa."*) + eco em fala canônica de Dona Cida (*"Ninguém é só o que aparece em volta da gente."*). Primeira vez de Lara levando o Antigo em público.
+
+---
+
 ## 2026-05-11 (nona atualização) — Pós-escrita do capítulo 7 (CATALISADOR CUMPRIDO)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

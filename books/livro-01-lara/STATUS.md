@@ -2,13 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1 a 7 — Parte 1 completa + Cap 7 abre a Parte 2.** Capítulo-pivô do livro (catalisador — Antigo entra) cumprido.
+**Em escrita. Capítulos 1 a 8 — Parte 1 completa + Parte 2 aberta (Caps 7 e 8 escritos).** Catalisador cumprido (Cap 7) + concentração de 4 DECs canônicas no Cap 8 (três pontos, letra das margens, 3h16, DEC-018 como ferramenta).
 
-Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 8–24, sem bloqueios.**
+Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 9–24, sem bloqueios.**
 
 ## Última atualização
 
-2026-05-11 — Cap 7 escrito pelo Agente de Escrita. **Catalisador cumprido (ARCOS §1.8).**
+2026-05-11 — Cap 8 escrito pelo Agente de Escrita. **Quatro DECs concentradas (024 + 021 + 029 + 018-como-ferramenta).**
 
 ## Progresso
 
@@ -20,20 +20,20 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **7 de 24** — Caps 1 a 7 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740 e ~2.770 palavras respectivamente). Total: ~16.880 palavras (~26% do alvo).
+- **Capítulos escritos:** **8 de 24** — Caps 1 a 8 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770 e ~2.985 palavras respectivamente). Total: ~19.865 palavras (~31% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 8 — *Onde a Voz Falhou* — após confirmação humana dos Caps 1 a 7.**
+**Escrever o Capítulo 9 — *A Palavra que Sobrou* — após confirmação humana dos Caps 1 a 8.**
 
-Cap 7 entregue: ~2.770 palavras. **CATALISADOR DO LIVRO CUMPRIDO** (ARCOS §1.8). O Antigo entrou na vida de Lara — entregador anônimo de fala curta (canon §3 das pendências), frase canônica preservada ("Acho que isso te procurou."), Dona Cida em silêncio canônico ativo (sabe mais do que diz). Lara não abriu o livro; não viu os três pontos (preservados para Cap 8). Nó do pacote = nó canônico do Cap 2 — eco direto. Acróstico C (segundo bloco do RECOMECO) cumprido. Frase-gancho final do OUTLINE preservada literalmente.
+Cap 8 entregue: ~2.985 palavras (acima da faixa, justificado pela concentração de 4 DECs canônicas). **Concentração canônica cumprida:** três pontos do Antigo sentidos com o polegar (DEC-024 — profundidade desigual, pontos de costura antigos), DEC-018 explicitada como ferramenta narrativa (Lara vê com os dedos primeiro), letra das margens Fase A (DEC-021 — três adjetivos canônicos antiga/firme/ritualística + "como mão que escreveu muito"), 3h16 sem destaque (DEC-029). Palavra "chamado/chama de" plantada como prenúncio sutil da frase-âncora do Cap 16 — sem entregá-la. Frase-gancho final do OUTLINE preservada literalmente. Acróstico **O** (completa o segundo bloco "CO" do RECOMECO).
 
 ## Próximas ações
 
-- [x] ~~Caps 1–7~~ ✓ rascunhos 2026-05-09 / 2026-05-11
-- [ ] Revisão humana dos Caps 1 a 7.
-- [ ] **Cap 8 — *Onde a Voz Falhou*** (após confirmação): apartamento de Lara, madrugada (**3h16** — DEC-029 segunda forma do 316 + DEC-024 três pontos da capa do Antigo + DEC-021 letra das margens). Lara passa o polegar pela capa, sente os três pontos, abre o Antigo pela primeira vez, vê páginas finas com anotações em letra antiga nas margens. Vê com os dedos antes da cabeça (DEC-018 explícita como ferramenta narrativa).
+- [x] ~~Caps 1–8~~ ✓ rascunhos 2026-05-09 / 2026-05-11
+- [ ] Revisão humana dos Caps 1 a 8.
+- [ ] **Cap 9 — *A Palavra que Sobrou*** (após confirmação): apartamento → cafeteria, manhã limpa após chuva, luz amarelada. Plantar **linha 1 da charada central** (DEC-006 — *"Não nasci em capa."* — primeira de 10 linhas da série) + eco com fala de Dona Cida ("Ninguém é só o que aparece em volta da gente."). Lara leva o Antigo em público pela primeira vez.
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 
