@@ -127,7 +127,7 @@ Lara não termina o livro curada. Termina apenas tendo voltado a olhar pra o que
 - **Personagens em cena:** Lara, Beto, passageiro anônimo.
 - **O que acontece:** Lara em corrida com Beto. Diálogo mínimo. Beto a deixa no apartamento. Antes de descer, ela ouve Beto comentar de leve sobre *um homem que sumiu há tempos* — primeira sombra de Elias.
 - **Pistas plantadas:** primeira sombra de Elias (citação rápida via Beto).
-- **Frase-gancho final:** Lara entra no apartamento e Mel a espera. *"Pelo menos a gata ainda lembrava o nome dela."*
+- **Frase-gancho final:** Lara entra no apartamento e Mel a espera. *"Pelo menos a gata ainda voltava pra perto."* (revisado 2026-05-11 — versão anterior *"…ainda lembrava o nome dela."* descartada por incoerência cognitiva: ver `capitulos/capitulo-01.md` PÓS-ESCRITA.)
 
 #### Cap 2 · **E** · *Entre Luzes Apagadas*
 - **Função:** Revelar personagem (interno). Plantar pista.

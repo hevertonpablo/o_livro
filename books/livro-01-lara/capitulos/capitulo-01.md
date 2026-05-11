@@ -134,7 +134,7 @@ Mel veio. Sentou ao lado do pé dela. Esperou.
 
 — Vamos — Lara disse. Era para Mel, mas era também para ninguém.
 
-Foi para o quarto. A cama era estreita, com lençol amassado da noite anterior. Lara não tirou o casaco. Sentou-se na beira, pôs a mochila no chão, apoiou os cotovelos nos joelhos. Ficou.
+Foi para o quarto. A cama era estreita, com lençol amassado da noite anterior. Lara não tirou o casaco. Sentou-se na beira, apoiou os cotovelos nos joelhos. Ficou.
 
 Daqui a pouco ia tirar o casaco. Daqui a pouco ia deitar. Daqui a pouco ia dormir, ou ia fingir que ia. Daqui a pouco a manhã ia chegar, a luz ia entrar pela cortina meio aberta, ela ia se levantar e ia até o antiquário entregar a capa do caderno com a costura feita devagar, com pontos pequenos, com cuidado que ela não permitia que aparecesse no rosto.
 
@@ -146,7 +146,7 @@ Lara fechou os olhos.
 
 A chuva tinha realmente parado.
 
-Pelo menos a gata ainda lembrava o nome dela.
+Pelo menos a gata ainda voltava pra perto.
 
 <!--
 PÓS-ESCRITA (preenchido após terminar o capítulo)
@@ -159,7 +159,7 @@ Pistas efetivamente plantadas:
 - Solidão estrutural (ARCOS §1.7): plantada por contraste — passageiro anônimo desce sem palavra; vizinhos como portas fechadas; Mel como única "companhia" possível.
 
 Frases canônicas usadas:
-- Frase-gancho final do OUTLINE Cap 1: "Pelo menos a gata ainda lembrava o nome dela." — usada literalmente na última linha.
+- Frase-gancho final do OUTLINE Cap 1: "Pelo menos a gata ainda voltava pra perto." — usada literalmente na última linha. (Revisada em 2026-05-11: a versão original do OUTLINE — *"Pelo menos a gata ainda lembrava o nome dela."* — foi descartada por incoerência cognitiva: "lembrar nome" aplicado a gato cria fricção interpretativa que tira o leitor da narrativa. A nova frase preserva o mesmo trabalho emocional — Mel como único elo afetivo intacto da Lara — usando comportamento concretamente felino, sem metáfora cognitiva.)
 - Frase-conteúdo da pista Elias: "um homem que sumiu há tempos" — usada literalmente.
 
 Falas que fazem trabalho duplo (parecem cotidiano, mas são pista):
