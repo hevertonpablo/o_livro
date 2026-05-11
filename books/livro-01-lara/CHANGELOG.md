@@ -4,6 +4,58 @@
 
 ---
 
+## 2026-05-11 (quinta atualização) — Pós-escrita do capítulo 3
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 3 — *Café Frio na Mesa 316* — escrito em rascunho. ~2.400 palavras (faixa 2.000–2.500). POV de Lara, meio da tarde na cafeteria. Função (DEC-014): **plantar pista + gerar cruzamento (Lara × Dona Cida)**. Acróstico RECOMECO honrado (letra **C**). Frase-gancho final do OUTLINE preservada literalmente: *"Lara saiu da cafeteria carregando uma frase que não tinha pedido."*
+
+### Personagens em cena
+- **Lara** (POV) — em refúgio sem pertencimento; mesa de sempre, café preto sem leite, caderno cinza aberto sem ser usado. A vergonha-armadura permanece em gestos pequenos (olha a cicatriz do polegar, tira a mão, põe no colo).
+- **Dona Cida** — 52 anos, frase canônica plantada com tom de "comenta sozinho, idade". Olha sem cobrar. Personagem-ponte ativada.
+- **Cliente do canto** (canon cafeteria.md §4) — silencioso, sempre lê, sem nome, sob o quadro da esquina em preto e branco. Sem ação direta no capítulo. Semente preservada para Cap 7 e L7.
+- **Clientes anônimos** — casal de idosos passando na calçada; homem de café para viagem; mulher empurrando carrinho de bebê.
+
+### Mudança emocional (DEC-014 — cruzamento iniciado)
+Lara × Dona Cida sai do estado "passa pela cafeteria" para "uma frase ficou". Não há virada — há plantio. A frase canônica de Dona Cida ocupa, na percepção de Lara, "lugar de roupa pendurada que ninguém decidiu onde guardar" — preparação para o eco do Cap 9 ("Ninguém é só o que aparece em volta da gente.") e para a virada de abertura do Cap 22.
+
+### Pistas plantadas
+- **316 — primeira aparição (DEC-029) — duas formas simultâneas:**
+  1. **Mesa 3**: a terceira contando da porta (declarado pelo narrador sem peso).
+  2. **Cadeira 16**: plaquinha numérica de móvel antigo no encosto. "Lara tinha visto o número uma vez, no primeiro dia, e desde então tinha parado de ver." — interpretação canônica de MAPA-PISTAS §2.1.
+- **Frase canônica de Dona Cida (Bíblia de Pistas §1, §7 + ficha):** *"tem coisa antiga que só abre na mão certa."* — usada literalmente, inserida em fala expandida ("Esses dias eu reparei… comenta sozinho, sabe como é. Idade.") que mantém o tom canônico. Lara não decodifica.
+- **Frase secundária canônica de Dona Cida (ficha — falas típicas):** *"Tem dia que a gente não precisa de conselho. Precisa só comer alguma coisa quente."* — usada literalmente na despedida.
+- **Mulher da Foto — única aparição em L1 (DEC-037, MAPA-PISTAS §7):** retrato antigo, terceiro de três quadros na parede do fundo. Sinais visuais canônicos preservados: mãos cruzadas em frente levemente para o lado direito; ombros relaxados; olhar direto à câmera, calmo, sem sorriso; peça escura com gola de tecido mais clara (ambiguidade canônica preserva elo com casaco cinza-chumbo do Oculto, DEC-023); objeto pequeno na mão — envelope, caderno de capa pequena, ou enrolado em pano fino (ambiguidade preserva elo com Antigo ou caderno do Oculto). Lara olha três segundos e segue. **Ninguém em cena comenta.** Narrador descarta com ironia trágica: *"Era um retrato em uma parede de cafeteria. Havia retratos em muitas paredes…"* — honest red herring (JOG).
+- **Cliente do canto** — canônico de cenário (cafeteria.md §4): semente sem nome, sob o quadro da esquina, sempre lendo. **Não é o Oculto** (que aparece pela primeira vez no Cap 4, no parque, à distância). **Não é o entregador do Antigo** (Cap 7, alguém que Lara "nunca tinha visto").
+- **Sinetinha aguda canônica** (cafeteria.md §9): três toques registrados como ritmo do capítulo.
+- **Continuidade cenário (cafeteria.md §9):** Mesa 3 junto à parede ✓; cadeira 16 ao lado da janela ✓; vitrine à direita do balcão ✓; balcão de madeira velha ✓; luz baixa amarelada de tarde ✓; rádio antigo ao fundo (mencionado por absorção ambiental).
+
+### Continuidade afetada
+- **Cap 2 ↔ Cap 3:** cicatriz fina no polegar esquerdo (introduzida no Cap 2) reaparece em gesto silencioso — eco sem comentar. Cédulas "do antiquário" no bolso interno da mochila confirmam a entrega da capa de caderno (canon §7 das pendências) feita pela manhã do Cap 2.
+- **Bíblia cafeteria** ([`cenarios/cafeteria.md`](../../cenarios/cafeteria.md)): nada altera. Reforça §9 (continuidade visual) e §8 (pistas plantadas) — Mesa 3/cadeira 16, frase de Dona Cida e cliente do canto cumpridos como previsto.
+- **Bíblia clima**: meio da tarde com luz baixa amarelada, garoa "pensou em voltar e mudou de ideia", folhas pingando — outono canônico.
+- **Acróstico RECOMECO**: letra **C** ("Café Frio na Mesa 316") preservada.
+- **Cap 4 — *O Banco da Esquerda*** herda: Lara saindo da cafeteria "não pra casa direto" — direção do parque preparada. Banco 16 + 1ª aparição do Oculto à distância + inscrição da árvore antiga (DEC-039) ficam para o Cap 4.
+- **Cap 7 — *Coisas que Quebram em Silêncio***: a Mesa 3/cadeira 16 onde o Antigo será entregue está agora plantada como mesa-de-sempre de Lara — leitor terá o mesmo mobiliário sob outro peso.
+- **Cap 9 — *A Palavra que Sobrou***: a frase de Dona Cida deste capítulo deve ecoar conceitualmente (não literalmente) na fala canônica do Cap 9 — duas vozes dizendo a mesma coisa em registros diferentes (MAPA-PISTAS §8).
+- **Cap 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.***: Dona Cida deixada aqui em modo "comenta sozinho" — o Cap 22 deve abrir nova camada, com Dona Cida olhando inteira pela primeira vez.
+- **Mulher da Foto — canon visual fixado:** "peça escura com gola um pouco mais clara" e "objeto pequeno na mão (envelope, caderno de capa pequena, ou enrolado em pano fino)" passam a integrar o canon visual para releitura cruzada em L5, L7, L9, L10. Próximas aparições devem manter consistência.
+
+### Pendências
+Nenhuma crítica. Revisão humana do Cap 3 recomendada antes de avançar para Cap 4.
+
+### Arquivos atualizados
+- [`capitulos/capitulo-03.md`](capitulos/capitulo-03.md) — placeholder substituído pelo capítulo redigido + blocos PRÉ-CHECAGEM e PÓS-ESCRITA.
+- [`CAPITULOS.md`](CAPITULOS.md) — linha do Cap 3: `planejado` → `rascunho`; observações expandidas; contagem de palavras registrada.
+- [`STATUS.md`](STATUS.md) — estado atual: "Caps 1, 2 e 3 rascunhos concluídos"; progresso 3/24; foco no Cap 4.
+- [`CHANGELOG.md`](CHANGELOG.md) — esta entrada.
+
+### Próximo passo
+Aguardar revisão humana do Cap 3. Em seguida, escrever **Capítulo 4 — *O Banco da Esquerda*** (letra **O**): parque, cair da tarde, garoa fina; plantar **banco 16** (DEC-029, recompensa de releitura, quase invisível), **1ª aparição do Personagem Oculto à distância** (DEC-023 — casaco cinza-chumbo), **inscrição na árvore antiga** (DEC-039 — "E" + traço apagado).
+
+---
+
 ## 2026-05-11 (quarta atualização) — Correção de continuidade da chave entre Cap 1 e Cap 2
 
 ### Corrigido — chave do apartamento
