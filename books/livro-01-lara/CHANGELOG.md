@@ -4,6 +4,127 @@
 
 ---
 
+## 2026-05-11 (sétima atualização) — Pós-escrita do capítulo 5
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 5 — *Marcas que Ninguém Vê* — escrito em rascunho. ~2.350 palavras (faixa 2.000–2.500). POV de Lara, noite alta no apartamento com chuva forte. Função (DEC-014): **revelar personagem interno (flashback) + aumentar conflito interno**. Acróstico RECOMECO honrado (letra **M**). Frase-gancho final do OUTLINE preservada literalmente: *"Tinha gente que perdia coisas de fora. Lara perdia coisas de dentro."*
+
+### Personagens em cena
+- **Lara** (POV) — alguns dias depois do Cap 4. No sofá com Mel, sob chuva forte. Pega o caderno escuro da prateleira do meio. Toca a costura. Olha as mãos sem desviar pela terceira vez (terceiro dia consecutivo). A memória vem.
+- **Mel** — pula no colo no momento canônico (OUTLINE — "Mel pula no colo dela"). Sem antropomorfização: *"Mel não ronronava por qualquer motivo. Mel ronronava só quando achava que valia."*
+- **Memória (não-presença):** mão adulta sem identidade (sem gênero, nome, parentesco — apenas voz baixa e paciente e calor sobre as costas da mão da criança). Lara-criança.
+
+### Mudança emocional (DEC-014 — revelar interno + aumentar conflito interno)
+Lara não cura, não decide, não age — mas **nomeia parcialmente** o que estava sem nome: *"tinha virado nomeado, num lugar pequeno dentro dela. Tinha um nome agora a coisa que ela tinha perdido. Não o nome inteiro. Um pedaço de nome."* A vergonha-armadura ganha fissura interna agora descrita. ARCOS §1.1 aprofundado; ARCOS §1.5 (necessidade interna) tocada por baixo da pele. A criança da memória que continuou catando o vidro = espelho silencioso da Lara adulta que continua fazendo gestos pequenos (alinhar sapatos, lavar pratinho, amarrar um nó) — verbo *cuidar* preservado mesmo após interrupção.
+
+### Pistas plantadas (todas dentro do canon)
+
+**DEC-018 EXPLICITADA pela 1ª vez** — em quatro camadas convergentes:
+1. Reconhecimento da costura canônica (eco do Cap 2): vocabulário técnico do ofício explicitamente nomeado ("ponto de encadernação manual — aprendido devagar, cortado bem, apoiado sobre cera").
+2. Identificação do caderno escuro como objeto de aprendizado: *"Tinha sido feito a quatro mãos, e tinha sido conservado a duas. A história da costura estava na costura."*
+3. Cheiros canônicos do ofício (eco do Cap 2 — vocabulário fixado): cola, couro, papel velho, cera de abelha em chapa pequena. Agora vinculados à infância.
+4. Frase explícita do dom — sem rótulo solene: *"A cabeça tinha esquecido o verbo. As mãos não."*
+
+**Flashback canônico (ARCOS §1.2 + canon §6 das pendências)** — cumprido nos limites absolutos:
+- **Mãos de criança tentando consertar:** plantadas em duas fases — primeiro a fase BOA (mesa de madeira clara, mão adulta guiando o ponto, luz peneirada por cortina cor de creme, aprendizado calmo), depois a fase QUEBRADA (mesma mesa, mesma luz, vidro no chão em pedaços; criança no chão catando os cacos sem luva, sem pano).
+- **Vidro quebrado:** plantado sem identificação do objeto. Pode ser vidro de janela, porta-retrato, moldura, qualquer coisa — canon mantém aberto.
+- **Sem contexto explícito da tragédia:** *"Lara não soube como o vidro tinha quebrado. A memória não mostrou."*
+- **Pessoa adulta da memória sem identidade:** sem gênero, sem nome, sem relação familiar. Apenas "voz baixa e paciente" e calor de mão guiando.
+- **Criança não chora, continua tentando:** *"A criança não chorou. Continuou catando."* — canon §1.2 cumprido (gesto de cuidar continua mesmo após interrupção).
+
+**Origem canônica da cicatriz do polegar esquerdo** (plantada no Cap 2, ecoada no Cap 3): corte por caco de vidro na infância. **Lara NÃO nomeia o vínculo** em narração (*"Não a vinha pensar que a cicatriz era dali"*). JOG-002 cumprido.
+
+**Posição canônica fixa do lugar do aprendizado:** mesa de madeira clara com superfície marcada por riscos finos + janela à direita + cortina cor de creme em luz peneirada de tarde + agulha curva na almofadinha + cera de abelha em chapa pequena. Travado para releitura cruzada em L5 (Helena), L9 (Elias) ou possíveis livros futuros — sem nomear gênero ou parentesco da pessoa que ensinou.
+
+### Continuidade afetada
+- **Cap 2 ↔ Cap 5:** caderno escuro encapado a mão da estante = agora canon "feito a quatro mãos, conservado a duas". Vocabulário das ferramentas e dos cheiros confirmado e estendido. A fórmula "dedos lembram antes da cabeça" (Cap 2 — nó do barbante) agora tem segunda ocorrência (Cap 5 — pontos na memória) — Cap 10 dá o passo seguinte (reativação ativa).
+- **Cap 3 ↔ Cap 5:** cicatriz do polegar esquerdo agora tem origem canônica vinculada ao vidro quebrado. **Vínculo não verbalizado por Lara** — JOG-002.
+- **Cap 4 ↔ Cap 5:** Cap 5 ocorre "alguns dias depois" — não no mesmo dia. Lara em noite chuvosa qualquer; sem alusão direta ao olhar do Oculto. Semente do Cap 4 amadurece em silêncio.
+- **Acróstico RECOMECO:** letra **M** ("Marcas que Ninguém Vê") preservada.
+- **Bíblia de objetos (caderno escuro):** ganha canon novo — caderno encadernado a quatro mãos na infância; primeira peça do ofício; objeto de identidade preservada.
+- **Cap 6 — *Ela Ainda Voltou*** herda: Lara fissurada por dentro, sem mudança visível; Jéssica entra para empurrar a SEGUNDA convicção inconsciente (ARCOS §1.2: *"Eu mesma destruí o resto"*).
+- **Cap 10 — *Os Dedos Lembram Antes da Cabeça*** (reativação): fórmula "dedos lembram antes da cabeça" agora com dois precedentes; o Cap 10 dá o passo seguinte sem repetir a fórmula literalmente.
+- **Cap 21 — *A Mão Encosta*** (DEC-018 cumprida narrativamente): vocabulário técnico fixado neste capítulo deve ser respeitado no gesto canônico (alisar vinco, refazer ponto da costura interna do Antigo).
+- **Cap 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.*** (Dona Cida — abertura nova): pode tocar de longe a infância sem detalhar mais do que aqui foi sugerido.
+
+### Pendências
+Nenhuma crítica.
+- Sugestão menor (não bloqueia escrita): o prompt do **S03** (MAPA-ILUSTRACOES.md, item símbolo) pode incorporar elementos canonizados aqui — mesa de madeira clara com superfície riscada, agulha curva na almofadinha, cortina cor de creme em luz peneirada de tarde, cacos pequenos no chão sob a mesa. Sem rosto, sem identificação. Pode ser feito na próxima passagem do Agente de Planejamento.
+- "Verbo cuidar" como âncora temática agora canônica para o L1 — registrar em ARCOS §1.5 na próxima passagem (sugestão).
+
+### Arquivos atualizados
+- [`capitulos/capitulo-05.md`](capitulos/capitulo-05.md) — placeholder substituído + blocos PRÉ-CHECAGEM e PÓS-ESCRITA.
+- [`CAPITULOS.md`](CAPITULOS.md) — linha do Cap 5: `planejado` → `rascunho`; observações expandidas.
+- [`STATUS.md`](STATUS.md) — Caps 1–5 rascunhos concluídos; progresso 5/24; foco no Cap 6.
+- [`CHANGELOG.md`](CHANGELOG.md) — esta entrada.
+
+### Próximo passo
+Aguardar revisão humana do Cap 5. Em seguida, escrever **Capítulo 6 — *Ela Ainda Voltou*** (letra **E**): apartamento de Lara → rua → bar; noite, chuva fina. Primeira aparição de Jéssica (suave, insiste pra Lara sair); primeira tensão real do livro. Frase-gancho final canônica: *"Não tinha sido um não. Mas tinha sido um 'ainda não'."*
+
+---
+
+## 2026-05-11 (sexta atualização) — Pós-escrita do capítulo 4
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 4 — *O Banco da Esquerda* — escrito em rascunho. ~2.370 palavras (faixa 2.000–2.500). POV de Lara, cair da tarde no parque com garoa fina. Função (DEC-014): **plantar pista + gerar cruzamento (primeiro cruzamento real do livro — Lara × Personagem Oculto, à distância)**. Acróstico RECOMECO honrado (letra **O**). Frase-gancho final do OUTLINE preservada literalmente: *"Ela não sabia por que tinha olhado pra ele. Mas saiu mais devagar do que entrou."*
+
+### Personagens em cena
+- **Lara** (POV) — segue do parque depois da cafeteria. Vergonha-armadura ainda em gestos; é VISTA pela primeira vez no livro sem cobrança.
+- **Personagem Oculto** (à distância, sem fala) — sentado no banco da DIREITA da árvore antiga, casaco cinza-chumbo. Olhar inteiro. Vento que muda + sino distante + pontualidade exata canon.
+- **Jardineiro Paulo** (de longe) — homem em macacão verde recolhendo folhas; não olha para ninguém. Função canônica de "memória do parque" preservada para L7 (Nina).
+- **Menino do balão** — passagem brevíssima sem fala (presença canônica).
+- Casal jovem com cachorro; mulher caminhando com fone; clientes anônimos da alameda.
+
+### Mudança emocional (DEC-014 — cruzamento)
+**Primeiro cruzamento real do livro.** Conforme Bíblia do Oculto §12.1: o efeito é interno e não muda na hora. Lara recebe pela primeira vez no L1 um olhar sem cobrança — "Era o tipo de olhar que ela não tinha recebido com regularidade. O olhar dele não tinha pergunta. Não tinha cobrança. Não tinha curiosidade. Era inteiro… E também não pedia nada de volta." Frase-gancho final marca a virada mínima: *saiu mais devagar do que entrou.* Sem decodificação (JOG-002): Lara pensa "no olhar inteiro. No segundo a mais." — não em o que ele queria dizer.
+
+### Pistas plantadas (todas dentro do canon)
+- **Banco 16 (DEC-029) — recompensa de releitura, quase invisível (MAPA-PISTAS §2):** plaquinha enferrujada com "16" descoberta quase por acidente quando Lara passa perto do banco do Oculto. Lara descarta de imediato: *"Não significava nada."* Forma canônica cumprida.
+- **1ª aparição do Personagem Oculto à distância (DEC-004 + DEC-023):**
+  - **Casaco cinza-chumbo (DEC-023)** com variação canônica: *"cinza de uma cor sem nome muito certo, entre o cinza de pedra molhada e o cinza de algum carvão muito esgotado."*
+  - **Olhar calmo** (Bíblia do Oculto §4 sinal #1) — pousado, sem julgamento.
+  - **Banco do parque** (cena-âncora canônica L1).
+  - **Vento que muda** (sinal premonitório canônico do L1 — §4.2 matriz).
+  - **Sino distante** (canon do L1 — §4.2 matriz).
+  - **Pontualidade exata** (regra física inegociável — §3): chegada sem ruído, sem teatralidade.
+  - **SEM fala** (a primeira fala é Cap 12 — MAPA-PISTAS §4.1).
+  - **SEM cheiro de café** (reservado para o Cap 12, quando ele estiver perto).
+  - **SEM caderno aberto** (esse marcador é do Cap 17).
+- **Inscrição na árvore antiga (DEC-039):** "E" + traço apagado na altura do peito de uma pessoa em pé, em casca lavada. **"ELIAS" NÃO escrita inteira.** Lara extrapola sem chegar perto (iniciais de namorados, marcador de jardineiro, travessura de menino). Honest red herring (MAPA-PISTAS §11): leitor pode extrapolar "ELIAS", Lara não. Revelação parcial reservada para L9.
+- **Geografia canônica do livro:** banco da ESQUERDA da árvore antiga = banco de Lara · banco da DIREITA = banco do Oculto. Fixada como canon do L1 para Caps 12, 17 e 24.
+- **Cheiros canônicos do parque** (cenarios/parque.md §3): folha pisada, terra úmida, preparação de chuva — cumpridos.
+
+### Continuidade afetada
+- **Cap 3 ↔ Cap 4:** garoa que "pensou em voltar e mudou de ideia" no Cap 3 voltou aqui como garoa fina (canônico). Direção Cafeteria → Parque honrada (canon de proximidade dos dois cenários).
+- **Bíblia do Oculto §5 (matriz consolidada L1):** primeira aparição registrada — sinais predominantes vento que muda + casaco simples + banco do parque + sino distante. Cheiro de café reservado para Cap 12.
+- **Bíblia do Oculto §12.1:** efeito emocional registrado — semente do "olhar que não julgou" para Lara.
+- **Bíblia do parque (`cenarios/parque.md` §9):** canon reforçado — árvore antiga com inscrição apagada cumprida; banco do Oculto à direita fixado; numeração 16 plantada quase invisível.
+- **Acróstico RECOMECO:** letra **O** ("O Banco da Esquerda") preservada.
+- **Cap 5 — *Marcas que Ninguém Vê*** herda: Lara em casa à noite, **DEC-018 explicitada pela primeira vez** (flashback do dom abandonado — mãos de criança + vidro quebrado, canon §6 das pendências).
+- **Cap 12 — *Quem Senta no Banco de Lá* (1ª fala do Oculto):** a geografia banco esquerdo/direito agora está canônica; o Cap 12 deve respeitar a posição relativa.
+- **Cap 17 — *O Banco Cheio* (2ª fala do Oculto):** canon MAPA-PISTAS §4 ("Lara senta em banco próximo ao do Oculto") reforçado — o Cap 17 pode mostrar Lara migrando para o banco da direita pela primeira vez.
+- **Cap 24 — *O Que Ainda Pode Ser Chamado* (eco "ele esteve aqui sem ser visto"):** chapinha enferrujada do banco 16 pode reaparecer com peso novo; folha caída sobre o lugar onde ele costumava sentar (canon §5 das pendências) deve ficar no banco da DIREITA.
+- **L9 (Elias):** inscrição "E" + traço apagado revisitada — eco canônico DEC-039 ("eco em L9"). Posição fixada: "na parte do tronco onde a casca tinha um vinco mais lavado, na altura do peito de uma pessoa em pé".
+- **L7 (Nina):** Jardineiro Paulo aqui é só presença sem fala — em L7 pode ativar testemunha indireta com a frase canônica ("Tem banco aqui que conhece mais história que muito livro de cidade.").
+
+### Pendências
+Nenhuma crítica. Sugestão menor: atualizar `cenarios/parque.md §9` para fixar o canon "banco da esquerda = Lara / banco da direita = Oculto". Pode ser feito na próxima passagem do Agente de Planejamento (não bloqueia escrita).
+
+### Arquivos atualizados
+- [`capitulos/capitulo-04.md`](capitulos/capitulo-04.md) — placeholder substituído pelo capítulo redigido + blocos PRÉ-CHECAGEM e PÓS-ESCRITA.
+- [`CAPITULOS.md`](CAPITULOS.md) — linha do Cap 4: `planejado` → `rascunho`; observações expandidas.
+- [`STATUS.md`](STATUS.md) — Caps 1–4 rascunhos concluídos; progresso 4/24; foco no Cap 5.
+- [`CHANGELOG.md`](CHANGELOG.md) — esta entrada.
+
+### Próximo passo
+Aguardar revisão humana do Cap 4. Em seguida, escrever **Capítulo 5 — *Marcas que Ninguém Vê*** (letra **M**): apartamento de Lara, noite alta, chuva. Mel. **DEC-018 explicitada pela primeira vez** — flashback do dom abandonado (mãos de criança + vidro quebrado, canon §6 das pendências). Vocabulário das ferramentas plantadas no Cap 2 deve ser respeitado.
+
+---
+
 ## 2026-05-11 (quinta atualização) — Pós-escrita do capítulo 3
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

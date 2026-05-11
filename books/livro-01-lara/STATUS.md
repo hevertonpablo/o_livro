@@ -2,13 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1, 2 e 3 — *Rua Sem Volta*, *Entre Luzes Apagadas* e *Café Frio na Mesa 316* — rascunhos concluídos.**
+**Em escrita. Capítulos 1 a 5 — *Rua Sem Volta*, *Entre Luzes Apagadas*, *Café Frio na Mesa 316*, *O Banco da Esquerda* e *Marcas que Ninguém Vê* — rascunhos concluídos.**
 
-Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09 (vide [`PENDENCIAS-PARA-RESPONDER.md`](PENDENCIAS-PARA-RESPONDER.md) — processado). Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 4–24, sem bloqueios.**
+Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 6–24, sem bloqueios.**
 
 ## Última atualização
 
-2026-05-11 — Cap 3 escrito pelo Agente de Escrita.
+2026-05-11 — Cap 5 escrito pelo Agente de Escrita.
 
 ## Progresso
 
@@ -20,14 +20,14 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **3 de 24** — Cap 1, Cap 2 e Cap 3 em rascunho (~2.100, ~2.150 e ~2.400 palavras respectivamente)
+- **Capítulos escritos:** **5 de 24** — Caps 1 a 5 em rascunho (~2.100, ~2.150, ~2.400, ~2.370 e ~2.350 palavras respectivamente)
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 4 — *O Banco da Esquerda* — após confirmação humana dos Caps 1, 2 e 3.**
+**Escrever o Capítulo 6 — *Ela Ainda Voltou* — após confirmação humana dos Caps 1 a 5.**
 
-Cap 3 entregue: ~2.400 palavras (faixa 2.000–2.500). Três pistas plantadas dentro do canon: **mesa 3 + cadeira 16** (DEC-029, primeira aparição do 316), **frase canônica de Dona Cida** ("tem coisa antiga que só abre na mão certa"), e **retrato da Mulher da Foto** (DEC-037, uma aparição sem comentário). Cliente do canto canônico introduzido como semente. Frase-gancho final do OUTLINE preservada literalmente.
+Cap 5 entregue: ~2.350 palavras (faixa 2.000–2.500). **DEC-018 explicitada pela primeira vez** via caderno escuro da estante (trigger orgânico vindo do Cap 2). Flashback canônico cumprido em duas fases dentro dos limites do canon §6 das pendências (mãos de criança + vidro quebrado, sem contexto explícito, sem nomear parentes). Origem da cicatriz do polegar plantada sem Lara verbalizar o vínculo. Mão adulta da memória sem identidade (gênero, nome, parentesco indefinidos). Frase-gancho final do OUTLINE preservada literalmente.
 
 ## Próximas ações
 
@@ -35,8 +35,10 @@ Cap 3 entregue: ~2.400 palavras (faixa 2.000–2.500). Três pistas plantadas de
 - [x] ~~Cap 1 — *Rua Sem Volta*~~ ✓ rascunho 2026-05-09 (revisado 2026-05-11: frase-gancho final + mochila)
 - [x] ~~Cap 2 — *Entre Luzes Apagadas*~~ ✓ rascunho 2026-05-11 (revisado 2026-05-11: chave/trinco)
 - [x] ~~Cap 3 — *Café Frio na Mesa 316*~~ ✓ rascunho 2026-05-11
-- [ ] Revisão humana dos Caps 1, 2 e 3.
-- [ ] **Cap 4 — *O Banco da Esquerda*** (após confirmação): plantar **banco 16** (DEC-029, recompensa de releitura), **1ª aparição do Personagem Oculto à distância** (DEC-023 — casaco cinza-chumbo), **inscrição na árvore antiga** (DEC-039 — "E" + traço apagado).
+- [x] ~~Cap 4 — *O Banco da Esquerda*~~ ✓ rascunho 2026-05-11
+- [x] ~~Cap 5 — *Marcas que Ninguém Vê*~~ ✓ rascunho 2026-05-11
+- [ ] Revisão humana dos Caps 1 a 5.
+- [ ] **Cap 6 — *Ela Ainda Voltou*** (após confirmação): primeira aparição de Jéssica (suave, ainda não cobrança); apartamento → rua → bar; primeira tensão real do livro. Aumentar conflito (Jéssica como força gravitacional do passado).
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 
