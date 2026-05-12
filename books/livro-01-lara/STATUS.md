@@ -8,7 +8,7 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 
 ## Última atualização
 
-2026-05-11 — Cap 8 escrito pelo Agente de Escrita. **Quatro DECs concentradas (024 + 021 + 029 + 018-como-ferramenta).**
+2026-05-11 — Cap 9 escrito pelo Agente de Escrita. **Linha 1 da charada central plantada.**
 
 ## Progresso
 
@@ -20,12 +20,12 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **8 de 24** — Caps 1 a 8 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770 e ~2.985 palavras respectivamente). Total: ~19.865 palavras (~31% do alvo).
+- **Capítulos escritos:** **9 de 24** — Caps 1 a 9 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985 e ~2.200 palavras respectivamente). Total: ~22.065 palavras (~34% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 9 — *A Palavra que Sobrou* — após confirmação humana dos Caps 1 a 8.**
+**Escrever o Capítulo 10 — *Os Dedos Lembram Antes da Cabeça* — primeira reativação ativa do talento de restauração.**
 
 Cap 8 entregue: ~2.985 palavras (acima da faixa, justificado pela concentração de 4 DECs canônicas). **Concentração canônica cumprida:** três pontos do Antigo sentidos com o polegar (DEC-024 — profundidade desigual, pontos de costura antigos), DEC-018 explicitada como ferramenta narrativa (Lara vê com os dedos primeiro), letra das margens Fase A (DEC-021 — três adjetivos canônicos antiga/firme/ritualística + "como mão que escreveu muito"), 3h16 sem destaque (DEC-029). Palavra "chamado/chama de" plantada como prenúncio sutil da frase-âncora do Cap 16 — sem entregá-la. Frase-gancho final do OUTLINE preservada literalmente. Acróstico **O** (completa o segundo bloco "CO" do RECOMECO).
 

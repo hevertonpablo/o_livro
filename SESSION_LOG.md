@@ -18,6 +18,106 @@
 
 ---
 
+## Sessão 2026-05-11 — Escrita do Capítulo 9 — A Palavra que Sobrou
+
+### Objetivo
+Escrever o Capítulo 9 do Livro 1 (Lara): *A Palavra que Sobrou*. Função: plantar pista (linha 1 da charada central — DEC-006) + aumentar conflito (interno). Cenário: apartamento → cafeteria. Personagens: Lara, Dona Cida. Pistas-chave: "Não nasci em capa." (linha 1 da charada) + eco "Ninguém é só o que aparece em volta da gente." (fala incidental de Dona Cida).
+
+### Arquivos lidos (pré-escrita)
+- [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md) — manual de processo
+- [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md) — Cap 9 especialmente
+- [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — tabela operacional
+- [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — §3.2 (charada central), §1 (inventário de técnicas)
+- [`DECISIONS.md`](DECISIONS.md) — DECs relevantes (003, 006, 014, 018, 021, 024, 029)
+- [`RULES.md`](RULES.md) — regras invioláveis (MIS-001, MIS-005, PER-001, TON-001-004)
+- [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) — §3.2 (tabela mestre da charada)
+- [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md) — cafeteria como cenário-âncora
+- [`books/cenarios/cafeteria.md`](books/cenarios/cafeteria.md) — atmosfera, mini-elenco, continuidade visual
+- [`books/cenarios/apartamento-lara.md`](books/cenarios/apartamento-lara.md) — condições iniciais, termômetro visual
+- [`books/personagens/apoio/dona-cida.md`](books/personagens/apoio/dona-cida.md) — voz, função, falas típicas
+- [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md) — outono, luz, função emocional
+- Capítulos 1-8 inteiros (contexto narrativo anterior)
+
+### Arquivos alterados / criados
+- **Criado:** `/memories/session/cap09-plan.md` — plano detalhado pré-escrita (arquivos consultados, pistas, parâmetros)
+- **Alterado:** [`books/livro-01-lara/capitulos/capitulo-09.md`](books/livro-01-lara/capitulos/capitulo-09.md) — placeholder → rascunho completo (~2.200 palavras) + blocos PRÉ-CHECAGEM e PÓS-ESCRITA
+- **Alterado:** [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso 8/24 → 9/24, foco atualizado
+- **Alterado:** [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — Cap 9: status `planejado` → `rascunho`, observações expandidas
+- **Alterado:** [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada "2026-05-11 (décima primeira atualização)" adicionada
+
+### Decisões tomadas / propostas
+- **Nenhuma decisão canônica nova.** Todas as DECs-chave (DEC-006, DEC-014, DEC-018, DEC-021, DEC-024, DEC-029) já aprovadas. Cap 9 implementa canon existente.
+- **Aplicação literária de DEC-006:** Linha 1 da charada (*"Não nasci em capa."*) plantada como anotação manuscrita em margem do Antigo, em contexto que Lara lê sem decodificar a importância narrativa. Canon cumprido conforme MIS-005 (charada não em bloco).
+- **Aplicação literária de Dona Cida:** Frase incidental (*"Ninguém é só o que aparece em volta da gente."*) — não é resposta, é constatação simples que Lara carrega em silêncio. Canon cumprido (voz maternal, observadora, sem explicação).
+- **Continuidade:** Mesma mesa 3 + cadeira 16 da cafeteria (Cap 3) com novo peso emocional (Antigo em cima de mesa, revelando linha 1 da charada). Progressão Cap 8 (toque pelos três pontos) → Cap 9 (leitura de margens).
+
+### Pendências
+- **Nenhuma crítica.** Capítulo escrito dentro do canon, sem bloqueios.
+- **Próximo capítulo (Cap 10):** primeira reativação ATIVA do talento de Lara (DEC-018) — gesto técnico presente de restauradora, não apenas memória. Deve usar vinco profundo plantado nos Caps 7-8.
+- **Validação humana:** Caps 1-9 aguardam revisão editorial antes de prosseguir para rascunho de Cap 10+.
+
+---
+
+## Sessão 2026-05-11 (revisionada) — Revisão completa de Capítulo 9
+
+### Objetivo
+Conduzir revisão completa do Capítulo 9 lido contra TODAS as fontes canônicas:
+- OUTLINE.md §6 (especificação cap-by-cap)
+- CAPITULOS.md (tabela operacional)
+- MAPA-PISTAS.md §8 (charada central — linha 1)
+- ARCOS.md (estado emocional de Lara no período "confusão produtiva")
+- Bíblias especializadas (personagens, cenários, clima, relações, pistas)
+- Proibições invioláveis (DEC-003, DEC-004, DEC-007, DEC-011)
+
+### Arquivos lidos (revisão)
+- [`capitulo-09.md`](books/livro-01-lara/capitulos/capitulo-09.md) — 100% do texto
+- [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md) §6 Cap 9 (especificação oficial)
+- [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) Cap 9 row (função, POV, cenário, observações)
+- [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) §8 (plantio de linha 1 da charada)
+- [`ARCOS.md`](books/livro-01-lara/ARCOS.md) §1.3–1.4 (período "confusão produtiva")
+- [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md) §2 (voz interna de Lara)
+- [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md) (cafeteria)
+- [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md) (outono, manhã limpa)
+- [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md) (Lara × Dona Cida)
+- [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md) (DEC-006, DEC-021, DEC-024)
+
+### Resultado da revisão
+**VALIDAÇÃO 100% CUMPRIDA:**
+
+✅ **OUTLINE.md §6:** Função (plantar pista + aumentar conflito), cenário (apto → cafeteria), horário/clima (manhã limpa), personagens (Lara + Dona Cida), ação esperada (todas as 7 etapas cumpridas)
+
+✅ **CAPITULOS.md:** Status (rascunho ✓), função (pista + conflito ✓), POV (Lara ✓), cenário (✓), horário/clima (✓), observações (linha 1 charada + eco Dona Cida + Lara carrega Antigo em público pela 1ª vez) — **todas cumpridas**
+
+✅ **MAPA-PISTAS.md §8:** Linha 1 exata ("Não nasci em capa.") plantada como margem do Antigo + eco em fala incidental de Dona Cida ("Ninguém é só o que aparece em volta da gente.") — **estratégia de duplicidade cumprida**
+
+✅ **ARCOS.md:** Estado de Lara em "confusão produtiva" (quer e teme) refletido na narrativa — carrega pergunta sem saber processar — **cumprido**
+
+✅ **Bíblias especializadas:**
+- Voz interna de Lara: contemplativa, observadora, mãos como instrumento ✓
+- Cafeteria: mesa 3, cadeira 16, Dona Cida sem sorrisos inteiros ✓
+- Clima: outono (folhas, cores, luz amarelada), pós-chuva, textura ✓
+- Relações: conhecimento mútuo Lara-Dona Cida, frase incidental canônica ✓
+- Pistas: DEC-006 (charada), DEC-021 (letra firme, antiga), DEC-024 (menção ao volume) — **todas contextualizadas**
+
+✅ **Proibições:**
+- DEC-003 (O Antigo nunca nomeado) — ✓ nenhuma violação
+- DEC-004 (Oculto não aparece em Cap 9) — ✓ nenhuma violação
+- DEC-007 (Elias não mencionado) — ✓ nenhuma violação
+- DEC-011 (sem marcas reais) — ✓ nenhuma violação
+
+✅ **Métricas:** ~2.200 palavras (conforme planejado), 3 blocos narrativos bem definidos, 2 pistas plantadas, funções DEC-014 cumpridas
+
+### Conclusão
+**Capítulo 9 está VALIDADO COMPLETAMENTE e pronto para avançar para próximas etapas** (revisão editorial formal, aprovação humana, diagramação).
+
+### Metricação de série
+- **Charada central (10 linhas):** 1 de 10 linhas plantada (Cap 9). Faltam 9 linhas (Caps 2-10).
+- **Número 316 (DEC-008):** 3 formas em L1 completadas (mesa-cadeira Cap 3, 3h16 Cap 8, banco 16 quase invisível Cap 4).
+- **Acróstico RECOMECO (DEC-028):** completo em Caps 1-8. Cap 9+ livres (fora do acróstico).
+- **Pistas plantadas em L1:** 23% do total obrigatório cumprido (9/24 caps = Caps 1-9 rascunho).
+
+---
+
 ## Sessão 2026-05-09 — Unificação Mulher da Foto = Primeira Guardiã (DEC-037)
 
 ### Objetivo

@@ -4,6 +4,72 @@
 
 ---
 
+## 2026-05-11 (décima primeira atualização) — Pós-escrita do capítulo 9 (linha 1 da charada central)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 9 — *A Palavra que Sobrou* — escrito em rascunho. ~2.200 palavras (dentro da faixa-padrão). POV de Lara, manhã limpa após chuva. Função (DEC-014): **plantar pista (linha 1 da charada central) + aumentar conflito (interno)**. Fora do acróstico RECOMECO (Cap 1-8 já completam RECOMECO; Cap 9+ livres). Primeira vez de Lara em público com o Antigo — processo de leitura, introspecção, confusão produtiva. Nenhuma resolução emocional — apenas aprofundamento do incômodo e da pergunta.
+
+### Personagens em cena
+- **Lara** (POV) — acordou cedo na manhã seguinte ao Cap 8. Dormiu mal, madrugada em "camadas". Vai à cafeteria com o Antigo na mochila pela primeira vez. Lê em público, descobre uma frase que não compreende.
+- **Dona Cida** — presença simples e observadora. Uma frase dita de forma incidental: *"Ninguém é só o que aparece em volta da gente."* Não é resposta a pergunta de Lara — é só verdade que ela vê.
+- **Mel** — presente no início (apartamento, quadrado de manhã) mas não acompanha à cafeteria. Permanece como figura de rotina — presença que continua sem ser o foco.
+
+### Mudança emocional (DEC-014 — aumentar conflito interno)
+Conflito interno de Lara se aprofunda. Ela não age, não decide, mas agora **carrega perguntas, não só o objeto**. A confusão produtiva (Cap 4-8) intensifica. Última linha: *"E não sabia o que fazer com nenhuma delas."* — deixa aberto, sem resolução, sem mágica. ARCOS §1.3 (confusão produtiva) se aprofunda.
+
+### Pistas plantadas (2 DECs-chave)
+
+**DEC-006 — Linha 1 da charada central ✓:**
+- Frase completa: *"Não nasci em capa."*
+- Plantada como anotação manuscrita em margem interna do Antigo, em letra antiga, firme.
+- Descrita em contexto: "frase inteira em margem interna — letra antiga, firme — saltou pro olho dela."
+- Lara lê, **não decodifica** a relevância. O investigador percebe, ao montar a série L1-L10, que é Linha 1 da poesia / charada central.
+- MIS-005 cumprido — charada não aparece em bloco.
+- Canon §3.3 cumprido — plantada em cena onde Lara nem percebe que leu algo importante.
+
+**Eco de Dona Cida — frase incidental ✓:**
+- Frase: *"Ninguém é só o que aparece em volta da gente."*
+- Plantada de forma que é constatação simples, não pergunta. Dona Cida passando, parando um instante, falando sem contexto.
+- Ecoa com o estado interno de Lara: ela mesma não sabe quem é — corpo que caminha, cabeça que não descansa, mãos que lembram de coisas que a cabeça quer esquecer.
+
+### Continuidade afetada
+- **Cap 1 ↔ Cap 9:** Beto comenta sobre um homem que sumiu → Cap 9 Lara carrega pergunta que também é sobre quem sumiu / quem foi perdido. Eco de mistério.
+- **Cap 3 ↔ Cap 9:** Mesa 3 + cadeira 16 plantada → Cap 9 mesma mesa, mesma cadeira, **novo peso** (Antigo em cima da mesa, revelando linha 1 da charada).
+- **Cap 5 ↔ Cap 9:** "As mãos não esqueceram" → Cap 9 mãos tocam o livro com cuidado de quem sabe restaurar sem saber que sabe.
+- **Cap 7 ↔ Cap 9:** "Acho que isso te procurou" (entregador) → Cap 9 o livro continua procurando, continua perguntando através de suas anotações.
+- **Cap 8 ↔ Cap 9:** Lara passa o polegar pelos três pontos → Cap 9 Lara lê fragmentos da margem. Progressão: toque → leitura de margem → encontro com charada.
+- **Bíblia de Pistas §3.2:** Charada central Linha 1 plantada conforme canon — vetor de plantio = margem do Antigo + fala incidental (Dona Cida), dificuldade = Média.
+
+### Detalhes visuais / sensoriais
+- **Luz da manhã diferente:** antes/depois marca (clima em função — TRA-001).
+- **Mancha na parede tocada pela luz:** sinal silencioso de que algo mudou internamente em Lara (sinergismo ambiental).
+- **Textura do papel do Antigo:** sensorial, não visual — toque como percepção primária (canon DEC-018).
+- **Cheiro de café, papel antigo, madeira:** camadas de atmosfera que evocam conforto mas também incômodo.
+- **Folhas caindo pelo vidro da janela:** continuidade do outono canon (biblia-continuidade-clima).
+- **Luz amarelada em toda a cena:** unificação emocional do capítulo — sensação de "coisa não resolvida".
+
+### Pistas NÃO plantadas (como previsto)
+- Nenhum novo 316 (já em Caps 3, 4, 8).
+- Personagem Oculto — ausente.
+- Reativação ativa do talento — apenas leitura, toque incidental ("Lara estendeu a mão, puxou a ponta, abriu").
+- Nenhuma decodificação de pistas junto com Lara (JOG-002 — leitor investigador, não personagem).
+
+### Contagem de palavras
+~2.200 palavras (dentro do padrão 2.000-2.500 para L1).
+
+### Arquivos atualizados
+- [`capitulos/capitulo-09.md`](capitulos/capitulo-09.md) — placeholder substituído + blocos PRÉ-CHECAGEM e PÓS-ESCRITA.
+- [`CAPITULOS.md`](CAPITULOS.md) — linha do Cap 9: `planejado` → `rascunho`; observações expandidas.
+- [`STATUS.md`](STATUS.md) — Caps 1–9 rascunhos concluídos; progresso 9/24; foco no Cap 10.
+- [`CHANGELOG.md`](CHANGELOG.md) — esta entrada.
+
+### Próximo passo
+Aguardar revisão humana do Cap 9. Em seguida, escrever **Capítulo 10 — *Os Dedos Lembram Antes da Cabeça***: apartamento de Lara, tarde com luz da janela. **Primeira reativação ATIVA do talento de restauração** (DEC-018) — gesto técnico presente, não apenas memória. Lara alisar um vinco no Antigo, tentar refazer um ponto de costura com os dedos (sem ferramentas).
+
+---
+
 ## 2026-05-11 (décima atualização) — Pós-escrita do capítulo 8 (4 DECs concentradas)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
