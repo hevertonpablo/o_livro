@@ -118,6 +118,32 @@ Conduzir revisão completa do Capítulo 9 lido contra TODAS as fontes canônicas
 
 ---
 
+## Sessão 2026-05-12 — Escrita do Capítulo 10 — Os Dedos Lembram Antes da Cabeça
+
+### Objetivo
+Escrever o Capítulo 10 do Livro 1 (Lara): *Os Dedos Lembram Antes da Cabeça*. Função: empurrar transformação (1ª reativação do talento de restauração — DEC-018) + revelar personagem. Cenário: apartamento de Lara. Personagens: Lara, Mel. Pista-chave: gesto de restauradora (apoia palma no vinco do Antigo), executado antes da decisão consciente.
+
+### Arquivos lidos (pré-escrita)
+- [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`capitulos/capitulo-09.md`](books/livro-01-lara/capitulos/capitulo-09.md) — integral
+- Bíblias: `biblia-continuidade-personagens.md` §2.1, `biblia-continuidade-clima.md`, `clima/outono.md`, `horarios/tarde.md`
+- Fichas: `cenarios/apartamento-lara.md`, `objetos/simbolicos/o-antigo.md`, `personagens/protagonistas/lara.md`
+
+### Arquivos alterados / criados
+- **Alterado:** `books/livro-01-lara/capitulos/capitulo-10.md` — placeholder → rascunho completo (~2.250 palavras) + blocos PRÉ-CHECAGEM e PÓS-ESCRITA
+- **Alterado:** `books/livro-01-lara/STATUS.md` — progresso 9/24 → 10/24
+- **Alterado:** `books/livro-01-lara/CAPITULOS.md` — Cap 10: `planejado` → `rascunho`
+- **Alterado:** `books/livro-01-lara/CHANGELOG.md` — entrada décima segunda atualização adicionada
+
+### Decisões tomadas / propostas
+- Nenhuma decisão canônica nova. DEC-018 aplicada conforme aprovada (gesto orgânico, antes da cabeça, TRA-001/TRA-002 cumpridos).
+
+### Pendências
+- Nenhuma crítica. Próximo cap: **Cap 11 — *Conversa de Carro*** (Lara + Beto, noite, sem chuva).
+
+---
+
 ## Sessão 2026-05-09 — Unificação Mulher da Foto = Primeira Guardiã (DEC-037)
 
 ### Objetivo

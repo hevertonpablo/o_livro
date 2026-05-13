@@ -4,6 +4,56 @@
 
 ---
 
+## 2026-05-12 (décima segunda atualização) — Pós-escrita do capítulo 10 (1ª reativação do talento)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 10 — *Os Dedos Lembram Antes da Cabeça* — escrito em rascunho. ~2.250 palavras (dentro da faixa-padrão). POV de Lara, tarde com luz pela janela, outono seco. Função (DEC-014): **empurrar transformação (1ª reativação do talento de restauração) + revelar personagem (Lara ainda carrega o dom)**. Continuação do mesmo dia do Cap 9 — Lara voltou da cafeteria pela manhã; é tarde quando a cena acontece. Capítulo íntimo, sem diálogos, totalmente interior: a mão age antes da cabeça, e Lara olha para a mão como se ela pertencesse a alguém que estava tentando lembrar.
+
+### Personagens em cena
+- **Lara** (POV) — voltou da cafeteria, está em casa no final da manhã e começa da tarde. Faz o que o corpo faz quando para de fugir e não sabe ainda para onde ir: fica, move-se, para. Em algum momento senta no chão em frente à mesinha com o livro. A mão acontece antes da decisão.
+- **Mel** — presença de rotina. Sobe no sofá, senta ao lado de Lara no chão quando Lara abre o livro, sai em silêncio depois do gesto. Testemunha sem comentário.
+
+### Mudança emocional (DEC-014 — empurrar transformação)
+É o primeiro gesto concreto de que o dom não foi embora. Não é resolução — é evidência. Lara olha para a mão depois do gesto e reconhece que **a mão sabia**. Não nomeia o que isso significa. Mas a confusão produtiva começa a ter um fundo firme: há algo ainda inteiro nela. **A mentira interna (*"Sou o pior capítulo da minha história"*) recebe a primeira rachadura física.** O arco começa a dobrar — não dramaticamente, com quietude.
+
+### Pistas efetivamente plantadas
+
+**DEC-018 — 1ª reativação do talento de restauração ✓:**
+- Forma exata: Lara apoia a palma sobre um vinco profundo na encadernação do livro antigo.
+- Movimento: pressão controlada, arco mínimo sobre a página — o gesto correto de restauradora, executado sem decidir executá-lo.
+- Lara percebe depois, não antes: vê a mão sobre o livro, reconhece a posição como "correta", entende que a mão sabia sem precisar ser lembrada.
+- Vinco permanece — não desaparece com uma passagem só. Lara sabe disso sem ter lembrado que sabia. A consciência técnica está preservada junto com o gesto muscular.
+
+**Estante de ferramentas — primeiro olhar sem desviar ✓:**
+- Lara termina o capítulo olhando para o pano que cobre as ferramentas guardadas.
+- Não vai até lá. Não as toca. Mas **olha** — pela primeira vez sem desviar o olhar como fazia antes.
+- Sinal silencioso de que algo mudou. Sem explicação narrativa.
+
+### Vinco como pista de uso (leitura aberta)
+- O vinco do livro indica que esta página foi aberta neste ponto repetidamente — durante anos.
+- Lara percebe isso como restauradora: *"[o vinco] vinha não de dano, mas de uso: este livro tinha sido aberto aqui repetidamente."*
+- Lara não decodifica. O leitor investigador pode perguntar: quem abriu este livro tantas vezes nesta página específica? O que há nesta página?
+
+### Continuidade afetada
+- **CAPITULOS.md:** Cap 10 → `rascunho` ✓
+- **STATUS.md:** progresso → 10 de 24 capítulos escritos ✓
+- **MAPA-PISTAS.md:** entrada do Cap 10 cumprida conforme planejado (sem alterações de forma)
+- **MAPA-ILUSTRACOES.md:** sem alterações (Cap 10 não tem imagem associada, confirmado)
+
+### Ecos com capítulos anteriores
+- **Cap 2 ↔ Cap 10:** "estante com ferramentas pausadas" (insinuação) → Cap 10 Lara olha as ferramentas pela primeira vez sem desviar o olhar.
+- **Cap 5 ↔ Cap 10:** "mãos de criança tentando consertar algo + vidro quebrado" (flashback) → Cap 10 mãos adultas executam gesto de restauração. Continuidade do talento através da tragédia.
+- **Cap 8 ↔ Cap 10:** "DEC-018 como ferramenta narrativa (vê com os dedos primeiro)" → Cap 10 os dedos agem como memória corporal, a cabeça percebe depois.
+- **Cap 9 ↔ Cap 10:** "E não sabia o que fazer com nenhuma delas." (última linha Cap 9) → Cap 10 a mão começa a responder uma das perguntas sem que Lara precise decidir.
+
+### Pendências surgidas
+- Nenhuma pendência crítica nova.
+- Observação de revisão: ritmo do capítulo é propositalmente baixo — verificar na revisão se a faixa de ~2.250 palavras sustenta o peso emocional ou pode ser compactada.
+
+---
+
 ## 2026-05-11 (décima primeira atualização) — Pós-escrita do capítulo 9 (linha 1 da charada central)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
