@@ -209,7 +209,7 @@ Lara não termina o livro curada. Termina apenas tendo voltado a olhar pra o que
 - **Função:** Gerar cruzamento. Aumentar conflito (Lara começa a falar).
 - **Cenário/Horário/Clima:** Carro de Beto · noite · sem chuva.
 - **Personagens em cena:** Lara, Beto.
-- **O que acontece:** Em corrida noturna, Lara fala com Beto pela primeira vez algo que não é trabalho. Comenta de leve sobre um livro velho que apareceu na bolsa dela. Beto não pergunta. Apenas escuta. No final da corrida, antes de descer, Beto diz uma frase curta: *"Tem coisas que aparecem quando a gente está pronto, e tem coisas que aparecem antes pra preparar a gente."* Lara desce em silêncio.
+- **O que acontece:** Em corrida noturna, Lara fala com Beto pela primeira vez algo que não é trabalho. Comenta de leve sobre um livro velho que alguém deixou para ela na cafeteria — sem dar nome ao livro nem ao homem. Beto não pergunta. Apenas escuta. No final da corrida, antes de descer, Beto diz uma frase curta: *"Tem coisas que aparecem quando a gente está pronto, e tem coisas que aparecem antes pra preparar a gente."* Lara desce em silêncio.
 - **Pistas plantadas:** Beto como apoio que escuta sem julgar; semente da promessa antiga — eco temático.
 - **Frase-gancho final:** *"Lara entrou no apartamento com a frase ainda ecoando."*
 
