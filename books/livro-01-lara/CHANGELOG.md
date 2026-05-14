@@ -4,6 +4,54 @@
 
 ---
 
+## 2026-05-14 (décima quarta atualização) — Pós-escrita do capítulo 12 (1ª fala do Personagem Oculto com Lara)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 12 — *Quem Senta no Banco de Lá* — escrito em rascunho. ~2.100 palavras. POV de Lara, tarde de outono (~16h30–17h), parque — alameda principal, árvore antiga. Função (DEC-014): **gerar cruzamento** — 1ª fala do Personagem Oculto com Lara. Sinais canônicos do L1 todos presentes: vento que muda de direção (premonitório), cheiro de café reservado do Cap 4, casaco cinza-chumbo gasto, olhar calmo. Frase canônica cumprida verbatim. Lara sai com a frase e o olhar — sem resolver, sem decodificar. Efeito: sentir-se vista sem julgamento — semente do recomeço instalada. **Parte 2 (Caps 7–12) encerrada.**
+
+### Personagens em cena
+- **Lara** (POV) — carrega a pergunta de Beto do Cap 11 (*"Preparar pra quê?"*). Vai ao parque para ter ar. Para perto da árvore antiga (toca a inscrição). Recebe a frase do Oculto. Saída: não decodifica — sente. Volta para casa com a frase dentro.
+- **Personagem Oculto** — casaco cinza-chumbo gasto. Banco direita/oposto (canon Cap 4). Já sentado em silêncio antes de falar (gesto canônico §8.1). Diz a frase sem virar o corpo para ela, volta o olhar para a alameda. Nome nunca revelado. Identidade nunca confirmada. Voz: uma frase, sem ordenar, sem comentar. Lara é quem se afasta — ele permanece no banco.
+- **Mel** — presença de retorno. Esperando no corredor. Sem fala.
+
+### Mudança emocional (DEC-014 — gerar cruzamento)
+Cruzamento efetivado: Lara foi tocada por uma presença externa que olhou sem julgar. Antes da frase, era o olhar. Depois da frase, a frase. Ela não sabe o nome do homem. Não sabe quem ele é. Não sabe se acredita em "Deus" ou em "história em construção". Mas algo que parecia definitivamente terminado deixou de parecer. Necessidade interna canônica de Lara (ARCOS §1.5: *"Permitir-se ser vista por alguém sem julgamento prévio"*) — primeiro passo cumprido. Semente do recomeço plantada (biblia-do-personagem-oculto.md §12).
+
+### Pistas efetivamente plantadas
+
+**Frase canônica do Oculto ✓ (MAPA-PISTAS §4.1 — verbatim):**
+- *"Moça, tem gente que chama de vida perdida aquilo que Deus ainda chama de história em construção."* Dita sem preamble, sem esperar réplica. Tom de constatação. Voz: "vizinho profundo", não guru (TON-005 / bíblia §7.3 ✓).
+
+**Sinais canônicos do L1 ✓ (bíblia §4.2 — todos presentes):**
+- Vento que muda de direção (premonitório, curto — vento.md §2.2 ✓)
+- Cheiro de café reservado do Cap 4 — chegado no vento, da cafeteria adjacente (parque.md §2 ✓)
+- Olhar calmo (§4.1 ✓)
+- Casaco cinza-chumbo gasto — descrito como *"cinza de chuva gasta"* (DEC-023, variação canônica de percepção ✓)
+- Banco no parque — banco direita/oposto (§4.1 ✓)
+
+**Gesto canônico ✓ (bíblia §8.1):** já sentado em silêncio antes de falar. Voltou o olhar para a alameda depois de falar — despedida silenciosa.
+
+**Aspecto que Lara capta ✓ (bíblia §6 — OLHAR):** *"Fazia tempo que ninguém a olhava assim."* — olhar que não avalia, não cadastra culpa. Sentir-se vista.
+
+**Árvore antiga / inscrição ✓ (DEC-039 / MAPA-PISTAS §3):** Lara passa o indicador na inscrição (*"E"* + traço). Não nomeia, não decodifica. Plantio orgânico sem peso excessivo.
+
+**Ausência do Antigo ✓ (DEC-003):** embrulho na mesinha mencionado na abertura e no retorno — Lara não o traz para o parque. Presença canônica correta.
+
+**316 — não ativado ✓ (DEC-029):** banco do Oculto mencionado como "banco que ficava do lado oposto" sem numeração. Banco 16 já plantado no Cap 4 — não re-enfatizado.
+
+### Continuidade afetada
+- **CAPITULOS.md:** Cap 12 → `rascunho` ✓
+- **STATUS.md:** progresso → 12 de 24 capítulos escritos ✓; Parte 2 encerrada ✓; foco → Cap 13 ✓
+- **MAPA-PISTAS.md:** nenhuma alteração — pistas cumpridas conforme §4.1 planejado; plantio sem desvio
+- **MAPA-ILUSTRACOES.md:** S04 (banco vazio, folha no encosto) — imagem como eco pós-cena. Prosa não duplicou imagem literalmente ✓. Status da imagem: `pendente` — sem alteração de prompt.
+
+### Pendências surgidas
+Nenhuma. A reconciliação de horário ("meio da tarde" vs. "cair da tarde") e clima ("vento + luz fraca" vs. "garoa fina") foi resolvida na escrita sem contradição — outono com ar úmido, vento, luz que fraqueja a ~17h. Não requer decisão humana.
+
+---
+
 ## 2026-05-14 (décima terceira atualização) — Pós-escrita do capítulo 11 (Beto ouve; conflito aumentado)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

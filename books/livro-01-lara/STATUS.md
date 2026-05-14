@@ -2,13 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1 a 11 escritos.** Parte 1 completa (Caps 1–6). Parte 2 em andamento (Caps 7–11 escritos). Cap 11 entregue: **Beto ouve, Lara fala do Antigo pela 1ª vez com outra pessoa.** Frase canônica de Beto cumprida (ARCOS §2.5). Cruzamento + conflito aumentado.
+**Em escrita. Capítulos 1 a 12 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Cap 12 entregue: **1ª fala do Personagem Oculto com Lara (frase canônica cumprida verbatim).** Sinais canônicos do L1 todos plantados. Efeito emocional: sentir-se vista sem julgamento. Parte 3 começa no Cap 13.
 
 Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 11–24, sem bloqueios.**
 
 ## Última atualização
 
-2026-05-14 — Cap 11 escrito pelo Agente de Escrita. **Cruzamento efetivado (Beto ouve sem perguntar), conflito aumentado (frase de Beto ecoando sem resposta). Antigo mencionado pela 1ª vez para outro personagem.**
+2026-05-14 — Cap 12 escrito pelo Agente de Escrita. **Cruzamento efetivado (1ª fala do Personagem Oculto com Lara). Frase canônica cumprida verbatim. Todos os sinais canônicos do L1 plantados (cheiro de café reservado do Cap 4, vento que muda de direção, olhar calmo, casaco cinza-chumbo gasto). Efeito emocional: Lara sente-se vista sem julgamento — semente do recomeço plantada (ARCOS §1.5).**
 
 ## Progresso
 
@@ -20,14 +20,14 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **11 de 24** — Caps 1 a 11 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250 e ~2.150 palavras respectivamente). Total: ~26.465 palavras (~41% do alvo).
+- **Capítulos escritos:** **12 de 24** — Caps 1 a 12 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150 e ~2.100 palavras respectivamente). Total: ~28.565 palavras (~44% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 12 — *Quem Senta no Banco de Lá* — 1ª fala do Personagem Oculto com Lara. (DEC-023 + `biblia-do-personagem-oculto.md §15` — verificar frase canônica antes de escrever.)**
+**Escrever o Capítulo 13 — *A Garoa de Miguel* — 1ª cena travada com o L2 (DEC-030). Frase canônica de Miguel (DEC-038) cumprida neste capítulo. Verificar `biblia-continuidade-relacoes.md` + bíblia do L2 antes de escrever.**
 
-Cap 11 entregue: ~2.150 palavras (dentro da faixa). **Cruzamento e conflito cumpridos:** Lara menciona o Antigo com Beto pela primeira vez. Beto ouve sem perguntar. Frase canônica de Beto cumprida (ARCOS §2.5). Noite sem chuva funcionou como contraste de textura com os capítulos anteriores. Gancho final: *"Lara entrou no apartamento com a frase ainda ecoando."* — provocativo, sem resolução.
+Cap 12 entregue: ~2.100 palavras (dentro da faixa). **Cruzamento cumprido:** 1ª fala do Personagem Oculto com Lara. Frase canônica verbatim. Todos os sinais canônicos do L1 plantados. Semente do recomeço instalada sem resolução — Lara sai com a frase e o olhar do homem, sem saber quem ele é. Parte 2 encerrada.
 
 ## Próximas ações
 
@@ -36,7 +36,8 @@ Cap 11 entregue: ~2.150 palavras (dentro da faixa). **Cruzamento e conflito cump
 - [x] ~~Cap 10 — *Os Dedos Lembram Antes da Cabeça*~~ ✓ rascunho 2026-05-12
 - [ ] Revisão humana dos Caps 1 a 10.
 - [x] ~~Cap 11 — *Conversa de Carro*~~ ✓ rascunho 2026-05-14
-- [ ] **Cap 12 — *Quem Senta no Banco de Lá*** — 1ª fala do Personagem Oculto com Lara. Cenário: parque, meio da tarde, vento + luz fraca. Verificar frase canônica do Oculto (`biblia-do-personagem-oculto.md §15` + DEC-023).
+- [x] ~~Cap 12 — *Quem Senta no Banco de Lá*~~ ✓ rascunho 2026-05-14
+- [ ] **Cap 13 — *A Garoa de Miguel*** — 1ª cena travada com o L2 (DEC-030). Verificar DEC-038 (frase de Miguel) + biblia-continuidade-relacoes.md.
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 
