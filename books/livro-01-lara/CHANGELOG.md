@@ -4,6 +4,66 @@
 
 ---
 
+## 2026-05-14 (décima quinta atualização) — Pós-escrita do capítulo 13 (CENA-PIVÔ — Lara × Miguel)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 13 — *O Encontro Sob Garoa* — escrito em rascunho. ~2.120 palavras. POV de Lara, 18h em ponto, parque — banco perto da árvore antiga. Garoa fina de outono. Função (DEC-014): **gerar cruzamento** (cena travada DEC-030) + **empurrar transformação** (DEC-038). Lara e Miguel — dois desconhecidos, encontro breve. Frase canônica de Miguel cumprida verbatim. Sino do ângelus às 18h. Lara responde "É". Despedida simples. Eles se afastam em direções opostas. **Ponto médio do livro (ARCOS §1.9). Parte 3 iniciada.**
+
+### Personagens em cena
+- **Lara** (POV) — carrega frase do Oculto (Cap 12) + frase de Beto (Cap 11). Volta ao parque alguns dias depois do Cap 12, sem plano claro. Toca novamente a inscrição da árvore (DEC-039). Recebe a frase de Miguel. Responde "É" — pequeno som verdadeiro. Sai com a frase guardada, sem saber o que fazer com ela.
+- **Miguel** — desconhecido para Lara. Não nomeado no capítulo. Chega pelo sul da alameda. Para perto da árvore. Diz a frase DEC-038 verbatim: *"Tem dia que a gente não está perdido. Só ainda não teve coragem de voltar."* Começa olhando para a alameda (lado), termina olhando para Lara. Tom baixo, sem sermão. Camada dupla: frase para ela que revela algo que ele mesmo precisava ouvir. Despedida: "boa tarde". Segue em frente sem olhar para trás.
+- **Mel** — ausente neste capítulo.
+
+### Mudança emocional (DEC-014 — gerar cruzamento + empurrar transformação)
+Cena-pivô cumprida. Primeira rachadura na mentira interna de Lara (*"não há quem me espere"* / *"Eu sou só o pior que aconteceu comigo"*): a frase de Miguel não conserta nada, mas faz uma distinção pequena onde antes não havia nenhuma. Lara reconhece algo sem nomear. Recebe sem dramatizar. Guarda. Estado emocional de saída: mesma confusão, mas com uma semente nova — a hipótese de que estar "não perdida" é possível.
+
+### Pistas efetivamente plantadas
+
+**Cena travada DEC-030 + DEC-038 ✓ — todos os fatos canônicos para L2:**
+- 18h em ponto (sino do ângelus marca a hora)
+- Garoa fina
+- Parque — banco perto da árvore antiga
+- Frase canônica de Miguel verbatim: *"Tem dia que a gente não está perdido. Só ainda não teve coragem de voltar."*
+- Miguel começa olhando para a alameda (lado), termina olhando para Lara ✓
+- Resposta de Lara: "É" ✓
+- Despedida: "boa tarde / boa" ✓
+- Eles se afastam em direções opostas ✓
+
+**Sino do ângelus ✓:** seis badaladas marcam 18h. Usado como beat narrativo no momento anterior à frase. Orgânico, conforme OUTLINE e entardecer.md.
+
+**Inscrição da árvore (DEC-039) ✓:** Lara toca novamente o "E" + traço apagado. Gesto de continuidade do Cap 12. Sem comentário analítico.
+
+**Eco implícito ✓:** frases do Oculto (Cap 12) e de Miguel coexistem no mesmo lugar interno de Lara sem se misturar. Leitor percebe; Lara não articula. Reservado para o Cap 16 (DEC-027, frase-âncora).
+
+### Pistas vetadas — confirmadas ausentes
+- Mulher da Foto: AUSENTE (MAPA-PISTAS §7 — "Uma aparição apenas. Não repetir." Cap 3 já a tem.) ✓
+- O Antigo: AUSENTE ✓
+- Personagem Oculto: AUSENTE ✓ (Cap 17 é a 2ª fala)
+- 316 em nova forma: AUSENTE ✓
+- DEC-022 (fragmento promessa antiga): AUSENTE ✓ (Cap 14)
+- DEC-027 (frase-âncora): AUSENTE ✓ (Cap 16)
+
+### Impactos na continuidade
+- **L2 (Miguel):** quando escrito, o capítulo equivalente deve replicar todos os fatos canônicos travados (PER-006). A frase DEC-038, a resposta de Lara ("É"), o sino, a despedida e o afastamento em direções opostas são canon.
+- **CAPITULOS.md:** status do Cap 13 atualizado — "planejado" → "rascunho". Data preenchida. ✓
+- **STATUS.md:** contagem atualizada — 13 de 24. Foco atual: Cap 14. ✓
+- **MAPA-PISTAS.md:** nenhuma alteração necessária — tudo conforme planejado.
+- **MAPA-ILUSTRACOES.md:** M03 permanece pendente de prompt (Etapa 2 da produção). A cena escrita sugere: dois volumes humanos a poucos metros no parque de outono, garoa fina, árvore antiga ao fundo, luz âmbar em retirada. Sem rostos identificáveis.
+
+### Pendências abertas
+- Prompt completo do M03 (MAPA-ILUSTRACOES Etapa 2): geração posterior, não bloqueia.
+- Nomeação de Miguel para Lara: em L1, Lara não soube seu nome neste capítulo. Definir se ela chega a saber em algum capítulo futuro de L1 — ou só em L2. **Proposta a registrar em DECISIONS.md se o autor levantar.**
+
+### Arquivos alterados nesta sessão
+- `capitulos/capitulo-13.md` — criado (rascunho)
+- `CAPITULOS.md` — status Cap 13: planejado → rascunho; data e obs. preenchidas
+- `STATUS.md` — contagem, foco atual e próximas ações atualizados
+- `CHANGELOG.md` (este arquivo) — entrada adicionada
+
+---
+
 ## 2026-05-14 (décima quarta atualização) — Pós-escrita do capítulo 12 (1ª fala do Personagem Oculto com Lara)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

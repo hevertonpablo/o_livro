@@ -18,6 +18,45 @@
 
 ---
 
+## Sessão 2026-05-14 — Escrita do Capítulo 13 — O Encontro Sob Garoa (CENA-PIVÔ DO LIVRO)
+
+### Objetivo
+Escrever o Capítulo 13 do Livro 1 (Lara): *O Encontro Sob Garoa*. **CENA-PIVÔ DO LIVRO.** Função: gerar cruzamento (cena travada DEC-030 — Lara × Miguel) + empurrar transformação (frase canônica DEC-038). Cenário: Parque, 18h, garoa fina de outono. Personagens em cena: Lara (POV), Miguel (desconhecido para ela).
+
+### Arquivos lidos (pré-escrita)
+- [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md) (DEC-001→039), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md)
+- [`books/livro-01-lara/OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md)
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-01.md`](books/livro-01-lara/capitulos/capitulo-01.md) (tom de referência), [`capitulo-12.md`](books/livro-01-lara/capitulos/capitulo-12.md) (continuidade)
+- [`books/cenarios/parque.md`](books/cenarios/parque.md), [`books/clima/outono.md`](books/clima/outono.md), [`books/horarios/entardecer.md`](books/horarios/entardecer.md)
+- [`books/personagens/protagonistas/miguel.md`](books/personagens/protagonistas/miguel.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-13.md`](books/livro-01-lara/capitulos/capitulo-13.md) — **CRIADO** (rascunho completo, ~2.120 palavras)
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — status Cap 13: planejado → rascunho; data e observações preenchidas
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — contagem 12→13, foco atual Cap 14, próximas ações atualizadas
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada décima quinta atualização adicionada
+- [`SESSION_LOG.md`](SESSION_LOG.md) — esta entrada
+
+### Decisões tomadas / propostas
+- **Mulher da Foto (DEC-037): NÃO incluída no Cap 13.** Embora o OUTLINE indicasse "possível", o MAPA-PISTAS §7 define "Uma aparição apenas. Não repetir." para o L1, e a Cap 3 já a tem. A bíblia especializada vence. Decisão registrada no PRÉ-CHECAGEM do capítulo.
+- **Miguel não nomeado para Lara.** Lara não sabe o nome dele ao fim da cena. Questão sobre se ela chega a saber em algum capítulo posterior do L1 deixada em aberto — proposta a levantar com o autor se necessário.
+
+### Pistas plantadas nesta sessão
+- DEC-030: Cena travada L1/L2 cumprida (18h, garoa fina, parque, árvore antiga, frase verbatim, resposta "É", sino, despedida, afastamento em direções opostas) ✓
+- DEC-038: Frase canônica de Miguel verbatim ✓ — direção do olhar canônica ✓ — camada dupla ✓
+- DEC-039: Inscrição da árvore tocada novamente por Lara (continuidade do Cap 12) ✓
+- Sino do ângelus às 18h: usado como beat narrativo ✓
+
+### Pendências
+- Prompt completo do M03 (MAPA-ILUSTRACOES Etapa 2): gerar após confirmação visual do autor. Sugestão para o prompt: dois volumes humanos a poucos metros no parque de outono, garoa fina, árvore antiga ao fundo, luz âmbar em retirada. Sem rostos identificáveis.
+- Nomeação de Miguel para Lara em L1: a definir com o autor.
+- L2 (Miguel): quando iniciado, o capítulo correspondente à cena travada deve respeitar todos os fatos canônicos listados no PÓS-ESCRITA do Cap 13.
+- **Próxima ação recomendada:** Escrever Cap 14 — *O Eco do Que Foi Dito* — fragmento da promessa antiga (DEC-022), cenário: apartamento de Lara, noite, imagem S05.
+
+---
+
 ## Sessão 2026-05-11 — Escrita do Capítulo 9 — A Palavra que Sobrou
 
 ### Objetivo
