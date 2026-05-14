@@ -118,6 +118,43 @@ Conduzir revisão completa do Capítulo 9 lido contra TODAS as fontes canônicas
 
 ---
 
+## Sessão 2026-05-14 — Escrita do Capítulo 11 — Conversa de Carro
+
+### Objetivo
+Escrever o Capítulo 11 do Livro 1 (Lara): *Conversa de Carro*. Função (DEC-014): **gerar cruzamento + aumentar conflito**. Cenário: carro de Beto, noite sem chuva. Personagens: Lara (POV), Beto. Pistas-chave: Beto como apoio canônico; Lara menciona o Antigo como "aquela coisa velha" com outra pessoa pela 1ª vez (DEC-003); frase canônica de Beto (ARCOS §2.5); eco temático da promessa antiga; gancho: *"Lara entrou no apartamento com a frase ainda ecoando."*
+
+### Arquivos lidos (pré-escrita — sessão iniciada no contexto anterior, continuada aqui)
+- [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md)
+- [`books/livro-01-lara/OUTLINE.md`](books/livro-01-lara/OUTLINE.md) — Cap 11 lido na íntegra
+- [`books/livro-01-lara/ARCOS.md`](books/livro-01-lara/ARCOS.md) — §2.5 (Beto + frase canônica), §1.4–§1.10 (arco de Lara)
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — completo (confirmado: sem pista obrigatória específica para Cap 11 além do eco temático)
+- [`books/livro-01-lara/MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md) — Cap 11 sem imagem associada
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`capitulos/capitulo-10.md`](books/livro-01-lara/capitulos/capitulo-10.md) — integral (ponte emocional direta)
+- Capítulos 1–9 (continuidade de tom, voz de Beto, pistas já plantadas)
+- Bíblias: `horarios/noite.md`, `cenarios/transporte.md`
+- Fichas: `personagens/apoio/beto.md`, `personagens/protagonistas/lara.md`
+
+### Arquivos alterados / criados
+- **Alterado:** `books/livro-01-lara/capitulos/capitulo-11.md` — placeholder → rascunho completo (~2.150 palavras) + blocos PRÉ-CHECAGEM e PÓS-ESCRITA
+- **Alterado:** `books/livro-01-lara/CAPITULOS.md` — Cap 11: `planejado` → `rascunho`, observações canônicas adicionadas
+- **Alterado:** `books/livro-01-lara/STATUS.md` — progresso 10/24 → 11/24; foco atual → Cap 12; próximas ações atualizadas
+- **Alterado:** `books/livro-01-lara/CHANGELOG.md` — entrada "2026-05-14 (décima terceira atualização)" adicionada
+
+### Decisões tomadas / propostas
+- Nenhuma decisão canônica nova. Todas as DECs aplicáveis (DEC-003, DEC-010, DEC-011, DEC-014, DEC-018, DEC-032) já aprovadas. Cap 11 implementa canon existente.
+- **Aplicação de DEC-003:** Lara usa "aquela coisa velha" — apelido canônico do Antigo. Nunca "Bíblia", nunca identificado.
+- **Aplicação de ARCOS §2.5:** Frase canônica de Beto cumprida palavra por palavra: *"Tem coisas que aparecem quando a gente está pronto, e tem coisas que aparecem antes pra preparar a gente."*
+- **Eco temático:** A frase de Beto ecoa o tema da promessa antiga sem usar DEC-022 (reservada Cap 14) nem DEC-027 (reservada Cap 16).
+- **Continuidade:** Noite sem chuva — contraste deliberado com a textura habitual de chuva do L1. Lara carrega a descoberta do Cap 10 sem nomeá-la; Beto escuta sem perguntar; o conflito aumenta porque a frase instala uma pergunta sem resposta.
+
+### Pendências
+- Nenhuma crítica nova.
+- **Próximo capítulo (Cap 12):** 1ª fala do Personagem Oculto com Lara. **Verificar frase canônica em `biblia-do-personagem-oculto.md §15`** antes de escrever. DEC-023 deve ser respeitada integralmente.
+- Caps 1–11 aguardam revisão humana antes de prosseguir para o bloco 12–18.
+
+---
+
 ## Sessão 2026-05-12 — Escrita do Capítulo 10 — Os Dedos Lembram Antes da Cabeça
 
 ### Objetivo

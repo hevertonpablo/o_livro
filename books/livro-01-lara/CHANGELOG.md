@@ -4,6 +4,63 @@
 
 ---
 
+## 2026-05-14 (décima terceira atualização) — Pós-escrita do capítulo 11 (Beto ouve; conflito aumentado)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 11 — *Conversa de Carro* — escrito em rascunho. ~2.150 palavras (dentro da faixa-padrão). POV de Lara, noite sem chuva, carro de Beto. Função (DEC-014): **gerar cruzamento + aumentar conflito**. Continuação: Lara sai para corrida noturna (vida externa que não mudou) carregando a descoberta silenciosa do Cap 10 (vida interna que mudou). Pela primeira vez fala com alguém — Beto — sobre o Antigo. Não dá nome ao livro nem ao homem. Beto escuta e não pergunta. Antes de ela descer, Beto diz a frase canônica. Lara entra no apartamento com a frase ainda ecoando.
+
+### Personagens em cena
+- **Lara** (POV) — corrida noturna habitual. Noite seca, diferente da textura usual de chuva. Carrega o gesto do Cap 10 por dentro. Fala casualmente de "uma coisa velha" que alguém deixou pra ela na cafeteria — primeira vez que o Antigo existe fora do seu mundo privado. Não decodifica. Não dramatiza. Apenas diz.
+- **Beto** — dirige, ouve, não pergunta. Responde com *"Hm"* — reconhecimento sem transformar em assunto. Antes de Lara descer, diz a frase canônica como constatação, sem peso artificial. Comportamento 100% canônico (PER-005, ficha `personagens/apoio/beto.md`, Cap 1 como referência de voz).
+- **Mel** — presença de chegada. Está no sofá quando Lara entra. Testemunha sem comentário (padrão estabelecido Caps 1, 2, 5, 10).
+
+### Mudança emocional (DEC-014 — gerar cruzamento + aumentar conflito)
+Cruzamento efetivado: Lara cruzou para um modo novo de se relacionar com Beto — falou de algo pessoal pela primeira vez. O Antigo saiu do silêncio interno. Conflito aumentado: a frase de Beto (*"aparecem antes pra preparar a gente"*) instalou uma pergunta sem resposta — *"Preparar pra quê?"* — que Lara não consegue responder e não consegue ignorar. O gancho final é esse não-saber com nome.
+
+### Pistas efetivamente plantadas
+
+**Beto como apoio canônico ✓ (ARCOS §2.5, PER-005):**
+- Ouve sem perguntar. Responde com som, não com palavra. Não transforma o assunto em conversa. Idêntico ao Beto do Cap 1 — consistência de voz preservada.
+
+**Antigo mencionado com outro personagem — 1ª vez ✓ (DEC-003 respeitada):**
+- Lara usa "aquela coisa velha" — apelido canônico registrado em MAPA-PISTAS §1.
+- Não dá nome ao livro nem ao entregador do Cap 7. Beto não pergunta.
+- O objeto que chegou sem ser pedido (Cap 7) começa a existir além da esfera privada de Lara.
+
+**Frase canônica de Beto ✓ cumprida (ARCOS §2.5 — verbatim):**
+- *"Tem coisas que aparecem quando a gente está pronto, e tem coisas que aparecem antes pra preparar a gente."*
+- Dita antes de Lara descer. Tom de constatação. Sem peso artificial. Sem explicação. Beto não sabe o que diz em relação ao arco maior — ele faz isso com todo mundo (PER-005).
+
+**Eco temático da promessa antiga ✓:**
+- A frase de Beto ecoa o tema do arco maior (coisas que chegam para preparar) sem usar o fragmento de DEC-022 (Cap 14) nem a frase-âncora de DEC-027 (Cap 16).
+- Leitor investigador nota o eco com o arco de Lara inteiro. Leitor casual recebe como sabedoria orgânica de Beto.
+
+**Noite sem chuva como contraste de textura ✓:**
+- Diferente de todos os capítulos noturnos anteriores (Caps 1, 5, 8, 15 planejados). A ausência de chuva deixa a cidade mais crua, mais direta — eco com o estado de Lara: mais exposta do que de costume.
+
+**Gancho final canônico ✓ (OUTLINE Cap 11):**
+- *"Lara entrou no apartamento com a frase ainda ecoando."* — cumprido. A última linha do capítulo é: *"esse não-saber, ao final do capítulo, é mais tenso do que o não-saber do Cap 10 — porque agora tem uma pergunta com palavras."*
+
+### Continuidade afetada
+- **CAPITULOS.md:** Cap 11 → `rascunho` ✓
+- **STATUS.md:** progresso → 11 de 24 capítulos escritos ✓; foco → Cap 12 ✓
+- **MAPA-PISTAS.md:** nenhuma alteração — pistas cumpridas conforme planejado; eco temático não requer nova entrada
+- **MAPA-ILUSTRACOES.md:** sem alterações — Cap 11 sem imagem associada (confirmado placeholder + MAPA)
+
+### Ecos com capítulos anteriores
+- **Cap 1 ↔ Cap 11:** mesmo cenário (carro de Beto, noite), mesma dinâmica (Beto dirige, conversa mínima). Diferença estrutural: Cap 1 é apresentação do mundo de Lara; Cap 11 é Lara falando pela primeira vez de algo que não é trabalho. Pequena mudança, peso estrutural.
+- **Cap 7 ↔ Cap 11:** "Acho que isso te procurou" (entregador anônimo) → Cap 11 Lara menciona o livro pela primeira vez com outra pessoa. O objeto que chegou sem ser pedido começa a existir fora da esfera privada.
+- **Cap 10 ↔ Cap 11:** "As mãos sabiam o que ela tinha esquecido" → Cap 11 Lara carrega essa constatação silenciosa para a corrida noturna; a frase de Beto é o primeiro eco externo que ressoa com o que ela sentiu internamente.
+
+### Pendências surgidas
+- Nenhuma pendência crítica nova.
+- **Aviso para Cap 12:** 1ª fala do Personagem Oculto com Lara. Verificar frase canônica em `biblia-do-personagem-oculto.md §15` antes de escrever. DEC-023 deve ser respeitada integralmente.
+- Observação de revisão: o capítulo tem ritmo mais contido do que a média — compatível com a função de transição. Verificar se a parcimônia de Beto soa autêntica em todo o trecho ou precisa de ajuste na revisão.
+
+---
+
 ## 2026-05-12 (décima segunda atualização) — Pós-escrita do capítulo 10 (1ª reativação do talento)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
