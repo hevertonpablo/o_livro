@@ -16,6 +16,19 @@
 
 ## [Unreleased]
 
+### Adicionado — Cap 14 do L1 escrito (rascunho)
+- [`books/livro-01-lara/capitulos/capitulo-14.md`](books/livro-01-lara/capitulos/capitulo-14.md) — Cap 14 — *O Eco do Que Foi Dito* — rascunho (~2.330 palavras). DEC-022 efetivamente plantada (fragmento da promessa antiga: *"…ainda encontre quem o chame."*). Letra Fonte A (DEC-021) — terceira aparição consistente. Eco interno de DEC-038 (frase de Miguel). L1 agora com 14 de 24 capítulos escritos (~33.015 palavras, ~51% do alvo).
+
+### Alterado — arquivos de controle do L1 (sessão de escrita Cap 14)
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — status Cap 14: `planejado` → `rascunho`. Data e observação preenchidas.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado (14/24 capítulos, ~33.015 palavras). Foco atual atualizado: Cap 15.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada (décima sexta atualização).
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — §5.2 (promessa antiga): status da entrada do Cap 14 atualizado para ✅ CUMPRIDA.
+
+---
+
+## [Unreleased]
+
 ### Decidido — pendências do L1 processadas (8 de 8)
 - **DEC-038** ✓ aprovado — Frase canônica de Miguel para Lara no Cap 13 (cena travada L1/L2): *"Tem dia que a gente não está perdido. Só ainda não teve coragem de voltar."* Marcadores fixos: começa olhando para o lado, termina olhando para Lara; tom baixo; camada dupla. Variação permitida apenas em pontuação leve. Eco direto com a frase-âncora canônica DEC-027 (palavra "perdido").
 - **DEC-039** ✓ aprovado — Inscrição na árvore antiga do parque (Cap 4 do L1, eco em L9): **"E" + traço apagado**. Aparência antiga, irregular, confundida com desgaste natural. **Proibido escrever "ELIAS" inteira em qualquer livro da Fase 1.**

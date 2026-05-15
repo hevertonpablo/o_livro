@@ -20,14 +20,14 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **13 de 24** — Caps 1 a 13 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100 e ~2.120 palavras respectivamente). Total: ~30.685 palavras (~47% do alvo).
+- **Capítulos escritos:** **14 de 24** — Caps 1 a 14 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120 e ~2.330 palavras respectivamente). Total: ~33.015 palavras (~51% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 14 — *O Eco do Que Foi Dito* — fragmento da promessa antiga (DEC-022): *"…ainda encontre quem o chame."* Cenário: apartamento de Lara. Noite, sem chuva. Imagem S05.**
+**Escrever o Capítulo 15 — *Volta de Onde Não Saí* — Jéssica volta com força. Cenário: Apartamento → bar → carro. Noite avançada, vento frio.**
 
-Cap 13 entregue: ~2.120 palavras. **Cena-pivô cumprida:** Lara × Miguel (cena travada DEC-030). Frase canônica de Miguel (DEC-038) verbatim. Sino do ângelus às 18h. Miguel não nomeado para Lara. Primeira rachadura na mentira interna de Lara. Parte 3 iniciada.
+Cap 14 entregue: ~2.330 palavras. **DEC-022 cumprida:** fragmento da promessa antiga (*"…ainda encontre quem o chame."*) plantado na margem do Antigo. Letra Fonte A (DEC-021), consistência mantida. Eco interno de Miguel (DEC-038). Lara fecha o capítulo carregando dois pesos sem conseguir ligá-los. Gancho verbatim de OUTLINE cumprido. Imagem S05 criada narrativamente. Parte 3 em andamento.
 
 ## Próximas ações
 
@@ -38,7 +38,8 @@ Cap 13 entregue: ~2.120 palavras. **Cena-pivô cumprida:** Lara × Miguel (cena 
 - [x] ~~Cap 11 — *Conversa de Carro*~~ ✓ rascunho 2026-05-14
 - [x] ~~Cap 12 — *Quem Senta no Banco de Lá*~~ ✓ rascunho 2026-05-14
 - [x] ~~**Cap 13 — *O Encontro Sob Garoa*** — Cena travada DEC-030/DEC-038 cumprida. Frase canônica verbatim. Sino do ângelus. ~2.120 palavras.~~ ✓ rascunho 2026-05-14
-- [ ] **Cap 14 — *O Eco do Que Foi Dito*** — fragmento da promessa antiga (DEC-022). Verificar biblia-continuidade-objetos.md + MAPA-PISTAS §3.
+- [x] ~~**Cap 14 — *O Eco do Que Foi Dito*** — DEC-022 cumprida. Fragmento verbatim. Eco de DEC-038. Letra Fonte A (DEC-021). ~2.330 palavras.~~ ✓ rascunho 2026-05-14
+- [ ] **Cap 15 — *Volta de Onde Não Saí*** — Jéssica volta com força. Cenário: Apartamento → bar → carro. Noite avançada, vento frio.
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 

@@ -18,6 +18,43 @@
 
 ---
 
+## Sessão 2026-05-14 — Escrita do Capítulo 14 — O Eco do Que Foi Dito
+
+### Objetivo
+Escrever o Capítulo 14 do Livro 1 (Lara): *O Eco do Que Foi Dito*. Função: revelar personagem (Lara processa o encontro com Miguel) + empurrar transformação. Cenário: Apartamento de Lara, noite, sem chuva. Personagens em cena: Lara (POV), Mel. Pista obrigatória: DEC-022 (fragmento da promessa antiga: *"…ainda encontre quem o chame."*).
+
+### Arquivos lidos (pré-escrita)
+- [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md) (DEC-001→039), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md)
+- [`books/livro-01-lara/OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md)
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-13.md`](books/livro-01-lara/capitulos/capitulo-13.md) (cap anterior — lido integralmente)
+- [`books/livro-01-lara/capitulos/capitulo-14.md`](books/livro-01-lara/capitulos/capitulo-14.md) (confirmado placeholder)
+- Bíblias: [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md) (§1–4), [`books/horarios/noite.md`](books/horarios/noite.md), [`books/clima/outono.md`](books/clima/outono.md)
+- Ficha: [`books/cenarios/apartamento-lara.md`](books/cenarios/apartamento-lara.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-14.md`](books/livro-01-lara/capitulos/capitulo-14.md) — rascunho escrito (~2.330 palavras). Substituiu placeholder.
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — status Cap 14: planejado → rascunho.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso (14/24), foco atual (Cap 15), próximas ações.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — décima sexta entrada adicionada.
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — §5.2 DEC-022 marcada como ✅ CUMPRIDA.
+- [`CHANGELOG.md`](CHANGELOG.md) (raiz) — entrada adicionada sobre Cap 14 escrito.
+- [`SESSION_LOG.md`](SESSION_LOG.md) (este arquivo) — sessão registrada.
+
+### Decisões tomadas / propostas
+Nenhuma decisão canônica nova. Todas as DEC aplicadas eram aprovadas. Pré-checagem aprovada antes da escrita.
+
+### Pistas efetivamente plantadas
+- **DEC-022 (CUMPRIDA):** *"…ainda encontre quem o chame."* — margem inferior do Antigo, letra Fonte A (DEC-021). Lara lê como nota isolada, tenta reconstruir o início, não consegue. Eco implícito com DEC-038 (palavra "chame" no mesmo lugar interno onde vive a frase de Miguel) — disponível para releitura.
+- **DEC-021 (3ª aparição consistente):** letra descrita como "antiga e firme", "caligrafia de quem havia escrito muito e por muito tempo". Mesma mão reconhecida por Lara sem precisar comparar. Sem identificação de autoria.
+
+### Pendências
+- Prompt completo da imagem **S05** (MAPA-ILUSTRACOES Etapa 2): cena narrativa criada (mão vai ao livro, livro abre, fragmento na margem inferior). Prompt pode ser refinado com contexto da cena. Não bloqueia próximos capítulos.
+- Cap 15 (*Volta de Onde Não Saí*) — próxima tarefa de escrita.
+
+---
+
 ## Sessão 2026-05-14 — Escrita do Capítulo 13 — O Encontro Sob Garoa (CENA-PIVÔ DO LIVRO)
 
 ### Objetivo

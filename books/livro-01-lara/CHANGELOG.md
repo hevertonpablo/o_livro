@@ -4,6 +4,79 @@
 
 ---
 
+## 2026-05-14 (décima sexta atualização) — Pós-escrita do capítulo 14 (O Eco do Que Foi Dito)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 14 — *O Eco do Que Foi Dito* — escrito em rascunho. ~2.330 palavras. POV de Lara, mesma noite do Cap 13 (~21h–22h), apartamento de Lara — sala, mesinha baixa. Noite seca, sem chuva (contraste com maioria dos capítulos anteriores). Função (DEC-014): **revelar personagem** (Lara processa o encontro com Miguel) + **empurrar transformação**. Lara retorna do parque, fica com o eco da frase de Miguel, abre o Antigo meio-involuntariamente e encontra, na margem inferior de uma página interna, o fragmento da promessa antiga (DEC-022). Tenta reconstruir o que vem antes do fragmento — não consegue. O capítulo termina com a dor específica da ausência de começo. Gancho verbatim de OUTLINE cumprido.
+
+### Personagens em cena
+- **Lara** (POV) — carrega a frase de Miguel do Cap 13 (*"Só ainda não teve coragem de voltar."*) como eco interno. Realiza atividade rotineira (cozinha, come de pé). Vai para a sala. A mão vai para o Antigo antes da cabeça decidir (eco DEC-018). Encontra o fragmento na margem inferior. Tenta reconstruir o início. Não consegue. Fecha o livro devagar. Não resolve. Carrega dois pesos sem ligá-los.
+- **Mel** — presença de rotina (ARCOS §2.3 ✓). Está na janela no início. Avalia o ambiente ao entrar na sala. Deita no tapete. Levanta a cabeça brevemente perto do final — verifica, decide que não há nada a fazer, volta ao descanso.
+- **Miguel** (não-presença, eco interno) — a frase de DEC-038 vive dentro de Lara durante todo o capítulo.
+
+### Mudança emocional (DEC-014 — revelar personagem + empurrar transformação)
+Lara sai do capítulo carregando dois pesos não ligados: a frase de Miguel e o fragmento da margem. O impacto não é de descoberta — é de ausência. A dor pela falta do início da frase ressoa com a dor de não ter um começo nomeado para si mesma. Estado de saída: confusão produtiva com mais peso. Algo foi instalado que não foi resolvido — a dor produtiva da incompletude. Primeira metade da promessa antiga (que ela não leu) permanece indisponível — eco disponível para releitura entre "perdido" (o que a frase assume antes das reticências) e DEC-027 ("O que está perdido ainda pode ser chamado." — reservada Cap 16).
+
+### Pistas efetivamente plantadas
+
+**DEC-022 — fragmento da promessa antiga — CUMPRIDA:**
+- Fragmento exato: *"…ainda encontre quem o chame."* — verbatim ✓
+- Localização: margem inferior de uma página interna do Antigo
+- Letra: Fonte A (DEC-021) — "antiga e firme", "caligrafia de quem havia escrito muito e por muito tempo" — consistência com Caps 8 e 9 mantida ✓
+- Comportamento de Lara: lê como nota isolada, tenta reconstruir o que vem antes, não consegue, não percebe que é fragmento de algo maior ✓
+- Narrador não comenta a estrutura como "fragmento de algo maior" ✓
+- Eco implícito: "chame" ressoa no mesmo lugar interno que carrega a frase de Miguel (disponível para releitura — JOG-002 ✓)
+
+**DEC-021 — letra das margens (Fonte A) — 3ª aparição:**
+- Descrita consistentemente: "antiga e firme", "caligrafia de quem havia escrito muito e por muito tempo", "firme por uma razão que ela não conhecia" ✓
+- Lara reconhece a mesma mão sem precisar comparar ✓
+- Sem identificação de autoria ✓
+
+**DEC-003 — Antigo não nomeado:**
+- Lara usa "o livro" ao longo do capítulo ✓
+- Evolução natural de "aquela coisa velha" (estabelecida em caps anteriores) ✓
+
+**DEC-018 — eco do talento:**
+- "A mão foi até a capa antes que a cabeça tivesse chegado em nenhuma conclusão" — eco do Cap 10 ✓
+
+**Eco estrutural disponível para releitura (não em Lara, para o leitor):**
+- A frase-âncora que virá no Cap 16 ("O que está *perdido* ainda pode ser *chamado*") ecoa retroativamente com: (a) o que precede o fragmento ("perdido" é o que falta), (b) a palavra "chame" que ressoa em Lara, (c) a frase de Miguel sobre "não está perdido" do Cap 13.
+
+### Objetos usados
+- **O Antigo** — cena central. Capa fria, áspera nas pontas. Três pontos quase apagados (DEC-024). Páginas finas, amareladas. Anotações nas margens (DEC-021). Lara abre onde o livro "escolhe".
+- **Mel** — presença de rotina, não objeto canônico mas personagem de continuidade.
+
+### Cenário
+Apartamento de Lara — sala, mesinha baixa, tapete. Corredor, cozinha. Janela (vista do teto do prédio da frente e fios elétricos). Luz do corredor entra na sala. Capa fria do Antigo. Luminária da cabeceira mencionada indiretamente. Tudo conforme ficha apartamento-lara.md ✓.
+
+### Período/Clima
+Noite (~21h–22h), sem chuva. Outono seco. *"A cidade estava seca."* — primeira linha do capítulo, contraste deliberado com caps anteriores. Asfalto sem reflexo, passos mais nítidos. Sons da cidade mais nítidos sem o ruído da chuva.
+
+### Versão de Elias
+NÃO APLICÁVEL — Elias ausente.
+
+### Aparição do Oculto
+NÃO APLICÁVEL — Oculto ausente neste capítulo. Próxima aparição: Cap 17.
+
+### Impactos na continuidade
+- **MAPA-PISTAS.md §5 (promessa antiga):** DEC-022 efetivamente plantada em L1, Cap 14. Marcar status como cumprida.
+- **CAPITULOS.md:** status Cap 14 atualizado (planejado → rascunho, data e observação preenchidas).
+- **STATUS.md:** progresso atualizado (14 de 24 capítulos, ~33.015 palavras), foco atualizado para Cap 15.
+- Nenhuma bíblia precisou ser alterada.
+
+### Pendências abertas
+- Prompt completo da imagem S05 (MAPA-ILUSTRACOES Etapa 2): a cena foi criada narrativamente (mão vai para o livro, livro abre, fragmento na margem inferior). O prompt da imagem pode agora ser refinado com o contexto da cena. Não bloqueia a escrita.
+
+### Arquivos alterados nesta sessão
+- `capitulos/capitulo-14.md` — criado (rascunho, substituiu placeholder)
+- `CAPITULOS.md` — status Cap 14: planejado → rascunho; data e obs. preenchidas
+- `STATUS.md` — contagem (14/24, ~33.015 palavras), foco atual (Cap 15) e próximas ações atualizados
+- `CHANGELOG.md` (este arquivo) — entrada adicionada
+
+---
+
 ## 2026-05-14 (décima quinta atualização) — Pós-escrita do capítulo 13 (CENA-PIVÔ — Lara × Miguel)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

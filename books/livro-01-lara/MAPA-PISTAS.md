@@ -119,9 +119,9 @@
 
 ### 5.2 Plantio no L1 — em fragmentos
 
-| Capítulo | Fragmento revelado | Forma | Quem percebe |
-|---|---|---|---|
-| 14 | *"…ainda encontre quem o chame."* | Anotação manuscrita na margem do Antigo, em letra antiga, sem início — o trecho começa no meio da frase | Lara, sem perceber que é fragmento de algo maior |
+| Capítulo | Fragmento revelado | Forma | Quem percebe | Status |
+|---|---|---|---|---|
+| 14 | *"…ainda encontre quem o chame."* | Anotação manuscrita na margem inferior do Antigo, em letra antiga, sem início — o trecho começa com reticências, no meio da frase | Lara, sem perceber que é fragmento de algo maior | ✅ **CUMPRIDA** (rascunho 2026-05-14) |
 
 > **Apenas um fragmento aparece em L1.** O segundo trecho (*"Que o que estiver perdido…"*) só aparece em L5 (na carta antiga encontrada por Helena). A frase completa só é percebida pelo leitor investigador a partir de L7 (Nina cruza fragmentos) e revelada parcialmente em L9 (Elias).
 
