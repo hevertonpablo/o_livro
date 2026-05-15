@@ -18,6 +18,46 @@
 
 ---
 
+## Sessão 2026-05-15 — Escrita do Capítulo 21 — A Mão Encosta
+
+### Objetivo
+Escrever o Capítulo 21 do Livro 1 (Lara): *A Mão Encosta*. Função: empurrar transformação — clímax interno. Cenário: apartamento de Lara. Horário: tarde. Clima: luz da janela. Personagens em cena: Lara (POV) e Mel. Ponto obrigatório: DEC-018 cumprida narrativamente por gesto mínimo de restauração no Antigo.
+
+### Arquivos lidos
+- [`AGENTS.md`](AGENTS.md), [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md), [`PROJECT_STATUS.md`](PROJECT_STATUS.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-01.md`](books/livro-01-lara/capitulos/capitulo-01.md) a [`capitulo-19.md`](books/livro-01-lara/capitulos/capitulo-19.md) — leitura de continuidade
+- [`books/livro-01-lara/capitulos/capitulo-18.md`](books/livro-01-lara/capitulos/capitulo-18.md), [`capitulo-19.md`](books/livro-01-lara/capitulos/capitulo-19.md) e [`capitulo-20.md`](books/livro-01-lara/capitulos/capitulo-20.md) — leitura integral/ponte
+- [`books/livro-01-lara/capitulos/capitulo-21.md`](books/livro-01-lara/capitulos/capitulo-21.md) — placeholder
+- Bíblias: [`books/biblia-continuidade.md`](books/biblia-continuidade.md), [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md), [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md), [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md), [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md), [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md), [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md), [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md), [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md), [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md)
+- Fichas: [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md), [`books/personagens/apoio/mel.md`](books/personagens/apoio/mel.md), [`books/cenarios/apartamento-lara.md`](books/cenarios/apartamento-lara.md), [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md), [`books/objetos/transitorios.md`](books/objetos/transitorios.md), [`books/horarios/tarde.md`](books/horarios/tarde.md), [`books/clima/outono.md`](books/clima/outono.md), [`books/clima/sol.md`](books/clima/sol.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-21.md`](books/livro-01-lara/capitulos/capitulo-21.md) — rascunho completo escrito (~2.577 palavras de prosa).
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — Cap 21 atualizado para `rascunho`.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado para 21/24 e foco para Cap 22.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada.
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — Cap 21 marcado como cumprimento efetivo do gesto restaurador.
+- [`books/livro-01-lara/MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md) — S07 marcada como cena escrita, prompt visual ainda pendente.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — marco geral atualizado para Cap 21 escrito.
+- [`SESSION_LOG.md`](SESSION_LOG.md) — esta entrada adicionada.
+
+### Decisões tomadas / propostas
+- Nenhuma decisão canônica nova.
+- Nenhuma alteração estrutural em OUTLINE, ARCOS, CAPITULOS, STATUS ou bíblias.
+
+### Pistas / continuidade
+- DEC-018 cumprida narrativamente: Lara toca o Antigo como restauradora.
+- O gesto é mínimo: alisa um vinco da capa e refaz um ponto da costura interna.
+- O livro não é consertado inteiro; um vinco fica menor e um ponto volta a segurar.
+- DEC-003 preservada: o Antigo não é nomeado por natureza proibida.
+- DEC-024 preservada: três pontos aparecem apenas como memória tátil, sem explicação.
+- S07 agora tem cena escrita para desenvolvimento visual.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura de `books/cenarios/apartamento-lara.md` sobre a visita de Jéssica; eventual atualização planejada da ficha do apartamento sobre a caixa de coisas guardadas, agora executada conforme OUTLINE.
+
 ## Sessão 2026-05-15 — Escrita do Capítulo 20 — Mel Olha de Volta
 
 ### Objetivo

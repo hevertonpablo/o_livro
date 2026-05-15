@@ -2,11 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1 a 20 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 completa (Caps 13–18). Parte 4 em andamento. Cap 20 entregue: **Mel como espelho de ternura preservada.** Lara alimenta Mel na manhã cinza após a crise e percebe que já cuidou de alguém sem precisar se perdoar primeiro.
+**Em escrita. Capítulos 1 a 21 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 completa (Caps 13–18). Parte 4 em andamento. Cap 21 entregue: **clímax interno da decisão moral.** Lara toca o Antigo como restauradora, alisa um vinco e refaz um ponto da costura interna sem consertar o livro inteiro.
 
-Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos restantes prontos para o Agente de Escrita: 21–24, sem bloqueios.**
+Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos restantes prontos para o Agente de Escrita: 22–24, sem bloqueios.**
 
 ## Última atualização
+
+2026-05-15 — Cap 21 escrito pelo Agente de Escrita. **Na tarde de luz filtrada no apartamento, Lara abre a caixa de ferramentas antigas e toca o Antigo como restauradora. A cola seca permanece inutilizada, mas a agulha, a linha e o papel fino sustentam o gesto: um vinco da capa fica menor e um ponto da costura interna é refeito. DEC-018 cumprida narrativamente. Gancho verbatim cumprido. ~2.577 palavras.**
 
 2026-05-15 — Cap 20 escrito pelo Agente de Escrita. **Na manhã cinza após o Cap 19, Lara acorda no chão do apartamento, alimenta Mel e percebe que o cuidado já existia nela antes de qualquer perdão completo. O Antigo permanece fechado, o telefone com mensagens de Jéssica fica mais longe, e a virada interna pequena é cumprida. Gancho verbatim cumprido. ~1.967 palavras.**
 
@@ -30,14 +32,14 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **20 de 24** — Caps 1 a 20 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280, ~3.062, ~2.531, ~3.557 e ~1.967 palavras respectivamente). Total: ~48.712 palavras (~75% do alvo).
+- **Capítulos escritos:** **21 de 24** — Caps 1 a 21 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280, ~3.062, ~2.531, ~3.557, ~1.967 e ~2.577 palavras respectivamente). Total: ~51.289 palavras (~79% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 21 — *A Mão Encosta* — clímax interno; Lara toca o Antigo como restauradora e faz um gesto mínimo de restauração.**
+**Escrever o Capítulo 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.* — Lara volta à cafeteria e abre uma conversa nova com Dona Cida.**
 
-Cap 20 entregue: ~1.967 palavras. Lara acorda na manhã cinza, alimenta Mel e percebe que cuidou dela sem precisar se perdoar primeiro. O Antigo segue fechado; Cap 21 deve cumprir a reativação prática do dom sem transformar Lara em curada.
+Cap 21 entregue: ~2.577 palavras. Lara reativa o dom de restauração em escala mínima: alisa um vinco da capa do Antigo e refaz um ponto da costura interna. O gesto cumpre DEC-018 sem transformar Lara em curada; Cap 22 deve levar essa mudança pequena para o espaço da cafeteria e para Dona Cida.
 
 ## Próximas ações
 
@@ -55,7 +57,8 @@ Cap 20 entregue: ~1.967 palavras. Lara acorda na manhã cinza, alimenta Mel e pe
 - [x] ~~**Cap 18 — *O Que a Pressão Pede*** — clímax da pressão de Jéssica; escolha por adiamento; telefone desligado; "ainda não" vira gesto. ~2.531 palavras.~~ ✓ rascunho 2026-05-15
 - [x] ~~**Cap 19 — *À Beira*** — Lara cancela corrida com Beto; volta ao apartamento e segura o Antigo sem abrir.~~ ✓ rascunho 2026-05-15
 - [x] ~~**Cap 20 — *Mel Olha de Volta*** — Mel como espelho; virada interna pequena.~~ ✓ rascunho 2026-05-15
-- [ ] **Cap 21 — *A Mão Encosta*** — clímax interno; gesto mínimo de restauração no Antigo.
+- [x] ~~**Cap 21 — *A Mão Encosta*** — clímax interno; gesto mínimo de restauração no Antigo.~~ ✓ rascunho 2026-05-15
+- [ ] **Cap 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.*** — Lara × Dona Cida; abertura nova na cafeteria.
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 

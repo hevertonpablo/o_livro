@@ -4,6 +4,40 @@
 
 ---
 
+## 2026-05-15 (vigésima terceira atualização) — Pós-escrita do capítulo 21 (A Mão Encosta)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 21 — *A Mão Encosta* — escrito em rascunho. ~2.577 palavras de prosa. POV de Lara. Cenário: apartamento de Lara. Horário: tarde. Clima: luz da janela, outono, sem antecipar a manhã limpa final. Função (DEC-014): **empurrar transformação** — clímax interno da decisão moral dos Caps 19–21. Gancho verbatim cumprido: *"O livro velho tinha um vinco a menos. Lara tinha algo a mais."*
+
+### Personagens em cena
+- **Lara** (POV) — tira da estante as ferramentas antigas, organiza agulha, linha, papel fino e cola seca, e toca o Antigo como restauradora pela primeira vez em muito tempo.
+- **Mel** — presença física realista; quase mexe no fio, depois se desloca para a janela. Funciona como continuidade do cuidado sem magia nem antropomorfização.
+
+### Mudança emocional
+Lara não fica curada e não resolve a vida antiga. A mudança é concreta e proporcional: ela passa de segurar/olhar/cuidar de Mel para restaurar um ponto pequeno no Antigo. O dom abandonado reaparece como responsabilidade, não euforia. A decisão moral da Parte 4 se cumpre como gesto de mão.
+
+### Pistas efetivamente plantadas
+- **DEC-018 cumprida narrativamente:** Lara age como restauradora e encadernadora, com gesto técnico deliberado.
+- **Gesto mínimo de restauração:** um vinco da capa é alisado parcialmente; um ponto da costura interna é refeito.
+- **Antigo não consertado inteiro:** permanece antigo, gasto e ferido em muitos outros lugares.
+- **DEC-024 preservada:** os três pontos aparecem apenas como memória tátil, sem explicação.
+- **Caixa/ferramentas antigas:** continuidade dos Caps 2, 5 e 10. A cola seca permanece inutilizada para preservar o estado já plantado; o trabalho se concentra em papel fino, linha e agulha.
+
+### Continuidade afetada
+- `capitulos/capitulo-21.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 21 atualizado para `rascunho`.
+- `STATUS.md`: progresso atualizado para 21/24; foco atualizado para Cap 22.
+- `MAPA-PISTAS.md`: entrada do Cap 21 marcada como cumprida em execução.
+- `MAPA-ILUSTRACOES.md`: S07 marcada como cena escrita, com orientação de prompt a desenvolver.
+- `PROJECT_STATUS.md`: marco geral atualizado para Cap 21 escrito.
+- `SESSION_LOG.md`: sessão registrada.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura da ficha `cenarios/apartamento-lara.md` sobre a visita de Jéssica; eventual atualização pelo Agente de Planejamento da ficha do apartamento sobre a caixa de coisas guardadas, agora executada em cena conforme OUTLINE.
+
 ## 2026-05-15 (vigésima segunda atualização) — Pós-escrita do capítulo 20 (Mel Olha de Volta)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

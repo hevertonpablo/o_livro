@@ -16,7 +16,7 @@
 | 10 | Lara faz pequeno gesto de restauradora — apoia palma sobre o livro, sente o vinco | Lara | Que ela ainda sabe esse trabalho | — |
 | 14 | Lara abre numa página aleatória; lê outro fragmento manuscrito | Lara | Que há mais de uma frase plantada | Conteúdo total |
 | 16 | Lara encontra a frase-âncora completa em outra margem (DEC-027) | Lara | Que o livro responde diretamente ao estado dela | — | **CUMPRIDA — rascunho 2026-05-14** |
-| 21 | Lara pega o livro **como restauradora**: alisa um vinco, refaz um ponto da costura interna | Lara | Que ela está reativando o dom | — |
+| 21 | Lara pega o livro **como restauradora**: alisa um vinco, refaz um ponto da costura interna. **CUMPRIDA — rascunho 2026-05-15:** um vinco fica menor; um ponto interno volta a segurar; o livro não é consertado inteiro. | Lara | Que ela está reativando o dom | — |
 | 24 | Lara segura o Antigo restaurado parcialmente; entende que a frase é sobre ela | Lara | Que algo se cumpriu — ainda que pequeno | Origem total do Antigo (Fase 2) |
 
 **Apelido canônico de Lara para o Antigo:** *"aquela coisa velha"*.
