@@ -4,6 +4,41 @@
 
 ---
 
+## 2026-05-15 (décima nona atualização) — Pós-escrita do capítulo 17 (O Banco Cheio)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 17 — *O Banco Cheio* — escrito em rascunho. ~3.062 palavras de prosa. POV de Lara. Cenário: parque — alameda principal, árvore antiga, banco da esquerda e banco do Oculto. Horário: final de tarde / cair da tarde, sem marcar 18h em ponto. Clima: garoa quase parando, outono, ar úmido, vento que muda de direção e cheiro de café. Função (DEC-014): **gerar cruzamento** (2ª fala do Personagem Oculto com Lara) + **empurrar transformação** (a pergunta do Cap 16 ganha uma forma menor: começar pequeno). Gancho verbatim cumprido: *"Lara saiu do parque com mais perguntas do que chegou. E não doía."*
+
+### Personagens em cena
+- **Lara** (POV) — leva o Antigo ao parque sem admitir que decidiu levá-lo. Carrega a frase-âncora do Cap 16 como pergunta, não como resposta. Diante da fala do Oculto, tenta se defender (*"Não é a mesma coisa"*), admite que não sabe cuidar de si e recebe uma direção mínima: começar pequeno. Volta para casa olhando as próprias mãos sem acusação nem confiança plena.
+- **Personagem Oculto** — aparece no banco da direita, com casaco cinza-chumbo gasto e caderno pequeno aberto, parado, sem anotar. Fecha o caderno antes de falar. Diz a segunda fala canônica do L1. Não explica, não insiste, não revela nada. Some quando Lara vira para agradecer, deixando o banco vazio com o caderno aberto e uma dobra cinza ambígua.
+- **Mel** — presença de continuidade na abertura e no retorno. Sem simbolismo mágico; reforça o eixo de cuidado pequeno.
+
+### Mudança emocional
+Lara não sai curada nem decidida. A mudança é menor e mais adequada ao ponto do arco: a frase do Cap 16 (*"O que está perdido ainda pode ser chamado"*) deixa de ser só pergunta e ganha um primeiro contorno de gesto possível. O Oculto não soluciona a crise; ele desloca a atenção de Lara para o cuidado em escala mínima. Isso prepara os Caps 19–21 sem antecipar o clímax interno.
+
+### Pistas efetivamente plantadas
+- **Segunda fala canônica do Oculto (MAPA-PISTAS §4.2):** CUMPRIDA VERBATIM. *"O que você tem nas mãos não é o livro. É a ideia de que o livro pode ser cuidado. Cuide assim de você também."*
+- **Caderno pequeno do Oculto:** CUMPRIDO. Aberto, parado, sem anotar; conteúdo não mostrado; reaparece como rastro no banco vazio, sem texto legível.
+- **Casaco cinza-chumbo gasto (DEC-023):** CUMPRIDO. Descrito em variação canônica de percepção (*cinza de chuva antiga*). No final, a dobra cinza no banco preserva ambiguidade: pode ser casaco, sombra ou tecido.
+- **Aparecer-e-sumir (DEC-004):** CUMPRIDO. Lara vira para agradecer e o banco está vazio, sem explicação.
+- **Camada dupla DEC-018:** CUMPRIDA. O cuidado com o livro aponta para o cuidado de Lara consigo mesma. O gesto completo de restauração permanece reservado para o Cap 21.
+- **Eco DEC-027 / DEC-038:** a palavra "perdido" aparece como eco interno, sem decodificação por Lara.
+
+### Continuidade afetada
+- `capitulos/capitulo-17.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 17 atualizado para `rascunho`; observação antiga de pendência removida.
+- `STATUS.md`: progresso atualizado para 17/24; foco atualizado para Cap 18.
+- `MAPA-PISTAS.md`: Cap 17 / segunda fala marcada como cumprida.
+- `MAPA-ILUSTRACOES.md`: M04 marcada como cena escrita; prompt visual a desenvolver.
+- `SESSION_LOG.md` e `PROJECT_STATUS.md`: registrar sessão/marco conforme `AGENTS.md`.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências anteriores não bloqueantes: ficha mínima de Tati; clarificação futura da ficha do apartamento sobre a visita de Jéssica.
+
 ## 2026-05-14 (décima oitava atualização) — Pós-escrita do capítulo 16 (3h16, Outra Vez)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

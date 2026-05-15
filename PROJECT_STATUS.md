@@ -2,13 +2,13 @@
 
 > Estado atual do projeto. Atualizado a cada marco significativo.
 
-**Última atualização:** 2026-05-09 (rodada 2 — todas as 36 DECs aprovadas).
+**Última atualização:** 2026-05-15 (Livro 1 — Lara, Capítulo 17 escrito).
 
 ---
 
 ## Estado atual
 
-> **Fase:** Planejamento concluído — **pronto para iniciar a escrita do Livro 1**.
+> **Fase:** Livro 1 — Lara em escrita. **17 de 24 capítulos em rascunho.**
 
 A documentação técnica está **completa**. O autor tem em mãos: PRD literário oficial, sistema de **14 bíblias técnicas**, fichas individuais para personagens, cenários, lugares, clima, horários, objetos, transporte, e estrutura operacional para agents.
 
@@ -18,7 +18,7 @@ A documentação técnica está **completa**. O autor tem em mãos: PRD literár
 3. **Nova entidade canônica** — Primeira Guardiã (anterior a Elias e a Matusalém; nunca confirmada na Fase 1).
 4. **Nova frase canônica** — promessa antiga (DEC-022): *"Que o que estiver perdido ainda encontre quem o chame; e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
 
-**Foco agora:** criar a pasta `livros/livro-01-lara/` e iniciar o Outline detalhado dos 24 capítulos.
+**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 18, *O Que a Pressão Pede*.
 
 ---
 

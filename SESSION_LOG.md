@@ -18,6 +18,36 @@
 
 ---
 
+## Sessão 2026-05-15 — Escrita do Capítulo 17 — O Banco Cheio
+
+### Objetivo
+Escrever o Capítulo 17 do Livro 1 (Lara): *O Banco Cheio*. Função: empurrar transformação + gerar cruzamento. Cenário: parque, final de tarde, garoa quase parando. Personagens em cena: Lara (POV) e Personagem Oculto. Pista obrigatória: 2ª fala canônica do Oculto com Lara, caderno aberto sem anotar, banco vazio e rastro visual M04.
+
+### Arquivos lidos
+- [`AGENTS.md`](AGENTS.md), [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md), [`PROJECT_STATUS.md`](PROJECT_STATUS.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-01.md`](books/livro-01-lara/capitulos/capitulo-01.md) a [`capitulo-15.md`](books/livro-01-lara/capitulos/capitulo-15.md) — leitura de continuidade
+- [`books/livro-01-lara/capitulos/capitulo-16.md`](books/livro-01-lara/capitulos/capitulo-16.md) — leitura integral
+- Bíblias: [`books/biblia-continuidade.md`](books/biblia-continuidade.md), [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md), [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md), [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md), [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md), [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md), [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md), [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md), [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md), [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md), [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md)
+- Fichas: [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md), [`books/personagens/recorrentes/personagem-oculto.md`](books/personagens/recorrentes/personagem-oculto.md), [`books/personagens/apoio/mel.md`](books/personagens/apoio/mel.md), [`books/cenarios/parque.md`](books/cenarios/parque.md), [`books/horarios/entardecer.md`](books/horarios/entardecer.md), [`books/clima/outono.md`](books/clima/outono.md), [`books/clima/chuva.md`](books/clima/chuva.md), [`books/clima/vento.md`](books/clima/vento.md), [`books/clima/nublado-frente-fria.md`](books/clima/nublado-frente-fria.md), [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md), [`books/objetos/simbolicos/caderno-do-oculto.md`](books/objetos/simbolicos/caderno-do-oculto.md), [`books/objetos/simbolicos/casaco-do-oculto.md`](books/objetos/simbolicos/casaco-do-oculto.md), [`books/objetos/cenario/banco-do-oculto.md`](books/objetos/cenario/banco-do-oculto.md), [`books/objetos/cenario/arvore-antiga.md`](books/objetos/cenario/arvore-antiga.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-17.md`](books/livro-01-lara/capitulos/capitulo-17.md) — rascunho completo escrito (~3.062 palavras de prosa).
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — Cap 17 atualizado para `rascunho`.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado para 17/24 e foco para Cap 18.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada.
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — segunda fala do Oculto marcada como cumprida.
+- [`books/livro-01-lara/MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md) — M04 marcada como cena escrita.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — marco do Cap 17 registrado.
+- [`SESSION_LOG.md`](SESSION_LOG.md) — sessão registrada.
+
+### Decisões tomadas / propostas
+Nenhuma decisão canônica nova. Conflito menor resolvido por hierarquia operacional: `CAPITULOS.md`/`STATUS.md` ainda diziam que a fala do Cap 17 estava pendente, mas `MAPA-PISTAS.md`, `OUTLINE.md` e o placeholder já fixavam a fala; os controles foram atualizados.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências anteriores não bloqueantes: ficha mínima de Tati; clarificação futura da ficha do apartamento sobre a visita de Jéssica.
+
 ## Sessão 2026-05-14 — Escrita do Capítulo 14 — O Eco do Que Foi Dito
 
 ### Objetivo

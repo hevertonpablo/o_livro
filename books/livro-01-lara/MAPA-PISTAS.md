@@ -78,7 +78,7 @@
 |---|---|---|---|
 | 4 | À distância — Lara o vê do outro lado do parque, no banco. Trocam olhares de leve. | Senhor calmo, casaco cinza-chumbo gasto. Lara não sabe nome, não fala com ele. | Estranheza tranquila — *"Por que olhei pra ele?"* |
 | 12 | Primeira fala com Lara | Senhor que diz frase canônica e desaparece quando Lara olha pra trás | Frase ecoa por dentro |
-| 17 | Segunda fala — Lara senta em banco próximo. Ele está com **caderno pequeno aberto** (DEC-026/031). Fala curto. Quando ela vira pra agradecer, banco vazio. | Senhor que aparece e some sem ruído | Lara sai do parque com mais perguntas do que chegou — e não dói |
+| 17 | Segunda fala — Lara senta em banco próximo. Ele está com **caderno pequeno aberto** (DEC-026/031). Fala curto. Quando ela vira pra agradecer, banco vazio. **CUMPRIDA — rascunho 2026-05-15.** | Senhor que aparece e some sem ruído | Lara sai do parque com mais perguntas do que chegou — e não dói |
 | 24 | Eco — banco vazio no encosto com **folha caída** sobre o lugar onde ele costumava sentar | Marca de quem esteve sem ser visto | Assinatura silenciosa — gancho para L2 |
 
 ### 4.1 Frase canônica do Personagem Oculto para Lara (Cap 12)
@@ -87,7 +87,7 @@
 
 (Frase canônica registrada na ficha do Personagem Oculto e na bíblia §7. **Não alterar.** Pode ter pequenos ajustes de pontuação na escrita final, mas o conteúdo é fixo.)
 
-### 4.2 Segunda fala canônica do Personagem Oculto para Lara (Cap 17) ✓ **fixada**
+### 4.2 Segunda fala canônica do Personagem Oculto para Lara (Cap 17) ✓ **fixada e cumprida**
 
 > *"O que você tem nas mãos não é o livro. É a ideia de que o livro pode ser cuidado. Cuide assim de você também."*
 
@@ -96,6 +96,7 @@
 - Aparição com casaco cinza-chumbo (DEC-023).
 - Quando Lara vira pra agradecer, banco vazio (canon DEC-004).
 - A frase tem **camada dupla**: cuidar do livro = cuidar de si — eco direto com o talento de Lara (DEC-018).
+- **Status:** CUMPRIDA no rascunho do Cap 17 (2026-05-15). Forma efetiva: Lara leva o Antigo ao parque; o Oculto fecha o caderno antes de falar; Lara se levanta por defesa, ouve a frase inteira, admite "Eu não sei fazer isso" e recebe a direção mínima "Então começa pequeno". Banco vazio + caderno aberto + dobra cinza ambígua plantam o rastro visual.
 
 **Não é DEC global** — é detalhe canônico do L1, registrado aqui e na ficha do Personagem Oculto se necessário.
 
