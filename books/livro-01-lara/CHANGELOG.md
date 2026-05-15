@@ -4,6 +4,69 @@
 
 ---
 
+## 2026-05-15 (décima sétima atualização) — Pós-escrita do capítulo 15 (Volta de Onde Não Saí)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 15 — *Volta de Onde Não Saí* — escrito em rascunho. ~2.300 palavras. POV de Lara. Cenário: Apartamento → bar (sobrado antigo, andar de baixo, mesmo do Cap 6) → calçada / carro. Noite avançada, vento frio. Função (DEC-014): **aumentar conflito** (Jéssica volta em modo FORTE — cobra presença e menciona pessoas do passado de Lara) + **revelar personagem** (Lara quase cede inteiramente — chega até a maçaneta do carro antes de dizer não). Gancho verbatim do OUTLINE cumprido: *"O 'ainda não' estava ficando mais fino. E Lara sabia."*
+
+### Personagens em cena
+- **Lara** (POV) — carrega os dois pesos do Cap 14 (frase de Miguel + fragmento da margem). Cede ao impulso de ir. No bar, encontra Tati — reconhecimento silencioso e pesado. Na calçada, chega até a maçaneta do carro antes de tirar a mão. Sai de novo — mas desta vez o "ainda não" foi mais longe e mais fino do que no Cap 6.
+- **Jéssica** — modo FORTE. Cobra presença ("Você sumiu de novo. Eu falei pra não sumir."). Menciona pessoas do passado de Lara (Tati, Marquinho, Pri). Ao final, nomeia a verdade torta pela janela do carro: *"Eu to cansada de ficar te chamando de volta de onde você nunca saiu, Lara."* Não é vilã — também está perdida (ARCOS §2.6 + TON-003 ✓). Ficha emocional mantida: "Sente o vazio, mas tem medo do silêncio que vem quando para de fugir."
+- **Marquinho** — figurante estabelecido no Cap 6. Presente no bar e com o carro.
+- **Pri** — figurante estabelecida no Cap 6. Presente no bar. Uma fala direta com Lara ("Tô de verdade ou tô tipo resposta automática?").
+- **Tati** — novo figurante. Conhecida de Lara de "alguma fase anterior". Reconhecimento mútuo silencioso — sem afeto, com peso. Sabe quem Lara era quando era "outra coisa". "Conta aberta que não vai ser cobrada agora." Sem decodificação (JOG-002 ✓).
+- **Mel** — presença de abertura (cabeceira) e corredor (posição de gato que avalia visitante indesejado).
+
+### Mudança emocional (DEC-014 — aumentar conflito + revelar personagem)
+Lara sai do capítulo com o "ainda não" mais fino do que em qualquer capítulo anterior. No Cap 6 ficou 33 minutos no bar e voltou. Aqui chegou até a maçaneta do carro — a escolha foi real, não simbólica nem automática. A recaída não é colapso — é adiamento (TRA-001 ✓). A transformação não resolve: o capítulo termina com Lara sabendo que está mais próxima de ceder e que ela mesma sabe disso.
+
+### Pistas efetivamente plantadas
+- **Jéssica como força gravitacional do passado — modo FORTE:** CUMPRIDA. Continuidade verbal canônica com Cap 6 ("Você sumiu de novo. Eu falei pra não sumir.") ✓. Jéssica dimensional (TON-003) ✓. Frase de saída pela janela do carro: *"Eu to cansada de ficar te chamando de volta de onde você nunca saiu, Lara."* — prepara Cap 18 (clímax da pressão).
+- **Tati (novo figurante):** Introduzida como presença do passado de Lara sem explicar o quê. Sem decodificação (JOG-002 ✓). Proposta de ficha mínima aberta (ver Pendências).
+- **"Ainda não" afinando:** CUMPRIDO. Gancho verbatim (OUTLINE §6): *"O 'ainda não' estava ficando mais fino. E Lara sabia."* ✓
+- **Pesos do Cap 14 vivos:** Frase de Miguel + fragmento da margem presentes no momento da maçaneta. Sem resolução, sem decodificação (JOG-002 ✓).
+- **Antigo:** presença visual passageira no apartamento (Jéssica passa os olhos nele por menos de um segundo). Sem interação ativa. Sem nome (DEC-003 ✓).
+
+### Objetos usados
+- Antigo: presença visual passageira (sobre a mesinha baixa — Jéssica passa sem comentar). Sem interação ativa. DEC-003 ✓.
+- Maçaneta do carro gelada: objeto físico que ancora a hesitação — temperatura como elemento narrativo (frio seco noturno, frio-seco.md §2.2 ✓).
+- Copo do bar (sem marca, sem nome — DEC-011 ✓).
+
+### Cenário
+- Apartamento de Lara (abertura): janela fechada há três dias, cheiro de fechado, livro sobre mesinha baixa, Mel na cabeceira. Conforme ficha apartamento-lara.md ✓.
+- Bar do andar de baixo (sobrado antigo, escada estreita, paredes úmidas, luz amarela, relógio redondo atrás do balcão): consistente com Cap 6, referenciado como "bar de sempre" sem nomear ✓.
+- Calçada fria: exterior noturno onde o clímax acontece. Asfalto seco, recorte de céu entre prédios, vento cortante.
+
+### Período/Clima
+Noite avançada (~21h → quase meia-noite). Vento frio / frio seco noturno. Vento: vento.md §2.5 "vento gelado" = lucidez dolorida ✓. Frio seco noturno: frio-seco.md §2.2 = revelação dolorida ✓. Ambos aplicados no momento da maçaneta.
+
+### Versão de Elias
+NÃO APLICÁVEL — Cap 15 não contém cena de Elias.
+
+### Aparição do Oculto
+NÃO APLICÁVEL — Oculto ausente. Próxima aparição: Cap 17 (canon MAPA-PISTAS §6).
+
+### Impactos na continuidade
+- **CAPITULOS.md:** status Cap 15 atualizado (planejado → rascunho, data e observação preenchidas) ✓
+- **STATUS.md:** progresso atualizado (15 de 24 capítulos, ~35.315 palavras), foco atualizado para Cap 16 ✓
+- **MAPA-PISTAS.md:** nenhuma alteração necessária (nenhuma pista nova plantada).
+- **MAPA-ILUSTRACOES.md:** nenhuma alteração (Cap 15 sem imagem — canon).
+- Nenhuma bíblia precisou ser alterada.
+
+### Pendências abertas
+- **PROPOSTA (aguarda validação humana):** criar ficha mínima para Tati (personagens/apoio/) como figurante do círculo de Jéssica, com conexão ao passado de Lara. Não é decisão canônica ainda.
+- **NOTA sobre cenarios/apartamento-lara.md:** a ficha diz *"Jéssica entra uma vez. Sai sem se sentar."* — a nota refere-se à PRIMEIRA visita (Cap 6). No Cap 15, Jéssica senta e tira o casaco (segunda visita). **Proposta:** clarificar na ficha que a nota descreve o Cap 6 especificamente, não regra permanente. Validação humana recomendada antes de alterar.
+
+### Arquivos alterados nesta sessão
+- `capitulos/capitulo-15.md` — criado (rascunho, substituiu placeholder)
+- `CAPITULOS.md` — status Cap 15: planejado → rascunho; data e obs. preenchidas ✓
+- `STATUS.md` — contagem (15/24, ~35.315 palavras), foco atual (Cap 16) e próximas ações atualizados ✓
+- `CHANGELOG.md` (este arquivo) — entrada adicionada ✓
+
+---
+
 ## 2026-05-14 (décima sexta atualização) — Pós-escrita do capítulo 14 (O Eco do Que Foi Dito)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
