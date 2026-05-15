@@ -4,6 +4,41 @@
 
 ---
 
+## 2026-05-15 (vigésima segunda atualização) — Pós-escrita do capítulo 20 (Mel Olha de Volta)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 20 — *Mel Olha de Volta* — escrito em rascunho. ~1.967 palavras de prosa. POV de Lara. Cenário: apartamento de Lara. Horário: manhã. Clima: luz cinza pós-chuva, ainda opaca. Função (DEC-014): **revelar personagem** (Lara reconhece, por Mel, uma ternura preservada) + **empurrar transformação** (cuidado pequeno sem exigir perdão completo). Gancho verbatim cumprido: *"Lara percebeu que tinha cuidado de Mel sem precisar se perdoar primeiro."*
+
+### Personagens em cena
+- **Lara** (POV) — acorda no chão após a madrugada do Cap 19, ainda vulnerável e cansada. Alimenta Mel, afasta o telefone sem abrir as mensagens de Jéssica e percebe que o cuidado já existia nela antes de qualquer cura.
+- **Mel** — presença física realista. Sobe na mesinha, come, observa e volta ao próprio lugar. Funciona como espelho de cuidado sem mágica nem antropomorfização.
+- **Jéssica** — ausente em cena; aparece apenas como nome nas mensagens não abertas.
+
+### Mudança emocional
+Lara não fica curada, não se perdoa plenamente e não encerra o risco de recaída. A mudança é mínima e concreta: ela reconhece que já conseguiu cuidar de Mel antes de se sentir digna ou pronta. Isso desloca a decisão moral dos Caps 19–21 para o eixo do cuidado possível, preparando o gesto técnico de restauração do Cap 21.
+
+### Pistas efetivamente plantadas
+- **Mel como ternura preservada:** cumprida. O cuidado aparece em pratinho, ração, repetição cotidiana e memória fragmentada do resgate, sem transformar Mel em símbolo mágico.
+- **Virada interna pequena:** cumprida. Frase efetiva na prosa: *"Foi possível cuidar de uma coisa, antes. Talvez ainda fosse."*
+- **Gancho do OUTLINE:** cumprido verbatim.
+- **Antigo fechado:** mantido. O objeto permanece na mesinha sem abertura, leitura ou restauração.
+- **Telefone mais longe:** Lara coloca o aparelho na prateleira alta sem abrir mensagens, reforçando limite pequeno e não definitivo.
+
+### Continuidade afetada
+- `capitulos/capitulo-20.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 20 atualizado para `rascunho`.
+- `STATUS.md`: progresso atualizado para 20/24; foco atualizado para Cap 21.
+- `PROJECT_STATUS.md`: marco geral atualizado para Cap 20 escrito.
+- `SESSION_LOG.md`: sessão registrada.
+- `MAPA-PISTAS.md`: sem alteração necessária; execução conforme planejado, sem nova pista formal.
+- `MAPA-ILUSTRACOES.md`: sem alteração; Cap 20 permanece sem imagem associada.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura da ficha `cenarios/apartamento-lara.md` sobre a entrada de Jéssica no Cap 15.
+
 ## 2026-05-15 (vigésima primeira atualização) — Pós-escrita do capítulo 19 (À Beira)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
