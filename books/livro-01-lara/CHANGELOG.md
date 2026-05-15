@@ -4,6 +4,42 @@
 
 ---
 
+## 2026-05-15 (vigésima primeira atualização) — Pós-escrita do capítulo 19 (À Beira)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 19 — *À Beira* — escrito em rascunho. ~3.557 palavras de prosa. POV de Lara. Cenário: apartamento de Lara. Horário: madrugada. Clima: chuva diminuindo após a crise do Cap 18. Função (DEC-014): **revelar personagem** (Lara diante do próprio limite sem discurso heroico) + **empurrar transformação** (cancelamento da corrida com Beto e contato com o Antigo fechado). Gancho verbatim cumprido: *"O peso do livro na mão era diferente do peso do livro na bolsa."*
+
+### Personagens em cena
+- **Lara** (POV) — retorna molhada ao apartamento após virar à esquerda no Cap 18. Não se declara curada nem decidida; transforma a escolha em gestos pequenos: entra, não corrige os sapatos desalinhados, liga para Beto e cancela a corrida.
+- **Mel** — presença física e realista no apartamento. Observa, se aproxima, toca o joelho de Lara e reforça o eixo do cuidado sem simbolismo mágico.
+- **Beto** (por telefone) — aceita o cancelamento sem pedir explicação. Reforça seu papel canônico de apoio que escuta sem invadir.
+- **Jéssica** — citada apenas como eco recente da crise e como possível notificação no telefone, sem nova cena.
+
+### Mudança emocional
+Lara não resolve a recaída nem encerra o risco. A mudança é mínima e concreta: o "ainda não" do Cap 18 vira uma interrupção mais ativa. Ela cancela um caminho antes de segui-lo e segura o Antigo sem tentar extrair resposta. O capítulo desloca a transformação do exterior da rua para o interior do apartamento, preparando os Caps 20–21.
+
+### Pistas efetivamente plantadas
+- **Consolidação do gesto de escolher:** cumprida. A escolha aparece como ação pequena, não como fala de superação.
+- **Corrida com Beto cancelada:** cumprida. Lara liga e diz que ele não precisa vir, sem explicar para onde iria.
+- **Antigo fechado:** cumprido. Lara pega, sente a capa e os três pontos, mas não abre, não lê e não restaura.
+- **Mãos de Lara:** reforço do arco DEC-018. As mãos voltam a aparecer como lugar de culpa, memória técnica e possível cuidado, sem antecipar o gesto restaurador do Cap 21.
+- **Gancho do OUTLINE:** cumprido verbatim.
+
+### Continuidade afetada
+- `capitulos/capitulo-19.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 19 atualizado para `rascunho`.
+- `STATUS.md`: progresso atualizado para 19/24; Parte 4 iniciada; foco atualizado para Cap 20.
+- `PROJECT_STATUS.md`: marco geral atualizado para Cap 19 escrito.
+- `SESSION_LOG.md`: sessão registrada.
+- `MAPA-PISTAS.md`: sem alteração necessária; execução conforme planejado, sem nova pista formal.
+- `MAPA-ILUSTRACOES.md`: sem alteração; P04 segue como abertura da Parte 4, sem imagem dedicada exclusiva ao capítulo.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura da ficha `cenarios/apartamento-lara.md` sobre a entrada de Jéssica no Cap 15.
+
 ## 2026-05-15 (vigésima atualização) — Pós-escrita do capítulo 18 (O Que a Pressão Pede)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

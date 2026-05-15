@@ -2,13 +2,13 @@
 
 > Estado atual do projeto. Atualizado a cada marco significativo.
 
-**Última atualização:** 2026-05-15 (Livro 1 — Lara, Capítulo 18 escrito).
+**Última atualização:** 2026-05-15 (Livro 1 — Lara, Capítulo 19 escrito).
 
 ---
 
 ## Estado atual
 
-> **Fase:** Livro 1 — Lara em escrita. **18 de 24 capítulos em rascunho.**
+> **Fase:** Livro 1 — Lara em escrita. **19 de 24 capítulos em rascunho.**
 
 A documentação técnica está **completa**. O autor tem em mãos: PRD literário oficial, sistema de **14 bíblias técnicas**, fichas individuais para personagens, cenários, lugares, clima, horários, objetos, transporte, e estrutura operacional para agents.
 
@@ -18,7 +18,7 @@ A documentação técnica está **completa**. O autor tem em mãos: PRD literár
 3. **Nova entidade canônica** — Primeira Guardiã (anterior a Elias e a Matusalém; nunca confirmada na Fase 1).
 4. **Nova frase canônica** — promessa antiga (DEC-022): *"Que o que estiver perdido ainda encontre quem o chame; e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
 
-**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 19, *À Beira*.
+**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 20, *Mel Olha de Volta*.
 
 ---
 
@@ -135,7 +135,8 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 4. ~~Definir arco emocional de Lara ancorado em DEC-018 e DEC-024~~ ✓.
 5. ~~Mapear pistas plantadas no L1~~ ✓.
 6. ~~Decidir DEC-020 (profissão de Clara)~~ ✓ **aprovado em 2026-05-09**.
-7. **Escrever o Capítulo 19 — *À Beira*** seguindo todas as bíblias e a ponte emocional do Cap 18.
+7. ~~Escrever o Capítulo 19 — *À Beira*~~ ✓ **completo em 2026-05-15**.
+8. **Escrever o Capítulo 20 — *Mel Olha de Volta*** seguindo todas as bíblias e a continuidade emocional do Cap 19.
 
 ---
 
@@ -150,7 +151,7 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 | **Decisões aprovadas (DEC-XXX)** | **37 / 37** ✓ |
 | Decisões ainda em aberto | 0 (numeradas) |
 | **Total de arquivos canônicos** | **~129** |
-| Capítulos escritos | 18 |
+| Capítulos escritos | 19 |
 | Livros em rascunho | 1 |
 
 ---
@@ -170,4 +171,4 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 ## Última sessão de trabalho
 
 **Data:** 2026-05-15.
-**Atividade:** Escrita do Livro 1 — Lara, Capítulo 18 (*O Que a Pressão Pede*). Clímax da pressão de Jéssica por telefone; Lara desce para a chuva, não responde sim nem não, desliga e transforma o "ainda não" em gesto. Parte 3 completa (18/24 capítulos em rascunho). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.
+**Atividade:** Escrita do Livro 1 — Lara, Capítulo 19 (*À Beira*). Lara retorna ao apartamento na madrugada, cancela a corrida com Beto sem explicar e segura o Antigo fechado. Parte 4 iniciada (19/24 capítulos em rascunho). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.

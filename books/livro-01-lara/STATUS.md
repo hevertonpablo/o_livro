@@ -2,11 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1 a 18 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 completa (Caps 13–18). Cap 18 entregue: **clímax da pressão de Jéssica e escolha por adiamento.** Lara desce para a chuva, não responde sim nem não, desliga o telefone e transforma o "ainda não" em gesto, preparando a decisão dos Caps 19–21.
+**Em escrita. Capítulos 1 a 19 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 completa (Caps 13–18). Parte 4 iniciada. Cap 19 entregue: **primeiro gesto concreto da decisão moral.** Lara volta da chuva, cancela a corrida com Beto sem explicar e segura o Antigo fechado, sem abrir nem transformar o gesto em cura.
 
 Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 11–24, sem bloqueios.**
 
 ## Última atualização
+
+2026-05-15 — Cap 19 escrito pelo Agente de Escrita. **Lara retorna ao apartamento na madrugada, com a chuva diminuindo. Cancela a corrida com Beto sem explicar, recebe dele uma escuta sem invasão e segura o Antigo fechado. Não abre, não lê e não restaura. Gancho verbatim cumprido. ~3.557 palavras.**
 
 2026-05-15 — Cap 18 escrito pelo Agente de Escrita. **Jéssica pressiona Lara por telefone: há alguém esperando, "vai/não vai?". Em noite alta, sob chuva intensa, Lara desce, sai para a rua e chega ao ponto físico de escolha. Não responde sim nem não. Desliga. O "ainda não" vira gesto. Gancho verbatim cumprido. ~2.531 palavras.**
 
@@ -26,14 +28,14 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **18 de 24** — Caps 1 a 18 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280, ~3.062 e ~2.531 palavras respectivamente). Total: ~43.188 palavras (~66% do alvo).
+- **Capítulos escritos:** **19 de 24** — Caps 1 a 19 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280, ~3.062, ~2.531 e ~3.557 palavras respectivamente). Total: ~46.745 palavras (~72% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 19 — *À Beira* — madrugada após a crise; Lara volta ao apartamento, cancela uma corrida com Beto e segura o Antigo sem abrir.**
+**Escrever o Capítulo 20 — *Mel Olha de Volta* — manhã após a madrugada; Mel como espelho e virada interna pequena de Lara.**
 
-Cap 18 entregue: ~2.531 palavras. Pressão de Jéssica por telefone, chuva intensa, escolha por adiamento e gancho verbatim cumpridos. Parte 3 encerrada; Parte 4 começa no Cap 19.
+Cap 19 entregue: ~3.557 palavras. Lara volta ao apartamento, cancela a corrida com Beto sem explicar e segura o Antigo fechado. Parte 4 iniciada; Cap 20 aprofunda Mel como espelho de cuidado.
 
 ## Próximas ações
 
@@ -49,7 +51,8 @@ Cap 18 entregue: ~2.531 palavras. Pressão de Jéssica por telefone, chuva inten
 - [x] ~~**Cap 16 — *3h16, Outra Vez*** — Frase-âncora canônica (DEC-027) + 3h16 (DEC-029) + quarta leitura letra margens (DEC-021). ~2.280 palavras.~~ ✓ rascunho 2026-05-14
 - [x] ~~**Cap 17 — *O Banco Cheio*** — 2ª fala do Oculto verbatim; caderno aberto; banco vazio; rastro M04; "começa pequeno". ~3.062 palavras.~~ ✓ rascunho 2026-05-15
 - [x] ~~**Cap 18 — *O Que a Pressão Pede*** — clímax da pressão de Jéssica; escolha por adiamento; telefone desligado; "ainda não" vira gesto. ~2.531 palavras.~~ ✓ rascunho 2026-05-15
-- [ ] **Cap 19 — *À Beira*** — Lara cancela corrida com Beto; volta ao apartamento e segura o Antigo sem abrir.
+- [x] ~~**Cap 19 — *À Beira*** — Lara cancela corrida com Beto; volta ao apartamento e segura o Antigo sem abrir.~~ ✓ rascunho 2026-05-15
+- [ ] **Cap 20 — *Mel Olha de Volta*** — Mel como espelho; virada interna pequena.
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 

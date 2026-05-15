@@ -18,6 +18,42 @@
 
 ---
 
+## Sessão 2026-05-15 — Escrita do Capítulo 19 — À Beira
+
+### Objetivo
+Escrever o Capítulo 19 do Livro 1 (Lara): *À Beira*. Função: revelar personagem + empurrar transformação. Cenário: apartamento de Lara. Horário: madrugada. Clima: chuva diminuindo. Personagens em cena: Lara (POV), Mel e Beto por telefone. Pontos obrigatórios: Lara volta da crise do Cap 18, cancela uma corrida com Beto sem explicação e segura o Antigo fechado, sem abrir.
+
+### Arquivos lidos
+- [`AGENTS.md`](AGENTS.md), [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md), [`PROJECT_STATUS.md`](PROJECT_STATUS.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-01.md`](books/livro-01-lara/capitulos/capitulo-01.md) a [`capitulo-17.md`](books/livro-01-lara/capitulos/capitulo-17.md) — leitura de continuidade
+- [`books/livro-01-lara/capitulos/capitulo-18.md`](books/livro-01-lara/capitulos/capitulo-18.md) — leitura integral
+- Bíblias: [`books/biblia-continuidade.md`](books/biblia-continuidade.md), [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md), [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md), [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md), [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md), [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md), [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md), [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md), [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md), [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md)
+- Fichas: [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md), [`books/personagens/apoio/mel.md`](books/personagens/apoio/mel.md), [`books/personagens/apoio/beto.md`](books/personagens/apoio/beto.md), [`books/cenarios/apartamento-lara.md`](books/cenarios/apartamento-lara.md), [`books/cenarios/transporte.md`](books/cenarios/transporte.md), [`books/horarios/madrugada.md`](books/horarios/madrugada.md), [`books/horarios/noite.md`](books/horarios/noite.md), [`books/clima/chuva.md`](books/clima/chuva.md), [`books/clima/outono.md`](books/clima/outono.md), [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md), [`books/objetos/pessoais/celulares-tecnologia.md`](books/objetos/pessoais/celulares-tecnologia.md), [`books/objetos/pessoais/veiculos.md`](books/objetos/pessoais/veiculos.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-19.md`](books/livro-01-lara/capitulos/capitulo-19.md) — rascunho completo escrito (~3.557 palavras de prosa).
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — Cap 19 atualizado para `rascunho`.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado para 19/24, Parte 4 iniciada e foco para Cap 20.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — marco geral atualizado para Cap 19 escrito.
+- [`SESSION_LOG.md`](SESSION_LOG.md) — esta entrada adicionada.
+
+### Decisões tomadas / propostas
+- Nenhuma decisão canônica nova.
+- Nenhuma alteração estrutural em OUTLINE, ARCOS, MAPA-PISTAS ou MAPA-ILUSTRACOES.
+
+### Pistas / continuidade
+- Consolidação do gesto de escolher cumprida em escala pequena e concreta.
+- Lara cancela a corrida com Beto sem explicar.
+- Beto reforçado como apoio que escuta sem invadir.
+- Antigo segurado fechado: sem abertura, leitura, restauração ou nova pista textual.
+- Gancho final do OUTLINE cumprido verbatim.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura de `books/cenarios/apartamento-lara.md` sobre a entrada de Jéssica no Cap 15.
+
 ## Sessão 2026-05-15 — Escrita do Capítulo 18 — O Que a Pressão Pede
 
 ### Objetivo
