@@ -2,13 +2,13 @@
 
 > Estado atual do projeto. Atualizado a cada marco significativo.
 
-**Última atualização:** 2026-05-15 (Livro 1 — Lara, Capítulo 17 escrito).
+**Última atualização:** 2026-05-15 (Livro 1 — Lara, Capítulo 18 escrito).
 
 ---
 
 ## Estado atual
 
-> **Fase:** Livro 1 — Lara em escrita. **17 de 24 capítulos em rascunho.**
+> **Fase:** Livro 1 — Lara em escrita. **18 de 24 capítulos em rascunho.**
 
 A documentação técnica está **completa**. O autor tem em mãos: PRD literário oficial, sistema de **14 bíblias técnicas**, fichas individuais para personagens, cenários, lugares, clima, horários, objetos, transporte, e estrutura operacional para agents.
 
@@ -18,7 +18,7 @@ A documentação técnica está **completa**. O autor tem em mãos: PRD literár
 3. **Nova entidade canônica** — Primeira Guardiã (anterior a Elias e a Matusalém; nunca confirmada na Fase 1).
 4. **Nova frase canônica** — promessa antiga (DEC-022): *"Que o que estiver perdido ainda encontre quem o chame; e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
 
-**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 18, *O Que a Pressão Pede*.
+**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 19, *À Beira*.
 
 ---
 
@@ -126,16 +126,16 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 
 ## Foco atual
 
-**Iniciar a fase de Outline do Livro 1 — Lara.**
+**Continuar a escrita do Livro 1 — Lara.**
 
 ### Próximos marcos
 1. ~~Resolver decisões críticas para L1~~ ✓ **completo em 2026-05-09**.
-2. **Criar `livros/livro-01-lara/`** com os arquivos operacionais (OUTLINE, ARCOS, MAPA-PISTAS, MAPA-ILUSTRACOES, STATUS, changelog).
-3. **Escrever Outline detalhado** dos 24 capítulos do L1 (4 partes × 6 capítulos), com palavras-acróstico **RECOMECO** nos capítulos 1–8.
-4. **Definir arco emocional** de Lara em estado inicial × ponto de virada × estado final, ancorado em DEC-018 (talento de restauração) e DEC-024 (Lara sente os três pontos do Antigo).
-5. **Mapear pistas plantadas** no L1: linha 1 da charada (*"Não nasci em capa."*), 316 nas formas DEC-029 (mesa 3 + cadeira 16 / 3h16 / banco 16), anotações no Antigo, primeira sombra de Elias, primeira aparição do Oculto, frase-âncora *"O que está perdido ainda pode ser chamado."* (DEC-027).
-6. **Decidir DEC-020** (profissão de Clara) antes do L4. Recomendação: psicóloga ou assistente social.
-7. **Escrever o primeiro capítulo** seguindo todas as bíblias.
+2. ~~Criar `books/livro-01-lara/` com os arquivos operacionais~~ ✓.
+3. ~~Escrever OUTLINE detalhado dos 24 capítulos do L1~~ ✓.
+4. ~~Definir arco emocional de Lara ancorado em DEC-018 e DEC-024~~ ✓.
+5. ~~Mapear pistas plantadas no L1~~ ✓.
+6. ~~Decidir DEC-020 (profissão de Clara)~~ ✓ **aprovado em 2026-05-09**.
+7. **Escrever o Capítulo 19 — *À Beira*** seguindo todas as bíblias e a ponte emocional do Cap 18.
 
 ---
 
@@ -150,8 +150,8 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 | **Decisões aprovadas (DEC-XXX)** | **37 / 37** ✓ |
 | Decisões ainda em aberto | 0 (numeradas) |
 | **Total de arquivos canônicos** | **~129** |
-| Capítulos escritos | 0 |
-| Livros em rascunho | 0 |
+| Capítulos escritos | 18 |
+| Livros em rascunho | 1 |
 
 ---
 
@@ -169,5 +169,5 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 
 ## Última sessão de trabalho
 
-**Data:** 2026-05-09.
-**Atividade:** **Rodada 2** — processamento das 6 decisões finais (DEC-017, DEC-020, DEC-021, DEC-022, DEC-035, DEC-036) respondidas em [`DECISOES-PARA-RESPONDER-V2.md`](DECISOES-PARA-RESPONDER-V2.md). Criação da ficha da **Primeira Guardiã** (entidade canônica interna). Fixação da **frase canônica da promessa antiga** (DEC-022). Todas as 36 DECs estão agora aprovadas. Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.
+**Data:** 2026-05-15.
+**Atividade:** Escrita do Livro 1 — Lara, Capítulo 18 (*O Que a Pressão Pede*). Clímax da pressão de Jéssica por telefone; Lara desce para a chuva, não responde sim nem não, desliga e transforma o "ainda não" em gesto. Parte 3 completa (18/24 capítulos em rascunho). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.

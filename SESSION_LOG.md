@@ -18,6 +18,43 @@
 
 ---
 
+## Sessão 2026-05-15 — Escrita do Capítulo 18 — O Que a Pressão Pede
+
+### Objetivo
+Escrever o Capítulo 18 do Livro 1 (Lara): *O Que a Pressão Pede*. Função: aumentar conflito + empurrar transformação. Cenário: apartamento de Lara → ruas. Horário: noite alta. Clima: chuva intensa. Personagens em cena: Lara (POV), Mel e Jéssica por telefone. Ponto obrigatório: clímax da pressão de Jéssica e escolha por adiamento — Lara não responde sim nem não, desliga.
+
+### Arquivos lidos
+- [`AGENTS.md`](AGENTS.md), [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md), [`PROJECT_STATUS.md`](PROJECT_STATUS.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-01.md`](books/livro-01-lara/capitulos/capitulo-01.md) a [`capitulo-16.md`](books/livro-01-lara/capitulos/capitulo-16.md) — leitura de continuidade
+- [`books/livro-01-lara/capitulos/capitulo-17.md`](books/livro-01-lara/capitulos/capitulo-17.md) — leitura integral
+- Bíblias: [`books/biblia-continuidade.md`](books/biblia-continuidade.md), [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md), [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md), [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md), [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md), [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md), [`books/biblia-continuidade-lugares.md`](books/biblia-continuidade-lugares.md), [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md), [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md), [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md), [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md)
+- Fichas: [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md), [`books/personagens/apoio/jessica.md`](books/personagens/apoio/jessica.md), [`books/personagens/apoio/mel.md`](books/personagens/apoio/mel.md), [`books/cenarios/apartamento-lara.md`](books/cenarios/apartamento-lara.md), [`books/horarios/noite.md`](books/horarios/noite.md), [`books/clima/chuva.md`](books/clima/chuva.md), [`books/clima/outono.md`](books/clima/outono.md), [`books/objetos/pessoais/celulares-tecnologia.md`](books/objetos/pessoais/celulares-tecnologia.md), [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md), [`books/lugares/bairro-central.md`](books/lugares/bairro-central.md), [`books/lugares/zona-de-passagem.md`](books/lugares/zona-de-passagem.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-18.md`](books/livro-01-lara/capitulos/capitulo-18.md) — rascunho completo escrito (~2.531 palavras de prosa).
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — Cap 18 atualizado para `rascunho`.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado para 18/24, Parte 3 completa e foco para Cap 19.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — marco geral atualizado para Cap 18 escrito.
+- [`SESSION_LOG.md`](SESSION_LOG.md) — esta entrada adicionada.
+
+### Decisões tomadas / propostas
+- Nenhuma decisão canônica nova.
+- Nenhuma alteração estrutural em OUTLINE, ARCOS, MAPA-PISTAS ou MAPA-ILUSTRACOES.
+
+### Pistas / continuidade
+- Crise interna silenciosa cumprida.
+- Jéssica pressiona por telefone com *"tem alguém esperando"* e *"vai/não vai"*.
+- Lara escolhe por adiamento: não responde sim nem não, desliga.
+- Gancho final do OUTLINE cumprido verbatim.
+- O Antigo permanece como presença visual não mágica; nenhuma nova frase de margem.
+- Cap 18 sem imagem associada mantido.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura de `books/cenarios/apartamento-lara.md` sobre a entrada de Jéssica no Cap 15.
+
 ## Sessão 2026-05-15 — Escrita do Capítulo 17 — O Banco Cheio
 
 ### Objetivo

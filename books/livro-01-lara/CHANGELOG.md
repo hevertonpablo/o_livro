@@ -4,6 +4,42 @@
 
 ---
 
+## 2026-05-15 (vigésima atualização) — Pós-escrita do capítulo 18 (O Que a Pressão Pede)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 18 — *O Que a Pressão Pede* — escrito em rascunho. ~2.531 palavras de prosa. POV de Lara. Cenário: apartamento de Lara → escadas/hall do prédio → rua sob chuva intensa. Horário: noite alta, antes da madrugada. Clima: chuva forte de outono, sem tempestade. Função (DEC-014): **aumentar conflito** (clímax da pressão de Jéssica por telefone) + **empurrar transformação** (Lara cria um intervalo: não diz sim nem não, desliga e vira à esquerda). Gancho verbatim cumprido: *"O 'ainda não' tinha virado outra coisa. Tinha virado um gesto."*
+
+### Personagens em cena
+- **Lara** (POV) — recebe ligações e mensagens de Jéssica. Desce do apartamento e vai até a chuva, chegando ao ponto físico de escolha entre seguir para o bairro dos bares ou voltar. Não consegue dizer um "não" inteiro, mas também não cede ao sim fácil: desliga.
+- **Jéssica** (por telefone) — pressiona, diz que há alguém esperando e repete "vai/não vai". Continua dimensional: cobra e manipula, mas também revela medo de Lara sumir dela.
+- **Mel** — presença no apartamento, realista e silenciosa, reforçando o eixo do cuidado pequeno sem simbolismo mágico.
+
+### Mudança emocional
+Lara não resolve a crise. A mudança é mínima e real: o adiamento deixa de ser só fuga e começa a se aproximar de limite. O eco do Cap 17 (*"começa pequeno"*) vira gesto concreto — desligar e virar à esquerda — preparando o Cap 19 sem antecipar a decisão moral dos Caps 19–21.
+
+### Pistas efetivamente plantadas
+- **Crise interna silenciosa:** cumprida. A cena se sustenta por telefone, chuva, corpo e direção de caminhada, sem discurso heroico.
+- **Jéssica como gravidade do passado:** cumprida. Frases-chave efetivas: *"Tem gente esperando."*, *"Tem alguém esperando essa noite. Vai? Não vai?"* e *"Eu acho que você tá sumindo de mim."*
+- **Escolha por adiamento:** cumprida. Lara não responde sim nem não. Desliga.
+- **Gancho do OUTLINE:** cumprido verbatim.
+- **Antigo como presença não mágica:** aparece visualmente na mesinha, sem nova leitura nem intervenção.
+- **Mel como ternura preservada:** presença realista, sem antropomorfização.
+
+### Continuidade afetada
+- `capitulos/capitulo-18.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 18 atualizado para `rascunho`.
+- `STATUS.md`: progresso atualizado para 18/24; Parte 3 marcada como completa; foco atualizado para Cap 19.
+- `PROJECT_STATUS.md`: registrar marco geral.
+- `SESSION_LOG.md`: registrar sessão.
+- `MAPA-PISTAS.md`: sem alteração necessária; execução conforme planejado.
+- `MAPA-ILUSTRACOES.md`: sem alteração; Cap 18 permanece sem imagem associada.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura da ficha `cenarios/apartamento-lara.md` sobre a entrada de Jéssica no Cap 15.
+
 ## 2026-05-15 (décima nona atualização) — Pós-escrita do capítulo 17 (O Banco Cheio)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

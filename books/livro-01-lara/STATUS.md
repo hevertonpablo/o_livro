@@ -2,11 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1 a 17 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 em andamento (Caps 13–18). Cap 17 entregue: **2ª fala do Personagem Oculto com Lara (frase canônica cumprida verbatim).** Lara sai do parque com a direção mínima de "começar pequeno", preparando a crise do Cap 18 e a decisão dos Caps 19–21.
+**Em escrita. Capítulos 1 a 18 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 completa (Caps 13–18). Cap 18 entregue: **clímax da pressão de Jéssica e escolha por adiamento.** Lara desce para a chuva, não responde sim nem não, desliga o telefone e transforma o "ainda não" em gesto, preparando a decisão dos Caps 19–21.
 
 Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulos prontos para o Agente de Escrita: 11–24, sem bloqueios.**
 
 ## Última atualização
+
+2026-05-15 — Cap 18 escrito pelo Agente de Escrita. **Jéssica pressiona Lara por telefone: há alguém esperando, "vai/não vai?". Em noite alta, sob chuva intensa, Lara desce, sai para a rua e chega ao ponto físico de escolha. Não responde sim nem não. Desliga. O "ainda não" vira gesto. Gancho verbatim cumprido. ~2.531 palavras.**
 
 2026-05-15 — Cap 17 escrito pelo Agente de Escrita. **Lara leva o Antigo ao parque no final de tarde, sob garoa quase parando. O Personagem Oculto aparece com o caderno aberto, parado, sem anotar, e diz a 2ª fala canônica verbatim: *"O que você tem nas mãos não é o livro. É a ideia de que o livro pode ser cuidado. Cuide assim de você também."* Banco vazio + caderno aberto + dobra cinza ambígua cumprindo M04. Gancho verbatim cumprido. ~3.062 palavras.**
 
@@ -24,14 +26,14 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **17 de 24** — Caps 1 a 17 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280 e ~3.062 palavras respectivamente). Total: ~40.657 palavras (~63% do alvo).
+- **Capítulos escritos:** **18 de 24** — Caps 1 a 18 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280, ~3.062 e ~2.531 palavras respectivamente). Total: ~43.188 palavras (~66% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 18 — *O Que a Pressão Pede* — clímax da pressão de Jéssica. Apartamento → ruas. Noite alta, chuva intensa.**
+**Escrever o Capítulo 19 — *À Beira* — madrugada após a crise; Lara volta ao apartamento, cancela uma corrida com Beto e segura o Antigo sem abrir.**
 
-Cap 17 entregue: ~3.062 palavras. 2ª fala canônica do Oculto cumprida verbatim. Caderno aberto, banco vazio e rastro visual M04 plantados. Parte 3 avançando para a crise do Cap 18.
+Cap 18 entregue: ~2.531 palavras. Pressão de Jéssica por telefone, chuva intensa, escolha por adiamento e gancho verbatim cumpridos. Parte 3 encerrada; Parte 4 começa no Cap 19.
 
 ## Próximas ações
 
@@ -46,7 +48,8 @@ Cap 17 entregue: ~3.062 palavras. 2ª fala canônica do Oculto cumprida verbatim
 - [x] ~~**Cap 15 — *Volta de Onde Não Saí*** — Jéssica modo FORTE. Maçaneta do carro. "Ainda não" afinando. ~2.300 palavras.~~ ✓ rascunho 2026-05-15
 - [x] ~~**Cap 16 — *3h16, Outra Vez*** — Frase-âncora canônica (DEC-027) + 3h16 (DEC-029) + quarta leitura letra margens (DEC-021). ~2.280 palavras.~~ ✓ rascunho 2026-05-14
 - [x] ~~**Cap 17 — *O Banco Cheio*** — 2ª fala do Oculto verbatim; caderno aberto; banco vazio; rastro M04; "começa pequeno". ~3.062 palavras.~~ ✓ rascunho 2026-05-15
-- [ ] **Cap 18 — *O Que a Pressão Pede*** — clímax da pressão de Jéssica; escolha por adiamento.
+- [x] ~~**Cap 18 — *O Que a Pressão Pede*** — clímax da pressão de Jéssica; escolha por adiamento; telefone desligado; "ainda não" vira gesto. ~2.531 palavras.~~ ✓ rascunho 2026-05-15
+- [ ] **Cap 19 — *À Beira*** — Lara cancela corrida com Beto; volta ao apartamento e segura o Antigo sem abrir.
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 
