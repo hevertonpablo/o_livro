@@ -15,7 +15,7 @@
 | 9 | Anotação na margem é lida pela primeira vez | Lara | Que alguém escreveu coisas pessoais ali | Quem escreveu (autora interna = Primeira Guardiã, DEC-021 — não confirmar) |
 | 10 | Lara faz pequeno gesto de restauradora — apoia palma sobre o livro, sente o vinco | Lara | Que ela ainda sabe esse trabalho | — |
 | 14 | Lara abre numa página aleatória; lê outro fragmento manuscrito | Lara | Que há mais de uma frase plantada | Conteúdo total |
-| 16 | Lara encontra a frase-âncora completa em outra margem (DEC-027) | Lara | Que o livro responde diretamente ao estado dela | — |
+| 16 | Lara encontra a frase-âncora completa em outra margem (DEC-027) | Lara | Que o livro responde diretamente ao estado dela | — | **CUMPRIDA — rascunho 2026-05-14** |
 | 21 | Lara pega o livro **como restauradora**: alisa um vinco, refaz um ponto da costura interna | Lara | Que ela está reativando o dom | — |
 | 24 | Lara segura o Antigo restaurado parcialmente; entende que a frase é sobre ela | Lara | Que algo se cumpriu — ainda que pequeno | Origem total do Antigo (Fase 2) |
 
@@ -40,7 +40,7 @@
 | 3 | **Mesa 3 + cadeira 16** na cafeteria | Discreta — primeira pista visual | Lara senta sem perceber a relevância. A plaquinha numérica da cadeira aparece descrita de leve. |
 | 4 | **Banco 16** no parque, número desbotado em chapinha enferrujada | Quase invisível | Recompensa de releitura. Não comentado em cena. |
 | 8 | **3h16** — Lara olha o relógio (digital ou despertador) sem querer, ao abrir o Antigo | Emocional — liga o número à dor | Primeira aparição da hora. |
-| 16 | **3h16, outra vez** — Lara não dorme, olha o relógio, abre o Antigo de novo | Emocional, agora com peso | Segunda aparição. Ecoa Cap 8. |
+| 16 | **3h16, outra vez** — Lara não dorme, olha o relógio, abre o Antigo de novo | Emocional, agora com peso | Segunda aparição. Ecoa Cap 8. **CUMPRIDA — rascunho 2026-05-14** |
 | 22 | Lara **volta à mesa 3, cadeira 16** na cafeteria | Eco de Cap 3 | Mesa com outro peso — Lara está em outro estado. |
 
 ### 2.1 Regras do 316 no L1
@@ -149,7 +149,7 @@ A letra é descrita como:
 | 8 | Primeira leitura das margens | Lara | Letra antiga, firme — *"como mão que escreveu muito"* |
 | 9 | Segunda leitura — frase incidental | Lara | Não comenta a letra, comenta o conteúdo |
 | 14 | Terceira leitura — fragmento da promessa | Lara | Letra parece a mesma, contexto diferente |
-| 16 | Quarta leitura — frase-âncora | Lara | Letra parece a mesma, agora dói |
+| 16 | Quarta leitura — frase-âncora | Lara | Letra parece a mesma, agora dói | **CUMPRIDA — rascunho 2026-05-14** |
 
 ### 6.2 Regras do plantio da letra no L1
 

@@ -8,6 +8,8 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 
 ## Última atualização
 
+2026-05-14 — Cap 16 escrito pelo Agente de Escrita. **Lara não dorme após a noite do Cap 15. Em madrugada (3h16), pega o Antigo e abre sem procurar. Encontra a frase-âncora canônica (DEC-027) na margem — *"O que está perdido ainda pode ser chamado."* Quarta leitura da letra das margens (DEC-021 — "a mesma, agora dói"). 3h16 segunda aparição (DEC-029). Mel presente. Gancho verbatim cumprido. ~2.280 palavras.**
+
 2026-05-15 — Cap 15 escrito pelo Agente de Escrita. **Jéssica volta em modo FORTE — cobra presença, menciona pessoas do passado de Lara (Tati, Marquinho, Pri). Lara vai ao bar e chega até a maçaneta do carro antes de dizer não. "Ainda não" afinando — hesitação mais longa que os 33 min do Cap 6. Gancho verbatim cumprido. Nenhuma pista nova plantada. Tati: novo figurante introduzido (proposta de ficha pendente). ~2.300 palavras.**
 
 ## Progresso
@@ -20,14 +22,14 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
 - **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **15 de 24** — Caps 1 a 15 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330 e ~2.300 palavras respectivamente). Total: ~35.315 palavras (~54% do alvo).
+- **Capítulos escritos:** **16 de 24** — Caps 1 a 16 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300 e ~2.280 palavras respectivamente). Total: ~37.595 palavras (~58% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 16 — *3h16, Outra Vez* — frase-âncora canônica completa (DEC-027). Cenário: Apartamento de Lara. Madrugada 3h16, chuva.**
+**Escrever o Capítulo 17 — *O Banco Cheio* — 2ª aparição do Personagem Oculto com Lara (DEC-026). Parque. Final de tarde, garoa quase parando.**
 
-Cap 15 entregue: ~2.300 palavras. Jéssica modo FORTE. Lara quase cede (maçaneta do carro). "Ainda não" mais fino. Gancho verbatim cumprido. Parte 3 avançando — próximo: Cap 16 com frase-âncora (DEC-027) e 3h16 (DEC-029) em nova forma.
+Cap 16 entregue: ~2.280 palavras. Frase-âncora canônica completa (DEC-027). 3h16 segunda aparição (DEC-029). Quarta leitura da letra das margens (DEC-021). Gancho verbatim cumprido. Parte 3 avançando.
 
 ## Próximas ações
 
@@ -40,7 +42,8 @@ Cap 15 entregue: ~2.300 palavras. Jéssica modo FORTE. Lara quase cede (maçanet
 - [x] ~~**Cap 13 — *O Encontro Sob Garoa*** — Cena travada DEC-030/DEC-038 cumprida. Frase canônica verbatim. Sino do ângelus. ~2.120 palavras.~~ ✓ rascunho 2026-05-14
 - [x] ~~**Cap 14 — *O Eco do Que Foi Dito*** — DEC-022 cumprida. Fragmento verbatim. Eco de DEC-038. Letra Fonte A (DEC-021). ~2.330 palavras.~~ ✓ rascunho 2026-05-14
 - [x] ~~**Cap 15 — *Volta de Onde Não Saí*** — Jéssica modo FORTE. Maçaneta do carro. "Ainda não" afinando. ~2.300 palavras.~~ ✓ rascunho 2026-05-15
-- [ ] **Cap 16 — *3h16, Outra Vez*** — Frase-âncora canônica (DEC-027) + 3h16 (DEC-029). Madrugada, chuva.
+- [x] ~~**Cap 16 — *3h16, Outra Vez*** — Frase-âncora canônica (DEC-027) + 3h16 (DEC-029) + quarta leitura letra margens (DEC-021). ~2.280 palavras.~~ ✓ rascunho 2026-05-14
+- [ ] **Cap 17 — *O Banco Cheio*** — 2ª fala do Oculto (pendência: definir frase exata). Parque, garoa quase parando.
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 

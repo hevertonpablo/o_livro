@@ -4,6 +4,61 @@
 
 ---
 
+## 2026-05-14 (décima oitava atualização) — Pós-escrita do capítulo 16 (3h16, Outra Vez)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 16 — *3h16, Outra Vez* — escrito em rascunho. ~2.280 palavras. POV de Lara. Cenário: Apartamento de Lara — sala e borda do colchão, luminária amarela baixa, janela fechada para telhado e fios. Madrugada (3h16), chuva continuada. Função (DEC-014): **plantar pista** (frase-âncora canônica DEC-027 + 3h16 DEC-029 + quarta leitura letra DEC-021) + **empurrar transformação** (Lara faz a pergunta — quem ela ainda pode ser chamada a ser — pela primeira vez). Gancho verbatim do OUTLINE cumprido: *"Pela primeira vez em muito tempo, Lara perguntou — quem ela podia ainda ser chamada a ser."*
+
+### Personagens em cena
+- **Lara** (POV) — insônia pós-Cap 15. Carrega o peso da maçaneta gelada, a frase de Jéssica ("de onde você nunca saiu"), o olhar de Tati, a calçada fria onde ficou sozinha. Pega o Antigo sem decidir. Abre no meio. Encontra a frase-âncora. Não decodifica — sente. A palavra "perdido" pousa dentro dela. Pela primeira vez faz a pergunta: quem ela ainda pode ser chamada a ser.
+- **Mel** — presença de rotina (borda do colchão quando Lara deita; sobe ao sofá quando Lara vai para a sala). Sem fala; presença canônica de apoio.
+
+### Mudança emocional (DEC-014 — plantar pista + empurrar transformação)
+A transformação interna de Lara no Cap 16 não é resolução — é abertura. Ela não decide nada. Não age. Não entende a frase. Mas faz a pergunta. É o primeiro movimento interno desde que o arco de crise começou no Cap 13. A frase-âncora não a salva — coloca diante da escolha que ela vinha evitando (biblia-do-antigo §3). A pergunta fica aberta. A resposta virá nos Caps 19–21. TRA-001 ✓ (transformação não é mágica), TRA-002 ✓ (Antigo não é amuleto).
+
+### Pistas efetivamente plantadas
+- **DEC-027 — Frase-âncora canônica:** CUMPRIDA. *"O que está perdido ainda pode ser chamado."* — encontrada na margem inferior de uma página do Antigo, em letra antiga. Primeira aparição completa no L1. Lara lê duas vezes. Não decodifica (JOG-002 ✓). A palavra "perdido" produz eco interno da frase de Miguel (Cap 13) — sem que Lara o nomeie. O leitor investigador cruza.
+- **DEC-029 — 3h16 segunda aparição:** CUMPRIDA. Lara olha o relógio na mesa de cabeceira sem querer — vê 3h16. Sem comentário, sem destaque. Mecanismo idêntico ao Cap 8. Segunda e última aparição canônica do número nesta forma no L1.
+- **DEC-021 — Letra das margens (quarta leitura):** CUMPRIDA. Descrita como "a mesma letra", "firme e ritualística", "caligrafia de mão que escreveu muito". Consistente com Caps 8, 9 e 14. Diferença canônica: o peso que Lara carrega para a leitura mudou — "a mesma, agora dói" (MAPA-PISTAS §6.1 ✓). Autoria não revelada.
+- **DEC-018 — Eco do talento (mão antes da cabeça):** CUMPRIDA como eco sutil (não como nova reativação, que é do Cap 21). Gesto de pegar o livro descrito como análogo ao Cap 10 — a mão sabe, a cabeça vem atrás.
+
+### Falas que fazem trabalho duplo
+- A palavra "perdido" na frase-âncora: ecoa a frase de Miguel do Cap 13 (*"Tem dia que a gente não está perdido."*) — Lara não nomeia o eco; o leitor investigador cruza (DEC-038).
+- "Chamada" (na frase-âncora) + "te chamando de volta" (frase de Jéssica, Cap 15): duas formas do mesmo verbo em registros completamente diferentes — o narrador não aponta; o leitor percebe se quiser.
+
+### Objetos usados
+- Antigo: pegado da mesa da sala na madrugada, aberto no sofá sob a luminária amarela. Lara o chama de "o livro". DEC-003 ✓ (não nomeado como Bíblia). Presença física ativa — abertura no meio, páginas percorridas com os olhos, letra encontrada.
+- Relógio digital: sem marca (DEC-011 ✓). Mencionado de passagem — 3h16 sem destaque.
+- Luminária pequena da mesinha baixa: objeto recorrente do apartamento-canon.
+
+### Cenário
+Apartamento de Lara. Quarto (borda do colchão, relógio de cabeceira, reflexo laranja da cidade por baixo da persiana, rachadura no teto). Sala (mesinha baixa, luminária amarela, sofá). Janela fechada para telhado e fios — mencionada como limite visual, não aberta. Canon apartamento-lara.md ✓.
+
+### Período/Clima
+Madrugada (3h16 — segunda aparição canônica DEC-029). Chuva: continuada e constante, batendo no telhado do prédio da frente e na calha de metal lateral. Canon chuva.md §2.3 (chuva contínua = peso que não passa) e §6 (apartamento de Lara + chuva forte = confronto interno) ✓. Madrugada: canon madrugada.md §1 ("hora em que as máscaras caem"), §3 ("decisão íntima", "solidão"), §9 ("ritmo da prosa muda — frases mais curtas, pausas") ✓.
+
+### Versão de Elias
+NÃO APLICÁVEL — Cap 16 não contém cena de Elias.
+
+### Aparição do Oculto
+NÃO APLICÁVEL — Oculto ausente no Cap 16. Próxima aparição: Cap 17 (canon MAPA-PISTAS §6).
+
+### Impactos na continuidade
+- CAPITULOS.md: Cap 16 → rascunho ✓ (atualizado)
+- STATUS.md: 16/24 capítulos, ~37.595 palavras (~58% do alvo), foco → Cap 17 ✓ (atualizado)
+- MAPA-PISTAS.md: §2 (3h16 Cap 16 → cumprido), §6.1 (quarta leitura → cumprida), §9 (DEC-027 Cap 16 → cumprido) — a atualizar
+- MAPA-ILUSTRACOES.md: S06 — cena escrita; prompt a desenvolver — a atualizar
+
+### Pendências
+- MAPA-PISTAS.md: atualizar status das linhas do Cap 16 nas seções §2, §6.1 e §9 para "cumprido" ou equivalente.
+- MAPA-ILUSTRACOES.md: atualizar S06 com nota de que a cena está escrita; desenvolver prompt visual do relógio digital (traço seco, 3h16 visível sobre fundo escuro).
+- PROPOSTA PENDENTE DE CAPS ANTERIORES (aguarda validação humana): ficha mínima de Tati (figurante do Cap 15) — não é bloqueio para Cap 16 nem Cap 17.
+- NOTA do cap anterior: cenarios/apartamento-lara.md menciona "Jéssica entra uma vez. Sai sem se sentar." — refere-se ao Cap 6 especificamente. No Cap 15 ela senta e tira o casaco. Proposta de clarificação na ficha — aguarda validação humana.
+
+---
+
 ## 2026-05-15 (décima sétima atualização) — Pós-escrita do capítulo 15 (Volta de Onde Não Saí)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
