@@ -4,6 +4,41 @@
 
 ---
 
+## 2026-05-16 (vigésima quarta atualização) — Pós-escrita do capítulo 22 (Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.* — escrito em rascunho. ~2.393 palavras de prosa. POV de Lara. Cenário: cafeteria perto do parque. Horário: fim de tarde. Clima: luz quente de outono, sem chuva ativa. Função (DEC-014): **revelar personagem** + **empurrar transformação**. Gancho verbatim cumprido: *"Lara saiu da cafeteria sentindo que tinha entrado por um motivo diferente do que costumava."*
+
+### Personagens em cena
+- **Lara** (POV) — retorna à mesa 3/cadeira 16 após o gesto de restauração do Cap 21, com o Antigo guardado na mochila. Faz sua primeira pergunta pessoal a Dona Cida e sugere, sem detalhar, a memória de algo quebrado na infância.
+- **Dona Cida** — senta à mesa de Lara pela primeira vez, responde sem invadir e revela apenas um fragmento de si: já precisou sentar sem que alguém perguntasse nada.
+- **Cliente do canto e clientes anônimos** — presença ambiental, sem nova função de pista.
+
+### Mudança emocional
+Lara não se perdoa, não explica a tragédia e não fica curada. A mudança é proporcional: o cuidado sai do gesto privado e vira uma conversa possível. Ela pergunta, ouve e permanece na mesa sem usar a cafeteria só como esconderijo.
+
+### Pistas efetivamente plantadas
+- **DEC-029 / 316:** mesa 3 + cadeira 16 reaparecem como eco do Cap 3. Lara percebe a plaquinha da cadeira 16 sem decodificar.
+- **Dona Cida — semente Fase 2:** abre uma camada mínima de passado, sem nomes, datas, Elias, Oculto, cartas ou explicações.
+- **Tragédia familiar de Lara sugerida:** pergunta sobre uma pessoa pequena que viu algo quebrar e teme ter virado aquilo. Nenhum detalhe factual é revelado.
+- **DEC-018 em repercussão:** o gesto de restauração do Cap 21 informa a conversa; as mãos de Lara continuam sendo prova de cuidado possível.
+- **Antigo preservado:** permanece na mochila, sem abertura, sem nova margem, sem nova pista textual.
+
+### Continuidade afetada
+- `capitulos/capitulo-22.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 22 atualizado para `rascunho`.
+- `STATUS.md`: progresso atualizado para 22/24; foco atualizado para Cap 23.
+- `MAPA-PISTAS.md`: entrada do Cap 22 marcada como cumprimento do eco mesa 3/cadeira 16.
+- `MAPA-ILUSTRACOES.md`: sem alteração; Cap 22 não tem imagem associada.
+- `PROJECT_STATUS.md`: marco geral atualizado para Cap 22 escrito.
+- `SESSION_LOG.md`: sessão registrada.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanece como semente Fase 2, sem resolução: passado de Dona Cida e o que ela sabe sobre Antigo/Oculto/Elias.
+
 ## 2026-05-15 (vigésima terceira atualização) — Pós-escrita do capítulo 21 (A Mão Encosta)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

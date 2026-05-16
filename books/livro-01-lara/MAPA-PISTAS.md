@@ -41,7 +41,7 @@
 | 4 | **Banco 16** no parque, número desbotado em chapinha enferrujada | Quase invisível | Recompensa de releitura. Não comentado em cena. |
 | 8 | **3h16** — Lara olha o relógio (digital ou despertador) sem querer, ao abrir o Antigo | Emocional — liga o número à dor | Primeira aparição da hora. |
 | 16 | **3h16, outra vez** — Lara não dorme, olha o relógio, abre o Antigo de novo | Emocional, agora com peso | Segunda aparição. Ecoa Cap 8. **CUMPRIDA — rascunho 2026-05-14** |
-| 22 | Lara **volta à mesa 3, cadeira 16** na cafeteria | Eco de Cap 3 | Mesa com outro peso — Lara está em outro estado. |
+| 22 | Lara **volta à mesa 3, cadeira 16** na cafeteria | Eco de Cap 3 | **CUMPRIDA — rascunho 2026-05-16:** mesa com outro peso; Lara percebe a plaquinha da cadeira 16 sem decodificar; entra por motivo diferente do habitual. |
 
 ### 2.1 Regras do 316 no L1
 
