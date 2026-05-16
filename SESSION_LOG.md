@@ -18,6 +18,45 @@
 
 ---
 
+## Sessão 2026-05-16 — Escrita do Capítulo 24 — O Que Ainda Pode Ser Chamado
+
+### Objetivo
+Escrever o Capítulo 24 do Livro 1 (Lara): *O Que Ainda Pode Ser Chamado*. Função: empurrar transformação + plantar pista. Cenário: apartamento de Lara → parque. Horário: manhã. Clima: luz nova / sol após chuva, outono. Personagens em cena: Lara (POV) e Mel; Personagem Oculto ausente fisicamente, presente apenas por sinal. Pontos obrigatórios: eco final da frase-âncora DEC-027, Lara entendendo que a frase também fala dela, banco do Oculto vazio com folha caída, gancho para L2 sem inventar canon.
+
+### Arquivos lidos
+- [`AGENTS.md`](AGENTS.md), [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md), [`PROJECT_STATUS.md`](PROJECT_STATUS.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-01.md`](books/livro-01-lara/capitulos/capitulo-01.md) a [`capitulo-22.md`](books/livro-01-lara/capitulos/capitulo-22.md) — leitura de continuidade
+- [`books/livro-01-lara/capitulos/capitulo-22.md`](books/livro-01-lara/capitulos/capitulo-22.md) e [`capitulo-23.md`](books/livro-01-lara/capitulos/capitulo-23.md) — leitura integral / ponte emocional direta
+- Bíblias: [`books/biblia-continuidade.md`](books/biblia-continuidade.md), [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md), [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md), [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md), [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md), [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md), [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md), [`books/biblia-do-antigo.md`](books/biblia-do-antigo.md), [`books/biblia-do-personagem-oculto.md`](books/biblia-do-personagem-oculto.md), [`books/biblia-pistas-codigos-charadas.md`](books/biblia-pistas-codigos-charadas.md), [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md)
+- Fichas: [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md), [`books/personagens/apoio/mel.md`](books/personagens/apoio/mel.md), [`books/personagens/recorrentes/personagem-oculto.md`](books/personagens/recorrentes/personagem-oculto.md), [`books/cenarios/apartamento-lara.md`](books/cenarios/apartamento-lara.md), [`books/cenarios/parque.md`](books/cenarios/parque.md), [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md), [`books/objetos/cenario/banco-do-oculto.md`](books/objetos/cenario/banco-do-oculto.md), [`books/objetos/cenario/arvore-antiga.md`](books/objetos/cenario/arvore-antiga.md), [`books/objetos/transitorios.md`](books/objetos/transitorios.md), [`books/horarios/manha.md`](books/horarios/manha.md), [`books/clima/outono.md`](books/clima/outono.md), [`books/clima/sol.md`](books/clima/sol.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-24.md`](books/livro-01-lara/capitulos/capitulo-24.md) — rascunho completo escrito (~3.000 palavras de prosa).
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — Cap 24 atualizado para `rascunho`.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado para 24/24 e foco para revisão de continuidade.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada.
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — Cap 24 marcado como cumprimento do eco DEC-027 e do banco vazio com folha caída.
+- [`books/livro-01-lara/MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md) — S08 marcada como cena escrita, com orientação de prompt a desenvolver.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — marco geral atualizado para Livro 1 com 24/24 capítulos em rascunho.
+- [`SESSION_LOG.md`](SESSION_LOG.md) — esta entrada adicionada.
+
+### Decisões tomadas / propostas
+- Nenhuma decisão canônica nova.
+- Escolha menor de execução: Mel acompanha Lara no colo e em trechos curtos no chão, sem criar guia, caixa ou objeto novo.
+- Nenhuma alteração estrutural em OUTLINE, ARCOS ou bíblias.
+
+### Pistas / continuidade
+- Frase-âncora DEC-027 reaparece como memória interna: *"O que está perdido ainda pode ser chamado."*
+- Banco do Oculto vazio + folha caída cumpridos como assinatura silenciosa; identidade/natureza do Oculto preservadas.
+- O Antigo aparece como objeto parcialmente restaurado, sem nova leitura inédita e sem explicação.
+- S08 preparada em prosa: página restaurada sob luz suave, Mel ao lado.
+- Fechamento emocional mantém Lara não curada, apenas um passo à frente.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura de `books/cenarios/apartamento-lara.md` sobre entradas de Jéssica; possível atualização da ficha do apartamento para sinais finais já executados em cena.
+
 ## Sessão 2026-05-16 — Escrita do Capítulo 23 — Manhã Limpa
 
 ### Objetivo

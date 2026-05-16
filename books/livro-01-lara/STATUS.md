@@ -2,11 +2,13 @@
 
 ## Estado atual
 
-**Em escrita. Capítulos 1 a 23 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 completa (Caps 13–18). Parte 4 em andamento. Cap 23 entregue: **manhã limpa no apartamento.** Lara abre a janela, alimenta Mel e ressignifica o gesto do pratinho do Cap 2 sem transformar isso em cura instantânea.
+**Rascunho completo. Capítulos 1 a 24 escritos.** Parte 1 completa (Caps 1–6). Parte 2 completa (Caps 7–12). Parte 3 completa (Caps 13–18). Parte 4 completa. Cap 24 entregue: **fechamento do arco no apartamento e no parque.** Lara abre o Antigo sob luz nova, entende a frase-âncora como verdade sobre si, vai ao parque com Mel e encontra o banco do Oculto vazio com uma folha caída.
 
-Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Capítulo restante pronto para o Agente de Escrita: 24, sem bloqueios.**
+Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em 2026-05-09. Duas DECs novas criadas (DEC-038, DEC-039). **Livro 1 completo em rascunho; próximo passo é revisão de continuidade.**
 
 ## Última atualização
+
+2026-05-16 — Cap 24 escrito pelo Agente de Escrita. **Na luz nova da manhã, Lara abre o Antigo, observa o ponto restaurado e lembra a frase-âncora: "O que está perdido ainda pode ser chamado." Pela primeira vez, entende que não é só sobre o livro, mas sobre ela. Vai ao parque com Mel, encontra o banco do Oculto vazio e uma folha caída no lugar onde ele costumava sentar. Gancho verbatim cumprido. ~3.000 palavras de prosa.**
 
 2026-05-16 — Cap 23 escrito pelo Agente de Escrita. **Na manhã limpa após a chuva, Lara acorda sem sobressalto, abre a janela e alimenta Mel. O pratinho do Cap 2 retorna com outro peso: cuidado prático, sem exigência de gratidão e sem cura completa. Lara lava os pratinhos, puxa o lençol sem fingir controle total e permanece na janela. Gancho verbatim cumprido. ~2.237 palavras.**
 
@@ -35,15 +37,15 @@ Toda a arquitetura está fechada. As 8 pendências críticas foram resolvidas em
 - **CAPITULOS.md:** ✓ criado (tabela operacional)
 - **Placeholders dos 24 capítulos:** ✓ criados em `capitulos/`
 - **CHANGELOG.md (do livro):** ✓ inicializado
-- **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado — **aguardando respostas do autor**
-- **Capítulos escritos:** **23 de 24** — Caps 1 a 23 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280, ~3.062, ~2.531, ~3.557, ~1.967, ~2.577, ~2.393 e ~2.237 palavras respectivamente). Total: ~55.919 palavras (~86% do alvo).
+- **PENDENCIAS-PARA-RESPONDER.md:** ✓ criado e processado para destravar o L1
+- **Capítulos escritos:** **24 de 24** — Caps 1 a 24 em rascunho (~2.100, ~2.150, ~2.400, ~2.370, ~2.350, ~2.740, ~2.770, ~2.985, ~2.200, ~2.250, ~2.150, ~2.100, ~2.120, ~2.330, ~2.300, ~2.280, ~3.062, ~2.531, ~3.557, ~1.967, ~2.577, ~2.393, ~2.237 e ~3.000 palavras de prosa respectivamente). Total: ~58.900 palavras (~91% do alvo).
 - **Revisão de continuidade:** pendente (depois da escrita)
 
 ## Foco atual
 
-**Escrever o Capítulo 24 — *O Que Ainda Pode Ser Chamado* — fechamento do arco do L1; eco da frase-âncora e banco do Oculto.**
+**Revisão de continuidade do Livro 1 — Lara.**
 
-Cap 23 entregue: ~2.237 palavras. Lara retoma o apartamento, abre a janela e alimenta Mel em manhã limpa pós-chuva. Cap 24 deve fechar o arco sem curar Lara por completo: ecoar a frase-âncora, levar Lara ao parque e cumprir o banco vazio com folha caída.
+Cap 24 entregue: ~3.000 palavras de prosa. Lara fecha o arco sem cura completa: ecoa a frase-âncora, sai sem o Antigo, leva Mel ao parque e cumpre o banco vazio com folha caída.
 
 ## Próximas ações
 
@@ -64,7 +66,7 @@ Cap 23 entregue: ~2.237 palavras. Lara retoma o apartamento, abre a janela e ali
 - [x] ~~**Cap 21 — *A Mão Encosta*** — clímax interno; gesto mínimo de restauração no Antigo.~~ ✓ rascunho 2026-05-15
 - [x] ~~**Cap 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.*** — Lara × Dona Cida; abertura nova na cafeteria.~~ ✓ rascunho 2026-05-16
 - [x] ~~**Cap 23 — *Manhã Limpa*** — pratinho para Mel; eco do Cap 2 com peso novo.~~ ✓ rascunho 2026-05-16
-- [ ] **Cap 24 — *O Que Ainda Pode Ser Chamado*** — fechamento do arco do L1; eco da frase-âncora e banco do Oculto.
+- [x] ~~**Cap 24 — *O Que Ainda Pode Ser Chamado*** — fechamento do arco do L1; eco da frase-âncora e banco do Oculto.~~ ✓ rascunho 2026-05-16
 - [ ] Em paralelo: gerar os prompts completos dos 17 itens do MAPA-ILUSTRACOES (etapa 2 da produção visual).
 - [ ] Em paralelo: começar planejamento do **L2 (Miguel)** — a cena travada Cap 13 do L1 = capítulo correspondente do L2 (DEC-030 + DEC-038 já travados).
 
@@ -72,13 +74,13 @@ Cap 23 entregue: ~2.237 palavras. Lara retoma o apartamento, abre a janela e ali
 
 **NENHUM.** Todas as 39 DECs aprovadas. Todas as 8 pendências do livro processadas em 2026-05-09.
 
-**Capítulos prontos para escrita:** **1–24, sem bloqueios.**
+**Capítulos escritos:** **1–24, sem bloqueios críticos.**
 
 ## Observações para o próximo agente
 
 Ao retomar este livro:
 
-1. **Leia primeiro:** `OUTLINE.md`, `ARCOS.md`, `MAPA-PISTAS.md`, `MAPA-ILUSTRACOES.md`, `CAPITULOS.md`. Eles estão fechados em nível macro.
-2. **As 10 pendências** do §9 do OUTLINE são o que separa "planejamento" de "escrita". Resolver essas antes do capítulo 1.
-3. **A cena Lara × Miguel (Cap 13)** é cena travada com o L2 (DEC-030). A frase exata de Miguel precisa ser fixada antes de L1 ou L2 entrarem em rascunho — qualquer um dos dois que escreva primeiro **trava** para o outro.
-4. **A escrita literária NÃO é função deste agente.** Quando a arquitetura estiver pronta, invocar `AGENT-ESCRITA-CAPITULOS.md`.
+1. **Leia primeiro:** `OUTLINE.md`, `ARCOS.md`, `MAPA-PISTAS.md`, `MAPA-ILUSTRACOES.md`, `CAPITULOS.md` e os 24 capítulos em `capitulos/`.
+2. **Próximo foco:** revisão de continuidade do Livro 1, com checagem de tom, pistas, objetos, horários, clima, arcos e pendências herdadas.
+3. **A cena Lara × Miguel (Cap 13)** está travada com o L2 (DEC-030 + DEC-038). O capítulo correspondente do L2 deve replicar horário, clima, falas-chave e direção emocional já escritos no L1.
+4. **Pendências herdadas não bloqueantes:** ficha mínima de Tati; clarificação futura de `cenarios/apartamento-lara.md` sobre entradas de Jéssica; possível atualização da ficha do apartamento para sinais finais executados em cena.

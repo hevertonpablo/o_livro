@@ -34,7 +34,7 @@ claude --resume 0994d74f-43b1-40cb-a7c2-194fca9615d0
 | 21 | 2026-05-15 | A Mão Encosta | rascunho | empurrar transformação | Lara | Apartamento de Lara | tarde, luz da janela | S07 | **CLÍMAX INTERNO — DEC-018 cumprida narrativamente**: Lara alisa um vinco da capa e refaz um ponto da costura interna do Antigo, sem consertar o livro inteiro. Gancho verbatim cumprido. ~2.577 palavras |
 | 22 |  | Quem Eu Era Não Volta. Mas Quem Eu Sou Pode. | rascunho | revelar personagem + empurrar transformação | Lara | Cafeteria | fim de tarde, luz quente | — | Lara × Dona Cida — abertura nova; mesa 3/cadeira 16 em eco; pergunta pessoal sobre "já foi outra pessoa"; tragédia familiar sugerida sem detalhar; Dona Cida abre semente Fase 2 em escala mínima. ~2.393 palavras |
 | 23 |  | Manhã Limpa | rascunho | empurrar transformação + revelar personagem | Lara | Apartamento de Lara | manhã cedo, luz limpa após chuva | — | Pratinho para Mel ressignificado; janela aberta; manhã limpa pós-chuva; eco do Cap 2 agora sem paralisia. Gancho verbatim cumprido. ~2.237 palavras |
-| 24 |  | O Que Ainda Pode Ser Chamado | planejado | empurrar transformação + plantar pista | Lara | Apartamento → parque | manhã, luz nova | S08 | **Eco da frase-âncora (DEC-027)** + canon de "ele esteve aqui sem ser visto" + gancho L2 |
+| 24 | 2026-05-16 | O Que Ainda Pode Ser Chamado | rascunho | empurrar transformação + plantar pista | Lara | Apartamento → parque | manhã, luz nova | S08 | **Fechamento do L1:** eco da frase-âncora (DEC-027) como verdade sobre Lara; Antigo parcialmente restaurado sob luz nova; banco do Oculto vazio com folha caída; gancho verbatim cumprido. ~3.000 palavras de prosa |
 
 ---
 

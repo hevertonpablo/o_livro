@@ -2,13 +2,13 @@
 
 > Estado atual do projeto. Atualizado a cada marco significativo.
 
-**Última atualização:** 2026-05-16 (Livro 1 — Lara, Capítulo 23 escrito).
+**Última atualização:** 2026-05-16 (Livro 1 — Lara, Capítulo 24 escrito; rascunho completo).
 
 ---
 
 ## Estado atual
 
-> **Fase:** Livro 1 — Lara em escrita. **23 de 24 capítulos em rascunho.**
+> **Fase:** Livro 1 — Lara em revisão. **24 de 24 capítulos em rascunho.**
 
 A documentação técnica está **completa**. O autor tem em mãos: PRD literário oficial, sistema de **14 bíblias técnicas**, fichas individuais para personagens, cenários, lugares, clima, horários, objetos, transporte, e estrutura operacional para agents.
 
@@ -18,7 +18,7 @@ A documentação técnica está **completa**. O autor tem em mãos: PRD literár
 3. **Nova entidade canônica** — Primeira Guardiã (anterior a Elias e a Matusalém; nunca confirmada na Fase 1).
 4. **Nova frase canônica** — promessa antiga (DEC-022): *"Que o que estiver perdido ainda encontre quem o chame; e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
 
-**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 24, *O Que Ainda Pode Ser Chamado.*
+**Foco agora:** revisar a continuidade do Livro 1 — Lara após rascunho completo dos 24 capítulos.
 
 ---
 
@@ -126,7 +126,7 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 
 ## Foco atual
 
-**Continuar a escrita do Livro 1 — Lara.**
+**Revisar o Livro 1 — Lara.**
 
 ### Próximos marcos
 1. ~~Resolver decisões críticas para L1~~ ✓ **completo em 2026-05-09**.
@@ -140,7 +140,8 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 9. ~~Escrever o Capítulo 21 — *A Mão Encosta*~~ ✓ **completo em 2026-05-15**.
 10. ~~Escrever o Capítulo 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.*~~ ✓ **completo em 2026-05-16**.
 11. ~~Escrever o Capítulo 23 — *Manhã Limpa*~~ ✓ **completo em 2026-05-16**.
-12. **Escrever o Capítulo 24 — *O Que Ainda Pode Ser Chamado*** seguindo todas as bíblias e a continuidade emocional do Cap 23.
+12. ~~Escrever o Capítulo 24 — *O Que Ainda Pode Ser Chamado*~~ ✓ **completo em 2026-05-16**.
+13. **Fazer revisão de continuidade dos 24 capítulos do Livro 1 — Lara** (tom, pistas, objetos, horários, clima, arcos e pendências herdadas).
 
 ---
 
@@ -155,7 +156,7 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 | **Decisões aprovadas (DEC-XXX)** | **37 / 37** ✓ |
 | Decisões ainda em aberto | 0 (numeradas) |
 | **Total de arquivos canônicos** | **~129** |
-| Capítulos escritos | 23 |
+| Capítulos escritos | 24 |
 | Livros em rascunho | 1 |
 
 ---
@@ -175,4 +176,4 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 ## Última sessão de trabalho
 
 **Data:** 2026-05-16.
-**Atividade:** Escrita do Livro 1 — Lara, Capítulo 23 (*Manhã Limpa*). Lara retorna ao apartamento em manhã limpa pós-chuva, abre a janela e ressignifica o gesto do pratinho para Mel como cuidado possível. Parte 4 em andamento (23/24 capítulos em rascunho). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.
+**Atividade:** Escrita do Livro 1 — Lara, Capítulo 24 (*O Que Ainda Pode Ser Chamado*). Lara abre o Antigo sob luz nova, entende o eco da frase-âncora como verdade sobre si, vai ao parque com Mel e encontra o banco do Oculto vazio com uma folha caída. Livro 1 completo em rascunho (24/24 capítulos). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.

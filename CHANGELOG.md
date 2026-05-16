@@ -16,6 +16,17 @@
 
 ## [Unreleased]
 
+### Adicionado — Cap 24 do L1 escrito (rascunho)
+- [`books/livro-01-lara/capitulos/capitulo-24.md`](books/livro-01-lara/capitulos/capitulo-24.md) — Cap 24 — *O Que Ainda Pode Ser Chamado* — rascunho de fechamento do Livro 1. Cumpre o eco DEC-027 (*"O que está perdido ainda pode ser chamado."*), a imagem S08 (Antigo parcialmente restaurado com Mel ao lado), o banco vazio do Oculto com folha caída e o gancho final verbatim previsto no planejamento. L1 agora com 24 de 24 capítulos em rascunho (~58.900 palavras).
+
+### Alterado — arquivos de controle do L1 (sessão de escrita Cap 24)
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — status Cap 24: `planejado` → `rascunho`.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado para 24/24; foco alterado para revisão de continuidade do Livro 1.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada.
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — cumprimento do eco DEC-027, do Antigo parcialmente restaurado e do banco vazio com folha registrado.
+- [`books/livro-01-lara/MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md) — S08 marcada como cena escrita.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — marco geral atualizado para Livro 1 — Lara com rascunho completo.
+
 ### Adicionado — Cap 14 do L1 escrito (rascunho)
 - [`books/livro-01-lara/capitulos/capitulo-14.md`](books/livro-01-lara/capitulos/capitulo-14.md) — Cap 14 — *O Eco do Que Foi Dito* — rascunho (~2.330 palavras). DEC-022 efetivamente plantada (fragmento da promessa antiga: *"…ainda encontre quem o chame."*). Letra Fonte A (DEC-021) — terceira aparição consistente. Eco interno de DEC-038 (frase de Miguel). L1 agora com 14 de 24 capítulos escritos (~33.015 palavras, ~51% do alvo).
 

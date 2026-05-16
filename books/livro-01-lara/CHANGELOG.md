@@ -4,6 +4,40 @@
 
 ---
 
+## 2026-05-16 (vigésima sexta atualização) — Pós-escrita do capítulo 24 (O Que Ainda Pode Ser Chamado)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 24 — *O Que Ainda Pode Ser Chamado* — escrito em rascunho. ~3.000 palavras de prosa. POV de Lara. Cenário: apartamento de Lara → parque. Horário: manhã. Clima: luz nova / sol após chuva, outono. Função (DEC-014): **empurrar transformação** + **plantar pista**. Gancho verbatim cumprido: *"Lara não sabia se ainda era a mesma. Mas sabia que tinha voltado a olhar."*
+
+### Personagens em cena
+- **Lara** (POV) — abre o Antigo à luz nova, observa o ponto restaurado e entende a frase-âncora como algo que também fala dela; depois vai ao parque e permanece sem esperar ser salva.
+- **Mel** — acompanha Lara no deslocamento curto até o parque, no colo e no chão, com comportamento realista e sem simbolismo mágico.
+- **Personagem Oculto** — ausente fisicamente; presença sugerida apenas pelo banco vazio e pela folha caída.
+
+### Mudança emocional
+Lara não termina curada nem protegida contra recaídas. A mudança é proporcional: ela deixa o Antigo em casa, vai ao parque, vê o banco vazio sem tentar transformar a ausência em prova e aceita que um ponto pequeno pode segurar algo por dentro. A mentira interna afrouxa mais um pouco: perdido não significa inexistente.
+
+### Pistas efetivamente plantadas
+- **DEC-027 / frase-âncora L1:** *"O que está perdido ainda pode ser chamado."* retorna como memória interna; Lara percebe que não é só sobre o livro, mas sobre ela.
+- **Personagem Oculto — eco final:** banco vazio + folha caída no lugar onde ele costumava sentar. Sem fala, sem aparição, sem confirmação.
+- **S08 preparada em prosa:** página restaurada com luz suave entrando e Mel ao lado.
+- **Gancho para próximos livros:** parque e banco seguem vivos para outras histórias, sem exposição direta.
+
+### Continuidade afetada
+- `capitulos/capitulo-24.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 24 atualizado para `rascunho`.
+- `STATUS.md`: progresso atualizado para 24/24; foco atualizado para revisão de continuidade.
+- `MAPA-PISTAS.md`: Cap 24 marcado como cumprimento do eco DEC-027 e do banco vazio com folha caída.
+- `MAPA-ILUSTRACOES.md`: S08 marcada como cena escrita, com orientação de prompt a desenvolver.
+- `PROJECT_STATUS.md`: marco geral atualizado para Livro 1 — Lara com 24/24 capítulos em rascunho.
+- `SESSION_LOG.md`: sessão registrada.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura da ficha do apartamento sobre entradas de Jéssica; possível atualização da ficha do apartamento para refletir sinais finais já executados em cena.
+
 ## 2026-05-16 (vigésima quinta atualização) — Pós-escrita do capítulo 23 (Manhã Limpa)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

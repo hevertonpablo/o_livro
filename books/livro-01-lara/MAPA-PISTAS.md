@@ -17,7 +17,7 @@
 | 14 | Lara abre numa página aleatória; lê outro fragmento manuscrito | Lara | Que há mais de uma frase plantada | Conteúdo total |
 | 16 | Lara encontra a frase-âncora completa em outra margem (DEC-027) | Lara | Que o livro responde diretamente ao estado dela | — | **CUMPRIDA — rascunho 2026-05-14** |
 | 21 | Lara pega o livro **como restauradora**: alisa um vinco, refaz um ponto da costura interna. **CUMPRIDA — rascunho 2026-05-15:** um vinco fica menor; um ponto interno volta a segurar; o livro não é consertado inteiro. | Lara | Que ela está reativando o dom | — |
-| 24 | Lara segura o Antigo restaurado parcialmente; entende que a frase é sobre ela | Lara | Que algo se cumpriu — ainda que pequeno | Origem total do Antigo (Fase 2) |
+| 24 | Lara segura o Antigo restaurado parcialmente; entende que a frase é sobre ela. **CUMPRIDA — rascunho 2026-05-16:** o ponto restaurado do Cap 21 aparece sob luz nova; Lara lembra DEC-027 sem nova leitura inédita e percebe que não é só sobre o livro, mas sobre si. | Lara | Que algo se cumpriu — ainda que pequeno | Origem total do Antigo (Fase 2) |
 
 **Apelido canônico de Lara para o Antigo:** *"aquela coisa velha"*.
 
@@ -79,7 +79,7 @@
 | 4 | À distância — Lara o vê do outro lado do parque, no banco. Trocam olhares de leve. | Senhor calmo, casaco cinza-chumbo gasto. Lara não sabe nome, não fala com ele. | Estranheza tranquila — *"Por que olhei pra ele?"* |
 | 12 | Primeira fala com Lara | Senhor que diz frase canônica e desaparece quando Lara olha pra trás | Frase ecoa por dentro |
 | 17 | Segunda fala — Lara senta em banco próximo. Ele está com **caderno pequeno aberto** (DEC-026/031). Fala curto. Quando ela vira pra agradecer, banco vazio. **CUMPRIDA — rascunho 2026-05-15.** | Senhor que aparece e some sem ruído | Lara sai do parque com mais perguntas do que chegou — e não dói |
-| 24 | Eco — banco vazio no encosto com **folha caída** sobre o lugar onde ele costumava sentar | Marca de quem esteve sem ser visto | Assinatura silenciosa — gancho para L2 |
+| 24 | Eco — banco vazio no encosto com **folha caída** sobre o lugar onde ele costumava sentar. **CUMPRIDA — rascunho 2026-05-16:** o Oculto não aparece fisicamente; Lara encontra apenas banco vazio + folha caída e não tenta explicar. | Marca de quem esteve sem ser visto | Assinatura silenciosa — gancho para L2 |
 
 ### 4.1 Frase canônica do Personagem Oculto para Lara (Cap 12)
 
@@ -212,7 +212,7 @@ A letra é descrita como:
 | Capítulo | Forma exata da frase | Quem fala / onde |
 |---|---|---|
 | 16 | *"O que está perdido ainda pode ser chamado."* | Anotação manuscrita em outra margem do Antigo. Lara lê na madrugada, às 3h16. **Primeira aparição completa.** |
-| 24 | Eco — Lara lembra da frase ao sair pelo parque com Mel: *"O que está perdido ainda pode ser chamado."* | Pensamento de Lara, sem fala — entende que **não é sobre o livro, é sobre ela**. |
+| 24 | Eco — Lara lembra da frase ao sair pelo parque com Mel: *"O que está perdido ainda pode ser chamado."* **CUMPRIDA — rascunho 2026-05-16:** a frase vem como memória interna; Lara entende que **não é só sobre o livro, é sobre ela**, sem transformar isso em cura instantânea. | Pensamento de Lara, sem fala — entende que **não é sobre o livro, é sobre ela**. |
 
 ### 9.2 Regras
 
@@ -300,7 +300,7 @@ A letra é descrita como:
 ### 13.2 Símbolos visuais recorrentes
 
 - **Três pontos / triângulo discreto** no Antigo (DEC-024).
-- **Folha caída** — possível imagem-canon. Cap 24 plantam folha sobre o banco do Oculto. Decisão pendente: quanto repetir.
+- **Folha caída** — imagem-canon cumprida no Cap 24: folha sobre o banco do Oculto. Decisão pendente: quanto repetir em livros futuros.
 - **Pingo de chuva sobre página** — possível imagem-canon. Não usar mais de 1× no L1.
 
 ### 13.3 Datas plantadas
