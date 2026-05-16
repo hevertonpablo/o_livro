@@ -18,6 +18,43 @@
 
 ---
 
+## Sessão 2026-05-16 — Escrita do Capítulo 23 — Manhã Limpa
+
+### Objetivo
+Escrever o Capítulo 23 do Livro 1 (Lara): *Manhã Limpa*. Função: empurrar transformação + revelar personagem. Cenário: apartamento de Lara. Horário: manhã cedo / transição do amanhecer para a manhã. Clima: manhã limpa após chuva. Personagens em cena: Lara (POV) e Mel. Pontos obrigatórios: ressignificar o gesto do pratinho do Cap 2, manter Mel realista e preparar o fechamento do Cap 24 sem criar canon novo.
+
+### Arquivos lidos
+- [`AGENTS.md`](AGENTS.md), [`AGENT-ESCRITA-CAPITULOS.md`](AGENT-ESCRITA-CAPITULOS.md), [`RULES.md`](RULES.md), [`DECISIONS.md`](DECISIONS.md), [`CONTEXT_BRIEF.md`](CONTEXT_BRIEF.md), [`PROJECT_STATUS.md`](PROJECT_STATUS.md)
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md), [`OUTLINE.md`](books/livro-01-lara/OUTLINE.md), [`ARCOS.md`](books/livro-01-lara/ARCOS.md), [`MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md), [`MAPA-ILUSTRACOES.md`](books/livro-01-lara/MAPA-ILUSTRACOES.md), [`CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md), [`CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md)
+- [`books/livro-01-lara/capitulos/capitulo-01.md`](books/livro-01-lara/capitulos/capitulo-01.md) a [`capitulo-21.md`](books/livro-01-lara/capitulos/capitulo-21.md) — leitura de continuidade
+- [`books/livro-01-lara/capitulos/capitulo-02.md`](books/livro-01-lara/capitulos/capitulo-02.md), [`capitulo-20.md`](books/livro-01-lara/capitulos/capitulo-20.md), [`capitulo-21.md`](books/livro-01-lara/capitulos/capitulo-21.md) e [`capitulo-22.md`](books/livro-01-lara/capitulos/capitulo-22.md) — leitura integral / ponte emocional direta
+- Bíblias: [`books/biblia-continuidade.md`](books/biblia-continuidade.md), [`books/biblia-continuidade-personagens.md`](books/biblia-continuidade-personagens.md), [`books/biblia-continuidade-relacoes.md`](books/biblia-continuidade-relacoes.md), [`books/biblia-continuidade-cenarios.md`](books/biblia-continuidade-cenarios.md), [`books/biblia-continuidade-horarios.md`](books/biblia-continuidade-horarios.md), [`books/biblia-continuidade-clima.md`](books/biblia-continuidade-clima.md), [`books/biblia-continuidade-objetos.md`](books/biblia-continuidade-objetos.md), [`books/biblia-editorial-visual.md`](books/biblia-editorial-visual.md)
+- Fichas: [`books/personagens/protagonistas/lara.md`](books/personagens/protagonistas/lara.md), [`books/personagens/apoio/mel.md`](books/personagens/apoio/mel.md), [`books/cenarios/apartamento-lara.md`](books/cenarios/apartamento-lara.md), [`books/objetos/transitorios.md`](books/objetos/transitorios.md), [`books/objetos/simbolicos/o-antigo.md`](books/objetos/simbolicos/o-antigo.md), [`books/horarios/amanhecer.md`](books/horarios/amanhecer.md), [`books/horarios/manha.md`](books/horarios/manha.md), [`books/clima/chuva.md`](books/clima/chuva.md), [`books/clima/outono.md`](books/clima/outono.md), [`books/clima/sol.md`](books/clima/sol.md)
+
+### Arquivos alterados / criados
+- [`books/livro-01-lara/capitulos/capitulo-23.md`](books/livro-01-lara/capitulos/capitulo-23.md) — rascunho completo escrito (~2.237 palavras de prosa).
+- [`books/livro-01-lara/CAPITULOS.md`](books/livro-01-lara/CAPITULOS.md) — Cap 23 atualizado para `rascunho`.
+- [`books/livro-01-lara/STATUS.md`](books/livro-01-lara/STATUS.md) — progresso atualizado para 23/24 e foco para Cap 24.
+- [`books/livro-01-lara/CHANGELOG.md`](books/livro-01-lara/CHANGELOG.md) — entrada de pós-escrita adicionada.
+- [`books/livro-01-lara/MAPA-PISTAS.md`](books/livro-01-lara/MAPA-PISTAS.md) — pratinho de Mel registrado como pista de releitura entre Caps 2, 20 e 23.
+- [`PROJECT_STATUS.md`](PROJECT_STATUS.md) — marco geral atualizado para Cap 23 escrito.
+- [`SESSION_LOG.md`](SESSION_LOG.md) — esta entrada adicionada.
+
+### Decisões tomadas / propostas
+- Nenhuma decisão canônica nova.
+- Nenhuma alteração estrutural em OUTLINE, ARCOS, MAPA-ILUSTRACOES ou bíblias.
+
+### Pistas / continuidade
+- Pratinho de Mel ressignificado como cuidado possível, sem curar Lara por completo.
+- Mel mantida como animal real; sem magia, sem fala, sem comportamento sobrenatural.
+- O apartamento muda em escala mínima: janela aberta, pia parcialmente lavada, lençol puxado.
+- O Antigo não recebe nova leitura, frase, pista ou explicação.
+- Gancho final do OUTLINE cumprido verbatim.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura de `books/cenarios/apartamento-lara.md` sobre a entrada de Jéssica; eventual atualização planejada da ficha do apartamento sobre sinais finais executados em cena.
+
 ## Sessão 2026-05-16 — Escrita do Capítulo 22 — Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.
 
 ### Objetivo

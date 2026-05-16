@@ -2,13 +2,13 @@
 
 > Estado atual do projeto. Atualizado a cada marco significativo.
 
-**Última atualização:** 2026-05-16 (Livro 1 — Lara, Capítulo 22 escrito).
+**Última atualização:** 2026-05-16 (Livro 1 — Lara, Capítulo 23 escrito).
 
 ---
 
 ## Estado atual
 
-> **Fase:** Livro 1 — Lara em escrita. **22 de 24 capítulos em rascunho.**
+> **Fase:** Livro 1 — Lara em escrita. **23 de 24 capítulos em rascunho.**
 
 A documentação técnica está **completa**. O autor tem em mãos: PRD literário oficial, sistema de **14 bíblias técnicas**, fichas individuais para personagens, cenários, lugares, clima, horários, objetos, transporte, e estrutura operacional para agents.
 
@@ -18,7 +18,7 @@ A documentação técnica está **completa**. O autor tem em mãos: PRD literár
 3. **Nova entidade canônica** — Primeira Guardiã (anterior a Elias e a Matusalém; nunca confirmada na Fase 1).
 4. **Nova frase canônica** — promessa antiga (DEC-022): *"Que o que estiver perdido ainda encontre quem o chame; e que nenhuma vida ferida atravesse a noite sem uma palavra deixada no caminho."*
 
-**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 23, *Manhã Limpa.*
+**Foco agora:** continuar a escrita do Livro 1 — Lara. Próximo capítulo: Capítulo 24, *O Que Ainda Pode Ser Chamado.*
 
 ---
 
@@ -139,7 +139,8 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 8. ~~Escrever o Capítulo 20 — *Mel Olha de Volta*~~ ✓ **completo em 2026-05-15**.
 9. ~~Escrever o Capítulo 21 — *A Mão Encosta*~~ ✓ **completo em 2026-05-15**.
 10. ~~Escrever o Capítulo 22 — *Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.*~~ ✓ **completo em 2026-05-16**.
-11. **Escrever o Capítulo 23 — *Manhã Limpa*** seguindo todas as bíblias e a continuidade emocional do Cap 22.
+11. ~~Escrever o Capítulo 23 — *Manhã Limpa*~~ ✓ **completo em 2026-05-16**.
+12. **Escrever o Capítulo 24 — *O Que Ainda Pode Ser Chamado*** seguindo todas as bíblias e a continuidade emocional do Cap 23.
 
 ---
 
@@ -154,7 +155,7 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 | **Decisões aprovadas (DEC-XXX)** | **37 / 37** ✓ |
 | Decisões ainda em aberto | 0 (numeradas) |
 | **Total de arquivos canônicos** | **~129** |
-| Capítulos escritos | 22 |
+| Capítulos escritos | 23 |
 | Livros em rascunho | 1 |
 
 ---
@@ -174,4 +175,4 @@ Decisões secundárias menores continuam abertas em bíblias específicas (forma
 ## Última sessão de trabalho
 
 **Data:** 2026-05-16.
-**Atividade:** Escrita do Livro 1 — Lara, Capítulo 22 (*Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.*). Lara retorna à cafeteria, senta na mesa 3/cadeira 16 com outro peso e abre uma conversa pessoal com Dona Cida sem revelar a tragédia familiar. Parte 4 em andamento (22/24 capítulos em rascunho). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.
+**Atividade:** Escrita do Livro 1 — Lara, Capítulo 23 (*Manhã Limpa*). Lara retorna ao apartamento em manhã limpa pós-chuva, abre a janela e ressignifica o gesto do pratinho para Mel como cuidado possível. Parte 4 em andamento (23/24 capítulos em rascunho). Veja [`SESSION_LOG.md`](SESSION_LOG.md) para detalhes.

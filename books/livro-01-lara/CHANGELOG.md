@@ -4,6 +4,40 @@
 
 ---
 
+## 2026-05-16 (vigésima quinta atualização) — Pós-escrita do capítulo 23 (Manhã Limpa)
+
+> Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.
+
+### Resumo
+Capítulo 23 — *Manhã Limpa* — escrito em rascunho. ~2.237 palavras de prosa. POV de Lara. Cenário: apartamento de Lara. Horário: manhã cedo / transição do amanhecer para a manhã. Clima: manhã limpa após chuva. Função (DEC-014): **empurrar transformação** + **revelar personagem**. Gancho verbatim cumprido: *"A manhã não pediu nada de Lara. E foi a primeira em muito tempo que pareceu bonita."*
+
+### Personagens em cena
+- **Lara** (POV) — acorda sem sobressalto, abre a janela, alimenta Mel e lava os pratinhos sem transformar o gesto em cura ou prova de pureza.
+- **Mel** — presença física realista; come, observa, se limpa e ocupa o espaço sem comportamento simbólico artificial.
+
+### Mudança emocional
+Lara não está curada e não resolve a vida antiga. A mudança é proporcional: o mesmo gesto do pratinho do Cap 2 deixa de ser só rotina vazia e passa a ser cuidado possível, sem exigência de gratidão e sem promessa grandiosa. A manhã não corrige a vida de Lara; apenas deixa espaço para ela existir sem se defender de tudo.
+
+### Pistas efetivamente plantadas
+- **Ressignificação do gesto canônico do Cap 2:** o pratinho de Mel retorna como eco direto, agora com peso novo.
+- **Mel como ternura preservada:** reforçada de modo realista, sem magia e sem antropomorfização.
+- **DEC-018 em repercussão:** as mãos de Lara aparecem em gestos simples de cuidado e manutenção, sem novo clímax técnico.
+- **Apartamento como termômetro do arco:** janela aberta, pia parcialmente lavada e lençol puxado; mudança pequena, não transformação total.
+- **Antigo preservado:** aparece apenas como presença indireta na mochila; não é aberto, lido, tocado ou usado como pista.
+
+### Continuidade afetada
+- `capitulos/capitulo-23.md`: placeholder substituído por rascunho completo.
+- `CAPITULOS.md`: Cap 23 atualizado para `rascunho`.
+- `STATUS.md`: progresso atualizado para 23/24; foco atualizado para Cap 24.
+- `MAPA-PISTAS.md`: adicionado registro do pratinho de Mel como pista de releitura entre Caps 2, 20 e 23.
+- `MAPA-ILUSTRACOES.md`: sem alteração; Cap 23 permanece sem imagem associada.
+- `PROJECT_STATUS.md`: marco geral atualizado para Cap 23 escrito.
+- `SESSION_LOG.md`: sessão registrada.
+
+### Pendências
+- Nenhuma pendência crítica nova.
+- Permanecem pendências herdadas não bloqueantes: ficha mínima de Tati; clarificação futura da ficha do apartamento sobre entrada de Jéssica; eventual atualização planejada da ficha do apartamento sobre sinais finais já executados em cena.
+
 ## 2026-05-16 (vigésima quarta atualização) — Pós-escrita do capítulo 22 (Quem Eu Era Não Volta. Mas Quem Eu Sou Pode.)
 
 > Entrada gerada pelo Agente de Escrita ([`../../AGENT-ESCRITA-CAPITULOS.md`](../../AGENT-ESCRITA-CAPITULOS.md)) seguindo §12.4 do manual de processo.

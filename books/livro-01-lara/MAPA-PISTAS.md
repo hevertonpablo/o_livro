@@ -277,6 +277,7 @@ A letra é descrita como:
 | Beto comenta *"um homem que sumiu há tempos"* (Cap 1) | 1 | L9 (sentido pleno após verdade de Elias) |
 | O senhor de casaco cinza-chumbo no parque (Cap 4, 12, 17, 24) | recorrente | L7 (foto antiga com a mesma figura), L10 (convergência) |
 | A mesa 3 + cadeira 16 no Cap 22 com peso diferente | 22 | reler o Cap 3 dá outra dimensão |
+| O pratinho de Mel ressignificado em manhã limpa | 2, 20, 23 | reler o Cap 2 mostra a mudança de Lara: o mesmo gesto deixa de ser rotina vazia e vira cuidado possível |
 | O fragmento *"…ainda encontre quem o chame."* (Cap 14) | 14 | L5 (encontra início), L7 (Nina cruza), L9 (origem revelada) |
 
 ---
